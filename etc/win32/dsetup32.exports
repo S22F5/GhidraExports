@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsetup32.dll" PATH="/DLLArchive/etc/dsetup32.dll" DATE="Fri Jul 03 21:32:19 CEST 2020" VERSION="4.9.0.0904">
+    <EXPORT ORDINAL="1" NAME="iDirectXSetup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DirectXSetupSetCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DirectXSetupCallback" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DirectXLoadString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DirectXSetupShowEULA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="iDirectXSetupGetEULAA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="iDirectXSetupGetEULAW" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="brotlidec.dll" PATH="/DLLArchive/etc/brotlidec.dll" DATE="Wed Nov 15 20:02:58 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BrotliDecoderCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BrotliDecoderDecompress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BrotliDecoderDecompressStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BrotliDecoderDestroyInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrotliDecoderErrorString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BrotliDecoderGetErrorCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BrotliDecoderHasMoreOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BrotliDecoderIsFinished" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BrotliDecoderIsUsed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BrotliDecoderSetParameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BrotliDecoderTakeOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BrotliDecoderVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

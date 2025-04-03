@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-interlocked-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-core-interlocked-l1-1-0.dll" DATE="Wed Oct 25 00:01:20 CEST 2023" VERSION="10.0.22000.194 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="InitializeSListHead" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InitializeSListHead" />
+    <EXPORT ORDINAL="2" NAME="InterlockedCompareExchange64" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedCompareExchange64" />
+    <EXPORT ORDINAL="3" NAME="InterlockedCompareExchange" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedCompareExchange" />
+    <EXPORT ORDINAL="4" NAME="InterlockedDecrement" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedDecrement" />
+    <EXPORT ORDINAL="5" NAME="InterlockedExchange" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedExchange" />
+    <EXPORT ORDINAL="6" NAME="InterlockedExchangeAdd" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedExchangeAdd" />
+    <EXPORT ORDINAL="7" NAME="InterlockedFlushSList" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedFlushSList" />
+    <EXPORT ORDINAL="8" NAME="InterlockedIncrement" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedIncrement" />
+    <EXPORT ORDINAL="9" NAME="InterlockedPopEntrySList" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedPopEntrySList" />
+    <EXPORT ORDINAL="10" NAME="InterlockedPushEntrySList" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedPushEntrySList" />
+    <EXPORT ORDINAL="11" NAME="InterlockedPushListSList" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="InterlockedPushListSList" />
+    <EXPORT ORDINAL="12" NAME="QueryDepthSList" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="QueryDepthSList" />
+</LIBRARY>
+

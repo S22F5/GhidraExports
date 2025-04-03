@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rsssrcsf.dll" PATH="/DLLArchive/etc/RSSSRCSF.DLL" DATE="Mon May 18 14:01:14 CEST 1998" VERSION="2.00.8138">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

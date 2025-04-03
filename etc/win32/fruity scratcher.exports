@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fruity scratcher.dll" PATH="/DLLArchive/etc/fruity scratcher.dll" DATE="Fri Jul 03 21:35:03 CEST 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="CreatePlugInstance" PURGE="8" COMMENT="" />
+</LIBRARY>
+

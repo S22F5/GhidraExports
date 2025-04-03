@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eshims.dll" PATH="/DLLArchive/windows10LTSCX86_64/eShims.dll" DATE="Wed Oct 06 06:51:56 PDT 2021" VERSION="11.00.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="RegisterFlashShimHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IEShims_CreateFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IEShims_FindClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IEShims_FindFirstFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IEShims_GetFileAttributesExW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IEShims_GetFileAttributesW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IEShims_GetFullPathNameW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IEShims_GetLongPathNameW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IEShims_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IEShims_Uninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IEShims_WNetGetConnectionW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

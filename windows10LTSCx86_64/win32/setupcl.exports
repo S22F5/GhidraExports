@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="setupcl.dll" PATH="/DLLArchive/windows10LTSCX86_64/setupcl.dll" DATE="Wed Oct 06 15:52:32 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SclAcquireRequiredPrivileges" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SclClearPendedRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SclExecutePendedRequests" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SclExecuteRequest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SclFreeRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SclGetPendedRequest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SclLoadStringResource" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SclPendRequest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SclPendedRequestExists" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SclPreCompilePendedRequests" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SclReleasePrivileges" PURGE="4" COMMENT="" />
+</LIBRARY>
+

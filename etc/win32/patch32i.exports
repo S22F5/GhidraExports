@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="patch32i.dll" PATH="/DLLArchive/etc/PATCH32I.DLL" DATE="Fri Jul 03 22:06:07 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??4CPatchApplicationFactory@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CreateInstance@CPatchApplicationFactory@@SAPAVCPatchApplication@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreatePatchApplicationInstance" PURGE="0" COMMENT="" />
+</LIBRARY>
+

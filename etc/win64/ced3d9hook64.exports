@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ced3d9hook64.dll" PATH="/DLLArchive/etc/ced3d9hook64.dll" DATE="Sun May 30 08:17:58 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="D3D9Hook_Present_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D3D9Hook_Reset_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3D9Hook_DrawPrimitive_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3D9Hook_DrawIndexedPrimitive_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3D9Hook_DrawPrimitiveUP_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3D9Hook_DrawIndexedPrimitiveUP_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3D9Hook_DrawRectPatch_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D3D9Hook_DrawTriPatch_imp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wlxphotoviewer.dll" PATH="/DLLArchive/etc/WLXPhotoViewer.dll" DATE="Fri Jul 03 13:34:26 PDT 2020" VERSION="15.4.3538.0513_ship.wlx.w4m4 (ship)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LaunchViewer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LaunchViewerComServer" PURGE="4" COMMENT="" />
+</LIBRARY>
+

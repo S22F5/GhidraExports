@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="28_83260.dll" PATH="/DLLArchive/etc/28_83260.dll" DATE="Fri Jul 03 12:09:56 PDT 2020" VERSION="6.0.7.1708">
+    <EXPORT ORDINAL="1" NAME="RAGetBackend" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RACloseCodec" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RADecode" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RAEncode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RAFreeDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RAFreeEncoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RAGetFlavorProperty" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RAGetNumberOfFlavors" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RAInitDecoder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RAInitEncoder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RAOpenCodec2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RASetFlavor" PURGE="8" COMMENT="" />
+</LIBRARY>
+

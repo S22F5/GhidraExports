@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="goatspemutilator16.dll" PATH="/DLLArchive/etc/GoatsPEMutilator16.dll" DATE="Mon Dec 31 18:36:12 PST 1984" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

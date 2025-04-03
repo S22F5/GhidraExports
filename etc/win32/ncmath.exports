@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncmath.dll" PATH="/DLLArchive/etc/NcMath.dll" DATE="Tue May 30 10:43:50 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ippiCopy_8u_AC4C3R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ippiGetLibVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ippiMirror_8u_C3IR" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ippiRGBToCbYCr422_8u_C3C2R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ippiRGBToYUV420_8u_C3P3R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ippiRGBToYUV422_8u_C3C2R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ippiResize_8u_C3R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ippiSwapChannels_8u_C3IR" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ippiSwapChannels_8u_C3R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ippiYCbCr422ToCbYCr422_8u_C2R" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ippsAdd_16s_I" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

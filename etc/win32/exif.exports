@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exif.dll" PATH="/DLLArchive/etc/exif.dll" DATE="Fri Jul 03 21:33:40 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="EXIFGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EXIFGetVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

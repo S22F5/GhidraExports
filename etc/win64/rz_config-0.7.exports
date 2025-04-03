@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_config-0.7.dll" PATH="/DLLArchive/etc/rz_config-0.7.dll" DATE="Mon Mar 04 10:49:38 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_config_add_node" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_config_bump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_config_clone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_config_desc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_config_eval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_config_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_config_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_config_get_b" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_config_get_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_config_hold_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_config_hold_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_config_hold_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_config_hold_restore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_config_hold_s" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_config_lock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_config_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_config_node_clone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_config_node_desc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_config_node_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_config_node_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_config_node_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_config_node_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_config_node_value_format_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_config_readonly" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_config_rm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_config_serialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_config_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rz_config_set_b" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="rz_config_set_cb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="rz_config_set_getter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="rz_config_set_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="rz_config_set_i_cb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="rz_config_set_setter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="rz_config_toggle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="rz_config_unserialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="rz_config_visual_hit_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="rz_serialize_config_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="rz_serialize_config_save" PURGE="0" COMMENT="" />
+</LIBRARY>
+

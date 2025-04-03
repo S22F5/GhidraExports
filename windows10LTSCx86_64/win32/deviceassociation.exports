@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="deviceassociation.dll" PATH="/DLLArchive/windows10LTSCX86_64/deviceassociation.dll" DATE="Sat Dec 07 01:09:21 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DafAepExport" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DafAepImport" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DafChallengeDevicePresence" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DafCloseAssociationContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DafCloseChallengeContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DafCloseImportExportContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DafCloseInboundContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DafCreateAssociationContext" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DafCreateAssociationContextForApp" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DafCreateAssociationContextFromOobBlob" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DafCreateChallengeContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DafCreateDeviceChallengeContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DafCreateDeviceInterfaceChallengeContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DafCreateImportExportContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DafCreateInboundContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DafGetInboundAssociationResultForAppActivation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DafMemFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DafRegisterForInboundAssociationsAppActivation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DafSelectCeremony" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DafStartAepExport" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DafStartAepImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DafStartDeviceStatusNotification" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DafStartEnumCeremonies" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DafStartFinalize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DafStartListenForInboundAssociations" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DafStartReadCeremonyData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DafStartRemoveAssociation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DafStartWriteCeremonyData" PURGE="20" COMMENT="" />
+</LIBRARY>
+

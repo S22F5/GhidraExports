@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3ivx.dll" PATH="/DLLArchive/etc/3ivx.dll" DATE="Fri Jul 03 21:11:51 CEST 2020" VERSION="4, 5, 1, 30">
+    <EXPORT ORDINAL="1" NAME="ThrivxWrapper" PURGE="0" COMMENT="" />
+</LIBRARY>
+

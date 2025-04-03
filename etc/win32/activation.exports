@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="activation.dll" PATH="/DLLArchive/etc/activation.dll" DATE="Fri Jul 03 12:16:08 PDT 2020" VERSION="7.1">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

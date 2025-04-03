@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="shgina.dll" PATH="/DLLArchive/windowsXPSp3Prox86/shgina.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

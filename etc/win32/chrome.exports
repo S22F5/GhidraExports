@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="chrome.dll" PATH="/DLLArchive/etc/chrome.dll" DATE="Fri Jul 03 12:26:46 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

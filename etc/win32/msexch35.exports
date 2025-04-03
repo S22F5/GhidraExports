@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msexch35.dll" PATH="/DLLArchive/etc/MSEXCH35.DLL" DATE="Fri Apr 24 10:40:18 PDT 1998" VERSION="3.51.0623.0">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ListMAPIStores" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CloseMAPIStoreCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NavigateMAPIStores" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ListMAPIFolders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CloseMAPIFolderCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NavigateMAPIFolders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ListMAPIAddressbooks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CloseMAPIAddressbookCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NavigateMAPIAddressbooks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetMAPILevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="VBListMAPIStores" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="VBCloseMAPIStoreCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="VBNavigateMAPIStores" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="VBListMAPIFolders" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="VBCloseMAPIFolderCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="VBNavigateMAPIFolders" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="VBListMAPIAddressbooks" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="VBCloseMAPIAddressbookCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="VBNavigateMAPIAddressbooks" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="VBGetMAPILevel" PURGE="16" COMMENT="" />
+</LIBRARY>
+

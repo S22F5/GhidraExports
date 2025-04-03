@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rebpe.dll" PATH="/DLLArchive/etc/RebPE.dll" DATE="Mon Mar 05 08:15:21 PST 2018" VERSION="1.9.0.2018">
+    <EXPORT ORDINAL="1" NAME="CalcRealHeaderSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DumpFix64" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DumpFix" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DumpFixer32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DumpFixer64" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetRealNumberOfSections" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ReBasePEImage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RebuildPE" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RebuildResourceDirectoryFile32" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RebuildResourceDirectoryMemory32" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ResizeFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ValidateDump32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ValidatePE" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WipeReloc" PURGE="12" COMMENT="" />
+</LIBRARY>
+

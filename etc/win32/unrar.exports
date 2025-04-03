@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unrar.dll" PATH="/DLLArchive/etc/unrar.dll" DATE="Thu Oct 07 04:17:08 PDT 2021" VERSION="6.10.1">
+    <EXPORT ORDINAL="1" NAME="RARCloseArchive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RARGetDllVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RAROpenArchive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RAROpenArchiveEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RARProcessFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RARProcessFileW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RARReadHeader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RARReadHeaderEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RARSetCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RARSetChangeVolProc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RARSetPassword" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RARSetProcessDataProc" PURGE="8" COMMENT="" />
+</LIBRARY>
+

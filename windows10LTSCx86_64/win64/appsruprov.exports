@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appsruprov.dll" PATH="/DLLArchive/windows10LTSCX86_64/appsruprov.dll" DATE="Sat Dec 07 10:08:21 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="LogMemoryPerfCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LogMemoryPerfCountersPeriodically" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PsmQueryApplicationPerformanceInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PsmQueryApplicationPerformanceInformation2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PsmQueryQuotaInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SruInitializeProvider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SruUninitializeProvider" PURGE="0" COMMENT="" />
+</LIBRARY>
+

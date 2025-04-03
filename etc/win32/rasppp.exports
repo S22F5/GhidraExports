@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasppp.dll" PATH="/DLLArchive/etc/rasppp.dll" DATE="Fri Jul 03 13:10:46 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="HelperResetDefaultInterfaceNet" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HelperResetDefaultInterfaceNetEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HelperSetDefaultInterfaceNet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HelperSetDefaultInterfaceNetEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HelperSetDefaultInterfaceNetSlip" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IpxCpInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IpxcpBind" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PppDdmBapCallbackResult" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PppDdmCallbackDone" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PppDdmChangeNotification" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PppDdmDeInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PppDdmInit" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PppDdmSendInterfaceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PppDdmStart" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PppDdmStop" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PppStop" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RasCpEnumProtocolIds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RasCpGetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RasSrvrAcquireAddress" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RasSrvrActivateIp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RasSrvrInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RasSrvrQueryServerAddresses" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RasSrvrReleaseAddress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RasSrvrUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SendPPPMessageToEngine" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="StartPPP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="StopPPP" PURGE="4" COMMENT="" />
+</LIBRARY>
+

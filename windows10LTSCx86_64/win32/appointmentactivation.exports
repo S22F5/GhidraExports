@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appointmentactivation.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppointmentActivation.dll" DATE="Wed Oct 06 06:52:27 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SerializeAppointmentIdsResult" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SerializeCalendarIdResult" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AwaitAppointmentActivation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeserializeActivationArgs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeserializeAppointment" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetAddAppointmentArgument" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetCalendarChooserArgument" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetLegacyAppointmentDetailsArgumentString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetRemoveAppointmentArgument" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetReplaceAppointmentArgument" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetWindowIdOfHost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ReleaseActivationArgs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ShowAddAppointment" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShowAddAppointmentAsync" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShowAppointmentDetails" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShowCalendarChooser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ShowCalendarChooserAsync" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ShowRemoveAppointment" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ShowRemoveAppointmentAsync" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ShowReplaceAppointment" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ShowReplaceAppointmentAsync" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ShowTimeFrame" PURGE="24" COMMENT="" />
+</LIBRARY>
+

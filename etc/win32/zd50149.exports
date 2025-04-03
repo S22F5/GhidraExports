@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zd50149.dll" PATH="/DLLArchive/etc/ZD50149.DLL" DATE="Mon Jan 12 14:58:36 CET 1998" VERSION="5, 0, 149, 0">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ZDataSetup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ZDataUnSetup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ZDataStart" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ZDataEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ZDataCompress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ZDataDecompress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ZDataSetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ZDataGetLastError" PURGE="0" COMMENT="" />
+</LIBRARY>
+

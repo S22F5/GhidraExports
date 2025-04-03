@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sfcvrt32.dll" PATH="/DLLArchive/etc/SFCVRT32.DLL" DATE="Fri Jul 03 22:15:42 CEST 2020" VERSION="4. 05.1002 ">
+    <EXPORT ORDINAL="1" NAME="SFConverter" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

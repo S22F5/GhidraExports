@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="system.data.oracleclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/System.Data.OracleClient.dll" DATE="Sat Dec 07 01:10:34 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="DllBidAssert" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllBidCtlProc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllBidEnabledW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllBidEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllBidFinalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllBidIndent" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllBidInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllBidPutStrW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllBidScopeEnterCW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllBidScopeLeave" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllBidSnap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllBidTouch" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllBidTraceCW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

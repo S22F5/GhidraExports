@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="autorungui.dll" PATH="/DLLArchive/etc/AutoRunGUI.dll" DATE="Fri Jul 03 12:24:20 PDT 2020" VERSION="1, 41, 0, 1">
+    <EXPORT ORDINAL="1" NAME="dllALLStartups" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="dllAdvancedUserDialog" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="dllAfterCancelInstallGame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="dllAfterCopyCacheFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="dllAfterDirectXInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="dllAfterGameSpyInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="dllAfterIE55Patch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="dllAfterIEInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="dllAfterLanguageSelection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="dllAfterPatching" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="dllAfterRunGameInstallSpecificExe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="dllAtStartup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="dllBeforeALLRunGame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="dllBeforeCancelInstallGame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="dllBeforeCopyCacheFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="dllBeforeDirectXInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="dllBeforeGameSpyInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="dllBeforeIE55Patch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="dllBeforeIEInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="dllBeforePatching" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="dllBeforeRunGameInstallSpecificExe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="dllBeforeUnloadDLL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="dllCopySize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="dllDemoDialog" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="dllEntertainUser" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="dllGetCompileDate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="dllInstallDirectory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="dllLicenseDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="dllMaximumPriorityCopied" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="dllPleaseWaitDialog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="dllProgressDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="dllSelectLanguageDialog" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="dllSetLanguage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="dllUserTypeDialog" PURGE="24" COMMENT="" />
+</LIBRARY>
+

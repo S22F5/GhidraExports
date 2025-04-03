@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cemapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/cemapi.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="52" NAME="MAPIAllocateBuffer_dbg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="MAPIAllocateMore_dbg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="GetMAPIStorePropTags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="GetMsgClassEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="GetMsgClassEnumFromMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="InitializeServiceProps" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="IsMessageClassDeviceGenerated" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="59" NAME="IsMessageClassReadRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="IsMessageClassSPlusV2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="MAPI_CompareEntryIDs" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="TranslateSPlusV1MessageClassToV2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="CreateMAPITableWalker" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="64" NAME="CreateMAPITableWalkerEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="65" NAME="FlushMailStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="66" NAME="FreeProws" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="67" NAME="GetEntryIDType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="68" NAME="GetMsgStoreFromMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="69" NAME="GetNamedPropTag" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="70" NAME="HrGetOneProp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="71" NAME="HrSetOneProp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="72" NAME="MAPIAllocateBuffer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="73" NAME="MAPIAllocateMore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="74" NAME="MAPIDeleteMessageById" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="75" NAME="MAPIDupString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="76" NAME="MAPIFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="77" NAME="MAPIGetContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="78" NAME="MAPIInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="79" NAME="MAPILogonEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="80" NAME="MAPIUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="81" NAME="MAPI_GetStoreByName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="82" NAME="ReadMailVolumeNameEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="83" NAME="SetConversationId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="84" NAME="USOIDfromCEENTRYID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="85" NAME="USOIDtoCEENTRYID" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gssoftdx.dll" PATH="/DLLArchive/etc/gssoftdx.dll" DATE="Fri Jul 03 12:36:27 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="2" NAME="PS2EgetLibType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PS2EgetLibName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PS2EgetLibVersion2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GSinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GSshutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GSopen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GSclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GSwrite32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GSwrite64" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GSread32" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GSread64" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GSgifTransfer1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GSgifTransfer2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GSgifTransfer3" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GSvsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GSmakeSnapshot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GSkeyEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GSconfigure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GStest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GSabout" PURGE="0" COMMENT="" />
+</LIBRARY>
+

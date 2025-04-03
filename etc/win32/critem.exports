@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="critem.dll" PATH="/DLLArchive/etc/CrItem.dll" DATE="Fri Jul 03 12:28:09 PDT 2020" VERSION="2.6.2.0">
+    <EXPORT ORDINAL="1" NAME="CreateItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EditItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ValidateItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ShowUserPreferences" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EditItems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PreviewItems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateCatalog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EditCatalogItems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BulkEditItems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShowLDTWarning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ShowLDTEditor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EditItemSpecifics" PURGE="0" COMMENT="" />
+</LIBRARY>
+

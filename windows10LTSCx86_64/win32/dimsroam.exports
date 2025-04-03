@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dimsroam.dll" PATH="/DLLArchive/windows10LTSCX86_64/dimsroam.dll" DATE="Wed Oct 06 06:53:00 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DimsRoamEntry" PURGE="12" COMMENT="" />
+</LIBRARY>
+

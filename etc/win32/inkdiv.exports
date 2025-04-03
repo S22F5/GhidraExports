@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inkdiv.dll" PATH="/DLLArchive/etc/INKDIV.DLL" DATE="Fri Jul 03 12:42:58 PDT 2020" VERSION="1.5.3027.0 (xpsp1.030127-1759)">
+    <EXPORT ORDINAL="1" NAME="AddOneStroke" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CallDivide" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CallDivideResults" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CallDivideResultsStrokeIds" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateInkDivider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeleteInkDivider" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RecognizerContextSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RemoveStrokes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetLineHeight" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetLineRecoCallback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

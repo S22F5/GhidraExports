@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spectrumsyncclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/SpectrumSyncClient.dll" DATE="Sat Dec 07 01:09:51 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="SpectrumSyncJoinFrameRendezvous" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SpectrumSyncSignalFrameRendezvous" PURGE="0" COMMENT="" />
+</LIBRARY>
+

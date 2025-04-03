@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dsetup.dll" PATH="/DLLArchive/etc/3dsetup.dll" DATE="Fri Jul 03 21:11:38 CEST 2020" VERSION="2, 35, 29, 0">
+    <EXPORT ORDINAL="1" NAME="TDSETUP_Debug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TDSETUP_DebugTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TDSETUP_ForceWriteCards" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TDSETUP_GetCurrentRenderer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TDSETUP_GetCurrentResolution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TDSETUP_GetInUseRenderer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TDSETUP_GetInternalTableVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TDSETUP_GetKnownCard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TDSETUP_GetLanguage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TDSETUP_GetOriginalTableVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TDSETUP_GetProductKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TDSETUP_GetProductName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TDSETUP_GetRegisteredTableVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TDSETUP_GetRenderOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TDSETUP_GetResolutionOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="TDSETUP_GetShowDefaultOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="TDSETUP_GetShowResolutionsOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="TDSETUP_GetShowTestButton" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TDSETUP_GetShowTripleBufferOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="TDSETUP_GetTripleBufferOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TDSETUP_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TDSETUP_IsSupportedCard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TDSETUP_Release" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TDSETUP_RemoveRegistryEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TDSETUP_SaveSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TDSETUP_SetCurrentRenderer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TDSETUP_SetCurrentResolution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TDSETUP_SetDefault" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TDSETUP_SetTripleBufferOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TDSETUP_TestPerformance" PURGE="0" COMMENT="" />
+</LIBRARY>
+

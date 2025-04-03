@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tbmhook.dll" PATH="/DLLArchive/etc/tbmhook.dll" DATE="Fri Jul 03 22:22:20 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LibGateway" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDatabaseName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CouldRegWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetSubMenuID" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IsActiveApp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsExcludedApp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AddActiveApp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AddInactiveApp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ClearAllActiveApps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetAppNameFromTitleBar" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ClearAllInactiveApps" PURGE="0" COMMENT="" />
+</LIBRARY>
+

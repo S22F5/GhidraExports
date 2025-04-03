@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xtajit.dll" PATH="/DLLArchive/etc/xtajit.dll" DATE="Wed Jul 19 21:57:02 CEST 2023" VERSION="10.0.22621.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BTCpuCfgDispatchControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BTCpuFlushInstructionCache2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BTCpuFlushInstructionCacheHeavy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BTCpuGetBopCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BTCpuIsProcessorFeaturePresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BTCpuNotifyAffinityChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BTCpuNotifyMapViewOfSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BTCpuNotifyMemoryAlloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BTCpuNotifyMemoryDirty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BTCpuNotifyMemoryFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BTCpuNotifyMemoryProtect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BTCpuNotifyProcessExecuteFlagsChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="BTCpuNotifyReadFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="BTCpuNotifyUnmapViewOfSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="BTCpuOptimizeChpeImportThunks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="BTCpuProcessInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="BTCpuProcessTerm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="BTCpuResetFloatingPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="BTCpuResetToConsistentState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="BTCpuSimulate" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="BTCpuSuspendLocalThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="BTCpuThreadInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="BTCpuThreadTerm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="BTCpuUpdateProcessorInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="BTCpuUseChpeFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

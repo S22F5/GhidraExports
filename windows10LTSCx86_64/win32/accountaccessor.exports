@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="accountaccessor.dll" PATH="/DLLArchive/windows10LTSCX86_64/accountaccessor.dll" DATE="Wed Oct 06 15:53:21 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetConversationSyncEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetUnifiedInboxEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetUnifiedInboxServerValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetConversationSyncEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetUnifiedInboxEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateDefaultWindowsLiveAccount" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FindMatchingPartnership" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetConversationSyncDateFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsExtendedConversationSyncDateFiltersSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LoadGoldenPartnershipAccessor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetConversationSyncDateFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UnenrollAndMarkAccountForDeletion" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UpdateGoogleAccountConversationFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="UpdateGoogleAccountServerSendsMeetingProp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UpdateWebDavAccountProperties" PURGE="8" COMMENT="" />
+</LIBRARY>
+

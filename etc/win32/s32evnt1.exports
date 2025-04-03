@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="s32evnt1.dll" PATH="/DLLArchive/etc/S32EVNT1.DLL" DATE="Fri Jul 03 22:13:23 CEST 2020" VERSION="11.3.0.22">
+    <EXPORT ORDINAL="1" NAME="_CheckVersion@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_EventObjectCreate@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_EventObjectDestroy@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_EventObjectQuery@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_SYMEVNTCheckVersion@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_SeMiscEx@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_WaitForEvent@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

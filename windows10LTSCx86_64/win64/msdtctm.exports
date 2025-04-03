@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdtctm.dll" PATH="/DLLArchive/windows10LTSCX86_64/msdtctm.dll" DATE="Sat Dec 07 10:09:37 CET 2019" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="4" NAME="DtcMainExt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ASCWrapObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ASCDeliverDeferred" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ASCDefer" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ASCGetSafeReference" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ASCWrapClassFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetTipFunctionalityWorking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetTipFunctionalityWorking" PURGE="0" COMMENT="" />
+</LIBRARY>
+

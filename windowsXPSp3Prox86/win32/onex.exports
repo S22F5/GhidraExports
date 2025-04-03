@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="onex.dll" PATH="/DLLArchive/windowsXPSp3Prox86/onex.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="OneXAddEapAttributes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OneXAddTLV" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OneXCompareAuthParams" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OneXCopyAuthParams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OneXCreateDefaultProfile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OneXCreateDiscoveryProfiles" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OneXCreateSupplicantPort" PURGE="2144" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OneXDeInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OneXDestroySupplicantPort" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OneXForceAuthenticatedState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OneXFreeAuthParams" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OneXFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="OneXGetUserFriendlyText" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="OneXIndicatePacket" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="OneXIndicateSessionChange" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OneXInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="OneXQueryAuthParams" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="OneXQueryPendingUIRequest" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="OneXQueryState" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="OneXQueryStatistics" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="OneXReasonCodeToString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="OneXRestartReasonCodeToString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="OneXSetAuthParams" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="OneXSetRuntimeState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="OneXShowUI" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="OneXStartAuthentication" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="OneXStopAuthentication" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="OneXUIResponse" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="OneXUpdatePortProfile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="OneXUpdateProfilePostDiscovery" PURGE="20" COMMENT="" />
+</LIBRARY>
+

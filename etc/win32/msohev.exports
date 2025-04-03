@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msohev.dll" PATH="/DLLArchive/etc/MSOHEV.DLL" DATE="Fri Jul 03 12:59:14 PDT 2020" VERSION="9.0.2626">
+    <EXPORT ORDINAL="2" NAME="PHevCreateFileInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WHevParseFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FHevActivateApp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HevDestroyFileInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FHevRegister" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FHevUnregister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FHevSetDefaultEditor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WHeviAppFromProgId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CchGetAppExtInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CchGetHtmlExtInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FHevAddToFileInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PwszHEVGetUrlIfInCache" PURGE="12" COMMENT="" />
+</LIBRARY>
+

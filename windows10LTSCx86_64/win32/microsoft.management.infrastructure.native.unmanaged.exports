@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoft.management.infrastructure.native.unmanaged.dll" PATH="/DLLArchive/windows10LTSCX86_64/Microsoft.Management.Infrastructure.Native.Unmanaged.dll" DATE="Wed Oct 06 06:53:32 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetAddr_OperationCallbacks_ClassObjectNeededCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAddr_OperationCallbacks_FreeIncludedFileBufferCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetAddr_OperationCallbacks_GetIncludedFileBufferCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetAddr_OperationCallbacks_NativeClassCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetAddr_OperationCallbacks_NativeIndicationCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetAddr_OperationCallbacks_NativeInstanceCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetAddr_OperationCallbacks_NativePromptUserCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetAddr_OperationCallbacks_NativeStreamedParameterResultCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetAddr_OperationCallbacks_NativeWriteErrorCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetAddr_OperationCallbacks_NativeWriteMessageCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetAddr_OperationCallbacks_NativeWriteProgressCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetAddr_SessionHandle_OnReleaseHandleCompleted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MI_ApplicationWrapper_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MI_ApplicationWrapper_ScheduleCleanupCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MI_ApplicationWrapper_SetAppDomainIsUnloading" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MI_Helpers_GetCurrentSecurityToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MI_Helpers_IsClrShuttingDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MI_Helpers_SetClrIsNotShuttingDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MI_Helpers_SetClrIsShuttingDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MI_OperationWrapper_DecrementCount_AndDontWorryAboutLifetimeOfMiDotNetDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MI_OperationWrapper_DecrementCount_AndManageLifetimeOfMiDotNetDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MI_OperationWrapper_GetClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MI_OperationWrapper_GetIndication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MI_OperationWrapper_GetInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MI_OperationWrapper_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MI_OperationWrapper_ScheduleDrainingWorkIfNeeded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MI_OperationWrapper_SetupDrainingIfNeeded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="UnmanagedMI_GetMiClientFT_V1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="UnmanagedMI_GetMiEvaluatorFT_V1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="UnmanagedMI_GetMiMonitoringFT_V1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="UnmanagedMI_GetMiReactiveExtensionsFT_V1" PURGE="0" COMMENT="" />
+</LIBRARY>
+

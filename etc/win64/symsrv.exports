@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="symsrv.dll" PATH="/DLLArchive/etc/symsrv.dll" DATE="Sat Sep 11 11:05:22 PDT 2021" VERSION="10.0.22000.194 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EulaDlgProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RunDllEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SymbolServerDeltaName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SymbolServerDeltaNameW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SymbolServerGetSupplement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SymbolServerGetSupplementW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SymbolServerGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SymbolServerIsStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SymbolServerIsStoreW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SymbolServerPing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SymbolServerPingW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SymbolServerPingWEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SymbolServerSetHttpAuthHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SymbolServerSetOptionsW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SymbolServerStoreFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SymbolServerStoreFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SymbolServerStoreSupplement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SymbolServerStoreSupplementW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SymbolServerW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SymbolServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SymbolServerByIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SymbolServerByIndexAndChecksumsW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SymbolServerByIndexW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SymbolServerClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SymbolServerGetIndexString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SymbolServerGetIndexStringW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SymbolServerGetOptionData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SymbolServerGetOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SymbolServerSetOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SymbolServerWEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SymbolServerWithChecksumsW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="httpCloseHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="httpOpenFileHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="httpOpenFileHandleW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="httpQueryDataAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="httpReadFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

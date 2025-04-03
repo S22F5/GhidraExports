@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hcwtvwnd.dll" PATH="/DLLArchive/etc/HCWTVWND.dll" DATE="Fri Jul 03 12:36:38 PDT 2020" VERSION="3, 01, 24111 PCI-USB DVBT/S PVR">
+    <EXPORT ORDINAL="2" NAME="hcwTV_Free" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="hcwTV_Set" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="hcwTV_Get" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="hcwTV_InitByDetail" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="hcwTV_CreateWindow" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="hcwTV_InitByDetailExt" PURGE="20" COMMENT="" />
+</LIBRARY>
+

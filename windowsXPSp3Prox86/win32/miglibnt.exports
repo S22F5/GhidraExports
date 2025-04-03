@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="miglibnt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/miglibnt.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="MigDllAddDllToListW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MigDllApplySystemSettingsW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MigDllCloseW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MigDllCreateList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MigDllEnumFirstW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MigDllEnumNextW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MigDllFreeList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MigDllInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MigDllInitializeDstW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MigDllOpenW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MigDllShutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

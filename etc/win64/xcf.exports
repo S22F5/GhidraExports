@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xcf.dll" PATH="/DLLArchive/etc/Xcf.dll" DATE="Thu Apr 30 14:08:46 CEST 2020" VERSION="0.0.1.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadGimpXcfW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="calclib.dll" PATH="/DLLArchive/etc/calclib.dll" DATE="Fri Sep 24 05:31:59 PDT 2010" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ExecCalcItCodeConsole" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExecCalcItCode" PURGE="0" COMMENT="" />
+</LIBRARY>
+

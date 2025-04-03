@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="reputil.dll" PATH="/DLLArchive/etc/REPUTIL.DLL" DATE="Wed Jun 10 21:08:40 CEST 1998" VERSION="6.0.8161.0">
+    <EXPORT ORDINAL="1" NAME="CompactJetRepository" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReComputeRepository" PURGE="12" COMMENT="" />
+</LIBRARY>
+

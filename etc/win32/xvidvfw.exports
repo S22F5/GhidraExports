@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xvidvfw.dll" PATH="/DLLArchive/etc/xvidvfw.dll" DATE="Fri Jul 03 13:42:37 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Configure" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

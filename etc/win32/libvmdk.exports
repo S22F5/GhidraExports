@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libvmdk.dll" PATH="/DLLArchive/etc/libvmdk.dll" DATE="Tue Dec 26 14:19:40 PST 2023" VERSION="20200810">
+    <EXPORT ORDINAL="1" NAME="libvmdk_check_file_signature" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="libvmdk_check_file_signature_file_io_handle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="libvmdk_check_file_signature_wide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="libvmdk_error_backtrace_fprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="libvmdk_error_backtrace_sprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="libvmdk_error_fprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="libvmdk_error_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="libvmdk_error_sprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="libvmdk_extent_descriptor_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="libvmdk_extent_descriptor_get_range" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="libvmdk_extent_descriptor_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="libvmdk_extent_descriptor_get_utf16_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="libvmdk_extent_descriptor_get_utf16_filename_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="libvmdk_extent_descriptor_get_utf8_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="libvmdk_extent_descriptor_get_utf8_filename_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="libvmdk_get_access_flags_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="libvmdk_get_codepage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="libvmdk_get_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="libvmdk_handle_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="libvmdk_handle_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="libvmdk_handle_get_content_identifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="libvmdk_handle_get_disk_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="libvmdk_handle_get_extent_descriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="libvmdk_handle_get_media_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="libvmdk_handle_get_number_of_extents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="libvmdk_handle_get_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="libvmdk_handle_get_parent_content_identifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="libvmdk_handle_get_utf16_parent_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="libvmdk_handle_get_utf16_parent_filename_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="libvmdk_handle_get_utf8_parent_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="libvmdk_handle_get_utf8_parent_filename_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="libvmdk_handle_initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="libvmdk_handle_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="libvmdk_handle_open_extent_data_files" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="libvmdk_handle_open_extent_data_files_file_io_pool" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="libvmdk_handle_open_file_io_handle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="libvmdk_handle_open_wide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="libvmdk_handle_read_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="libvmdk_handle_read_buffer_at_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="libvmdk_handle_seek_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="libvmdk_handle_set_extent_data_files_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="libvmdk_handle_set_extent_data_files_path_wide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="libvmdk_handle_set_maximum_number_of_open_handles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="libvmdk_handle_set_parent_handle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="libvmdk_handle_signal_abort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="libvmdk_notify_set_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="libvmdk_notify_set_verbose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="libvmdk_notify_stream_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="libvmdk_notify_stream_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="libvmdk_set_codepage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

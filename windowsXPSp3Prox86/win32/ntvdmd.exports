@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntvdmd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntvdmd.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="xxxDbgBPInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="xxxDbgDispatch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="xxxDbgDosAppStart" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="xxxDbgFault" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="xxxDbgInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="xxxDbgIsDebuggee" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="xxxDbgNotifyDebugged" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="xxxDbgNotifyNewTask" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="xxxDbgNotifyRemoteThreadAddress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="xxxDbgSegmentNotice" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="xxxDbgTraceEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="xxxDbgTraceInt" PURGE="0" COMMENT="" />
+</LIBRARY>
+

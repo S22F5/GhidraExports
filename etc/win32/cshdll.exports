@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cshdll.dll" PATH="/DLLArchive/etc/CSHDLL.dll" DATE="Mon Aug 04 13:12:57 PDT 2008" VERSION="1.0.0.1">
+    <EXPORT ORDINAL="1" NAME="PreVistaDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PostVistaDlg" PURGE="0" COMMENT="" />
+</LIBRARY>
+

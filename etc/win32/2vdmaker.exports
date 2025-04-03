@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="2vdmaker.dll" PATH="/DLLArchive/etc/2vdmaker.dll" DATE="Fri Jul 03 12:10:23 PDT 2020" VERSION="1.4.2.29">
+    <EXPORT ORDINAL="1" NAME="??0DvdDisc@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1DvdDisc@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??_7DvdDisc@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AddDataFile@DvdDisc@@UAEXVCString@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AddMenu@DvdDisc@@UAEHPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AddProgramToPlayList@DvdDisc@@UAEHPAXH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?AddVideo@DvdDisc@@UAEHPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?AppendDefaultPlayVideoToMenu@DvdDisc@@QAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Clear@DvdDisc@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?ClearAllDataFile@DvdDisc@@UAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?ClearError@DvdDisc@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?CreateHighResStillShow@DvdDisc@@UAEPAXVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CreateImageFile@DvdDisc@@UAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?CreateMenu@DvdDisc@@UAEPAXHPAXH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?CreateMenuItem@DvdDisc@@UAEPAXPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CreateProgramForMenu@DvdDisc@@UAEPAXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?CreateProgramForVideo@DvdDisc@@UAEPAXPAXHH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?CreateSegmentVideo@DvdDisc@@UAEPAXVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?CreateVideo@DvdDisc@@UAEPAXVCString@@0HHHH@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetCompileProgress@DvdDisc@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetDataFile@DvdDisc@@UAEHHAAVCString@@0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetDiscImageFile@DvdDisc@@UAEHAAVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetDiscVolumeName@DvdDisc@@UAE?AVCString@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetLastError@DvdDisc@@UAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?GetNumberOfDataFile@DvdDisc@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetRootDir@DvdDisc@@UAEHAAVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?Init@DvdDisc@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?IsCompileDone@DvdDisc@@UAEHAAHK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?IsDVD@DvdDisc@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?IsImageFileCreationOn@DvdDisc@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SetDVDRejectLargeGOP@DvdDisc@@UAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?SetDVD_MEICompatible@DvdDisc@@UAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?SetDiscVolumeName@DvdDisc@@UAEXVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?SetMenuHighlightAlpha@DvdDisc@@UAEHPAXW4DVD_HL_STATE@@EEEE@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetMenuHighlightBitmap@DvdDisc@@UAEHPAXVCString@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SetMenuHighlightColor@DvdDisc@@UAEHPAXW4DVD_HL_STATE@@KKKK@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?SetMenuItemLink@DvdDisc@@UAEHPAXHHHHHHHH@Z" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?SetMenuTimeOutPlayItemWithLoopCount@DvdDisc@@UAEHPAX0H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?SetMenuTimeOutPlayItemWithTime@DvdDisc@@UAEHPAX0H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?SetPrevNextRemoteButtonSupport@DvdDisc@@UAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?SetProgramNextTarget@DvdDisc@@UAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?SetProgramPrevTarget@DvdDisc@@UAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?SetProgramReturnTarget@DvdDisc@@UAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?SetRootDir@DvdDisc@@UAEHVCString@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?StartCompile@DvdDisc@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?StopCompile@DvdDisc@@UAEHXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

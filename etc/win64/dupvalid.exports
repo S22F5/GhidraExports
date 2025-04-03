@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dupvalid.dll" PATH="/DLLArchive/etc/dupvalid.dll" DATE="Tue Oct 03 13:18:34 CEST 2023" VERSION="22.01.003 (BLD_231)">
+    <EXPORT ORDINAL="1" NAME="??0SPValidation@@QEAA@AEBV0@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0SPValidation@@QEAA@AEBVSPUString@@0_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0SPValidation@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1SPValidation@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4SPValidation@@QEAAAEAV0@AEBV0@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??_7SPValidation@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?doOnlyOSValidation@SPValidation@@QEAAX_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?doOnlySystemValidation@SPValidation@@QEAAX_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?doesPIEConfigSupport@SPValidation@@AEAA_NAEBVSPUString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?setInventoryXML@SPValidation@@QEAAXAEBVSPUString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?setPackageXML@SPValidation@@QEAAXAEBVSPUString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?validate@SPValidation@@QEAA?AVSPUString@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?validateForceSupported@SPValidation@@AEAA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?validatePIEConfigInstall@SPValidation@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SPFreeValidationXML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SPValidate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

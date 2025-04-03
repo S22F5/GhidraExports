@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ds32gt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ds32gt.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="3.525.1132.0 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="Dispatch" PURGE="20" COMMENT="" />
+</LIBRARY>
+

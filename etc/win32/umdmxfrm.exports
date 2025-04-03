@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="umdmxfrm.dll" PATH="/DLLArchive/etc/umdmxfrm.dll" DATE="Fri Jul 03 22:24:42 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="2" NAME="GetXformInfo" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rvre3260.dll" PATH="/DLLArchive/etc/rvre3260.dll" DATE="Fri Jul 03 13:13:15 PDT 2020" VERSION="6.0.8.1577">
+    <EXPORT ORDINAL="1" NAME="?OnNewImage@@YGJPAX0PAUtag_PNCODEC_DATA@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?OnNewImage@CRVVideo@@QAGJPAXPAUtag_PNCODEC_DATA@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

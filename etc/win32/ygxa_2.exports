@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ygxa_2.dll" PATH="/DLLArchive/etc/ygxa_2.dll" DATE="Fri Jul 03 13:43:15 PDT 2020" VERSION="2000, 10, 9, 1">
+    <EXPORT ORDINAL="1" NAME="_Add_Toolbar_Button@136" PURGE="136" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Add_Toolbar_Button_Indirect@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_DrawBitmap@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_DrawTiledBitmap@44" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_EncTransparentBlt2@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_EncTransparentBlt@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Get_Button_Offset@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Hide_ToolTip@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Is_Mouse_In_Button@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Show_ToolTip@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_SliderBarWndProc@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_TbPlusWndProc@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_ToolTipWndProc@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_ToolbarGetCapture@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_ToolbarReleaseCapture@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_ToolbarSetCapture@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_Toolbar_Shutdown@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_Toolbar_Startup@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fhdbrdr.dll" PATH="/DLLArchive/etc/FhDbRdr.dll" DATE="Fri Jul 03 21:33:55 CEST 2020" VERSION="10.0.1">
+    <EXPORT ORDINAL="1" NAME="GetImporterInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

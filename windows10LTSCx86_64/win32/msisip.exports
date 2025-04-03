@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msisip.dll" PATH="/DLLArchive/windows10LTSCX86_64/msisip.dll" DATE="Wed Oct 06 06:53:04 PDT 2021" VERSION="5.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="5" NAME="MsiSIPIsMyTypeOfFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MsiSIPGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MsiSIPPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MsiSIPRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MsiSIPCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MsiSIPVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

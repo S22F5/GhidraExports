@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvinstnt.dll" PATH="/DLLArchive/etc/NvInstNT.dll" DATE="Fri Jul 03 13:02:35 PDT 2020" VERSION="6.14.10.5216">
+    <EXPORT ORDINAL="1" NAME="NvGenerateValidDeviceList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NvGetProcessorArchitecture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NvInstallNT4DispDrv" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NvInstallW2KDispDrv2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NvInstallW2KDispDrv" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NvInstallW2KDispDrvX" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NvInstallW64DispDrv" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NvKillProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NvKillWindowClass" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NvRegUpdateForNonAdminUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NvSetRestartDisplayMode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NvUninstallCrush" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NvUninstallCrushSilent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NvUninstallNT4" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NvUninstallNT4Silent" PURGE="16" COMMENT="" />
+</LIBRARY>
+

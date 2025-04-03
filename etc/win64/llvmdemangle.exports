@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="llvmdemangle.dll" PATH="/DLLArchive/etc/LLVMDemangle.dll" DATE="Sat May 14 15:04:54 CEST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LLVMDemangle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LLVMDemangleFree" PURGE="0" COMMENT="" />
+</LIBRARY>
+

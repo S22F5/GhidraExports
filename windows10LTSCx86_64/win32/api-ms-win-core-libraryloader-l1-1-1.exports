@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-libraryloader-l1-1-1.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-libraryloader-l1-1-1.dll" DATE="Sat Dec 07 10:09:09 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EnumResourceLanguagesExA" PURGE="28" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="EnumResourceLanguagesExA" />
+    <EXPORT ORDINAL="2" NAME="EnumResourceLanguagesExW" PURGE="28" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="EnumResourceLanguagesExW" />
+    <EXPORT ORDINAL="3" NAME="EnumResourceNamesExA" PURGE="24" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="EnumResourceNamesExA" />
+    <EXPORT ORDINAL="4" NAME="EnumResourceNamesExW" PURGE="24" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="EnumResourceNamesExW" />
+    <EXPORT ORDINAL="5" NAME="EnumResourceTypesExA" PURGE="20" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="EnumResourceTypesExA" />
+    <EXPORT ORDINAL="6" NAME="EnumResourceTypesExW" PURGE="20" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="EnumResourceTypesExW" />
+</LIBRARY>
+

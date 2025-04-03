@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scroll.dll" PATH="/DLLArchive/etc/Scroll.dll" DATE="Fri Jul 03 13:14:38 PDT 2020" VERSION="1, 0, 0, 14">
+    <EXPORT ORDINAL="1" NAME="GlobalScroll_GetScrollBarRects" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GlobalScroll_ScrollTo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Scroll_ScrollDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Scroll_ScrollLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Scroll_ScrollRight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Scroll_ScrollTo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Scroll_ScrollUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SysHeader_ScroleTo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SysHeader_ScrollDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SysHeader_ScrollLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SysHeader_ScrollLeftTop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SysHeader_ScrollRight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SysHeader_ScrollRightBottom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SysHeader_ScrollUp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

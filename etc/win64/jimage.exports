@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jimage.dll" PATH="/DLLArchive/etc/jimage.dll" DATE="Sun Jul 30 11:16:46 CEST 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="JIMAGE_Close" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JIMAGE_FindResource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JIMAGE_GetResource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JIMAGE_Open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JIMAGE_PackageToModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JIMAGE_ResourceIterator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_jdk_internal_jimage_NativeImageBuffer_getNativeMap" PURGE="0" COMMENT="" />
+</LIBRARY>
+

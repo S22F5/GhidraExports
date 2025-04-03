@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pec2codec_elfhash.dll" PATH="/DLLArchive/etc/pec2codec_elfhash.dll" DATE="Mon Jun 22 21:36:46 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetNumberOfCodecs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CodecGetProcAddress" PURGE="0" COMMENT="" />
+</LIBRARY>
+

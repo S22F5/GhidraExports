@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="guitrn_a.dll" PATH="/DLLArchive/etc/guitrn_a.dll" DATE="Fri Jul 03 12:36:28 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ModuleInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ModuleTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TransportModule" PURGE="8" COMMENT="" />
+</LIBRARY>
+

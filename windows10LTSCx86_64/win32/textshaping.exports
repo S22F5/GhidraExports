@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="textshaping.dll" PATH="/DLLArchive/windows10LTSCX86_64/TextShaping.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BuildOtlCache" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FreeOtlResources" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetOtlFeatureDefs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetOtlGlyphAlternates" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetOtlLangSysList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetOtlScriptList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetOtlVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RepositionOtlSingleGlyph" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SubstituteOtlSingleGlyph" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ValidateLogClust" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OtlAssertFailed" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShapingCreateFontCacheData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ShapingDrawGlyphs" PURGE="68" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ShapingGetBreakingProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ShapingGetCombiningOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ShapingGetGlyphPositions" PURGE="60" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ShapingGetGlyphs" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShapingLoadScriptEngine" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShapingSetAssertFunction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShapingSetInvariantAssertFunction" PURGE="4" COMMENT="" />
+</LIBRARY>
+

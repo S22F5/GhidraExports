@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="upackoep.dll" PATH="/DLLArchive/etc/UPackOEP.dll" DATE="Mon Apr 21 20:23:20 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ShortFinderName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOEPNow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

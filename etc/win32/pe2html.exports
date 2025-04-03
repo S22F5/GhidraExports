@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pe2html.dll" PATH="/DLLArchive/etc/PE2HTML.dll" DATE="Fri Sep 24 00:42:28 CEST 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPTPluginName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LoadDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="StartPTPlugin" PURGE="4" COMMENT="" />
+</LIBRARY>
+

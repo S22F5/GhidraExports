@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ipmontr.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ipmontr.dll" DATE="Mon Apr 14 05:41:56 CEST 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="InitHelperDll" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IpmontrCreateInterface" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IpmontrDeleteInfoBlockFromInterfaceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IpmontrDeleteInterface" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IpmontrDeleteProtocol" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IpmontrGetFriendlyNameFromIfIndex" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IpmontrGetFriendlyNameFromIfName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IpmontrGetIfIndexFromFriendlyName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IpmontrGetIfNameFromFriendlyName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IpmontrGetInfoBlockFromGlobalInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IpmontrGetInfoBlockFromInterfaceInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IpmontrGetInterfaceType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IpmontrInterfaceEnum" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IpmontrSetInfoBlockInGlobalInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IpmontrSetInfoBlockInInterfaceInfo" PURGE="20" COMMENT="" />
+</LIBRARY>
+

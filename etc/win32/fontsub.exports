@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fontsub.dll" PATH="/DLLArchive/etc/fontsub.dll" DATE="Fri Jul 03 21:34:31 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="CreateFontPackage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MergeFontPackage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

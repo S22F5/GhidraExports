@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icsvc.dll" PATH="/DLLArchive/windows10LTSCX86_64/icsvc.dll" DATE="Wed Oct 06 15:52:55 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GuestInterfaceServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HeartbeatServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="KvpexchangeServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShutdownServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TimesyncServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VMSessionServiceMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

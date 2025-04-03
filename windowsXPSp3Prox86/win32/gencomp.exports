@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gencomp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/GENCOMP.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="7.00.9581">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetClassID" PURGE="4" COMMENT="" />
+</LIBRARY>
+

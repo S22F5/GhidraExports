@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iepeers.dll" PATH="/DLLArchive/windowsXPSp3Prox86/iepeers.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="5" NAME="DllEnumClassObjects" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

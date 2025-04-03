@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mshtml.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mshtml.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="CreateHTMLPropertyPage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllEnumClassObjects" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MatchExactGetIDsOfNames" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PrintHTML" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RNIGetCompatibleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RunHTMLApplication" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShowHTMLDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ShowHTMLDialogEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ShowModalDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ShowModelessHTMLDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="com_ms_osp_ospmrshl_classInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="com_ms_osp_ospmrshl_copyToExternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="com_ms_osp_ospmrshl_releaseByValExternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="com_ms_osp_ospmrshl_toJava" PURGE="0" COMMENT="" />
+</LIBRARY>
+

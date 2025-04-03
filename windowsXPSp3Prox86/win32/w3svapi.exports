@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="w3svapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/w3svapi.dll" DATE="Fri Aug 17 13:36:34 PDT 2001" VERSION="6.0.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="W3ClearStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="W3DisconnectUser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="W3EnumerateUsers" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="W3GetAdminInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="W3QueryStatistics" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="W3SetAdminInformation" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="btpcfg.dll" PATH="/DLLArchive/etc/btpcfg.dll" DATE="Fri Jul 03 12:25:35 PDT 2020" VERSION="1, 6, 1, 0">
+    <EXPORT ORDINAL="1" NAME="?AllSrcConfig@@YAHPAEGPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CancelPinCode@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?ConfigurateAvSourcClient@@YAHPAE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?ConfigurateQuickConn@@YAHPAE000@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?DeskStcConfig@@YAHPAEKG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?DisplaySppConnInfo@@YAHPAEPAD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetCustomInputDvcAddr@@YAHPAEPADH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetDunModemComIndex@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetDvcFromHistory@@YAHPAV?$CList@PAUBTPRemoteDeviceItem@@PAU1@@@PAPAUBTPRemoteDeviceItem@@PAHPAE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetPinCode@@YAHPAE0H0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetSearchRule@@YAHPAUtagSEARCH_RULE@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GprsStcConfig@@YAHPAE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?LocalDvcFirstSetting@@YAHPAUBTP_Dvc_Gnr_Info@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?LocalDvcSetting@@YAHPAUBTP_Dvc_Gnr_Info@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?SecurityConfig@@YAHPAE000@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ShowAuthorPromptDlg@@YAHPAEPADHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?ShowForceStopServiceMessageBox@@YAHPAEPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SleepWaringMessageBox@@YAHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?TransportConfig@@YAHPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?UnLoadMainWnd@@YAHXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

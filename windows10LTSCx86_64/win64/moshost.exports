@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="moshost.dll" PATH="/DLLArchive/windows10LTSCX86_64/moshost.dll" DATE="Sat Dec 07 10:08:27 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MosHostCacheStateGetSizes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MosHostCacheStateGetSlotToCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MosHostCacheStateSetMaxSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MosHostCacheStateSetSlotSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MosHostCacheStateSnapshot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MosHostCacheStateUnuseSlot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MosHostCacheStateUseSlot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MosHostRequestResourceLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MosHostRequestResourceUnlock" PURGE="0" COMMENT="" />
+</LIBRARY>
+

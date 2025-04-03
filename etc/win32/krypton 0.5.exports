@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="krypton 0.5.dll" PATH="/DLLArchive/etc/Krypton 0.5.dll" DATE="Sun May 02 19:32:24 PDT 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

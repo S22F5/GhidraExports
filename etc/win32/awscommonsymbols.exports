@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awscommonsymbols.dll" PATH="/DLLArchive/etc/AWSCommonSymbols.dll" DATE="Fri Jul 03 12:24:40 PDT 2020" VERSION="3.0.0.278">
+    <EXPORT ORDINAL="1" NAME="??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVAWS_CS_MultiString_Internal@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CommonSymbolsInitialize@@YADP6APAXPBD00@Z@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?CommonSymbolsTerminate@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?CommonSymbolsVersion@@YAIXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

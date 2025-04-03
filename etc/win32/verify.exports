@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="verify.dll" PATH="/DLLArchive/etc/verify.dll" DATE="Fri Jul 03 13:27:16 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VerifyClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VerifyClassname" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VerifyFixClassname" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VerifyFormat" PURGE="0" COMMENT="" />
+</LIBRARY>
+

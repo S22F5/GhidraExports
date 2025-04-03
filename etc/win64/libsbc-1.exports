@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libsbc-1.dll" PATH="/DLLArchive/etc/libsbc-1.dll" DATE="Wed Nov 15 20:03:00 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="sbc_decode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="sbc_encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="sbc_finish" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="sbc_get_codesize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="sbc_get_frame_duration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="sbc_get_frame_length" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="sbc_get_implementation_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="sbc_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="sbc_init_a2dp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="sbc_init_msbc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="sbc_parse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="sbc_reinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="sbc_reinit_a2dp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="sbc_reinit_msbc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntmarta.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntmarta.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="AccFreeIndexArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AccGetInheritanceSource" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AccProvHandleGrantAccessRights" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AccRewriteGetExplicitEntriesFromAcl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AccRewriteGetHandleRights" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AccRewriteGetNamedRights" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AccRewriteSetEntriesInAcl" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AccRewriteSetHandleRights" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AccRewriteSetNamedRights" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AccTreeResetNamedSecurityInfo" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AccConvertAccessMaskToActrlAccess" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AccConvertAccessToSD" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AccConvertAccessToSecurityDescriptor" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AccConvertAclToAccess" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AccConvertSDToAccess" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AccGetAccessForTrustee" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AccGetExplicitEntries" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AccLookupAccountName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AccLookupAccountSid" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AccLookupAccountTrustee" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AccProvCancelOperation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AccProvGetAccessInfoPerObjectType" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AccProvGetAllRights" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AccProvGetCapabilities" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AccProvGetOperationResults" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="AccProvGetTrusteesAccess" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="AccProvGrantAccessRights" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="AccProvHandleGetAccessInfoPerObjectType" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="AccProvHandleGetAllRights" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="AccProvHandleGetTrusteesAccess" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AccProvHandleIsAccessAudited" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="AccProvHandleIsObjectAccessible" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="AccProvHandleRevokeAccessRights" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="AccProvHandleRevokeAuditRights" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="AccProvHandleSetAccessRights" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="AccProvIsAccessAudited" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="AccProvIsObjectAccessible" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="AccProvRevokeAccessRights" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="AccProvRevokeAuditRights" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="AccProvSetAccessRights" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="AccSetEntriesInAList" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="EventGuidToName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="EventNameFree" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

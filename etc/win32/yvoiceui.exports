@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="yvoiceui.dll" PATH="/DLLArchive/etc/yvoiceui.dll" DATE="Fri Jul 03 13:43:42 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="vui_CallLogItemAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="vui_CallLogVMActionDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="vui_CallLogVMDataReady" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="vui_CallLogVMItemsDeleted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="vui_CallLogVMTotalCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="vui_FinishContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="vui_GetRingTonePath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="vui_InitializedFinish" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="vui_LoginChallenge" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="vui_SetCallDuration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="vui_SetCommandState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="vui_SetMicVolumeMeter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="vui_SetSpeakerVolumeLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="vui_SetSpeakerVolumeMeter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="vui_SetStatusInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="vui_ShowCallLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="vui_ShowInLineNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="vui_ShowIncomingCallMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="vui_ShowPreferences" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="vui_ShowVoiceMailAlertBox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="vui_ShowVoiceMailExitBox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="vui_SoapStatisticsForMessenger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="vui_StopAudioPlaybacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="vui_Update_Call_Button" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="vui_Update_Radial" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="vui_VMAlert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="vui_VoiceStat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="vui_VoiceStatisticsForMessenger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="vui_VoiceStatisticsInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="vui_add_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="vui_allocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="vui_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="vui_initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="vui_remove_callback" PURGE="0" COMMENT="" />
+</LIBRARY>
+

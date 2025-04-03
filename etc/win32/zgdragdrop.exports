@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zgdragdrop.dll" PATH="/DLLArchive/etc/zgdragdrop.dll" DATE="Fri Jul 03 12:13:19 PDT 2020" VERSION="5.5.1.1332">
+    <EXPORT ORDINAL="1" NAME="DllUnregisterServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

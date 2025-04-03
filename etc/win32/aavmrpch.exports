@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aavmrpch.dll" PATH="/DLLArchive/etc/aavmrpch.dll" DATE="Fri Jul 03 12:14:48 PDT 2020" VERSION="4, 7, 1043, 0">
+    <EXPORT ORDINAL="1" NAME="AavmRpcAdjustProviderConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AavmRpcAssembleConfigString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AavmRpcCreateBinding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AavmRpcDestroyBinding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AavmRpcGetProviderConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AavmRpcGetProviderConfigLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AavmRpcGetProviderData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AavmRpcGetProviderIcons" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AavmRpcGetProviderInfoList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AavmRpcGetProviderList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AavmRpcGetProviderTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AavmRpcGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AavmRpcOpenClosePwd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AavmRpcProviderPause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AavmRpcProviderResume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AavmRpcProviderStartInTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AavmRpcProviderStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AavmRpcRunComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AavmRpcSetProviderConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AavmRpcTaskGetCurrentConfigLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AavmRpcTaskGetCurrentName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AavmRpcTaskRunByName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AavmRpcTaskRunDefault" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AavmRpcTaskSetCurrentConfigLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AavmRpcTaskStop" PURGE="0" COMMENT="" />
+</LIBRARY>
+

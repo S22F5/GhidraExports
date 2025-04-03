@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmenrollengine.dll" PATH="/DLLArchive/windows10LTSCX86_64/dmenrollengine.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DiscoverEndpoint" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FindDiscoveryService" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CleanupExpiredOMADMSessions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnableLogging" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DiscoverEndpointEx" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FindDiscoveryServiceEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetEnrollmentClientContext" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetEnrollmentAadResourceUrl" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OpenEnrollmentsHKEY" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDatabaseManagerInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetProviderID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetProviderID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetEnrollmentUPN" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SwitchAADLinkedEnrollment" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetEnrollmentDormant" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_IsManagementRegistrationAllowed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetEnrollmentAadSendDeviceToken" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AutoEnrollMDM" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EnrollEngineInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FreeMmpcDiscoveryResultsData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetCertificatePolicy" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetEnrollmentAadResourceUrl" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetEnrollmentAadSendDeviceToken" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetEnrollmentCertStore" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetEnrollmentClientCertThumbprint" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetEnrollmentDiscoveryService" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetEnrollmentPartnerOpaqueID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="GetEnrollmentSID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="GetEnrollmentState" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="GetEnrollmentType" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="GetEnrollmentUPN" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="MmpcDiscoverEndpoint" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SetEnrollmentPartnerOpaqueID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SysprepGeneralize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

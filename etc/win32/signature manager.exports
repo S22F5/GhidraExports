@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="signature manager.dll" PATH="/DLLArchive/etc/Signature Manager.dll" DATE="Sun Nov 29 11:47:36 PST 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Action" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PluginStart" PURGE="0" COMMENT="" />
+</LIBRARY>
+

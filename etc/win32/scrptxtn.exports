@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scrptxtn.dll" PATH="/DLLArchive/etc/SCRPTXTN.DLL" DATE="Fri Jul 03 13:14:39 PDT 2020" VERSION="5.5.1960.0">
+    <EXPORT ORDINAL="1" NAME="ExchEntryPoint" PURGE="0" COMMENT="" />
+</LIBRARY>
+

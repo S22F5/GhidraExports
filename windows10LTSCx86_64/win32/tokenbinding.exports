@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tokenbinding.dll" PATH="/DLLArchive/windows10LTSCX86_64/tokenbinding.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="TokenBindingDeleteAllBindings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TokenBindingDeleteBinding" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TokenBindingGenerateBinding" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TokenBindingGenerateID" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TokenBindingGenerateIDForUri" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TokenBindingGenerateMessage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TokenBindingGetHighestSupportedVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TokenBindingGetKeyTypesClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TokenBindingGetKeyTypesServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TokenBindingVerifyMessage" PURGE="24" COMMENT="" />
+</LIBRARY>
+

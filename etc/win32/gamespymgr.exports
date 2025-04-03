@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gamespymgr.dll" PATH="/DLLArchive/etc/GameSpyMgr.dll" DATE="Fri Jul 03 12:35:29 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0GameSpyCDKeyResponseInterface@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0GameSpyCDKeyResponseInterface@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0GameSpyMgr@@IAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0GameSpyMgr@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0GameSpyMgr@@QAE@PAVUEngine@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1GameSpyCDKeyResponseInterface@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1GameSpyMgr@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4GameSpyCDKeyResponseInterface@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4GameSpyMgr@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_7GameSpyCDKeyResponseInterface@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?AuthCDKey@GameSpyMgr@@QAEXHIVFString@@0@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?BeginServerQuery@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CDAuthCallback@GameSpyMgr@@SAXHHHPADPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?CancelServerQuery@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ClearServerQueryResults@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CreateServerBrowser@GameSpyMgr@@QAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?DeleteServerBrowser@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Exec@GameSpyMgr@@QAEHPBDAAVFOutputDevice@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetExtPlayerQueryResult@GameSpyMgr@@QAE?AVFString@@HH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetExtServerQueryResult@GameSpyMgr@@QAE?AVFString@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetLocalID@GameSpyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetResponse@GameSpyCDKeyResponseInterface@@UAEXPAD00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetServerQueryNumResults@GameSpyMgr@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetServerQueryResult@GameSpyMgr@@QAE?AVFString@@HH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?IsBackEndAvailable@GameSpyMgr@@QAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?RegisterCustomKeys@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?RegisterGame@GameSpyMgr@@QAE_NH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?ReleaseAllCDKey@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?ReleaseCDKey@GameSpyMgr@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SBCallback@GameSpyMgr@@SAXPAU_ServerBrowser@@W4SBCallbackReason@@PAU_SBServer@@PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SetUplinkCB@GameSpyMgr@@QAAXP6AXH_NPAX@Z1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?Tick@GameSpyMgr@@QAEXM@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?UnRegisterGame@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?UpdateState@GameSpyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?adderror_callback@GameSpyMgr@@SAXW4qr2_error_t@@PADPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?cm_callback@GameSpyMgr@@SAXPADHPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?count_callback@GameSpyMgr@@SAHW4qr2_key_type@@PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?keylist_callback@GameSpyMgr@@SAXW4qr2_key_type@@PAUqr2_keybuffer_s@@PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?nn_callback@GameSpyMgr@@SAXHPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?playerkey_callback@GameSpyMgr@@SAXHHPAUqr2_buffer_s@@PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?serverkey_callback@GameSpyMgr@@SAXHPAUqr2_buffer_s@@PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?teamkey_callback@GameSpyMgr@@SAXHHPAUqr2_buffer_s@@PAX@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

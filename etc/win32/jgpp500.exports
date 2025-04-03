@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgpp500.dll" PATH="/DLLArchive/etc/jgpp500.dll" DATE="Fri Jul 03 12:44:32 PDT 2020" VERSION="5020">
+    <EXPORT ORDINAL="2" NAME="JgpPPlayStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpPPlayShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpPPlayOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpPPlayClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpPPlaySetMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpPPlayOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpPPlayOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpPPlayGrabDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpPPlayReleaseDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpPPlayIsOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpPPlayReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpPPlayHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpPPlayStall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpPPlayUnstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpPPlayRequestStall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpPPlayGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpPPlayUpdateTimeInBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpPPlayUpdateSyncTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgpPPlayAuxOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgpPPlayAuxClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgpPPlayAuxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JgpPPlayDeviceGetCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JgpPPlayDrvHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="JgpPPlayDoTest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="JgpPPlayPause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="JgpPPlayResume" PURGE="0" COMMENT="" />
+</LIBRARY>
+

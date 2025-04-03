@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dnssd.dll" PATH="/DLLArchive/etc/dnssd.dll" DATE="Fri Jul 03 12:31:55 PDT 2020" VERSION="1,0,3,1">
+    <EXPORT ORDINAL="1" NAME="DNSServiceAddRecord" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DNSServiceBrowse" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DNSServiceConstructFullName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DNSServiceCreateConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DNSServiceEnumerateDomains" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DNSServiceProcessResult" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DNSServiceQueryRecord" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DNSServiceReconfirmRecord" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DNSServiceRefDeallocate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DNSServiceRefSockFD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DNSServiceRegister" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DNSServiceRegisterRecord" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DNSServiceRemoveRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DNSServiceResolve" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DNSServiceUpdateRecord" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="TXTRecordContainsKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="TXTRecordCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="TXTRecordDeallocate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TXTRecordGetBytesPtr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="TXTRecordGetCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TXTRecordGetItemAtIndex" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TXTRecordGetLength" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TXTRecordGetValuePtr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TXTRecordRemoveValue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TXTRecordSetValue" PURGE="16" COMMENT="" />
+</LIBRARY>
+

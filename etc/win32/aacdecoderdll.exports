@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aacdecoderdll.dll" PATH="/DLLArchive/etc/aacdecoderdll.dll" DATE="Fri Jul 03 12:14:32 PDT 2020" VERSION="1, 0, 0, 5">
+    <EXPORT ORDINAL="1" NAME="ARCaacDecOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ArcaacDecSetConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ArcaacDecGetCurrentConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ARCaacDecInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ArcaacDecInit2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ARCaacDecClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ARCaacDecDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AudioSpecificConfig" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vfp6r.dll" PATH="/DLLArchive/etc/vfp6r.dll" DATE="Fri Jul 03 13:27:33 PDT 2020" VERSION="6.0.8167.0">
+    <EXPORT ORDINAL="1" NAME="DllWinMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VFPDllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VFPDllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllOleInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="@OCXAPIInit@4" PURGE="0" COMMENT="" />
+</LIBRARY>
+

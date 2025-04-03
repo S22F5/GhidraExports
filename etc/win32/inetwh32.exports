@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inetwh32.dll" PATH="/DLLArchive/etc/Inetwh32.dll" DATE="Fri Jul 03 12:42:55 PDT 2020" VERSION="7.00.133">
+    <EXPORT ORDINAL="1" NAME="BrowserNameFromSystem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BrowserNameFromUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FindActiveBrowser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="INETWH_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Inet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Internet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LDLLHandler" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LaunchBrowser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="StoreBrowserName" PURGE="4" COMMENT="" />
+</LIBRARY>
+

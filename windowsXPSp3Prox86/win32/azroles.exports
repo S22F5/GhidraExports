@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="azroles.dll" PATH="/DLLArchive/windowsXPSp3Prox86/azroles.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.2.3790.2729 (srv03_sp1_qfe.060620-0009)">
+    <EXPORT ORDINAL="1" NAME="AzAddPropertyItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AzApplicationClose" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AzApplicationCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AzApplicationDelete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AzApplicationEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AzApplicationOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AzAuthorizationStoreDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AzCloseHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AzContextAccessCheck" PURGE="60" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AzContextGetAssignedScopesPage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AzContextGetRoles" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AzFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AzGetProperty" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AzGroupCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AzGroupDelete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AzGroupEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AzGroupOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AzInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AzInitializeContextFromName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AzInitializeContextFromToken" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AzOperationCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AzOperationDelete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AzOperationEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AzOperationOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AzRemovePropertyItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="AzRoleCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="AzRoleDelete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="AzRoleEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="AzRoleOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="AzScopeCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AzScopeDelete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="AzScopeEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="AzScopeOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="AzSetProperty" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="AzSubmit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="AzTaskCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="AzTaskDelete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="AzTaskEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="AzTaskOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="AzUpdateCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

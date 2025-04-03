@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asfsipc.dll" PATH="/DLLArchive/etc/asfsipc.dll" DATE="Fri Jul 03 13:43:58 PDT 2020" VERSION="1.1.00.3917">
+    <EXPORT ORDINAL="1" NAME="IsMyTypeOfFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MySIPCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MySIPGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MySIPPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MySIPRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MySIPVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

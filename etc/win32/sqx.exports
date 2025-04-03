@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqx.dll" PATH="/DLLArchive/etc/Sqx.dll" DATE="Fri Jul 03 13:19:51 PDT 2020" VERSION="4.00.440">
+    <EXPORT ORDINAL="1" NAME="SqxAddArchiveComment" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SqxAddFileComments" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SqxAddFileList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SqxAddFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SqxDeleteFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SqxDoneArcFileList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SqxDoneFileList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SqxExtractFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SqxInitArcFileList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SqxInitFileList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SqxListFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SqxRepairFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SqxTestFiles" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

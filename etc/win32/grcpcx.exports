@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="grcpcx.dll" PATH="/DLLArchive/etc/GrCPcx.dll" DATE="Fri Jul 03 12:36:13 PDT 2020" VERSION="1, 1, 0, 0">
+    <EXPORT ORDINAL="2" NAME="DecodePcx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EncodePcx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FileInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

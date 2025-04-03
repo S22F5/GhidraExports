@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nxcharacter.dll" PATH="/DLLArchive/etc/NxCharacter.dll" DATE="Fri Jul 03 13:03:56 PDT 2020" VERSION="2, 7, 3, 4">
+    <EXPORT ORDINAL="1" NAME="??0NxControllerManager@@IAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0NxControllerManager@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1NxControllerManager@@MAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4NxControllerManager@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7NxControllerManager@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NxCreateControllerManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NxReleaseControllerManager" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

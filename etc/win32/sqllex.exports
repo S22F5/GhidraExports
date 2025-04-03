@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqllex.dll" PATH="/DLLArchive/etc/SQLLEX.DLL" DATE="Fri Jul 03 13:19:26 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="?GetInitalStatus@CDEditLexer@@UAGJPAK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetInitalStatus@CSQLLexer@@UAGJPAK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetTokenClassFromTokenInfo@CSQLLexer@@UAGJPAUTOKEN_INFO@@PAHPAK@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?LexLine@CSQLLexer@@UAGJJPAGPAK@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?LexLine@CSQLLexer@@UAGJJPAGPAKPAUSH_RECSEG@@@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?SetInitalStatus@CDEditLexer@@UAGJPAK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?SetInitalStatus@CSQLLexer@@UAGJPAK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

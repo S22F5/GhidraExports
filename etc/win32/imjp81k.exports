@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imjp81k.dll" PATH="/DLLArchive/etc/imjp81k.dll" DATE="Fri Jul 03 12:41:34 PDT 2020" VERSION="8.1.4202.0">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNowDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckFileType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CleanDicThreadFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateIFECommonInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateIFEDictionary2Instance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateIFEDictionaryInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateIFELanguageInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateIImeIPointInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateIImeKbdInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateIImeKnlDictInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateIRegManInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="KnlClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="KnlInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="KnlOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="KnlTerm" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="LoadTipConfig" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="OurCoCreateInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="OurCoTaskMemAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="OurCoTaskMemFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="OurCoTaskMemRealloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="OurStringFromGUID2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RgSetGakusyuu" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ShutdownKnlDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="UnLoadOurOle32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="reload_config" PURGE="0" COMMENT="" />
+</LIBRARY>
+

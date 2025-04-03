@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgattlk.dll" PATH="/DLLArchive/etc/jgattlk.dll" DATE="Fri Jul 03 12:44:16 PDT 2020" VERSION="032">
+    <EXPORT ORDINAL="1" NAME="JgatBegin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgatCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgatDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgatDup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgatEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgatProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgatSetOption" PURGE="0" COMMENT="" />
+</LIBRARY>
+

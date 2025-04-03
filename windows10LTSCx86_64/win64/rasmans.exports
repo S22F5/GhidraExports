@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasmans.dll" PATH="/DLLArchive/windows10LTSCX86_64/rasmans.dll" DATE="Wed Oct 06 06:52:13 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NlmGetBestCostNetworkConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NlmGetCostedNetworkSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NlmSetCostedNetworkSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ServiceInitialized" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ServiceRequestInProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VpnProfileMatchingNrpt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VpnProfileNrptHasExemptions" PURGE="0" COMMENT="" />
+</LIBRARY>
+

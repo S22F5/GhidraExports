@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="necko.dll" PATH="/DLLArchive/etc/necko.dll" DATE="Fri Jul 03 13:01:25 PDT 2020" VERSION="Personal">
+    <EXPORT ORDINAL="1" NAME="??0nsProxyObjectCallInfo@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0nsQueryElementAt@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0nsQueryElementAt@@QAE@PAVnsICollection@@IPAI@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4nsProxyObjectCallInfo@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4nsQueryElementAt@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??_7nsProxyObjectCallInfo@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_7nsQueryElementAt@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetMethodIndex@nsProxyObjectCallInfo@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetPLEvent@nsProxyObjectCallInfo@@QBEPAUPLEvent@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetParameterCount@nsProxyObjectCallInfo@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetParameterList@nsProxyObjectCallInfo@@QBEPAUnsXPTCVariant@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetProxyObject@nsProxyObjectCallInfo@@QBEPAVnsProxyObject@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetResult@nsProxyObjectCallInfo@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?SetResult@nsProxyObjectCallInfo@@QAEXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

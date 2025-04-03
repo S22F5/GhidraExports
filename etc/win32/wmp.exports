@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmp.dll" PATH="/DLLArchive/etc/wmp.dll" DATE="Fri Jul 03 13:35:29 PDT 2020" VERSION="9.00.00.3250">
+    <EXPORT ORDINAL="3000" NAME="Ordinal_3000" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3001" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3002" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3003" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3004" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4000" NAME="Ordinal_4000" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbconverter.dll" PATH="/DLLArchive/etc/DBConverter.dll" DATE="Fri Jul 03 12:30:31 PDT 2020" VERSION="6,0,0,4">
+    <EXPORT ORDINAL="1" NAME="ConvertWithDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConverterFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConvertToFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConvertToManager" PURGE="0" COMMENT="" />
+</LIBRARY>
+

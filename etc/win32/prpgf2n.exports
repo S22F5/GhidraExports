@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="prpgf2n.dll" PATH="/DLLArchive/etc/PrPgf2n.dll" DATE="Fri Jul 03 22:07:49 CEST 2020" VERSION="2.01">
+    <EXPORT ORDINAL="2" NAME="PrintPgf2" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PrintOnePage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PrintDialog" PURGE="16" COMMENT="" />
+</LIBRARY>
+

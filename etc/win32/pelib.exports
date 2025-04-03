@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pelib.dll" PATH="/DLLArchive/etc/PELib.dll" DATE="Mon Apr 21 20:23:06 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="plAddImportFunction" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="plAddSection" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="plChangeEP" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="plCloseFile" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="plDeleteSection" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="plEnumExportFunctions" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="plEnumImportFunctions" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="plEnumSections" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="plFindSection" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="plGetExportsInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="plGetImportsInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="plGetPeInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="plGetSectionInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="plInsertWatermark" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="plLocateMapOffset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="plLocateOffset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="plMapOffsetToRVA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="plOffsetToRVA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="plOpenFile" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="plRVAToMapOffset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="plRVAToOffset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="plSaveToNewFile" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="plSetFileSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="plUpdateExportsInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="plUpdateImportsInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="plUpdatePeInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="plUpdateSectionInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="plZeroMemory" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

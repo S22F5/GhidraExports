@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="thread.dll" PATH="/DLLArchive/etc/thread.dll" DATE="Mon Oct 29 07:58:20 PST 2001" VERSION="1.2.0.6">
+    <EXPORT ORDINAL="1" NAME="@OpenThreadW9x$quliul" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

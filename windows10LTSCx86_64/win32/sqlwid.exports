@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqlwid.dll" PATH="/DLLArchive/windows10LTSCX86_64/sqlwid.dll" DATE="Sat Dec 07 10:10:02 CET 2019" VERSION="2000.080.2039.00">
+    <EXPORT ORDINAL="1" NAME="GetEnvironmentStrings_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetProcAddress_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenFile_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_hwrite_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_lcreat_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_lopen_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_lwrite_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ttof" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="strerror_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="wstrlen" PURGE="0" COMMENT="" />
+</LIBRARY>
+

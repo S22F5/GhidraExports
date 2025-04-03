@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvcpl.dll" PATH="/DLLArchive/etc/nvcpl.dll" DATE="Fri Jul 03 13:02:31 PDT 2020" VERSION="5.13.01.1520">
+    <EXPORT ORDINAL="1" NAME="ExportNvCplAdapterString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExportNvWsApps" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ExportOEMDefaults" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NvCplMonitorDetection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NvQTweak" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NvStartup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NvValidateNvidiaCapable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="launchtvapplet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="setview" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="updateview" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

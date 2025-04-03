@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfos.dll" PATH="/DLLArchive/windows10LTSCX86_64/perfos.dll" DATE="Wed Oct 06 15:52:35 CEST 2021" VERSION="10.0.19041.488 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CloseOSObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectOSObjectData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenOSObject" PURGE="4" COMMENT="" />
+</LIBRARY>
+

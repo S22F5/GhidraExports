@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="physxloader.dll" PATH="/DLLArchive/etc/PhysXLoader.dll" DATE="Sun Sep 25 13:32:06 CEST 2016" VERSION="2, 6, 3, 3">
+    <EXPORT ORDINAL="1" NAME="NxCreatePhysicsSDK" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NxCreatePhysicsSDKWithID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NxGetCookingLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NxGetCookingLibWithID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NxGetFoundationSDK" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NxGetPhysicsSDK" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NxGetPhysicsSDKAllocator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NxGetUtilLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NxReleasePhysicsSDK" PURGE="0" COMMENT="" />
+</LIBRARY>
+

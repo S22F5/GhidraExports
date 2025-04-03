@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-threadpool-l1-2-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-threadpool-l1-2-0.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CallbackMayRunLong" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CallbackMayRunLong" />
+    <EXPORT ORDINAL="2" NAME="CancelThreadpoolIo" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CancelThreadpoolIo" />
+    <EXPORT ORDINAL="3" NAME="CloseThreadpool" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpool" />
+    <EXPORT ORDINAL="4" NAME="CloseThreadpoolCleanupGroup" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpoolCleanupGroup" />
+    <EXPORT ORDINAL="5" NAME="CloseThreadpoolCleanupGroupMembers" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpoolCleanupGroupMembers" />
+    <EXPORT ORDINAL="6" NAME="CloseThreadpoolIo" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpoolIo" />
+    <EXPORT ORDINAL="7" NAME="CloseThreadpoolTimer" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpoolTimer" />
+    <EXPORT ORDINAL="8" NAME="CloseThreadpoolWait" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpoolWait" />
+    <EXPORT ORDINAL="9" NAME="CloseThreadpoolWork" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseThreadpoolWork" />
+    <EXPORT ORDINAL="10" NAME="CreateThreadpool" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateThreadpool" />
+    <EXPORT ORDINAL="11" NAME="CreateThreadpoolCleanupGroup" PURGE="0" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateThreadpoolCleanupGroup" />
+    <EXPORT ORDINAL="12" NAME="CreateThreadpoolIo" PURGE="16" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateThreadpoolIo" />
+    <EXPORT ORDINAL="13" NAME="CreateThreadpoolTimer" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateThreadpoolTimer" />
+    <EXPORT ORDINAL="14" NAME="CreateThreadpoolWait" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateThreadpoolWait" />
+    <EXPORT ORDINAL="15" NAME="CreateThreadpoolWork" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateThreadpoolWork" />
+    <EXPORT ORDINAL="16" NAME="DisassociateCurrentThreadFromCallback" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="DisassociateCurrentThreadFromCallback" />
+    <EXPORT ORDINAL="17" NAME="FreeLibraryWhenCallbackReturns" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="FreeLibraryWhenCallbackReturns" />
+    <EXPORT ORDINAL="18" NAME="IsThreadpoolTimerSet" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="IsThreadpoolTimerSet" />
+    <EXPORT ORDINAL="19" NAME="LeaveCriticalSectionWhenCallbackReturns" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="LeaveCriticalSectionWhenCallbackReturns" />
+    <EXPORT ORDINAL="20" NAME="QueryThreadpoolStackInformation" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="QueryThreadpoolStackInformation" />
+    <EXPORT ORDINAL="21" NAME="ReleaseMutexWhenCallbackReturns" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="ReleaseMutexWhenCallbackReturns" />
+    <EXPORT ORDINAL="22" NAME="ReleaseSemaphoreWhenCallbackReturns" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="ReleaseSemaphoreWhenCallbackReturns" />
+    <EXPORT ORDINAL="23" NAME="SetEventWhenCallbackReturns" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetEventWhenCallbackReturns" />
+    <EXPORT ORDINAL="24" NAME="SetThreadpoolStackInformation" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolStackInformation" />
+    <EXPORT ORDINAL="25" NAME="SetThreadpoolThreadMaximum" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolThreadMaximum" />
+    <EXPORT ORDINAL="26" NAME="SetThreadpoolThreadMinimum" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolThreadMinimum" />
+    <EXPORT ORDINAL="27" NAME="SetThreadpoolTimer" PURGE="16" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolTimer" />
+    <EXPORT ORDINAL="28" NAME="SetThreadpoolTimerEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolTimerEx" />
+    <EXPORT ORDINAL="29" NAME="SetThreadpoolWait" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolWait" />
+    <EXPORT ORDINAL="30" NAME="SetThreadpoolWaitEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadpoolWaitEx" />
+    <EXPORT ORDINAL="31" NAME="StartThreadpoolIo" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="StartThreadpoolIo" />
+    <EXPORT ORDINAL="32" NAME="SubmitThreadpoolWork" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SubmitThreadpoolWork" />
+    <EXPORT ORDINAL="33" NAME="TrySubmitThreadpoolCallback" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="TrySubmitThreadpoolCallback" />
+    <EXPORT ORDINAL="34" NAME="WaitForThreadpoolIoCallbacks" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="WaitForThreadpoolIoCallbacks" />
+    <EXPORT ORDINAL="35" NAME="WaitForThreadpoolTimerCallbacks" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="WaitForThreadpoolTimerCallbacks" />
+    <EXPORT ORDINAL="36" NAME="WaitForThreadpoolWaitCallbacks" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="WaitForThreadpoolWaitCallbacks" />
+    <EXPORT ORDINAL="37" NAME="WaitForThreadpoolWorkCallbacks" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="WaitForThreadpoolWorkCallbacks" />
+</LIBRARY>
+

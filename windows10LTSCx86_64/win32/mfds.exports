@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfds.dll" PATH="/DLLArchive/windows10LTSCX86_64/mfds.dll" DATE="Wed Oct 06 06:53:18 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitAACAudioStream_" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitAC3AudioStream_" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InitBDAVLPCMAudioStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InitDDPlusAudioStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitDTSAudioStream_" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitH264Stream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InitHEVCStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InitLPCMAudioStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="InitLPCMMiracastAudioStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InitMpeg1VideoStream_" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InitMpeg2VideoStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="InitMpegAudioStream_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="InitTrueHDAudioStream_" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PESHeaderLength" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PESPacketLength" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PESPacketPTSinPCR" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PackMuxRate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PackSCR" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="xCreateCannedMediaType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="xMediaSubTypeTransform" PURGE="4" COMMENT="" />
+</LIBRARY>
+

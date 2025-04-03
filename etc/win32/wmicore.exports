@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmicore.dll" PATH="/DLLArchive/etc/wmicore.dll" DATE="Fri Jul 03 13:34:48 PDT 2020" VERSION="5.00.2178.1">
+    <EXPORT ORDINAL="1" NAME="ServiceEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WmiDeinitializeService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WmiInitializeService" PURGE="0" COMMENT="" />
+</LIBRARY>
+

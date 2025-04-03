@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gamex86.dll" PATH="/DLLArchive/etc/gamex86.dll" DATE="Fri Jul 03 12:35:36 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetGameAPI" PURGE="0" COMMENT="" />
+</LIBRARY>
+

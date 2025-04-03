@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqlsusk.dll" PATH="/DLLArchive/etc/SQLSUSK.DLL" DATE="Fri Jul 03 13:19:41 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="GetDefinition" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDefinitionEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ValueEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ValueExFTS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ValueExLic" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ValueExPID" PURGE="8" COMMENT="" />
+</LIBRARY>
+

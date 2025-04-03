@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dec2.dll" PATH="/DLLArchive/etc/DEC2.DLL" DATE="Fri Jul 03 21:30:44 CEST 2020" VERSION="3.02.08.32">
+    <EXPORT ORDINAL="1" NAME="?DecDeleteDecomposer@@YAJPAVIDecomposer@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DecDeleteFileObject@@YAJPAVIDecObject@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DecGetVersion@@YAXPAPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?DecNewDecomposer@@YAJPAPAVIDecomposer@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?DecNewFileObject@@YAJPBDK0PAPAVIDecObject@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

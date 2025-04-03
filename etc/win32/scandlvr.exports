@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scandlvr.dll" PATH="/DLLArchive/etc/SCANDLVR.DLL" DATE="Fri Jul 03 13:14:08 PDT 2020" VERSION="9.05.15">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="StartSarcDeliver" PURGE="4" COMMENT="" />
+</LIBRARY>
+

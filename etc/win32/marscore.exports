@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="marscore.dll" PATH="/DLLArchive/etc/MARSCORE.DLL" DATE="Fri Jul 03 21:49:28 CEST 2020" VERSION="4.90.0.2525">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="8" COMMENT="" />
+</LIBRARY>
+

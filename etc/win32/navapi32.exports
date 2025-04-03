@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navapi32.dll" PATH="/DLLArchive/etc/NAVAPI32.DLL" DATE="Fri Jul 03 22:01:07 CEST 2020" VERSION="4.1.0.22">
+    <EXPORT ORDINAL="1" NAME="_NAVDeleteFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_NAVEngineClose@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_NAVEngineInit@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_NAVFreeVirusHandle@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_NAVGetNavapiVersionString@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_NAVGetVirusDBInfo@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_NAVGetVirusDBInfoEx@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_NAVGetVirusDefCount@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_NAVGetVirusDefDetectCount@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_NAVGetVirusDefInfo@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_NAVGetVirusDefMaxCount@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_NAVGetVirusDefTableCount@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_NAVGetVirusDefTableInfo@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_NAVGetVirusInfo@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_NAVIsInfectableFile@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_NAVLoadVirusDef@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_NAVLoadVirusDefTable@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_NAVReleaseVirusDef@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_NAVReleaseVirusDefTable@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_NAVRepairBoot@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_NAVRepairFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_NAVRepairMasterBoot@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_NAVScanBoot@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_NAVScanFile@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_NAVScanMasterBoot@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_NAVScanMemory@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_SymGetFreeSystemResources@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_SymSystemHeapInfo@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

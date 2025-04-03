@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="isskin.dll" PATH="/DLLArchive/etc/ISSkin.dll" DATE="Wed Nov 04 01:53:18 PST 2009" VERSION="3, 0, 0, 0">
+    <EXPORT ORDINAL="1" NAME="LoadSkin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UnloadSkin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

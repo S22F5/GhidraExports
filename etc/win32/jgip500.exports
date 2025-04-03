@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgip500.dll" PATH="/DLLArchive/etc/jgip500.dll" DATE="Fri Jul 03 21:44:24 CEST 2020" VERSION="022">
+    <EXPORT ORDINAL="1" NAME="JgipBegin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgipCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgipDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgipDup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgipEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgipProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgipSetOption" PURGE="0" COMMENT="" />
+</LIBRARY>
+

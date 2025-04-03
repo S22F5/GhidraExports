@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rpap3260.dll" PATH="/DLLArchive/etc/rpap3260.dll" DATE="Fri Jul 03 22:12:29 CEST 2020" VERSION="6.0.9.657">
+    <EXPORT ORDINAL="1" NAME="?DdeCallback@@YGPAUHDDEDATA__@@IIPAUHCONV__@@PAUHSZ__@@1PAU1@KK@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RCACreateClass" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_RPGetSingletonManager" PURGE="0" COMMENT="" />
+</LIBRARY>
+

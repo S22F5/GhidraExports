@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kamltsel.dll" PATH="/DLLArchive/etc/Kamltsel.dll" DATE="Fri Jul 03 21:45:01 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="2" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="@KaMultiSelect@0insert$qll24KaMultiSelect@SelectFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="@KaMultiSelect@0countSelected$qll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="@KaMultiSelect@0NthSelectedItem$qll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="@KaMultiSelect@0xFirstSelectedItem$q24KaMultiSelect@SelectFlagl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="@KaMultiSelect@0isSelected$ql" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="@KaMultiSelect@0toggle$ql" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="@KaMultiSelect@0xSelect$q24KaMultiSelect@SelectFlagl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="@KaMultiSelect@0xSelectRange$q24KaMultiSelect@SelectFlagll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="@KaMultiSelect@0xSelectAll$q24KaMultiSelect@SelectFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="@KaMultiSelect@0$bctr$qv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="@KaMultiSelect@0$bctr$qmx13KaMultiSelect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="@KaMultiSelect@0$bdtr$qv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="@KaMultiSelect@0copyFrom$qmx13KaMultiSelect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="@KaMultiSelect@0find$ql" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="@KaMultiSelect@0insertToggle$ql" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="@KaMultiSelect@0currentItem$qv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="@KaMultiSelect@0Not$q24KaMultiSelect@SelectFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="@KaMultiSelect@0getNext$qv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="KASTARTMULTISELECT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="KACOPYMULTISELECT" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="KAENDMULTISELECT" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="KAITEMISSELECTED" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="KATOGGLEITEM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="KASELECTITEM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="KADESELECTITEM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="KASELECTRANGE" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="KADESELECTRANGE" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="KASELECTALL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="KADESELECTALL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="KAFIRSTSELECTEDITEM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="KAFIRSTDESELECTEDITEM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="KANTHSELECTEDITEM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="KACOUNTSELECTED" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="KAMSINSERT" PURGE="14" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="9xmig.dll" PATH="/DLLArchive/etc/9xmig.dll" DATE="Fri Jul 03 21:12:22 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="2" NAME="___EXPORTEDSTUB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1" NAME="MIGRATION" PURGE="12" COMMENT="" />
+</LIBRARY>
+

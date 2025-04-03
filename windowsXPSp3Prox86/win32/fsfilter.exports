@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fsfilter.dll" PATH="/DLLArchive/windowsXPSp3Prox86/FSFILTER.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CheckForFsFilters" PURGE="8" COMMENT="" />
+</LIBRARY>
+

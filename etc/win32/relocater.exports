@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="relocater.dll" PATH="/DLLArchive/etc/Relocater.dll" DATE="Sun Dec 14 00:03:20 CET 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetModuleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RelocaterAddNewRelocation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RelocaterChangeFileBase" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RelocaterCompareTwoSnapshots" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RelocaterEstimatedSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RelocaterExportRelocation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RelocaterGrabRelocationTable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RelocaterGrabRelocationTableEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RelocaterInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RelocaterMakeSnapshoot" PURGE="16" COMMENT="" />
+</LIBRARY>
+

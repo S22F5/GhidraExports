@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="debugger.dll" PATH="/DLLArchive/etc/Debugger.dll" DATE="Sun Dec 21 11:08:30 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AttachDebugger" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClearDebug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ClearExceptionNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CurrentExceptionNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DebugLoop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DebugLoopEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DeleteAPIBreakPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DeleteBPX" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DetachDebugger" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Find" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ForceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetContextData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetDebugData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetDebuggedDLLBaseAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetDebuggedFileBaseAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetExitCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetModuleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetTerminationData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="InitDLLDebug" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="InitDebug" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="LengthDisassemble" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="LengthDisassembleEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RemoveMemoryBPX" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SafeDeleteAPIBreakPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SafeDeleteBPX" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SehGoneWildProtection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SetAPIBreakPoint" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SetBPX" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SetContextData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SetCustomHandler" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetMemoryBPX" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="StopDebug" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rjwmapln.dll" PATH="/DLLArchive/etc/rjwmapln.dll" DATE="Fri Jul 03 13:12:10 PDT 2020" VERSION="6.0.8.1468">
+    <EXPORT ORDINAL="1" NAME="MPACreateComponentInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

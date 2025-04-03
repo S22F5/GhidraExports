@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="timedemo.dll" PATH="/DLLArchive/etc/TimeDemo.dll" DATE="Sat Mar 24 15:44:36 PDT 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RLPack_RemoveDemo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RLPack_TimeDemo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

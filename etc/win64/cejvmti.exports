@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cejvmti.dll" PATH="/DLLArchive/etc/CEJVMTI.dll" DATE="Thu Dec 19 17:48:44 CET 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??4CCEJVMTI@@QEAAAEAV0@AEBV0@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Agent_OnAttach" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Agent_OnLoad" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="avdsp.dll" PATH="/DLLArchive/etc/avdsp.dll" DATE="Fri Jul 03 12:24:24 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_MPV_common_init_mmx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_avdsp_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_draw_edges" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_dsputil_init_mmx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ff_h263_loop_filter_strength" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_inv_zigzag_direct16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_inverse" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_mm_flags" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_mm_support" PURGE="0" COMMENT="" />
+</LIBRARY>
+

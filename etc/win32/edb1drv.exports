@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="edb1drv.dll" PATH="/DLLArchive/etc/edb1drv.dll" DATE="Fri Jul 03 12:32:52 PDT 2020" VERSION="5, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="_DrvCreateDbTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_DrvQueryTableSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_DrvOpenDbTable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_DrvCloseDbTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_DrvAppendRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_DrvReadRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_DrvWriteRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_DrvDeleteRecord" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_DrvFlushDbTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_DrvQueryTableFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_DrvCreateIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_DrvBuildKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_DrvConvertToDouble" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_DrvAllocKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_DrvFreeKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_DrvOpenIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_DrvCloseIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_DrvAddKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_DrvDeleteKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_DrvFindRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_DrvCurrentKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_DrvNextKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_DrvPreviousKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_DrvFlushIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_DrvTopIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_DrvBottomIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_DrvIndexRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_DrvCreateVardata" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_DrvOpenVardata" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_DrvAddVardataItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_DrvRemoveVardataItem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_DrvQueryVardataSize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_DrvRetrieveVardataItem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_DrvCloseVardata" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_DrvWidestTableColumn" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_DrvCloseOldestFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_DrvQueryExtensions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_DrvQueryIndexFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="_DrvCalcOffsets" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="_DrvWriteVardataItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="_DrvPackTable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="_DrvUnindexRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="_DrvVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="_DrvQueryCapability" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="_DrvRecallRecord" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="_DrvWriteBinVardataItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="_DrvAddBinVardataItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="_DrvQueryBinVardataSize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="_DrvRetrieveBinVardataItem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="_DrvFreeMemTable" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rometadata.dll" PATH="/DLLArchive/windows10LTSCX86_64/rometadata.dll" DATE="Sat Dec 07 01:09:20 PST 2019" VERSION="4.8.3673.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="MetaDataGetDispenser" PURGE="12" COMMENT="" />
+</LIBRARY>
+

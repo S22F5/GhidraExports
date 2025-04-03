@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imbrowse.dll" PATH="/DLLArchive/etc/ImBrowse.dll" DATE="Fri Jul 03 21:41:24 CEST 2020" VERSION="2, 0, 0, 1184">
+    <EXPORT ORDINAL="1" NAME="??0CIncrediWeb@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CIncrediWeb@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CIncrediWeb@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CIncrediWeb@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7CIncrediWeb@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AddDefaultParameters@CIncrediWeb@@QAEXAAVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?AddParameter@CIncrediWeb@@QAEXAAVCString@@PBD1@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?AddParameter@CIncrediWeb@@QAEXAAVCString@@PBDK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?BuildProductUrl@CIncrediWeb@@QAEXPBD0AAVCString@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?DownloadContent@CIncrediWeb@@QAEJPBDAAVCString@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?DownloadLicense@CIncrediWeb@@QAEJPBD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetHelpUrl@CIncrediWeb@@QAEXPBDAAVCString@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetPageUrl@CIncrediWeb@@QAEXPBDAAVCString@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GoHome@CIncrediWeb@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GoToBonusContents@CIncrediWeb@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GoToDaily@CIncrediWeb@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GoToGallery@CIncrediWeb@@QAEXW4ContentType@@PBD1@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GoToHelp@CIncrediWeb@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GoToMoreInfo@CIncrediWeb@@QAEXPBD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GoToPage@CIncrediWeb@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GoToPurchaseThanks@CIncrediWeb@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GoToPurchases@CIncrediWeb@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GoToUninstall@CIncrediWeb@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IncrediBrowserCloseSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IncrediBrowserGetFileFromNet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IncrediBrowserGetUserId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IncrediBrowserGuessUserServers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IncrediBrowserNotifyUserLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IncrediBrowserReleaseUserLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IncrediBrowserSendUserRegistration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IncrediBrowserSendUserStatistics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IncrediBrowserSetUserCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IncrediBrowserSetUserId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?OpenImURL@CIncrediWeb@@QAEXPBDH0H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?OpenURL@CIncrediWeb@@QAEXPBDH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?ReplaceURLTags@CIncrediWeb@@QAEJAAVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?SetCookies@CIncrediWeb@@QAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

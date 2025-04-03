@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="midas.dll" PATH="/DLLArchive/etc/midas.dll" DATE="Fri Jul 03 12:51:16 PDT 2020" VERSION="7.0.4.453">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InitAlchemy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ExitAlchemy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetDataSnapClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="@WEP$qqsi" PURGE="4" COMMENT="" />
+</LIBRARY>
+

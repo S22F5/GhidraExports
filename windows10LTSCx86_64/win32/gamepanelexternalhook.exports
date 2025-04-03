@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gamepanelexternalhook.dll" PATH="/DLLArchive/windows10LTSCX86_64/GamePanelExternalHook.dll" DATE="Sat Dec 07 01:09:55 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="?GPHHookWindowPointerDown@CGamePanelExternalHook@@SGIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetInstance@CGamePanelExternalHook@@SGAAV1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?Hook@CGamePanelExternalHook@@QAEXPAUHWND__@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?SetIntercept@CGamePanelExternalHook@@QAEX_NPAUHWND__@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Unhook@CGamePanelExternalHook@@QAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

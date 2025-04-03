@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msconf.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msconf.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="6" NAME="DllGetVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CleanupNetMeetingDispDriverW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="82" NAME="NewMediaPhone" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="83" NAME="CallToProtocolHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="84" NAME="OpenConfLink" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="85" NAME="VerifyUserInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

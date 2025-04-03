@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vbai60.dll" PATH="/DLLArchive/etc/vbai60.dll" DATE="Fri Jul 03 22:26:17 CEST 2020" VERSION="6.01.9142">
+    <EXPORT ORDINAL="1" NAME="Init" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SelectFeatures" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RequiredDiskSpace" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Install" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UnInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetLastErrorRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetInstalledFeatures" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Abort" PURGE="0" COMMENT="" />
+</LIBRARY>
+

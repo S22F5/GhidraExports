@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="waasmediccapsule.dll" PATH="/DLLArchive/windows10LTSCX86_64/WaaSMedicCapsule.dll" DATE="Wed Oct 06 06:51:42 PDT 2021" VERSION="10.0.19041.1165 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EnumeratePlugins" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPluginDefaultSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetSettingsName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Plugin_DetectCondition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Plugin_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Plugin_IsActionApplicable2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Plugin_IsEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Plugin_IsInteractiveOnly" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Plugin_PerformAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Plugin_Uninit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

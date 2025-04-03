@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="upnpui.dll" PATH="/DLLArchive/etc/upnpui.dll" DATE="Fri Jul 03 13:25:11 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InstallUPnPUI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsUPnPUIInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UnInstallUPnPUI" PURGE="4" COMMENT="" />
+</LIBRARY>
+

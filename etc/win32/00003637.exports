@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="00003637.dll" PATH="/DLLArchive/etc/00003637.dll" DATE="Fri Jul 03 22:43:46 CEST 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="GetArchivesModule" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dshellgenerichook.dll" PATH="/DLLArchive/etc/DShellGenericHook.dll" DATE="Fri Jul 03 12:32:18 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0CDShellGenericHook@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??4CDShellGenericHook@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?InstallHook@CDShellGenericHook@@QAEX_NPAUHWND__@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?fnDShellGenericHook@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?fnInstallHook@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?nDShellGenericHook@@3HA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

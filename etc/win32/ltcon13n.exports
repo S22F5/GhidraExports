@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltcon13n.dll" PATH="/DLLArchive/etc/LTCON13n.dll" DATE="Fri Jul 03 21:47:59 CEST 2020" VERSION="13.0.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_ContainerIsValid" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_ContainerInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_ContainerFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_ContainerCreate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_ContainerUpdate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_ContainerReset" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_ContainerEditObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_ContainerSetOwner" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_ContainerSetMetrics" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_ContainerSetOffset" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_ContainerSetScalar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_ContainerSetObjectType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_ContainerSetObjectCursor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_ContainerSetEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_ContainerSetCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="L_ContainerSetOwnerDraw" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="L_ContainerGetOwner" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="L_ContainerGetMetrics" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="L_ContainerGetOffset" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="L_ContainerGetScalar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="L_ContainerGetObjectType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="L_ContainerGetObjectCursor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="L_ContainerGetCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="L_ContainerIsEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="L_ContainerIsOwnerDraw" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="L_ContainerSetAutomationCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="L_ScreenToContainer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="L_ContainerToScreen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="204" NAME="L_ContainerEnableUpdate" PURGE="8" COMMENT="" />
+</LIBRARY>
+

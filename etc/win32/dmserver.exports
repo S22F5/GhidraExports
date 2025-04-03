@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmserver.dll" PATH="/DLLArchive/etc/dmserver.dll" DATE="Fri Jul 03 12:31:49 PDT 2020" VERSION="2600.2180.503.0">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

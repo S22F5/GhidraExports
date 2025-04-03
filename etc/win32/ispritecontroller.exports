@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ispritecontroller.dll" PATH="/DLLArchive/etc/ISpriteController.dll" DATE="Fri Jul 03 12:43:38 PDT 2020" VERSION="2, 1, 0, 9">
+    <EXPORT ORDINAL="1" NAME="GetExternalObjectController" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetObjectController" PURGE="0" COMMENT="" />
+</LIBRARY>
+

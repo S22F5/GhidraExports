@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tetheringclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/tetheringclient.dll" DATE="Sat Dec 07 01:09:11 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="TetheringGetSharedInterfaceIndices" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TetheringAuthorize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TetheringDeinitApi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TetheringFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TetheringFreePeerList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TetheringGetClientCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TetheringGetDefaultInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TetheringGetErrorString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TetheringGetIsPeerlessTimeoutEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TetheringGetLastApiError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TetheringGetMaxClientCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TetheringGetPeerList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TetheringGetPreferredInterface" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TetheringGetPrivateConnectionSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TetheringGetPublicConnectionSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="TetheringGetSharingState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="TetheringInitApi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="TetheringIs5GHzSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TetheringIsAllowed" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="TetheringRegisterNotification" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TetheringSetIsPeerlessTimeoutEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TetheringSetPreferredInterface" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TetheringSetPrivateConnectionSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TetheringSetPrivateConnectionSettingsAsync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TetheringSetPublicConnectionSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TetheringSetSharingState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TetheringSetSharingStateAsync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TetheringStartSharing" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TetheringStartSharingAsync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TetheringStopSharing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="TetheringStopSharingAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="TetheringUnregisterNotification" PURGE="4" COMMENT="" />
+</LIBRARY>
+

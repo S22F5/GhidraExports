@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="armnf.dll" PATH="/DLLArchive/etc/ArmNF.dll" DATE="Thu Jul 01 06:03:21 PDT 2010" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_AdvancedPatch@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Analyze@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Init@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_LoadTable@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_MakeLog@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_WriteTableToFile@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

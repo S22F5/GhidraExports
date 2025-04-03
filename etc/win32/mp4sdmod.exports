@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mp4sdmod.dll" PATH="/DLLArchive/etc/mp4sdmod.dll" DATE="Fri Jul 03 12:52:34 PDT 2020" VERSION="9.00.00.3250">
+    <EXPORT ORDINAL="1" NAME="CreateInstance" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

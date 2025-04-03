@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hlp95en.dll" PATH="/DLLArchive/etc/HLP95EN.dll" DATE="Fri Apr 24 11:37:00 PDT 1998" VERSION="1.01.0000">
+    <EXPORT ORDINAL="1" NAME="DynALinkWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MsoSetFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MsoChangeFont" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MsoSF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MsoCF" PURGE="12" COMMENT="" />
+</LIBRARY>
+

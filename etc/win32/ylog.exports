@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ylog.dll" PATH="/DLLArchive/etc/ylog.dll" DATE="Fri Jul 03 13:43:19 PDT 2020" VERSION="1.0.0.55799">
+    <EXPORT ORDINAL="1" NAME="ylog_cleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ylog_configure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ylog_debug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ylog_detail_debug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ylog_enable_thread_mapping" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ylog_error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ylog_map_thread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ylog_perf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ylog_set_global_level" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ylog_set_thread_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ylog_setlevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ylog_status" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ylog_vdebug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ylog_vdetail_debug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ylog_verror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ylog_vstatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ylog_vwarning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ylog_warning" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3cthnk32.dll" PATH="/DLLArchive/etc/3cthnk32.dll" DATE="Fri Jul 03 12:10:41 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_CallCallEnumFxn@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_CallDisableDriver@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_CallEnableDriver@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CallEnumFxn" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_CallIOPortBase@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_CallMyThunk@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DisableDriver" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnableDriver" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IOPortBase" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MyThunk" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="thk_ThunkData32" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

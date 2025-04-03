@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libexif-9.dll" PATH="/DLLArchive/etc/libexif-9.dll" DATE="Fri Jul 03 12:46:46 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_exif_byte_order_get_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_exif_content_add_entry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_exif_content_dump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_exif_content_foreach_entry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_exif_content_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_exif_content_get_entry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_exif_content_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_exif_content_ref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_exif_content_remove_entry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_exif_content_unref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_exif_data_dump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_exif_data_foreach_content" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_exif_data_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_exif_data_get_byte_order" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_exif_data_load_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_exif_data_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_exif_data_new_from_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_exif_data_new_from_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_exif_data_ref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_exif_data_save_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_exif_data_set_byte_order" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_exif_data_unref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_exif_entry_dump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_exif_entry_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_exif_entry_get_value" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_exif_entry_get_value_brief" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_exif_entry_initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_exif_entry_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_exif_entry_ref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_exif_entry_unref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_exif_format_get_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_exif_format_get_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_exif_get_long" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_exif_get_rational" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_exif_get_short" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_exif_get_slong" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_exif_get_srational" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_exif_ifd_get_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="_exif_loader_get_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="_exif_loader_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="_exif_loader_ref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="_exif_loader_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="_exif_loader_unref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="_exif_loader_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="_exif_set_long" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="_exif_set_rational" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="_exif_set_short" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="_exif_set_slong" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="_exif_set_srational" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="_exif_tag_get_description" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="_exif_tag_get_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="_exif_tag_get_title" PURGE="0" COMMENT="" />
+</LIBRARY>
+

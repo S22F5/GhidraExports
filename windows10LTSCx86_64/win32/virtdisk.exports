@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="virtdisk.dll" PATH="/DLLArchive/windows10LTSCX86_64/virtdisk.dll" DATE="Wed Oct 06 06:52:32 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AddVirtualDiskParent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ApplySnapshotVhdSet" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AttachVirtualDisk" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BreakMirrorVirtualDisk" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CompactVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CompleteForkVirtualDisk" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateVirtualDisk" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DeleteSnapshotVhdSet" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DeleteVirtualDiskMetadata" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DetachVirtualDisk" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EnumerateVirtualDiskMetadata" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ExpandVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ForkVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetAllAttachedVirtualDiskPhysicalPaths" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetStorageDependencyInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetVirtualDiskInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetVirtualDiskMetadata" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetVirtualDiskOperationProgress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetVirtualDiskPhysicalPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MergeVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MirrorVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ModifyVhdSet" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="OpenVirtualDisk" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="QueryChangesVirtualDisk" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RawSCSIVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ResizeVirtualDisk" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SetVirtualDiskInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SetVirtualDiskMetadata" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TakeSnapshotVhdSet" PURGE="12" COMMENT="" />
+</LIBRARY>
+

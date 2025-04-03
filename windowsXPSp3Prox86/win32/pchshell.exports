@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pchshell.dll" PATH="/DLLArchive/windowsXPSp3Prox86/pchshell.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

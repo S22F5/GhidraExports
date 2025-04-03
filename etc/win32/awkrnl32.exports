@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awkrnl32.dll" PATH="/DLLArchive/etc/AWKRNL32.DLL" DATE="Fri Jul 03 12:24:31 PDT 2020" VERSION="4.0.963">
+    <EXPORT ORDINAL="1" NAME="_IFBufAlloc@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_IFBufFree@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_IFBufMakeWritable@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_IFBufShare@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_IFBufSplit@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_IFDbgCheck@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IFDbgPrintf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_IFDbgSetParams@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_IFMemAlloc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_IFMemFree@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_IFProfileHit@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_IFProfileProcessLog@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_IFProfileReport@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

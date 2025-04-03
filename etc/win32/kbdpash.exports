@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbdpash.dll" PATH="/DLLArchive/etc/kbdpash.dll" DATE="Fri Jul 03 21:45:21 CEST 2020" VERSION="6.1.7100.0 (winmain_win7rc.090421-1700)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

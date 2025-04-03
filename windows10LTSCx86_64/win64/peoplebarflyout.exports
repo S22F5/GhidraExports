@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="peoplebarflyout.dll" PATH="/DLLArchive/windows10LTSCX86_64/PeopleBarFlyout.dll" DATE="Wed Oct 06 06:51:49 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

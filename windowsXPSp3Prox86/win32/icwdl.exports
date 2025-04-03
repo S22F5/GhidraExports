@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icwdl.dll" PATH="/DLLArchive/windowsXPSp3Prox86/icwdl.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="DownLoadCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DownLoadClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DownLoadExecute" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DownLoadInit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DownLoadProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DownLoadSetStatusCallback" PURGE="8" COMMENT="" />
+</LIBRARY>
+

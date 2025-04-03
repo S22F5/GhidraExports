@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nv4.dll" PATH="/DLLArchive/etc/nv4.dll" DATE="Fri Jul 03 22:02:27 CEST 2020" VERSION="5.01.2001.1240">
+    <EXPORT ORDINAL="1" NAME="?nvCelsiusAAGetCompatibilitySettings@@YGXPAU_def_nv_d3d_context@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?nvCelsiusAAInitCompatibilitySettings@@YGXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

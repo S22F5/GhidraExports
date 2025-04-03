@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="copylock.dll" PATH="/DLLArchive/etc/copylock.dll" DATE="Mon Apr 21 20:24:32 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetDLLVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

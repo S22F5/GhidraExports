@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdtctm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msdtctm.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="2001.12.4414.700">
+    <EXPORT ORDINAL="4" NAME="DtcMainExt" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ASCWrapObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ASCDeliverDeferred" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ASCDefer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ASCGetSafeReference" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Create@CUISCore@@SGJPAPAV1@PAUIUnknown@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CreateInstance@CTm@@SGJPAPAV1@PAUIUnknown@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CreateInstance@CXaTmCore@@SGJPAPAV1@PAUIUnknown@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?CreateThreadPool@@YGJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?DllGetMapper_IGatewayTxFactory@@YGJABU_GUID@@PAPAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?DllGetMapper_ITxBeginFactory@@YGJABU_GUID@@PAPAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ASCWrapClassFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_GetTipFunctionalityWorking@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_SetTipFunctionalityWorking@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

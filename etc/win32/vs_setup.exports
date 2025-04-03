@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vs_setup.dll" PATH="/DLLArchive/etc/vs_setup.dll" DATE="Fri Sep 23 03:47:00 PDT 2005" VERSION="8.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="5" NAME="GetClassID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

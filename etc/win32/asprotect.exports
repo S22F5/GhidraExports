@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asprotect.dll" PATH="/DLLArchive/etc/ASProtect.dll" DATE="Thu Jan 18 13:13:16 PST 2001" VERSION="2.0.0.0">
+    <EXPORT ORDINAL="1" NAME="apiGetHardwareID" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="apiSetIniFile" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="apiGetTrialDays" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="apiGetTrialExecs" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="apiGetRegistrationBuffer" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

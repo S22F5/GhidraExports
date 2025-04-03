@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msobj10.dll" PATH="/DLLArchive/etc/MSOBJ10.DLL" DATE="Wed Jun 17 01:15:24 PDT 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="?FCreate@Image@objf@@SA_NAAV?$RefPtr@UImage@objf@@@@KPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?FCreate@Library@objf@@SA_NAAV?$RefPtr@ULibrary@objf@@@@KPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?FCreate@ObjectCode@objf@@SA_NAAV?$RefPtr@VObjectCode@objf@@@@KHK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?FCreate@ObjectCode@objf@@SA_NAAV?$RefPtr@VObjectCode@objf@@@@KPBD1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?get@FunctionSymbols@@SA_NAAV?$RefPtr@VSection@objf@@@@PAPAU1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?get@FunctionSymbols@@SA_NPADPAVObjectCode@objf@@PAPAU1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ESVGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ESVNext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ESVRelease" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ESVReset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FSGetEnumLocals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FSGetEnumParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FSGetFrameInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FSRelease" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FuncSymsGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OCRelease" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ObjectCodeGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SVName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SVOffBP" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SVRelease" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SVTypeIndex" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

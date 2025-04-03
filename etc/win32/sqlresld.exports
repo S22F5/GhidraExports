@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqlresld.dll" PATH="/DLLArchive/etc/SQLRESLD.DLL" DATE="Fri Jul 03 13:19:34 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="SQLGUISetLCID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SQLUILoadResourceDLL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SQLUIRegisterResourceDLLCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SQLUIUnRegisterResourceDLLCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SQLUIUnloadResourceDLL" PURGE="0" COMMENT="" />
+</LIBRARY>
+

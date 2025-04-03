@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nethost.dll" PATH="/DLLArchive/etc/nethost.dll" DATE="Wed Oct 25 00:06:20 CEST 2023" VERSION="7,0,1123,42427 @Commit: ecb34f85ec92e1b3c814edf7da83337e199e7f66">
+    <EXPORT ORDINAL="1" NAME="get_hostfxr_path" PURGE="0" COMMENT="" />
+</LIBRARY>
+

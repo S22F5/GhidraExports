@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqrt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqrt.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.01.1110">
+    <EXPORT ORDINAL="1" NAME="MQLogHR" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MQADsPathToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MQAllocateMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MQBeginTransaction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MQCloseCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MQCloseQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MQCreateCursor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MQCreateQueue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MQDeleteQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MQFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MQFreeSecurityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MQGetMachineProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MQGetOverlappedResult" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MQGetPrivateComputerInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MQGetQueueProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MQGetQueueSecurity" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MQGetSecurityContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MQGetSecurityContextEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MQHandleToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MQInstanceToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MQLocateBegin" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MQLocateEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MQLocateNext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MQMgmtAction" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MQMgmtGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MQOpenQueue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MQPathNameToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MQPurgeQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MQReceiveMessage" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MQReceiveMessageByLookupId" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MQRegisterCertificate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MQSendMessage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="MQSetQueueProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="MQSetQueueSecurity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RTCreateInternalCertificate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="RTDeleteInternalCert" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="RTGetInternalCert" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="RTGetUserCerts" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="RTIsDependentClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="RTOpenInternalCertStore" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="RTRegisterUserCert" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="RTRemoveUserCert" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="RTXactGetDTC" PURGE="4" COMMENT="" />
+</LIBRARY>
+

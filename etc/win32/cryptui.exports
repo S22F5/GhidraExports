@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptui.dll" PATH="/DLLArchive/etc/cryptui.dll" DATE="Fri Jul 03 12:28:18 PDT 2020" VERSION="5.131.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="ACUIProviderInvokeUI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CryptUIDlgCertMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CryptUIDlgFreeCAContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CryptUIDlgSelectCA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CryptUIDlgSelectCertificateA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CryptUIDlgSelectCertificateFromStore" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CryptUIDlgSelectCertificateW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CryptUIDlgSelectStoreA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CryptUIDlgSelectStoreW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CryptUIDlgViewCRLA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CryptUIDlgViewCRLW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CryptUIDlgViewCTLA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CryptUIDlgViewCTLW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CryptUIDlgViewCertificateA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CryptUIDlgViewCertificatePropertiesA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CryptUIDlgViewCertificatePropertiesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CryptUIDlgViewCertificateW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CryptUIDlgViewContext" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CryptUIDlgViewSignerInfoA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="CryptUIDlgViewSignerInfoW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CryptUIFreeCertificatePropertiesPagesA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CryptUIFreeCertificatePropertiesPagesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CryptUIFreeViewSignaturesPagesA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CryptUIFreeViewSignaturesPagesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CryptUIGetCertificatePropertiesPagesA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CryptUIGetCertificatePropertiesPagesW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="CryptUIGetViewSignaturesPagesA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="CryptUIGetViewSignaturesPagesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CryptUIStartCertMgr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CryptUIWizBuildCTL" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="CryptUIWizCertRequest" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="CryptUIWizCreateCertRequestNoDS" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="CryptUIWizDigitalSign" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="CryptUIWizExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="CryptUIWizFreeCertRequestNoDS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="CryptUIWizFreeDigitalSignContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="CryptUIWizImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="CryptUIWizQueryCertRequestNoDS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="CryptUIWizSubmitCertRequestNoDS" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="EnrollmentCOMObjectFactory_getInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="I_CryptUIProtect" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="I_CryptUIProtectFailure" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="LocalEnroll" PURGE="92" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="LocalEnrollNoDS" PURGE="92" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="RetrievePKCS7FromCA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="WizardFree" PURGE="4" COMMENT="" />
+</LIBRARY>
+

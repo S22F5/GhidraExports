@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ftpsapi2.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ftpsapi2.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="6.0.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="FtpGetAdminInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FtpSetAdminInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="I_FtpClearStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="I_FtpDisconnectUser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="I_FtpEnumerateUsers" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="I_FtpQueryStatistics" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="I_FtpQueryVolumeSecurity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="I_FtpSetVolumeSecurity" PURGE="12" COMMENT="" />
+</LIBRARY>
+

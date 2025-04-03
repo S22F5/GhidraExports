@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="divxmediaserver.dll" PATH="/DLLArchive/etc/DivXMediaServer.dll" DATE="Fri Jul 03 12:31:31 PDT 2020" VERSION="1, 2, 0, 13">
+    <EXPORT ORDINAL="1" NAME="commandline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="divxmain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

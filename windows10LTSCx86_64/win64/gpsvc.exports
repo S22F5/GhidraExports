@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpsvc.dll" PATH="/DLLArchive/windows10LTSCX86_64/gpsvc.dll" DATE="Wed Oct 06 15:52:05 CEST 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="106" NAME="Ordinal_106" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="GroupPolicyClientServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="GenerateRsopPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="IsSecureCachingDisabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="ProcessGroupPolicyCompletedExInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="ProcessGroupPolicyCompletedInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="RsopAccessCheckByTypeInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="RsopFileAccessCheckInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="RsopResetPolicySettingStatusInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="RsopSetPolicySettingStatusInternal" PURGE="0" COMMENT="" />
+</LIBRARY>
+

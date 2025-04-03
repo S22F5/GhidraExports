@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fwprintd.dll" PATH="/DLLArchive/etc/fwPrintD.dll" DATE="Fri Jul 03 12:35:18 PDT 2020" VERSION="3.0.123">
+    <EXPORT ORDINAL="1" NAME="FWAddFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FWStart" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FWAddFile2" PURGE="12" COMMENT="" />
+</LIBRARY>
+

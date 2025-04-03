@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="system.transactions.dll" PATH="/DLLArchive/windows10LTSCX86_64/System.Transactions.dll" DATE="Sat Dec 07 01:10:36 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="GetNotificationFactory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

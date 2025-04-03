@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgemgen.dll" PATH="/DLLArchive/etc/jgemgen.dll" DATE="Fri Jul 03 12:44:20 PDT 2020" VERSION="5010">
+    <EXPORT ORDINAL="2" NAME="JgpEMStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpEMShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpEMStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpEMMIDIOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpEMMIDIClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpEMMIDIDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpEMAuxOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpEMAuxClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpEMAuxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpEMDeviceGetCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpEMDeviceOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpEMDeviceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpEMDeviceStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpEMDeviceStopPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpEMDevicePausePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpEMDeviceResumePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpEMDeviceGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpEMDeviceInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgpEMDeviceSetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgpEMDeviceGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgpEMQueryMIDtoMIDIEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgpEMConvertMIDtoMIDIEvent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

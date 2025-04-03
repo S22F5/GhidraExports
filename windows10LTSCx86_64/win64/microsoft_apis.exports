@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoft_apis.dll" PATH="/DLLArchive/windows10LTSCX86_64/microsoft_apis.dll" DATE="Wed Aug 04 23:43:45 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="GetCollectionsBingAPIKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetEdgeServicesAPIKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetEdgeServicesAPIKeyExternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetFederatedLearningAuthHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetHevcDecoderLibName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetHevcOemPackageFamilyName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetHevcPackageFamilyName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetHevcRuntimeClassName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMicrosoftVoicesApiKey" PURGE="0" COMMENT="" />
+</LIBRARY>
+

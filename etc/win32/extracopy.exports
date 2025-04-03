@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="extracopy.dll" PATH="/DLLArchive/etc/extracopy.dll" DATE="Mon Apr 21 20:21:29 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Pluginclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Plugindestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ODBG_Pluginmainloop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ODBG_Pluginreset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_ODBG_Pluginshortcut" PURGE="0" COMMENT="" />
+</LIBRARY>
+

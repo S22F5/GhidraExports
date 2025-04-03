@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpeg_ls.dll" PATH="/DLLArchive/etc/Jpeg_LS.dll" DATE="Tue Oct 13 14:51:50 CEST 2020" VERSION="4.56.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadJPEG_LS_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SaveJPEG_LS_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

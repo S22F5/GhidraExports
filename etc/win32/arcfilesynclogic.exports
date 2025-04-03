@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="arcfilesynclogic.dll" PATH="/DLLArchive/etc/ArcFileSyncLogic.dll" DATE="Fri Jul 03 12:18:59 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="AFSL_SyncPreProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AFSL_SyncProc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

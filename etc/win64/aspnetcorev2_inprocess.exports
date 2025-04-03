@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aspnetcorev2_inprocess.dll" PATH="/DLLArchive/etc/aspnetcorev2_inprocess.dll" DATE="Thu Jun 27 04:08:20 PDT 2024" VERSION="18.0.24141.6">
+    <EXPORT ORDINAL="1" NAME="CreateApplication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="get_hostfxr_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="http_cancel_io" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="http_close_connection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="http_disable_buffering" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="http_enable_websockets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="http_flush_response_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="http_get_application_properties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="http_get_authentication_information" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="http_get_completion_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="http_get_raw_request" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="http_get_raw_response" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="http_get_server_variable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="http_has_response4" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="http_indicate_completion" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="http_post_completion" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="http_query_request_property" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="http_read_request_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="http_reset_stream" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="http_response_set_known_header" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="http_response_set_need_goaway" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="http_response_set_trailer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="http_response_set_unknown_header" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="http_set_completion_status" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="http_set_managed_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="http_set_response_status_code" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="http_set_server_variable" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="http_set_startup_error_page_content" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="http_stop_calls_into_managed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="http_stop_incoming_requests" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="http_websockets_flush_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="http_websockets_read_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="http_websockets_write_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="http_write_response_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="register_callbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="set_main_handler" PURGE="0" COMMENT="" />
+</LIBRARY>
+

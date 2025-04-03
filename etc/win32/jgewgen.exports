@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgewgen.dll" PATH="/DLLArchive/etc/jgewgen.dll" DATE="Fri Jul 03 21:44:21 CEST 2020" VERSION="5070">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgEDoCompress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgEFlush" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgEFrameInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgEFreeHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgEGetARTStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgEGetARTStreamSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgEGetArray" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgEGetArrayElementSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgEGetArraySize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgEGetArrayXYSize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgEGetPaddedImageSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgEGetValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgEGetVisualPriorityMap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgEInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgEInputImage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgEInputImageStream" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgEInputResource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgEOptimize" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgEScreenInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgESet" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgESetMemCallbacks" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgEShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgEStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgLosslessCompress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgLosslessCompressPartitioned" PURGE="20" COMMENT="" />
+</LIBRARY>
+

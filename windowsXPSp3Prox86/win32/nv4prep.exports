@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nv4prep.dll" PATH="/DLLArchive/windowsXPSp3Prox86/NV4PREP.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="CompatibilityCheck" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

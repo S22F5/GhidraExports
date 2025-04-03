@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="reflexivearcade.dll" PATH="/DLLArchive/etc/reflexivearcade.dll" DATE="Fri Jul 03 22:11:08 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="radll_DrawNextFrameIntoBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="radll_EnterMenuSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="radll_GetDLLVersionAsInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="radll_GetDLLVersionAsString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="radll_GetLastErrorInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="radll_GetNumberOfRectsToUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="radll_GetUpdateRect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="radll_GetValueAsFloat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="radll_GetValueAsInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="radll_GetValueAsString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="radll_HandleWindowsMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="radll_HasTheProductBeenPurchased" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="radll_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="radll_IsASystemUpdateRequired" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="radll_IsTheMenuSessionComplete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="radll_SetPalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="radll_ShutDown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

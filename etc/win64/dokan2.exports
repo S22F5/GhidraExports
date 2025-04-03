@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dokan2.dll" PATH="/DLLArchive/etc/dokan2.dll" DATE="Fri Dec 22 04:48:14 PST 2023" VERSION="2.1.0.1000">
+    <EXPORT ORDINAL="1" NAME="DokanCloseHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DokanCreateFileSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DokanDebugMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DokanDriverVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DokanGetMountPointList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DokanInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DokanIsFileSystemRunning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DokanIsNameInExpression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DokanMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DokanMapKernelToUserCreateFileFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DokanNetworkProviderInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DokanNetworkProviderUninstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DokanNotifyCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DokanNotifyDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DokanNotifyRename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DokanNotifyUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DokanNotifyXAttrUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DokanNtStatusFromWin32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DokanOpenRequestorToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DokanRegisterWaitForFileSystemClosed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DokanReleaseMountPointList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DokanRemoveMountPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DokanResetTimeout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DokanServiceDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DokanServiceInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DokanSetDebugMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DokanShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DokanUnmount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DokanUnregisterWaitForFileSystemClosed" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DokanUseStdErr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DokanVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DokanWaitForFileSystemClosed" PURGE="0" COMMENT="" />
+</LIBRARY>
+

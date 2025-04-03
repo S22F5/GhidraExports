@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="crc32.dll" PATH="/DLLArchive/etc/CRC32.dll" DATE="Sun Nov 30 16:44:26 PST 2003" VERSION="1.0">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadDll" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

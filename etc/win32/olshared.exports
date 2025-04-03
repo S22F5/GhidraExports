@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="olshared.dll" PATH="/DLLArchive/etc/olshared.dll" DATE="Fri Jul 03 13:05:09 PDT 2020" VERSION="11.00.0716">
+    <EXPORT ORDINAL="1" NAME="?EndPathNotWithBackslash@@YAXPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?EndPathWithBackslash@@YAXPADPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?FFindSymbol@@YAHPAUHWND__@@PBDPADHW4__MIDL___MIDL_itf_iofd_0147_0001@@ABVCOfdCrnc@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?FGetLastFileUpdate@@YAHPBDPADK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?FGetLastSmartConnectAttempt@@YAHPADK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?FGetLastSmartConnectSuccess@@YAHPADK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?FIsValidCabFile@@YAHAAVCString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?FLookUpMnyPassLinks@@YAHPBDPAVCString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?FReadDWORDFromRegistry@@YAHPAUHKEY__@@PBD1PAK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?FReadRegistryString@@YAHPAUHKEY__@@PBD1PADH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?FWriteDWORDToRegistry@@YAHPAUHKEY__@@PBD1K@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?FWriteRegistryString@@YAHPAUHKEY__@@PBD11@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?FormatSummaryInfo@@YAXPAPAGPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GUIDtoTCHAR" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?HrExplodeFile@@YAJPBD00@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HrGetIConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HrGetIHttp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HrGetIPhonebook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?HrLoadIMnyPass@@YAJPAPAUIMnyPassLogon@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?HrLoadIMnyRoam@@YAJPAPAUIMnyRoaming@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?HrLoadIOlSvcUpdate@@YAJPAPAUIOlSvcUpdate@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HrLoadMnyInet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?TszMnyPassLinksFromName@@YAPBDPBDPAVCString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?VReplaceEntities@@YAXPAD@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

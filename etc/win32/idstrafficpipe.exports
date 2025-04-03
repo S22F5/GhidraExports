@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="idstrafficpipe.dll" PATH="/DLLArchive/etc/IDSTRAFFICPIPE.DLL" DATE="Fri Jul 03 12:40:09 PDT 2020" VERSION="5. 5. 0. 0">
+    <EXPORT ORDINAL="1" NAME="?IdsSetDebugOutput@@YAXP6AXPBDPAX@Z1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?IdsSetEventOutput@@YAXP6AXUSEL_EVENT_LOG@@PAX@Z1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?SpCreateIdsSignatureLib@@YAPAVIIdsSignatureLib@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?SpCreateTrafficPipeEx_IDS@@YAPAVISpTrafficPipeEx_IDS@@PADPAVISyLog@@PAVINetPortManager@@PAVITridentData@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?SpDeleteIdsSignatureLib@@YAXPAVIIdsSignatureLib@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?SpDeleteTrafficPipeEx_IDS@@YAXPAVISpTrafficPipeEx_IDS@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

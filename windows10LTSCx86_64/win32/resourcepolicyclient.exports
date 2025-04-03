@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="resourcepolicyclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/ResourcePolicyClient.dll" DATE="Wed Oct 06 15:52:25 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateGameConfigStoreClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateResourcePolicyEngineClient" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateResourcePolicyStoreClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeGameConfigStoreClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FreeResourcePolicyStoreClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InterruptiveUIStateChanged_Subscribe" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InterruptiveUIStateChanged_Unsubscribe" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="QueryApplicationInterruptiveUIState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="QueryApplicationInterruptiveUIStateByPsmKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="QueryPackageInterruptiveUIState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ResourcePolicy_GetGlobalProcessAffinityMask" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ResourcePolicy_GetProcessAffinityMask" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ResourcePolicy_RevertProcessAffinityMask" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ResourcePolicy_SetGlobalProcessAffinityMask" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ResourcePolicy_SetProcessAffinityMask" PURGE="16" COMMENT="" />
+</LIBRARY>
+

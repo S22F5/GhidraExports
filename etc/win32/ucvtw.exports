@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ucvtw.dll" PATH="/DLLArchive/etc/ucvtw.dll" DATE="Fri Jul 03 13:24:25 PDT 2020" VERSION="Personal">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

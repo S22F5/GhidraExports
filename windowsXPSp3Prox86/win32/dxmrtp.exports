@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dxmrtp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dxmrtp.dll" DATE="Sun Apr 13 20:42:50 PDT 2008" VERSION="5.2.4949.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="AudioGetCaptureDeviceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AudioGetRenderDeviceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AudioReleaseCaptureDeviceInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AudioReleaseRenderDeviceInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetNumVideoCapDevices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetVideoCapDeviceInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

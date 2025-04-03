@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pstorsvc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/pstorsvc.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="PSTOREServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ServiceEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Start" PURGE="4" COMMENT="" />
+</LIBRARY>
+

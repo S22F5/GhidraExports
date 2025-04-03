@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="munpack.dll" PATH="/DLLArchive/etc/mUnpack.dll" DATE="Fri Sep 03 00:29:08 CEST 2004" VERSION="1, 2, 0, 0">
+    <EXPORT ORDINAL="1" NAME="GetLog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UnpackFile" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

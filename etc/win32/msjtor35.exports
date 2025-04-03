@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msjtor35.dll" PATH="/DLLArchive/etc/MSJTOR35.DLL" DATE="Sun May 31 06:58:28 PDT 1998" VERSION="3.52.1527.4">
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

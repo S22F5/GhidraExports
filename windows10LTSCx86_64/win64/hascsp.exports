@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hascsp.dll" PATH="/DLLArchive/windows10LTSCX86_64/hascsp.dll" DATE="Sat Dec 07 01:08:13 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetForceRetrieve" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetHealthCert" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetNonce" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PolicyManager_PreCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetForceRetrieve" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetNonce" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

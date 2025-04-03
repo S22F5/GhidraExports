@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdll32.dll" PATH="/DLLArchive/etc/mdll32.dll" DATE="Fri Jul 03 12:49:50 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_getMidiTime@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_is32BitVersion@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_playEvent@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_setMidiJobFlag@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_startMidi@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_startMidiJob@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_stopMidi@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

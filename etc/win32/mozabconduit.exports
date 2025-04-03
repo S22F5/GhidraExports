@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mozabconduit.dll" PATH="/DLLArchive/etc/mozABConduit.dll" DATE="Fri Jul 03 12:52:13 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="ConfigureConduit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetConduitInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetConduitName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetConduitVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenConduit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

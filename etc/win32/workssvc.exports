@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="workssvc.dll" PATH="/DLLArchive/etc/workssvc.dll" DATE="Fri Jul 03 13:36:50 PDT 2020" VERSION="6.00.1817.0">
+    <EXPORT ORDINAL="1" NAME="HrAddEmailTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HrAddHistory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HrAppItemFieldGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HrDeleteTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HrInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HrLaunchAppItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HrLaunchTaskItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HrMruFrom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HrRegisterTasks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HrSetMessageParent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HrTaskItemFieldGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HrUdtAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HrUnInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HrUnRegisterTasks" PURGE="0" COMMENT="" />
+</LIBRARY>
+

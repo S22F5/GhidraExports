@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="plugindll.dll" PATH="/DLLArchive/etc/PluginDll.dll" DATE="Thu Sep 28 15:21:50 CEST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RDGPL" PURGE="16" COMMENT="" />
+</LIBRARY>
+

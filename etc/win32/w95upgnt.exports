@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="w95upgnt.dll" PATH="/DLLArchive/etc/w95upgnt.dll" DATE="Fri Jul 03 13:29:15 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="W95UpgNt_FileRemoval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="W95UpgNt_Migrate" PURGE="12" COMMENT="" />
+</LIBRARY>
+

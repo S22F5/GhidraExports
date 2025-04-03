@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="u2dpost.dll" PATH="/DLLArchive/etc/u2dpost.dll" DATE="Fri Jul 03 13:23:57 PDT 2020" VERSION="9.1.0.526">
+    <EXPORT ORDINAL="1" NAME="InitPerThread" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitPerThreadW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsThreadSafe" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsThreadSafeW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UXDA2WDestinationOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UXDDecodeDestinationOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UXDDecodeDestinationOptionsW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UXDDestinationOptionsA2W" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UXDDestinationOptionsW2A" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UXDEncodeDestinationOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UXDEncodeDestinationOptionsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UXDExportToDestination" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UXDExportToDestinationW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UXDFreeDestinationOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UXDFreeDestinationOptionsA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="UXDFreeDestinationOptionsW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UXDGetErrorText" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="UXDGetErrorTextW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UXDGetExportDestinations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UXDGetExportDestinationsW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="UXDGetVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="UXDGetVersionW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="UXDInitExportDestination" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="UXDInitExportDestinationW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="UXDInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="UXDInitializeW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="UXDTermExportDestination" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="UXDTermExportDestinationW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="UXDTerminate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="UXDTerminateW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="UninitPerThread" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="UninitPerThreadW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

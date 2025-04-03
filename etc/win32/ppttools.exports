@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ppttools.dll" PATH="/DLLArchive/etc/PPTTOOLS.DLL" DATE="Fri Jul 03 13:07:18 PDT 2020" VERSION="9.0.2601">
+    <EXPORT ORDINAL="1" NAME="CombineFiles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenPlayList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetATempFileName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CheckPPObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetRunningOnWin4Plus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SendAppMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetResourceString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ToolsInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsDBCCP" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDefaultSaveFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetMsoAddinDirectory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetPackNGoViewerFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PPViewerEnabled" PURGE="0" COMMENT="" />
+</LIBRARY>
+

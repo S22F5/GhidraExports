@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctspea32.dll" PATH="/DLLArchive/etc/CTSPEA32.dll" DATE="Fri Jul 03 12:28:31 PDT 2020" VERSION="1.05.80">
+    <EXPORT ORDINAL="1" NAME="CreateUDLLInstance" PURGE="16" COMMENT="" />
+</LIBRARY>
+

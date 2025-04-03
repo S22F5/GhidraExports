@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssoap30.dll" PATH="/DLLArchive/etc/MSSOAP30.DLL" DATE="Fri Jul 03 12:59:53 PDT 2020" VERSION="3.00.1906.0">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

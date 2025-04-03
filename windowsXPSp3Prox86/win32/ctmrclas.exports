@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctmrclas.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ctmrclas.dll" DATE="Fri Aug 17 13:36:12 PDT 2001" VERSION="1.11b">
+    <EXPORT ORDINAL="1" NAME="CoDeviceInstall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CoDevicePortInstall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DevicePortPropPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LibMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

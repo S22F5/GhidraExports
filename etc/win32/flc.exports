@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="flc.dll" PATH="/DLLArchive/etc/FLC.dll" DATE="Tue Aug 25 17:16:28 PDT 2009" VERSION="1.2.3.4">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="0" COMMENT="" />
+</LIBRARY>
+

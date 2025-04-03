@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tty.dll" PATH="/DLLArchive/etc/tty.dll" DATE="Fri Jul 03 22:23:43 CEST 2020" VERSION="5.2.3790.120 (srv03_qfe.031205-1652)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

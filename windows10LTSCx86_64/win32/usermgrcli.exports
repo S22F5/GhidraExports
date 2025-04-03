@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usermgrcli.dll" PATH="/DLLArchive/windows10LTSCX86_64/usermgrcli.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CamCleanupDisardedCandidateAccounts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CamConnectCandidateUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CamFreeAuthBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CamFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CamGetCandidateAccountCredz" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CamGetCandidateUserSessionIds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CamGetNonCandidateUserSessionIds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CamIsCandidateUser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CamIsEphemeralCandidateUser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CamRefreshCandidateUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsInteractiveUserSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="QueryActiveSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="QueryUserToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RegisterUsertokenForNoWinlogon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UMgrChangeSessionActiveShellUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="UMgrChangeSessionUserToken" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UMgrClearDefaultSignInAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="UMgrConnectLocalUser" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UMgrDisconnectLocalUser" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UMgrEnumerateSessionUsers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="UMgrFreeSessionUsers" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="UMgrFreeUserCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="UMgrGetCachedCredentials" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="UMgrGetConstrainedUserToken" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="UMgrGetDefaultSignInAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="UMgrGetImpersonationTokenForContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="UMgrGetSessionActiveShellUserToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="UMgrInformFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="UMgrInformUserLogoff" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="UMgrInformUserLogon" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="UMgrIsAllowedToActivateAsUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="UMgrLaunchShell" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="UMgrLaunchShellInfrastructureHost" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="UMgrLogonUser" PURGE="72" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="UMgrOpenProcessHandleForAccess" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="UMgrOpenProcessTokenForQuery" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="UMgrQueryDefaultAccountToken" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="UMgrQuerySessionUserToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="UMgrQuerySessionVirtualAccountToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="UMgrQueryUserContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="UMgrQueryUserContextFromName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="UMgrQueryUserContextFromSid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="UMgrQueryUserToken" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="UMgrQueryUserTokenFromName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="UMgrQueryUserTokenFromSid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="UMgrSetCachedCredentials" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="UMgrSetShellInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="UMgrpGetRegistryLocation" PURGE="8" COMMENT="" />
+</LIBRARY>
+

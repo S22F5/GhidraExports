@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="psapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/psapi.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="EmptyWorkingSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EnumDeviceDrivers" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EnumPageFilesA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnumPageFilesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnumProcessModules" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnumProcesses" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetDeviceDriverBaseNameA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDeviceDriverBaseNameW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetDeviceDriverFileNameA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDeviceDriverFileNameW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetMappedFileNameA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetMappedFileNameW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetModuleBaseNameA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetModuleBaseNameW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetModuleFileNameExA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetModuleFileNameExW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetModuleInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetPerformanceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetProcessImageFileNameA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetProcessImageFileNameW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetProcessMemoryInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetWsChanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="InitializeProcessForWsWatch" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="QueryWorkingSet" PURGE="12" COMMENT="" />
+</LIBRARY>
+

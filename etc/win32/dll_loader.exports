@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dll_loader.dll" PATH="/DLLArchive/etc/DLL_Loader.dll" DATE="Fri Apr 17 03:42:38 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Start" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Init" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EP_CheckupIsEnigmaOk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EP_CheckupIsProtected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EP_CheckupCopies" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EP_CryptHashStringW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EP_CryptHashStringA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EP_CryptHashFileW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EP_CryptHashFileA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EP_CryptHashBuffer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EP_ProtectedStringByKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EP_ProtectedStringByID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EP_MiscGetWatermark" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EP_CheckUpStartupPasswordHashString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EP_RegLoadKeyEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="EP_RegSaveKeyEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="EP_RegCheckKeyEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="EP_TrialExecutionTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="EP_TrialDateTillDate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="EP_TrialExpirationDate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="EP_TrialDays" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EP_TrialExecutions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="EP_RegKeyCreationDate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="EP_RegKeyExpirationDate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="EP_RegDeleteKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="EP_RegCheckAndSaveKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="EP_RegLoadAndCheckKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="EP_RegLoadKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="EP_RegSaveKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="EP_RegCheckKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="EP_RegHardwareID" PURGE="0" COMMENT="" />
+</LIBRARY>
+

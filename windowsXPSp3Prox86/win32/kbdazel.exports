@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbdazel.dll" PATH="/DLLArchive/windowsXPSp3Prox86/KBDAZEL.DLL" DATE="Mon Apr 14 14:00:00 CEST 2008" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

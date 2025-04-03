@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdt2df.dll" PATH="/DLLArchive/etc/MDT2DF.DLL" DATE="Fri Jun 19 15:59:48 PDT 1998" VERSION="2.00.00.8171">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="DllRegisterServerSetup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="FormsCloseParentUnit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="FormsOpenParentUnit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="FormsSetLCID" PURGE="4" COMMENT="" />
+</LIBRARY>
+

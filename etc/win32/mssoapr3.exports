@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssoapr3.dll" PATH="/DLLArchive/etc/MSSOAPR3.DLL" DATE="Fri Jul 03 21:59:54 CEST 2020" VERSION="3.00.1906.0">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

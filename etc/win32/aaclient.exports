@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aaclient.dll" PATH="/DLLArchive/etc/aaclient.dll" DATE="Fri Jul 03 12:14:35 PDT 2020" VERSION="6.1.7100.0 (winmain_win7rc.090421-1700)">
+    <EXPORT ORDINAL="1" NAME="LoadClientAdapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="g_fnStartTransport" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenKeyReader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OpenKeyReaderWriter" PURGE="8" COMMENT="" />
+</LIBRARY>
+

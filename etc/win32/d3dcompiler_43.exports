@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dcompiler_43.dll" PATH="/DLLArchive/etc/D3DCompiler_43.dll" DATE="Fri Jul 03 12:29:04 PDT 2020" VERSION="9.29.952.3111">
+    <EXPORT ORDINAL="1" NAME="D3DAssemble" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DebugSetMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3DCompile" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3DCompressShaders" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3DCreateBlob" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3DDecompressShaders" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3DDisassemble10Effect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D3DDisassemble" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="D3DGetBlobPart" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="D3DGetDebugInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="D3DGetInputAndOutputSignatureBlob" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="D3DGetInputSignatureBlob" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="D3DGetOutputSignatureBlob" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="D3DPreprocess" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="D3DReflect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="D3DReturnFailure1" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="D3DStripShader" PURGE="16" COMMENT="" />
+</LIBRARY>
+

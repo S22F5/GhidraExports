@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="userdatatimeutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/UserDataTimeUtil.dll" DATE="Wed Oct 06 06:52:27 PDT 2021" VERSION="10.0.19041.1081 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetDaysForMonth" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LIncrWord" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AdjustForAllDayAppts" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AdjustForBias" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AdjustGMTForAllDayAppts" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CmpDateST" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CmpST" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CmpYMD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ConvertFileTimeToLocalVariantTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ConvertLocalVariantTimeToFileTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ConvertSchedPlusToRenTz" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ConvertTimeZone" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ConvertVariantTimeToFileTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DaysBetweenDates" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DaysBetweenFT" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DowFromDate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DurationBetweenFT" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ExpandRtm" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FileTimeAdjustTzToUTC" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FileTimeAdjustUTCToTz" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FileTimeToLocalFileTimeEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FileTimeToTzSpecificVariantTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FileTimeToVariantTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetCurrentLocalTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetDaysForLunarMonthOfCalendar" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetLeapMonthOfLunarYear" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetLocalIANAName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetLunarDate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetLunarDateOfCalendar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetSolarDateOfCalendar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="GetStartEndTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IncrSystemTime" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IsSupportedLunarCalendarType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="LegacyTimezoneInformationToTimezoneInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="LocalFileTimeToFileTimeEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="MapIANATZNameToTZInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="MapTZInfoToIANAName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="MinutesBetweenFT" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="MinutesBetweenST" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="PimGet24HourFormat" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="PimGetDateFormat" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="PimGetLocaleInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="PimGetTimeFormat" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="RenFromStdTimeZoneInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="RoundEventTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SecondsBetweenFT" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="StdTimeZoneInfoFromRen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="TruncFt" PURGE="8" COMMENT="" />
+</LIBRARY>
+

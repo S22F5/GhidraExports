@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fm20.dll" PATH="/DLLArchive/etc/FM20.DLL" DATE="Fri Jul 03 12:34:17 PDT 2020" VERSION="11.0.5601">
+    <EXPORT ORDINAL="29" NAME="Ordinal_29" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Ordinal_30" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DllRegisterServerSetup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="FormsCheckUFIControls" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="FormsCloseParentUnit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="FormsOpenParentUnit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="FormsSetLCID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="Ordinal_50" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="Ordinal_51" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="Ordinal_52" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="Ordinal_104" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="Ordinal_105" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="Ordinal_106" PURGE="8" COMMENT="" />
+</LIBRARY>
+

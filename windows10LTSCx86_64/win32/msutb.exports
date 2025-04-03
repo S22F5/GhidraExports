@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msutb.dll" PATH="/DLLArchive/windows10LTSCX86_64/msutb.dll" DATE="Wed Oct 06 06:52:20 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ClosePopupTipbar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetChildTipbar" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetPopupTipbar" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetRegisterLangBand" PURGE="4" COMMENT="" />
+</LIBRARY>
+

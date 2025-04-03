@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltlst12n.dll" PATH="/DLLArchive/etc/ltlst12n.dll" DATE="Fri Jul 03 12:48:14 PDT 2020" VERSION="12.1.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_CreateImageListControl" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_UseImageListControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="ImageListProc" PURGE="16" COMMENT="" />
+</LIBRARY>
+

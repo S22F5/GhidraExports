@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="images.dll" PATH="/DLLArchive/etc/Images.dll" DATE="Fri Jul 03 12:41:19 PDT 2020" VERSION="3.00">
+    <EXPORT ORDINAL="1" NAME="__DrawImage@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__ReadBitmapFile@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

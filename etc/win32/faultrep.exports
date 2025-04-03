@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="faultrep.dll" PATH="/DLLArchive/etc/faultrep.dll" DATE="Fri Jul 03 12:33:52 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="AddERExcludedApplicationA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddERExcludedApplicationW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateMinidumpA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateMinidumpW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReportEREvent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ReportEREventDW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ReportFault" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReportFaultDWM" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReportFaultFromQueue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ReportFaultToQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ReportHang" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ReportKernelFaultA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ReportKernelFaultDWW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ReportKernelFaultW" PURGE="4" COMMENT="" />
+</LIBRARY>
+

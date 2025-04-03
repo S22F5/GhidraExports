@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pango-indic-fc.dll" PATH="/DLLArchive/etc/pango-indic-fc.dll" DATE="Fri Jul 03 13:06:06 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_beng_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_deva_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_gujr_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_guru_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_indic_mprefixups_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_indic_mprefixups_apply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_indic_mprefixups_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_indic_mprefixups_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_indic_ot_find_syllable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_indic_ot_get_char_class" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_indic_ot_get_split_matra" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_indic_ot_has_below_base_form" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_indic_ot_has_post_base_form" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_indic_ot_has_post_or_below_base_form" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_indic_ot_is_consonant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_indic_ot_is_length_mark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_indic_ot_is_m_above" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_indic_ot_is_m_below" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_indic_ot_is_m_post" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_indic_ot_is_m_pre" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_indic_ot_is_matra" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_indic_ot_is_nukta" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_indic_ot_is_reph" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_indic_ot_is_split_matra" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_indic_ot_is_vattu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_indic_ot_is_virama" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_indic_ot_is_vm_above" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_indic_ot_is_vm_post" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_indic_ot_reorder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_knda_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_mlym_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_orya_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_script_engine_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_script_engine_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_script_engine_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_script_engine_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_taml_class_table" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_telu_class_table" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

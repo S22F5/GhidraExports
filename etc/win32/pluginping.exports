@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pluginping.dll" PATH="/DLLArchive/etc/PluginPing.dll" DATE="Fri Jul 03 22:07:07 CEST 2020" VERSION="10.1r11">
+    <EXPORT ORDINAL="19" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Java_ShockwavePlugin_CurrentFrameResult_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Java_ShockwavePlugin_CurrentFrameSend_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Java_ShockwavePlugin_GetAutoStart_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Java_ShockwavePlugin_GotoFrame_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Java_ShockwavePlugin_GotoMovie_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Java_ShockwavePlugin_PendingResult_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Java_ShockwavePlugin_Play_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Java_ShockwavePlugin_Rewind_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Java_ShockwavePlugin_ScriptResult_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Java_ShockwavePlugin_ScriptSend_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Java_ShockwavePlugin_SetAutoStart_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Java_ShockwavePlugin_Stop_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SetupPlugin" PURGE="4" COMMENT="" />
+</LIBRARY>
+

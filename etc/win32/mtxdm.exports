@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mtxdm.dll" PATH="/DLLArchive/etc/MTXDM.DLL" DATE="Mon Jun 22 04:43:24 PDT 1998" VERSION="1997.11.532.0">
+    <EXPORT ORDINAL="1" NAME="?DispManGetContext@@YGJPAK0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DispManSetContext@@YGXKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDispenserManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDispenserManagerDriver" PURGE="0" COMMENT="" />
+</LIBRARY>
+

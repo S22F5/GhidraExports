@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kerbclientshared.dll" PATH="/DLLArchive/windows10LTSCX86_64/KerbClientShared.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="KerbClientAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KerbClientAllocateStoredCred" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KerbClientBuildAsReqAuthenticator" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="KerbClientBuildEncryptedAuthData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="KerbClientBuildExplicitArmorKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="KerbClientBuildFastArmoredKdcRequest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="KerbClientBuildFastChallenge" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="KerbClientBuildKeyList" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="KerbClientBuildStrengthenedReplyKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="KerbClientBuildTicketArmorKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="KerbClientComputeTgsChecksum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="KerbClientDecryptApReply" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="KerbClientDecryptPacCredentials" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="KerbClientDeriveFastChallengeKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="KerbClientDuplicateStoredCred" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="KerbClientFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="KerbClientFreeStoredCred" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="KerbClientFreeSupplementalCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="KerbClientPackApReply" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="KerbClientPackAsn1Buffer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="KerbClientParseKeyListReplyPaData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="KerbClientSharedCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="KerbClientSharedInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="KerbClientTransformStoredCred" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="KerbClientUnpackAsn1BufferVoid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="KerbClientUnpackKdcReplyBody" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="KerbClientUpdateSharedConfiguration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="KerbClientVerifyChecksum" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="KerbClientVerifyEncryptedChallengePaData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="KerbClientVerifyFastArmoredKdcReply" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="KerbClientVerifyFastArmoredKerbError" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="KerbClientVerifyFastArmoredTgsReply" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="KerbDHCreateBCryptKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="KerbDHGetLegacyDHParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="KerbDHGetLittleEndianPublicKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="KerbDHGetSharedSecretFromCapiKeyBuffer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="KerbKdcReplyContainsTgt" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="KerbPackKdcReplyWithEncryptedSessionKey" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbdukx.dll" PATH="/DLLArchive/windowsXPSp3Prox86/kbdukx.dll" DATE="Mon Apr 14 05:39:56 CEST 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

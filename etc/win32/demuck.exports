@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="demuck.dll" PATH="/DLLArchive/etc/deMuck.dll" DATE="Sat Apr 14 17:37:12 PDT 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

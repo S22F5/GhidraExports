@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="trkwrite.dll" PATH="/DLLArchive/etc/trkwrite.dll" DATE="Fri Jul 03 13:23:33 PDT 2020" VERSION="5.3.1.158">
+    <EXPORT ORDINAL="1" NAME="TrkCuni_EnableIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TrkCuni_Free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TrkCuni_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TrkCuni_PreventIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TrkWrt_FlushCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TrkWrt_Free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TrkWrt_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TrkWrt_Write" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="btaudiohelper.dll" PATH="/DLLArchive/etc/BtAudioHelper.dll" DATE="Fri Jul 03 12:25:30 PDT 2020" VERSION="5.5.0.7000">
+    <EXPORT ORDINAL="1" NAME="AddPacketIntoInQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseMicrophoneConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CloseSpeakerConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DisableMultimediaTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnableMultimediaTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FindBtAudioDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FindBtAudioInputDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FindBtAudioOutputDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetAudioDeviceIN" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetAudioDeviceOUT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetNumberWaveInDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetNumberWaveOutDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetPreferredDeviceFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetPreferredWaveInDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetPreferredWaveOutDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetSpeakerVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetWaveInDeviceInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetWaveOutDeviceInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IsBtAudioDevicePresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IsBtAudioInputDevicePresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IsBtAudioOutputDevicePresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IsBtAudioPreferredWaveInDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IsBtAudioPreferredWaveOutDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IsMultimediaTimerEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="OpenConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="OpenMicrophoneConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="OpenSpeakerConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SetPreferredDeviceFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SetPreferredWaveInDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetPreferredWaveOutDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetSpeakerVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SetupDefaultAudio" PURGE="0" COMMENT="" />
+</LIBRARY>
+

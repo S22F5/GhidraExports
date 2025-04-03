@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unidrvui.dll" PATH="/DLLArchive/etc/UNIDRVUI.DLL" DATE="Fri Jul 03 13:24:52 PDT 2020" VERSION="5.2.3790.120 (srv03_qfe.031205-1652)">
+    <EXPORT ORDINAL="254" NAME="DrvSplDeviceCaps" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="255" NAME="DevQueryPrintEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="256" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="DrvConvertDevMode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="DrvDeviceCapabilities" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="DrvDevicePropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="DrvDocumentEvent" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="DrvDocumentPropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="DrvDriverEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="DrvPrinterEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="264" NAME="DrvQueryColorProfile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="265" NAME="DrvQueryJobAttributes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="266" NAME="DrvUpgradePrinter" PURGE="8" COMMENT="" />
+</LIBRARY>
+

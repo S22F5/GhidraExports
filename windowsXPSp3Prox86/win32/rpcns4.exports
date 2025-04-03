@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rpcns4.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rpcns4.dll" DATE="Fri Aug 17 13:36:30 PDT 2001" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="I_GetDefaultEntrySyntax" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="I_RpcNsGetBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="I_RpcNsNegotiateTransferSyntax" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="I_RpcNsRaiseException" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="I_RpcNsSendReceive" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="I_RpcReBindBuffer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RpcIfIdVectorFree" PURGE="4" COMMENT="" FOWARDLIBRARY="RPCRT4.DLL" FOWARDSYMBOL="RpcIfIdVectorFree" />
+    <EXPORT ORDINAL="8" NAME="RpcNsBindingExportA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RpcNsBindingExportPnPA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RpcNsBindingExportPnPW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RpcNsBindingExportW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RpcNsBindingImportBeginA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RpcNsBindingImportBeginW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RpcNsBindingImportDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RpcNsBindingImportNext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RpcNsBindingLookupBeginA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RpcNsBindingLookupBeginW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RpcNsBindingLookupDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RpcNsBindingLookupNext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RpcNsBindingSelect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RpcNsBindingUnexportA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RpcNsBindingUnexportPnPA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RpcNsBindingUnexportPnPW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RpcNsBindingUnexportW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RpcNsEntryExpandNameA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RpcNsEntryExpandNameW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RpcNsEntryObjectInqBeginA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RpcNsEntryObjectInqBeginW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="RpcNsEntryObjectInqDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RpcNsEntryObjectInqNext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RpcNsGroupDeleteA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RpcNsGroupDeleteW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RpcNsGroupMbrAddA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RpcNsGroupMbrAddW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RpcNsGroupMbrInqBeginA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RpcNsGroupMbrInqBeginW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="RpcNsGroupMbrInqDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="RpcNsGroupMbrInqNextA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="RpcNsGroupMbrInqNextW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="RpcNsGroupMbrRemoveA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="RpcNsGroupMbrRemoveW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="RpcNsMgmtBindingUnexportA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="RpcNsMgmtBindingUnexportW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="RpcNsMgmtEntryCreateA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="RpcNsMgmtEntryCreateW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="RpcNsMgmtEntryDeleteA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="RpcNsMgmtEntryDeleteW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="RpcNsMgmtEntryInqIfIdsA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="RpcNsMgmtEntryInqIfIdsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="RpcNsMgmtHandleSetExpAge" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="RpcNsMgmtInqExpAge" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="RpcNsMgmtSetExpAge" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="RpcNsProfileDeleteA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="RpcNsProfileDeleteW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="RpcNsProfileEltAddA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="RpcNsProfileEltAddW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="RpcNsProfileEltInqBeginA" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="RpcNsProfileEltInqBeginW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="59" NAME="RpcNsProfileEltInqDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="RpcNsProfileEltInqNextA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="RpcNsProfileEltInqNextW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="RpcNsProfileEltRemoveA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="RpcNsProfileEltRemoveW" PURGE="20" COMMENT="" />
+</LIBRARY>
+

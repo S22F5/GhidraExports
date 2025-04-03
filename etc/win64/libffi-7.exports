@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libffi-7.dll" PATH="/DLLArchive/etc/libffi-7.dll" DATE="Wed Sep 16 20:41:58 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ffi_call" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ffi_call_go" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ffi_closure_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ffi_closure_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ffi_get_struct_offsets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ffi_java_ptrarray_to_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ffi_java_raw_call" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ffi_java_raw_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ffi_java_raw_to_ptrarray" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ffi_prep_cif" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ffi_prep_cif_var" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ffi_prep_closure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ffi_prep_closure_loc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ffi_prep_go_closure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ffi_prep_java_raw_closure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ffi_prep_java_raw_closure_loc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ffi_prep_raw_closure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ffi_prep_raw_closure_loc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ffi_ptrarray_to_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ffi_raw_call" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ffi_raw_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ffi_raw_to_ptrarray" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ffi_type_double" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ffi_type_float" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ffi_type_pointer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ffi_type_sint16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ffi_type_sint32" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ffi_type_sint64" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ffi_type_sint8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ffi_type_uint16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ffi_type_uint32" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ffi_type_uint64" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ffi_type_uint8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ffi_type_void" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

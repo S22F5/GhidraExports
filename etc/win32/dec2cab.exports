@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dec2cab.dll" PATH="/DLLArchive/etc/DEC2CAB.DLL" DATE="Fri Jul 03 12:30:44 PDT 2020" VERSION="3.02.08.32">
+    <EXPORT ORDINAL="1" NAME="?DecDeleteCabEngine@@YAJPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DecDeleteEngine@@YAJPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DecNewCabEngine@@YAJPAPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?DecNewEngine@@YAJPAPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

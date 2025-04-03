@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asycfilt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/asycfilt.dll" DATE="Sun Apr 13 20:41:50 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FilterCreateInstance" PURGE="20" COMMENT="" />
+</LIBRARY>
+

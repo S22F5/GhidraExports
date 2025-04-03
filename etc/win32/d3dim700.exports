@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dim700.dll" PATH="/DLLArchive/etc/d3dim700.dll" DATE="Fri Jul 03 12:29:07 PDT 2020" VERSION="5.03.2600.2180">
+    <EXPORT ORDINAL="1" NAME="D3DFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D3DMalloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3DRealloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Direct3DCreateDevice" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateTexture" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3DBreakVBLock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3DTextureUpdate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DestroyTexture" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Direct3DCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Direct3D_HALCleanUp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FlushD3DDevices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetLOD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetPriority" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PaletteAssociateNotify" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PaletteUpdateNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetLOD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetPriority" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SurfaceFlipNotify" PURGE="4" COMMENT="" />
+</LIBRARY>
+

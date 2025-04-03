@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqdscli.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqdscli.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.01.1110">
+    <EXPORT ORDINAL="1" NAME="DSBeginDeleteNotification" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DSCreateObject" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DSCreateServersCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DSDeleteObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DSDeleteObjectGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DSEndDeleteNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DSFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DSGetComputerSites" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DSGetObjectProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DSGetObjectPropertiesEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DSGetObjectPropertiesGuid" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DSGetObjectPropertiesGuidEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DSGetObjectSecurity" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DSGetObjectSecurityGuid" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DSGetUserParams" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DSInit" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DSLookupBegin" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DSLookupEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DSLookupNext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DSNotifyDelete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DSQMGetObjectSecurity" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DSQMSetMachineProperties" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DSSetObjectProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DSSetObjectPropertiesGuid" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DSSetObjectSecurity" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DSSetObjectSecurityGuid" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DSTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gzip.dll" PATH="/DLLArchive/windowsXPSp3Prox86/gzip.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="6.0.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="Compress" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateCompression" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateDecompression" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeInitCompression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeInitDecompression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Decompress" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DestroyCompression" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DestroyDecompression" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitCompression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitDecompression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ResetCompression" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ResetDecompression" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="apisnoop.dll" PATH="/DLLArchive/etc/APISnoop.dll" DATE="Mon Mar 12 02:49:32 PST 2001" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RetTrapProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TrappedApiCall" PURGE="8" COMMENT="" />
+</LIBRARY>
+

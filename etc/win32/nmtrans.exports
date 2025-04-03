@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmtrans.dll" PATH="/DLLArchive/etc/nmtrans.dll" DATE="Sat Aug 30 22:56:46 CEST 2003" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?NmSymPackageSourceFiles@@YAPAEPAUNmSymModuleDataRecord@@HPAK1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DevIO_ConnectToSoftICE" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DevIO_CopyLogInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DevIO_LoadExports" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DevIO_LoadNm32SymbolTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DevIO_Nm32QueryTableInfoFirst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DevIO_Nm32QueryTableInfoNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DevIO_Nm32QueryTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DevIO_Nm32RemoveSymbolTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DevIO_Nm32TranslateError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DevIO_Nm32VersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DevIO_SetWLDRBreak" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NmSymCloseNm32SymbolFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NmSymCreateLogFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NmSymGetErrorCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NmSymGetErrorMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NmSymGetModuleLoadRecord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NmSymGetModuleType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NmSymGetSoftICEVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NmSymGetTranslatorVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NmSymIsModuleLoadable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NmSymIsSoftICELoaded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NmSymLoadExecutable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NmSymLoadExecutableEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NmSymLoadExports" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NmSymLoadNm32SymbolTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NmSymNm32QueryTableInfoFirst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NmSymNm32QueryTableInfoNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NmSymNm32QueryTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NmSymNm32RemoveSymbolTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="NmSymOpenNm32SymbolFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="NmSymProcessDebugInfoForFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="NmSymTranslateSoftICEError" PURGE="0" COMMENT="" />
+</LIBRARY>
+

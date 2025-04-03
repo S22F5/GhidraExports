@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="00003639.dll" PATH="/DLLArchive/etc/00003639.dll" DATE="Fri Jul 03 21:09:26 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AutoUpdate_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AutoUpdate_SetConnectionStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AutoUpdate_UpdateNow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

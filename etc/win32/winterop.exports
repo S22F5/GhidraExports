@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winterop.dll" PATH="/DLLArchive/etc/winterop.dll" DATE="Sun Feb 06 01:29:40 CET 2022" VERSION="3.11.2.4516">
+    <EXPORT ORDINAL="1" NAME="CreateCabAddFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateCabAddFiles" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateCabBegin" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateCabCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateCabFinish" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnumerateCab" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnumerateCabBegin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnumerateCabFinish" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ExtractCab" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ExtractCabBegin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ExtractCabFinish" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HashPublicKeyInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ResetAcls" PURGE="8" COMMENT="" />
+</LIBRARY>
+

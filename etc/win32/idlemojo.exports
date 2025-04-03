@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="idlemojo.dll" PATH="/DLLArchive/etc/idlemojo.dll" DATE="Fri Jul 03 12:40:05 PDT 2020" VERSION="7.1">
+    <EXPORT ORDINAL="1" NAME="IdleCancelAlarm" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IdleCreate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IdleDestroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IdleKeybdHook" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IdleMouseHook" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IdleSetActiveAlarm" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IdleSetEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IdleSetIdleAlarm" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IdleTimeSinceLastInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IdleTimeSinceNextToLastInput" PURGE="0" COMMENT="" />
+</LIBRARY>
+

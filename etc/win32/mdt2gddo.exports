@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdt2gddo.dll" PATH="/DLLArchive/etc/MDT2GDDO.DLL" DATE="Fri Jun 19 16:45:46 PDT 1998" VERSION="2.00.00.8171">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

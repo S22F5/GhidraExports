@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="34dialog.dll" PATH="/DLLArchive/etc/34dialog.dll" DATE="Fri Jul 03 12:10:34 PDT 2020" VERSION="2, 3, 0, 0">
+    <EXPORT ORDINAL="1" NAME="??0CDlgEventNotify@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CDlgEventNotify@@QAE@PAUHWND__@@K@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CDlgEventNotify@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CDlgEventNotify@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4CTvCtrl@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??_7CDlgEventNotify@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CreateACtrlDialog@@YGXPAUHWND__@@KPAUACtrlSettings@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?CreateVCapDialog@@YGXPAUHWND__@@KPAUVCapSettings@@1@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CreateVCtrlDialog@@YGXPAUHWND__@@KPAUVCtrlSettings@@PAUVTunSettings@@PAUACtrlSettings@@H@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CreateVFrzDialog@@YGXPAUHWND__@@KPAUVFrzSettings@@1@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CreateVTunDialog@@YGXPAUHWND__@@KPAUVTunSettings@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?CreateVTunDialog@@YGXPAUHWND__@@KPAUVTunSettings@@H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?InitACtrlSettings@@YGXPAUACtrlSettings@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?InitVCapSettings@@YGXPAUVCapSettings@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?InitVCtrlSettings@@YGXPAUVCtrlSettings@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?InitVFrzSettings@@YGXPAUVFrzSettings@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?InitVTunSettings@@YGXPAUVTunSettings@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?InitializationSuccessful@CDlgEventNotify@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?UMCallback@CDlgEventNotify@@EAEXPAXW4eInterruptEnable@@@Z" PURGE="8" COMMENT="" />
+</LIBRARY>
+

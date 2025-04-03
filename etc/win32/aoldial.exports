@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aoldial.dll" PATH="/DLLArchive/etc/AOLDial.dll" DATE="Fri Jul 03 12:18:35 PDT 2020" VERSION="2.0.20.1.US.1        ">
+    <EXPORT ORDINAL="1" NAME="EnableWindowsAutoDial" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDefaultDemandDialer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitializeWithEntry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Install" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsConnecting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsSetAsDefault" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsWindowsAutoDialEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NewRasAutoDialA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NewRasAutoDialW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OldRasAutoDial" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RasCustomDeleteEntryNotify" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RasCustomDial" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RasCustomDialDlg" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RasCustomEntryDlg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RasCustomHangUp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Uninstall" PURGE="0" COMMENT="" />
+</LIBRARY>
+

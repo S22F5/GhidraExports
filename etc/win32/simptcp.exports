@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="simptcp.dll" PATH="/DLLArchive/etc/simptcp.dll" DATE="Fri Jul 03 13:16:33 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="ServiceEntry" PURGE="12" COMMENT="" />
+</LIBRARY>
+

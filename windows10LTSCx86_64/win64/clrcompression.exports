@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="clrcompression.dll" PATH="/DLLArchive/windows10LTSCX86_64/clrcompression.dll" DATE="Sat Dec 07 01:10:37 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="deflate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="deflateEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="deflateInit2_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="inflate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="inflateEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="inflateInit2_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="zlibCompileFlags" PURGE="0" COMMENT="" />
+</LIBRARY>
+

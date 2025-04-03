@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ir41_qcxoriginal.dll" PATH="/DLLArchive/windows10LTSCX86_64/ir41_qcxoriginal.dll" DATE="Sat Dec 07 10:10:00 CET 2019" VERSION="4.30.64.01">
+    <EXPORT ORDINAL="1" NAME="AllocInstanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Compress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CompressBegin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CompressEnd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CompressFramesInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FreeInstanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetScalability" PURGE="12" COMMENT="" />
+</LIBRARY>
+

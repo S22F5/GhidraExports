@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vmprotectsdk32.dll" PATH="/DLLArchive/etc/VMProtectSDK32.dll" DATE="Wed Dec 21 23:01:18 PST 2016" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VMProtectActivateLicense" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VMProtectBegin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VMProtectBeginMutation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VMProtectBeginUltra" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VMProtectBeginUltraLockByKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VMProtectBeginVirtualization" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VMProtectBeginVirtualizationLockByKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VMProtectDeactivateLicense" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VMProtectDecryptStringA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VMProtectDecryptStringW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="VMProtectEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="VMProtectFreeString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="VMProtectGetCurrentHWID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="VMProtectGetOfflineActivationString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="VMProtectGetOfflineDeactivationString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="VMProtectGetSerialNumberData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="VMProtectGetSerialNumberState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="VMProtectIsDebuggerPresent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="VMProtectIsProtected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="VMProtectIsValidImageCRC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="VMProtectIsVirtualMachinePresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="VMProtectSetSerialNumber" PURGE="4" COMMENT="" />
+</LIBRARY>
+

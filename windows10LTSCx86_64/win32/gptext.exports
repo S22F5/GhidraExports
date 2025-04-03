@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gptext.dll" PATH="/DLLArchive/windows10LTSCX86_64/gptext.dll" DATE="Sat Dec 07 10:09:27 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ProcessConnectivityPlatformPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProcessEQoSPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProcessPSCHEDPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ProcessTCPIPPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

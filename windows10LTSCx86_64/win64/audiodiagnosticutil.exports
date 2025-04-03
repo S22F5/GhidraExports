@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="audiodiagnosticutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/AudioDiagnosticUtil.dll" DATE="Sat Dec 07 01:09:50 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AudioGetDeviceFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AudioSetDefaultdevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AudioSetDeviceFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AudioSetEndPointVisibility" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetDefaultEndpointID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetDeviceMasterVolumeLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetDeviceMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetMasterVolumeLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IsEndpointDefault" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetAudioEndpointProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetDeviceMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetMute" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ir50_qc.dll" PATH="/DLLArchive/etc/ir50_qc.dll" DATE="Fri Jul 03 12:43:28 PDT 2020" VERSION="R.5.10.63.2.48">
+    <EXPORT ORDINAL="1" NAME="AllocInstanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Compress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CompressBegin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CompressEnd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CompressFramesInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CompressQuery" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeInstanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetCPUID" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetScalability" PURGE="12" COMMENT="" />
+</LIBRARY>
+

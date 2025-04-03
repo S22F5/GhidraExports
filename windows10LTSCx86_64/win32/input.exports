@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="input.dll" PATH="/DLLArchive/windows10LTSCX86_64/input.dll" DATE="Wed Oct 06 06:52:20 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="Ordinal_115" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="Ordinal_116" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="CPlApplet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="InstallLayoutOrTip" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="SaveDefaultUserInputSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="SaveSystemAcctInputSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="SetDefaultLayoutOrTip" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="EnumLayoutOrTipForSetup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="InstallLayoutOrTipUserReg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="EnumEnabledLayoutOrTip" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="QueryLayoutOrTipString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="QueryLayoutOrTipStringUserReg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="GetDefaultLayout" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="GetLayoutDescription" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="InstallLayoutOrTipPrivate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="EnumEnabledLayoutOrTipPrivate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="ActivateInputProfile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="InstallLayoutOrTipOffline" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="InputDll_DownlevelInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="InputDll_DownlevelSetUILanguage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="InputDll_DownlevelUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="InputDll_DownlevelEnumLayoutOrTipForSetup" PURGE="16" COMMENT="" />
+</LIBRARY>
+

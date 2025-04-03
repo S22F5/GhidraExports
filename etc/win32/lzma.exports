@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lzma.dll" PATH="/DLLArchive/etc/lzma.dll" DATE="Sun Jan 07 07:56:18 PST 2007" VERSION="4, 32, 0, 0">
+    <EXPORT ORDINAL="1" NAME="Compress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FreeCompressionMemory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDescription" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetMinDataSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetWorkMemorySize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PackmanSignature" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetUnpackerPointer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetUnpackerSize" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

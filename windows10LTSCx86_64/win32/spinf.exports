@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spinf.dll" PATH="/DLLArchive/windows10LTSCX86_64/spinf.dll" DATE="Wed Oct 06 06:52:38 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SpInfDetermineInfStyle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SpInfDoesInfContainString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SpInfEnumInfSections" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SpInfFileFullPathFromLineContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SpInfFindFirstLine" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SpInfFindNextMatchLine" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SpInfFindValueInSectionList" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SpInfFreeInfFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SpInfGetBestInstallSection" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SpInfGetBestModelsSection" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SpInfGetDirIdHandler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SpInfGetDriverVer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SpInfGetField" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SpInfGetIndirectString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SpInfGetInfInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SpInfGetInfLineNumber" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SpInfGetInfSections" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SpInfGetInfStyle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SpInfGetLanguageId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SpInfGetLineByIndex" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SpInfGetLineCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SpInfGetLineCountFromSection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SpInfGetLineFieldCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SpInfGetLineTextWithKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SpInfGetLogToken" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SpInfGetNextInf" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SpInfGetOriginalInfName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SpInfGetPathFromDirId" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SpInfGetPrevInf" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SpInfGetStringField" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SpInfGetStringsSection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SpInfGetTargetPath" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SpInfGetVersionDatum" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SpInfGetVersionNode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SpInfIsIndirectString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SpInfLineFromContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SpInfLineIsSearchable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SpInfLoadInfFile" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SpInfLocateLine" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SpInfLocateSection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SpInfLockInf" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SpInfQueryInfFileInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SpInfQueryInfVersionInformation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SpInfSectionNameFromLineContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SpInfSetDirIdHandler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SpInfSetDirectoryId" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SpInfSourcePathFromHandle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SpInfUnlockInf" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="SpInfVersionNodeFromInfInformation" PURGE="16" COMMENT="" />
+</LIBRARY>
+

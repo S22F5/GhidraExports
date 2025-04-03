@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iconv.dll" PATH="/DLLArchive/etc/iconv.dll" DATE="Fri Jul 03 12:38:56 PDT 2020" VERSION="1.9">
+    <EXPORT ORDINAL="1" NAME="_libiconv_version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="libiconv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="libiconv_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="libiconv_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="libiconv_set_relocation_prefix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="libiconvctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="libiconvlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="locale_charset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

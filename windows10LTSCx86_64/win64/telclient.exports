@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="telclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/telclient.dll" DATE="Wed Aug 04 23:44:25 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="??0MetricsLogSplitter@telemetry_client@@QEAA@AEBV01@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0MetricsLogSplitter@telemetry_client@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0TelemetryClientDecoder@telemetry_client@@QEAA@AEBV01@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0TelemetryClientDecoder@telemetry_client@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1MetricsLogSplitter@telemetry_client@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1TelemetryClientDecoder@telemetry_client@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4MetricsLogSplitter@telemetry_client@@QEAAAEAV01@AEBV01@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4TelemetryClientDecoder@telemetry_client@@QEAAAEAV01@AEBV01@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??_7MetricsLogSplitter@telemetry_client@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_7TelemetryClientDecoder@telemetry_client@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?AllocDecodedPayload@TelemetryClientDecoder@telemetry_client@@KA?AV?$unique_ptr@UDecodedPayload@telemetry_client@@P6AXPEBU12@@Z@__1@std@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AllocLogsContainer@MetricsLogSplitter@telemetry_client@@KA?AV?$unique_ptr@V?$vector@ULogInfo@telemetry_client@@V?$allocator@ULogInfo@telemetry_client@@@__1@std@@@__1@std@@P6AXPEBV123@@Z@__1@std@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateSplitter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CreateTelemetryClientDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DecodePayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DecodeUkmPayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DecodeUmaPayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FreeLogs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FreePayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FreeSplitter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FreeTelemetryClientDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FreeTelemetryClientDecoderPayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+</LIBRARY>
+

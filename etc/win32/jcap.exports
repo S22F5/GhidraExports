@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jcap.dll" PATH="/DLLArchive/etc/jcap.dll" DATE="Fri Jul 03 12:44:03 PDT 2020" VERSION="4,0,0,4">
+    <EXPORT ORDINAL="1" NAME="?CaptureScreen@@YA?AW4JascErrorCode@@PAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?EndCapture@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?InitScreenCaptureKeystroke@@YA_NPAUHWND__@@GI_N1EEEEHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?InitScreenCaptureMouseClick@@YA_NPAUHWND__@@GI_N1EEEEHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?InitScreenCaptureTimed@@YAIPAUHWND__@@GI_N1EEEEHHK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?JCapCheckVersion@@YA_NKKKK_N@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

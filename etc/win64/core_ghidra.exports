@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="core_ghidra.dll" PATH="/DLLArchive/etc/core_ghidra.dll" DATE="Mon Mar 04 10:56:06 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?ParseCodeXML@@YAPEAUrz_annotated_code_t@@PEAVFuncdata@ghidra@@PEBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?SleighIdFromCore@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAUrz_core_t@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?SleighIdFromSleighAsmConfig@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBDH_NAEBV?$vector@VLanguageDescription@ghidra@@V?$allocator@VLanguageDescription@ghidra@@@std@@@2@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rizin_plugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_ghidra_decompile_annotated_code" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="c_is2022.dll" PATH="/DLLArchive/etc/c_is2022.dll" DATE="Fri Jul 03 12:28:47 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="NlsDllCodePageTranslation" PURGE="28" COMMENT="" />
+</LIBRARY>
+

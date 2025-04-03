@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.networking.vpn.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.Networking.Vpn.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="VpnClientGetCostedNetworkSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VpnClientGetProxyForUrlAndSingleSessionDeviceUser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VpnClientPluginGetSecurity" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VpnClientPluginInstall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VpnClientPluginManifestFind" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VpnClientPluginUninstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VpnClientSetCostedNetworkSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VpnPluginEnumerate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VpnPluginListFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LaunchStoreForPluginW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pecompact.dll" PATH="/DLLArchive/etc/PECompact.dll" DATE="Sun Aug 28 11:41:36 PDT 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ScyllaPluginNameW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

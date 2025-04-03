@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="camprevw.dll" PATH="/DLLArchive/etc/CamPrevw.dll" DATE="Fri Jul 03 12:25:59 PDT 2020" VERSION="8.2.0.1192">
+    <EXPORT ORDINAL="1" NAME="??0CAudio@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CAudio@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??_7CAudio@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AddAudioInput@CAudio@@SAXKPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetMainAudioDevice@CAudio@@IAE?AV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@V23@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetMessageMap@CAudio@@MBEPBUAFX_MSGMAP@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetThisMessageMap@CAudio@@KGPBUAFX_MSGMAP@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Initialize@CAudio@@QAEHPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?OnDestroy@CAudio@@IAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?OnWaveInInfo@CAudio@@IAEJIJ@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?StartAudio@CAudio@@QAEHPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?StopAudio@CAudio@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?SubclassDlgCtrl@CAudio@@QAEHIPAVCWnd@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?_messageEntries@CAudio@@0QBUAFX_MSGMAP_ENTRY@@B" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?messageMap@CAudio@@1UAFX_MSGMAP@@B" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

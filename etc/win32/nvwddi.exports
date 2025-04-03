@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvwddi.dll" PATH="/DLLArchive/etc/nvwddi.dll" DATE="Fri Jul 03 13:03:47 PDT 2020" VERSION="6.14.10.5216">
+    <EXPORT ORDINAL="1" NAME="NVDDI_ExtEscape" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NVDDI_GetDDIRevLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NVDDI_IsNvidiaHardwarePresent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

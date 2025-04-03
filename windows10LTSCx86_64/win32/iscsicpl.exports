@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iscsicpl.dll" PATH="/DLLArchive/windows10LTSCX86_64/iscsicpl.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="5.2.3790.1830">
+    <EXPORT ORDINAL="1" NAME="CPlApplet" PURGE="16" COMMENT="" />
+</LIBRARY>
+

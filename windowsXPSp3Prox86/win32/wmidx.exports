@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmidx.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wmidx.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="9.00.00.4503">
+    <EXPORT ORDINAL="1" NAME="WMCreateASFChopper" PURGE="4" COMMENT="" />
+</LIBRARY>
+

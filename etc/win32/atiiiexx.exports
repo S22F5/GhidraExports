@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atiiiexx.dll" PATH="/DLLArchive/etc/atiiiexx.dll" DATE="Fri Jul 03 12:23:53 PDT 2020" VERSION="6.14.10.3010">
+    <EXPORT ORDINAL="1" NAME="InfEngInstallINFFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InfEngUnInstallINFFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_InfEngUnInstallINFFile_RunDLL@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

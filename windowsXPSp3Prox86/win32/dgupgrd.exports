@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dgupgrd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/DGUPGRD.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="v3.7.3.0">
+    <EXPORT ORDINAL="1" NAME="DoPreUpgradeProcessing" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PreUpgradeInitialize" PURGE="20" COMMENT="" />
+</LIBRARY>
+

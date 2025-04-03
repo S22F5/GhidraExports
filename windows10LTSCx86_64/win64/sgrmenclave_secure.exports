@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sgrmenclave_secure.dll" PATH="/DLLArchive/windows10LTSCX86_64/SgrmEnclave_secure.dll" DATE="Wed Oct 06 15:52:41 CEST 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EngHostAttest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EngHostCreateAttestationClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EngHostDestroyAttestationClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EngHostDispatchThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EngHostGetRuntimeReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EngHostGetSessionCertificate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EngHostGetSessionReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EngHostInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EngHostNotify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EngHostReinitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EngHostShutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

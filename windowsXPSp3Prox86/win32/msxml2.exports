@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msxml2.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msxml2.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="8.30.9529.0">
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ordinal_12" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

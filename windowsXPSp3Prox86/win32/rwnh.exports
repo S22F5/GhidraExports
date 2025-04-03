@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rwnh.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rwnh.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="6.0.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="??0CCritSection@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CShareLockExport@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CShareLockNH@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0CSimpleCritSection@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1CCritSection@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1CShareLockExport@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CShareLockNH@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1CSimpleCritSection@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4CShareLockExport@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4CSimpleCritSection@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Enter@CCritSection@@QAEXAAVCWaitingThread@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Enter@CCritSection@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Enter@CSimpleCritSection@@QAEXAAVCWaitingThread@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Enter@CSimpleCritSection@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ExclusiveLock@CShareLockExport@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ExclusiveLock@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?ExclusiveToPartial@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?ExclusiveToShared@CShareLockExport@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ExclusiveToShared@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?ExclusiveUnlock@CShareLockExport@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?ExclusiveUnlock@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?FirstPartialToExclusive@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetPerThreadEvent@@YGPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?Leave@CCritSection@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?Leave@CSimpleCritSection@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?PartialLock@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?PartialToExclusive@CShareLockNH@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?PartialToShared@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?PartialUnlock@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?ShareLock@CShareLockExport@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?ShareLock@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?ShareLockInternal@CShareLockNH@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?ShareUnlock@CShareLockExport@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?ShareUnlock@CShareLockNH@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?ShareUnlockInternal@CShareLockNH@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SharedToExclusive@CShareLockExport@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?SharedToExclusive@CShareLockNH@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?SharedToPartial@CShareLockNH@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?TryEnter@CCritSection@@QAEHAAVCWaitingThread@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?TryEnter@CCritSection@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?TryEnter@CSimpleCritSection@@QAEHAAVCWaitingThread@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?TryEnter@CSimpleCritSection@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?TryExclusiveLock@CShareLockExport@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?TryExclusiveLock@CShareLockNH@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?TryPartialLock@CShareLockNH@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?TryShareLock@CShareLockExport@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?TryShareLock@CShareLockNH@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="?WakeReaders@CShareLockNH@@AAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

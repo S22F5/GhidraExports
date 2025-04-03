@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rnco3260.dll" PATH="/DLLArchive/etc/rnco3260.dll" DATE="Fri Jul 03 13:12:21 PDT 2020" VERSION="6.0.7.1770">
+    <EXPORT ORDINAL="1" NAME="MMXSharpenFilter" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ConvertRGB24toXRGB@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConvertRGBtoYUV" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ConvertYUVtoMacRGB32@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ConvertYUVtoRGB" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Enhance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnhanceUniform" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetColorAdjustments" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetColorConverter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetSharpnessAdjustments" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InitColorConverter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RNColorCreateImageManipulator2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RNColorCreateImageManipulator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ScanAllCompatibleColorFormats" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ScanCompatibleColorFormats" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetChromaResamplingMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetColorAdjustments" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetRGB8Palette" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetSharpnessAdjustments" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SuggestRGB8Palette" PURGE="8" COMMENT="" />
+</LIBRARY>
+

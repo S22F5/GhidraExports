@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wscapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/wscapi.dll" DATE="Wed Oct 06 06:52:18 PDT 2021" VERSION="10.0.19041.1081 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="wscLaunchAdminMakeDefaultUI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="wscShowAMSCN" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CLSID_WSCDefaultProduct" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CLSID_WSCProductList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IID_IWSCDefaultProduct" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IID_IWSCProductList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IID_IWscProduct" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LIBID_wscAPILib" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WscGetAntiMalwareUri" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WscGetSecurityProviderHealth" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WscQueryAntiMalwareUri" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WscRegisterForChanges" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WscRegisterForUserNotifications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WscUnRegisterChanges" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="wscAntiSpywareGetStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="wscAntiVirusExpiredBeyondThreshold" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="wscAntiVirusGetStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="wscAutoUpdatesEnableScheduledMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="wscAutoUpdatesGetStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="wscFirewallGetStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="wscGeneralSecurityGetStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="wscGetAlertStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="wscIcfEnable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="wscIeSettingsFix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="wscInitiateOfflineCleaning" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="wscIsDefenderAntivirusSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="wscLuaSettingsFix" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="wscMakeDefaultProductRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="wscNotifyUserForNearExpiration" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="wscOverrideComponentStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="wscPing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="wscProductInfoFree" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="wscRegisterChangeNotification" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="wscRegisterSecurityProduct" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="wscSetDefaultProduct" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="wscUnRegisterChangeNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="wscUnregisterSecurityProduct" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="wscUpdateProductStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="wscUpdateProductSubStatus" PURGE="8" COMMENT="" />
+</LIBRARY>
+

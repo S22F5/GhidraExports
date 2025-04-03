@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="run32.dll" PATH="/DLLArchive/etc/Run32.dll" DATE="Fri Jul 03 13:13:08 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DLLEntryPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TryExec" PURGE="0" COMMENT="" />
+</LIBRARY>
+

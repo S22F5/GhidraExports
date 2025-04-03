@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="karasx2.dll" PATH="/DLLArchive/etc/KarasX2.dll" DATE="Fri Jul 03 21:45:02 CEST 2020" VERSION="1, 0, 0, 51">
+    <EXPORT ORDINAL="1" NAME="KARAS_Initialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

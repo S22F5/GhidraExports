@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wwpack32oep.dll" PATH="/DLLArchive/etc/WWPack32OEP.dll" DATE="Tue Apr 22 05:23:20 CEST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ShortFinderName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOEPNow" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

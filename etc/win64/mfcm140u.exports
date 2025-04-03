@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfcm140u.dll" PATH="/DLLArchive/etc/mfcm140u.dll" DATE="Sat Nov 07 05:26:41 PST 2020" VERSION="14.16.27012.6 built by: vcwrkspc">
+    <EXPORT ORDINAL="256" NAME="Ordinal_256" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="Ordinal_257" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="Ordinal_258" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="Ordinal_259" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="Ordinal_260" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="Ordinal_261" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="Ordinal_262" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="Ordinal_263" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="264" NAME="Ordinal_264" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="265" NAME="Ordinal_265" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="266" NAME="Ordinal_266" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="267" NAME="Ordinal_267" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="268" NAME="Ordinal_268" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="269" NAME="Ordinal_269" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="270" NAME="Ordinal_270" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="271" NAME="Ordinal_271" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="272" NAME="Ordinal_272" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="273" NAME="Ordinal_273" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="274" NAME="Ordinal_274" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="275" NAME="Ordinal_275" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="279" NAME="Ordinal_279" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="280" NAME="Ordinal_280" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="281" NAME="AfxmReleaseManagedReferences" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

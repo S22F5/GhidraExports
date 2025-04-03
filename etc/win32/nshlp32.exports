@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nshlp32.dll" PATH="/DLLArchive/etc/nshlp32.dll" DATE="Fri Jul 03 13:02:09 PDT 2020" VERSION="4.0.0527">
+    <EXPORT ORDINAL="1" NAME="??0Profile@@QAE@PAUHKEY__@@PBD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1Profile@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CallNetHelp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?beginSection@Profile@@AAEPAUHKEY__@@PBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?getBlob@Profile@@QAGIPBD0PAEI@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?getDWord@Profile@@QAGKPBD00K@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?getDWord@Profile@@QAGKPBD0K@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?getFlag@Profile@@QAGHPBD0H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?getInt@Profile@@QAGHPBD00H@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?getInt@Profile@@QAGHPBD0H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?getString@Profile@@QAGHPBD00PADH@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?getString@Profile@@QAGHPBD0QAUHWND__@@H0@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?openedp@Profile@@QBGHXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?restorePosition@Profile@@QAGXPBDQAUHWND__@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?savePosition@Profile@@QAGXPBDQAUHWND__@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?setBlob@Profile@@QAGHPBD0PBEI@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?setDWord@Profile@@QAGXPBD00K@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?setDWord@Profile@@QAGXPBD0K@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?setFlag@Profile@@QAGHPBD0H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?setInt@Profile@@QAGXPBD00H@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?setInt@Profile@@QAGXPBD00I@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?setInt@Profile@@QAGXPBD0H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?setInt@Profile@@QAGXPBD0I@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?setString@Profile@@QAGHPBD00@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?setString@Profile@@QAGHPBD0QAUHWND__@@H@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

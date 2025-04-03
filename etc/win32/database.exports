@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="database.dll" PATH="/DLLArchive/etc/database.dll" DATE="Fri Jul 03 21:30:22 CEST 2020" VERSION="2.6.2.0">
+    <EXPORT ORDINAL="1" NAME="TerminateDB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDBManager" PURGE="0" COMMENT="" />
+</LIBRARY>
+

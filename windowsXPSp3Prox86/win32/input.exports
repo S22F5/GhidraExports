@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="input.dll" PATH="/DLLArchive/windowsXPSp3Prox86/input.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="100" NAME="CPlApplet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="Ordinal_104" PURGE="0" COMMENT="" />
+</LIBRARY>
+

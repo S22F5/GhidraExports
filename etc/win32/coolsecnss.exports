@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coolsecnss.dll" PATH="/DLLArchive/etc/CoolSecNss.dll" DATE="Fri Jul 03 12:27:45 PDT 2020" VERSION="3.6.8.2277">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PL_strdup" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PR_Close" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PR_Free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PR_GetError" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PR_GetLibraryName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PR_InitializeNetAddr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PR_Now" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PR_Recv" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PR_Send" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PR_SetError" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

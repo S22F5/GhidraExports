@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="feacp.dll" PATH="/DLLArchive/etc/FEACP.DLL" DATE="Wed Jun 17 09:26:18 PDT 1998" VERSION="12.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="_DoRealParse@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_DoRealParseFromBuffer@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_GetIdentTypeFromBuffer@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_GetLocalsInScopeFromBuffer@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_GetTypeFromBuffer@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ParseFunction@44" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_SignatureMatch@24" PURGE="24" COMMENT="" />
+</LIBRARY>
+

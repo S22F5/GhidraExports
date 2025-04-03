@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="htmlviewer.dll" PATH="/DLLArchive/etc/HtmlViewer.dll" DATE="Fri Jul 12 13:28:26 PDT 2024" VERSION="1.2.0.0">
+    <EXPORT ORDINAL="1" NAME="_AddHtmlContentToBodyA@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AddHtmlContentToBodyW@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AddHtmlContentToElementA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_AddHtmlContentToElementW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_AddScriptA@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_AddScriptW@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_AddStyleA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_AddStyleW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_AllowRefresh@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_AppendChildToBodyA@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_AppendChildToBodyW@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_AppendChildToElementA@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_AppendChildToElementW@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_CreateHtmlViewer@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_CreateHtmlViewerFromHwnd@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_DestroyHtmlViewer@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_EnableContextMenu@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_EnableSelection@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_ExecScriptA@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_ExecScriptEx2A@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_ExecScriptEx2W@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_ExecScriptExA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_ExecScriptExW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_ExecScriptW@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_GetHTMLDocument@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_GetHTMLElementA@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_GetHTMLElementW@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_GetWebBrowser@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_LoadEmptyPage@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_LoadEmptyPageAndSetBodyContentA@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_LoadEmptyPageAndSetBodyContentW@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_NavigateA@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_NavigateW@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_Save@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_SaveAsA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_SaveAsW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_SetElementInnerHtmlA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_SetElementInnerHtmlW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="_SetElementSrcA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="_SetElementSrcW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="_SetElementsEventsCallBack@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="_SetElementsEventsCallBackEx@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="_SetFocusToHtmlViewer@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="_SetHtmlViewerRect@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="_TranslateAcceleratorForWebBrowser@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="_WaitForPageCompleted@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winipcsecproc.dll" PATH="/DLLArchive/windows10LTSCX86_64/winipcsecproc.dll" DATE="Sat Dec 07 01:09:21 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IpcSPAttest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IpcSPBindLicense" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IpcSPCheckEnvironmentSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IpcSPCloseHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IpcSPCommit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IpcSPCreateDecryptor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IpcSPCreateEnablingPrincipal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IpcSPCreateEncryptor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IpcSPCreateMachineCerts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IpcSPCreatePCE" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IpcSPCreateSecurityProcessor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IpcSPDecrypt" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IpcSPDecryptFinal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IpcSPDecryptUpdate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IpcSPDecryptWithRac" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IpcSPEnableAndEncrypt" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IpcSPEnablePublishingLicense" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IpcSPEncrypt" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IpcSPEncryptFinal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IpcSPEncryptUpdate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IpcSPGetBoundRightKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IpcSPGetCurrentTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IpcSPGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IpcSPGetProcAddress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IpcSPInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IpcSPIsActivated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IpcSPLoadLibrary" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IpcSPSign" PURGE="20" COMMENT="" />
+</LIBRARY>
+

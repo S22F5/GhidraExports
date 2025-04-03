@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aavmguih.dll" PATH="/DLLArchive/etc/aavmguih.dll" DATE="Fri Jul 03 12:14:47 PDT 2020" VERSION="4, 7, 1043, 0">
+    <EXPORT ORDINAL="1" NAME="AavmGuiConfigChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AavmGuiInvalidLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AavmGuiOSChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AavmGuiOtherAV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AavmGuiProviderStateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AavmGuiRunningProvidersChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AavmGuiShowControlDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AavmGuiShowHomeEdInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AavmGuiStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AavmGuiStop" PURGE="0" COMMENT="" />
+</LIBRARY>
+

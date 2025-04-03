@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libtre-5.dll" PATH="/DLLArchive/etc/libtre-5.dll" DATE="Sat May 20 23:55:12 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="tre_ast_new_catenation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="tre_ast_new_iter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="tre_ast_new_literal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="tre_ast_new_node" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="tre_ast_new_union" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="tre_compile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="tre_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="tre_fill_pmatch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="tre_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="tre_have_approx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="tre_have_backrefs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="tre_mem_alloc_impl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="tre_mem_destroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="tre_mem_new_impl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="tre_parse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="tre_regaexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="tre_regaexecb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="tre_reganexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="tre_regaparams_default" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="tre_regawexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="tre_regawnexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="tre_regcomp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="tre_regcompb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="tre_regerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="tre_regexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="tre_regexecb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="tre_regfree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="tre_regncomp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="tre_regncompb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="tre_regnexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="tre_regnexecb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="tre_reguexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="tre_regwcomp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="tre_regwexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="tre_regwncomp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="tre_regwnexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="tre_stack_destroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="tre_stack_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="tre_stack_num_objects" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="tre_stack_pop_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="tre_stack_pop_voidptr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="tre_stack_push_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="tre_stack_push_voidptr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="tre_tnfa_run_approx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="tre_tnfa_run_backtrack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="tre_tnfa_run_parallel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="tre_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

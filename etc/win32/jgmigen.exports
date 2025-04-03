@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgmigen.dll" PATH="/DLLArchive/etc/jgmigen.dll" DATE="Fri Jul 03 12:44:28 PDT 2020" VERSION="5020">
+    <EXPORT ORDINAL="1" NAME="JgpMIArtToMid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgpMIAuxClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpMIAuxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpMIAuxOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpMICancelAbort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpMIClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpMIDeviceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpMIDeviceConvertMIDtoMIDIEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpMIDeviceGetCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpMIDeviceGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpMIDeviceGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpMIDeviceInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpMIDeviceOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpMIDeviceQueryMIDtoMIDIEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpMIDeviceSetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpMIDeviceStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpMIDeviceStopPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpMIEstimateMidSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpMIGetDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgpMIGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgpMIGetStreamInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgpMIGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgpMIHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgpMIInputSegment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgpMIInputStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgpMIOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JgpMIRawClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JgpMIRawDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="JgpMIRawOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="JgpMIReleaseDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="JgpMIRequestAbort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="JgpMISet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="JgpMISetEOFMark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="JgpMISetPlayParameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="JgpMISetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="JgpMIShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="JgpMIStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="JgpMIStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="JgpMIStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="JgpMITerminatePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="jgmdwMidiTimer" PURGE="20" COMMENT="" />
+</LIBRARY>
+

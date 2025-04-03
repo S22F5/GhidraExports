@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="javajpeg.dll" PATH="/DLLArchive/etc/javajpeg.dll" DATE="Sun Jul 30 02:16:46 PDT 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="JNI_OnLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_abortRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_clearNativeReadAbortFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_disposeReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_initJPEGImageReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_initReaderIDs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_readImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_readImageHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_resetLibraryState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_resetReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_setOutColorSpace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageReader_setSource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_abortWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_disposeWriter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_initJPEGImageWriter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_initWriterIDs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_resetWriter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_setDest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_writeImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Java_com_sun_imageio_plugins_jpeg_JPEGImageWriter_writeTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Java_sun_awt_image_JPEGImageDecoder_initIDs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Java_sun_awt_image_JPEGImageDecoder_readImage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

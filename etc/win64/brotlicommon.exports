@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="brotlicommon.dll" PATH="/DLLArchive/etc/brotlicommon.dll" DATE="Wed Nov 15 20:02:58 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BrotliDefaultAllocFunc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BrotliDefaultFreeFunc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BrotliGetDictionary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BrotliGetTransforms" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrotliSetDictionaryData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BrotliTransformDictionaryWord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_kBrotliContextLookupTable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_kBrotliPrefixCodeRanges" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

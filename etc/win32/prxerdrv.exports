@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="prxerdrv.dll" PATH="/DLLArchive/etc/PrxerDrv.dll" DATE="Fri Jul 03 13:07:50 PDT 2020" VERSION="2, 90, 0, 1">
+    <EXPORT ORDINAL="1" NAME="?g_dwProcId@@3KC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?g_hWnd@@3RAUHWND__@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSPStartup" PURGE="76" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pluginsengine.dll" PATH="/DLLArchive/etc/PluginsEngine.dll" DATE="Mon Apr 21 20:25:14 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="MainControl" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetDeviceHandle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ShowLogInfo" PURGE="24527" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_CreateRemoteThread" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_DumpGdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_DumpIdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_DumpKernelMemory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_DumpProcess" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_DumpSdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_DumpShowSdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_DumpWin32Sdt" PURGE="18350" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_EnumProcesses" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_LoadGdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_LoadIdt" PURGE="10314" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_LoadKernelMemory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_LoadSdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_LoadWin32Sdt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_ProtectBPM" PURGE="18350" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_ReadProcessMemory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_WriteProcessMemory" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

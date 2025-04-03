@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exe32packoep.dll" PATH="/DLLArchive/etc/EXE32PackOEP.dll" DATE="Mon Apr 21 20:23:16 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ShortFinderName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOEPNow" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

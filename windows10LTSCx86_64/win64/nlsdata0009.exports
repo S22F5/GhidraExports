@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nlsdata0009.dll" PATH="/DLLArchive/windows10LTSCX86_64/NlsData0009.dll" DATE="Fri Dec 06 08:26:00 PST 2019" VERSION="10.0.19041.1">
+    <EXPORT ORDINAL="1" NAME="LangDataCall" PURGE="0" COMMENT="" />
+</LIBRARY>
+

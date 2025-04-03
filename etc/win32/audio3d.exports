@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="audio3d.dll" PATH="/DLLArchive/etc/audio3d.dll" DATE="Fri Jul 03 12:24:12 PDT 2020" VERSION="4.12.01.2008">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_A3dCreate@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

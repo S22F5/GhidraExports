@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="smiengine.dll" PATH="/DLLArchive/windows10LTSCX86_64/smiengine.dll" DATE="Sat Dec 07 01:09:10 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ConstructHiveLocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateSettingsEnginePriv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConstructRegLocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateLalInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateWcmEngineCore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeleteCompilerObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetCompilerObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetItemFromCoreObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetLalCreator" PURGE="0" COMMENT="" />
+</LIBRARY>
+

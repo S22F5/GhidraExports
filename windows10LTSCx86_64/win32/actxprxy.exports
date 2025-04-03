@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="actxprxy.dll" PATH="/DLLArchive/windows10LTSCX86_64/actxprxy.dll" DATE="Wed Oct 06 06:52:36 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="3" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

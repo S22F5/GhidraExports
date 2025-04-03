@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="7za.dll" PATH="/DLLArchive/etc/7za.dll" DATE="Fri Jul 03 12:12:16 PDT 2020" VERSION="3, 12, 0, 0">
+    <EXPORT ORDINAL="1" NAME="CreateObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetHandlerProperty" PURGE="8" COMMENT="" />
+</LIBRARY>
+

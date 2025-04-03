@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lti_dsdk_cdll_9.5.dll" PATH="/DLLArchive/etc/lti_dsdk_cdll_9.5.dll" DATE="Thu Dec 21 10:49:16 PST 2017" VERSION="9.5.4.4709">
+    <EXPORT ORDINAL="1" NAME="getLastStatusString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="getRawStatusString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="initializeStatusStrings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="lt_ioCStreamClose" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="lt_ioCStreamDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="lt_ioCStreamDuplicate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="lt_ioCStreamIsEOF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="lt_ioCStreamIsOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="lt_ioCStreamOpen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="lt_ioCStreamRead" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="lt_ioCStreamSeek" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="lt_ioCStreamTell" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="lt_ioCStreamWrite" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="lt_ioCallbackStreamCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ltic_closeImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ltic_decode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ltic_getColorSpace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ltic_getDataType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ltic_getDimsAtMag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ltic_getGeoXOrigin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ltic_getGeoXResolution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ltic_getGeoXRotation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ltic_getGeoYOrigin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ltic_getGeoYResolution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ltic_getGeoYRotation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ltic_getHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ltic_getMaxMagnification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ltic_getMetadataRecord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ltic_getMinMagnification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ltic_getMrSIDGeneration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ltic_getNumBands" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ltic_getNumMetadataRecords" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ltic_getVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ltic_getWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ltic_isMrSIDLocked" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ltic_openJP2ImageFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ltic_openJP2ImageStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ltic_openMrSIDImageFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ltic_openMrSIDImageStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ltic_openNITFImageFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ltic_setMrSIDPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="terminateStatusStrings" PURGE="0" COMMENT="" />
+</LIBRARY>
+

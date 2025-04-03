@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iatsort.dll" PATH="/DLLArchive/etc/IATSORT.DLL" DATE="Mon Jun 26 02:48:38 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="EndSort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartSort" PURGE="0" COMMENT="" />
+</LIBRARY>
+

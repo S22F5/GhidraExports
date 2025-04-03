@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="regioncapture.dll" PATH="/DLLArchive/etc/RegionCapture.dll" DATE="Fri Apr 05 09:14:22 PDT 2024" VERSION="2.4.3">
+    <EXPORT ORDINAL="1" NAME="GetRegionCapture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetObjectCapture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

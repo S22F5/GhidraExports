@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="owsdsc.dll" PATH="/DLLArchive/etc/OWSDSC.DLL" DATE="Fri Jul 03 22:05:52 CEST 2020" VERSION="1.00.0132">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

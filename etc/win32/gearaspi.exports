@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gearaspi.dll" PATH="/DLLArchive/etc/GEARAspi.dll" DATE="Fri Jul 03 21:35:43 CEST 2020" VERSION="2, 0, 1, 1">
+    <EXPORT ORDINAL="1" NAME="GASPIBlockDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GASPIGetDriveLetter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GASPINotifyMediaChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetASPI32SupportInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SendASPI32Command" PURGE="0" COMMENT="" />
+</LIBRARY>
+

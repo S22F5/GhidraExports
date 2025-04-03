@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oudetect.dll" PATH="/DLLArchive/etc/oudetect.dll" DATE="Fri Jul 03 13:05:29 PDT 2020" VERSION="11.0.6303">
+    <EXPORT ORDINAL="1" NAME="RegKeyExists" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MinFileVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RegKeyVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RegKeySubStr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Expression" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsPatchingDisabledApi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetPatchDetection" PURGE="8" COMMENT="" />
+</LIBRARY>
+

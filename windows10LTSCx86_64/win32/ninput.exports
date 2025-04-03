@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ninput.dll" PATH="/DLLArchive/windows10LTSCX86_64/ninput.dll" DATE="Wed Oct 06 15:52:20 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2506" NAME="Ordinal_2506" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2500" NAME="Ordinal_2500" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2505" NAME="Ordinal_2505" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="2501" NAME="Ordinal_2501" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2504" NAME="Ordinal_2504" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2502" NAME="Ordinal_2502" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2503" NAME="Ordinal_2503" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="1" NAME="DefaultInputHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddPointerInteractionContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BufferPointerPacketsInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateInteractionContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DestroyInteractionContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetCrossSlideParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetHoldParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetInertiaParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetInteractionConfigurationInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetMouseWheelParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetPropertyInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetStateInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetTapParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetTranslationParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ProcessBufferedPacketsInteractionContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ProcessInertiaInteractionContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ProcessPointerFramesInteractionContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RegisterOutputCallbackInteractionContext2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RegisterOutputCallbackInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RemovePointerInteractionContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ResetInteractionContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetCrossSlideParametersInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetHoldParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetInertiaParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SetInteractionConfigurationInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SetMouseWheelParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SetPivotInteractionContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SetPropertyInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SetTapParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SetTranslationParameterInteractionContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="StopInteractionContext" PURGE="4" COMMENT="" />
+</LIBRARY>
+

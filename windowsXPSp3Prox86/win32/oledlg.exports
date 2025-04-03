@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oledlg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/oledlg.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="1.0 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="OleUIAddVerbMenuA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OleUICanConvertOrActivateAs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OleUIInsertObjectA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OleUIPasteSpecialA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OleUIEditLinksA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OleUIChangeIconA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OleUIConvertA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OleUIBusyA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OleUIUpdateLinksA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OleUIPromptUserA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OleUIObjectPropertiesA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OleUIChangeSourceA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="OleUIAddVerbMenuW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="OleUIBusyW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="OleUIChangeIconW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OleUIChangeSourceW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="OleUIConvertW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="OleUIEditLinksW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="OleUIInsertObjectW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="OleUIObjectPropertiesW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="OleUIPasteSpecialW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="OleUIPromptUserW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="OleUIUpdateLinksW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sidt.dll" PATH="/DLLArchive/etc/SIDT.dll" DATE="Thu Aug 24 17:22:58 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="tst_SIDT" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="tst_SIDT_about" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="tst_SIDT_description" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="tst_SIDT_name" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

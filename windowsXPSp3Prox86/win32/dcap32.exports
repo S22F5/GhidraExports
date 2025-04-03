@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dcap32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dcap32.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="1" NAME="AllocFrameBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CaptureDeviceDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CaptureFrame" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CloseCaptureDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FindFirstCaptureDevice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FindFirstCaptureDeviceByIndex" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FindNextCaptureDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeFrameBuffer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCaptureDeviceFormat" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetCaptureDeviceFormatHeaderSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetCaptureDevicePalette" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetFrameBufferPtr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetNextReadyBuffer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetNumCaptureDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InitializeStreaming" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OpenCaptureDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PutBufferIntoStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetCaptureDeviceFormat" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetStreamFrameRate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="StartStreaming" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="StopStreaming" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="UninitializeStreaming" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msquic.dll" PATH="/DLLArchive/etc/msquic.dll" DATE="Wed Oct 25 00:00:58 CEST 2023" VERSION="1.9.1.0">
+    <EXPORT ORDINAL="1" NAME="MsQuicClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MsQuicOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MsQuicOpenVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

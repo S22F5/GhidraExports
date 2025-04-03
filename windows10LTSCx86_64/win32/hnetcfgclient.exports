@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hnetcfgclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/HNetCfgClient.dll" DATE="Wed Oct 06 06:52:39 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HNetCfgGetDhcpScopeAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HNetCfgGetPrivateIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HNetCfgGetPublicIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HNetCfgSetDhcpScopeAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HNetCfgStartSharing" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HNetCfgStartSharingEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HNetCfgStopSharing" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HNetCfgUpdateSharingSettingsFromStorage" PURGE="20" COMMENT="" />
+</LIBRARY>
+

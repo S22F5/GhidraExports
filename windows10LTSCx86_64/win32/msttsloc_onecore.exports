@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msttsloc_onecore.dll" PATH="/DLLArchive/windows10LTSCX86_64/MSTTSLoc_OneCore.dll" DATE="Wed Oct 06 06:52:31 PDT 2021" VERSION="10.3.21207.0">
+    <EXPORT ORDINAL="1" NAME="GetLocaleHandler" PURGE="8" COMMENT="" />
+</LIBRARY>
+

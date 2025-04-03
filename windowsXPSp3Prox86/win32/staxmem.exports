@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="staxmem.dll" PATH="/DLLArchive/windowsXPSp3Prox86/staxmem.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="6.0.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExchAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ExchFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ExchHeapAlloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ExchHeapCompact" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ExchHeapCreate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ExchHeapDestroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ExchHeapFree" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ExchHeapLock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ExchHeapReAlloc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ExchHeapSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ExchHeapUnlock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ExchHeapValidate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ExchHeapWalk" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ExchMHeapAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ExchMHeapAllocDebug" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ExchMHeapCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ExchMHeapDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ExchMHeapFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ExchMHeapReAlloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ExchMHeapReAllocDebug" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ExchMHeapSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ExchReAlloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ExchSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ExchmemFormatSymbol" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ExchmemGetCallStack" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ExchmemReloadSymbols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MpHeapAlloc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MpHeapCompact" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MpHeapCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MpHeapDestroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MpHeapFree" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MpHeapGetStatistics" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="MpHeapReAlloc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="MpHeapValidate" PURGE="8" COMMENT="" />
+</LIBRARY>
+

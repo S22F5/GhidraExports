@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmasnt.dll" PATH="/DLLArchive/etc/nmasnt.dll" DATE="Fri Jul 03 13:01:45 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="HOOK_Init" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OSI_FunctionRequest" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OSI_InstallHighLevelMouseHook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OSI_IsWOWWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OSI_IsWindowScreenSaver" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OSI_SetDriverName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OSI_ShareWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OSI_StartWindowTracking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OSI_StopWindowTracking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OSI_UnshareWindow" PURGE="8" COMMENT="" />
+</LIBRARY>
+

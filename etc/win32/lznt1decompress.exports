@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lznt1decompress.dll" PATH="/DLLArchive/etc/LZNT1Decompress.dll" DATE="Thu Dec 21 22:09:36 PST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RtlDecompressBuffer" PURGE="24" COMMENT="" />
+</LIBRARY>
+

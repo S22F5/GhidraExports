@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspack.dll" PATH="/DLLArchive/etc/mspack.dll" DATE="Sat Feb 05 16:29:40 PST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="mspack_create_cab_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="mspack_create_cab_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="mspack_create_chm_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="mspack_create_chm_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="mspack_create_hlp_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="mspack_create_hlp_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="mspack_create_kwaj_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="mspack_create_kwaj_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="mspack_create_lit_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="mspack_create_lit_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="mspack_create_szdd_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="mspack_create_szdd_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="mspack_destroy_cab_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="mspack_destroy_cab_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="mspack_destroy_chm_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="mspack_destroy_chm_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="mspack_destroy_hlp_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="mspack_destroy_hlp_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="mspack_destroy_kwaj_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="mspack_destroy_kwaj_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="mspack_destroy_lit_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="mspack_destroy_lit_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="mspack_destroy_szdd_compressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="mspack_destroy_szdd_decompressor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="mspack_invoke_mscab_decompressor_append" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="mspack_invoke_mscab_decompressor_close" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="mspack_invoke_mscab_decompressor_extract" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="mspack_invoke_mscab_decompressor_last_error" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="mspack_invoke_mscab_decompressor_open" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="mspack_sys_selftest_internal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="mspack_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

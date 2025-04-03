@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icudt53.dll" PATH="/DLLArchive/etc/icudt53.dll" DATE="Sun Mar 01 07:51:38 CET 2015" VERSION="53, 1, 0, 0">
+    <EXPORT ORDINAL="1" NAME="icudt53_dat" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

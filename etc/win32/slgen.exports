@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="slgen.dll" PATH="/DLLArchive/etc/slgen.dll" DATE="Fri Jul 03 13:16:54 PDT 2020" VERSION="3.80.01MC15">
+    <EXPORT ORDINAL="1" NAME="ExCPLQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SLAddExtra" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SLRunServ" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SLSetPort" PURGE="16" COMMENT="" />
+</LIBRARY>
+

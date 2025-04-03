@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgmkgen.dll" PATH="/DLLArchive/etc/jgmkgen.dll" DATE="Fri Jul 03 12:44:28 PDT 2020" VERSION="5025">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgmClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgmCompress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgmCompressStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgmCompressStreamDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgmExport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgmGetART" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgmGetType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgmLosslessCompress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgmLosslessCompressPartitioned" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgmMix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgmOpenAudio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgmOpenAudioStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgmOpenExport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgmOpenImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgmOpenImageStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgmOpenMIDI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgmOpenMix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgmOpenImageAnim" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgmCompressFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgmOptimize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgmSet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgmFreeExportMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgmVideoOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgmVideoCompressAudio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgmVideoCompressFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JgmVideoCompressDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JgmVideoCompressAudioDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="JgmVideoCompressFrameDone" PURGE="0" COMMENT="" />
+</LIBRARY>
+

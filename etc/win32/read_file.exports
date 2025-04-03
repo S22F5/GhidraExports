@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="read_file.dll" PATH="/DLLArchive/etc/read_file.dll" DATE="Fri Jul 03 22:10:58 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RF_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="gzip_writefile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="readerSource" PURGE="0" COMMENT="" />
+</LIBRARY>
+

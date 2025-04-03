@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netshell.dll" PATH="/DLLArchive/windowsXPSp3Prox86/netshell.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="DoInitialCleanup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HrCreateDesktopIcon" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HrGetAnswerFileParametersForNetCard" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HrGetExtendedStatusFromNCS" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HrGetIconFromMediaType" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HrGetInstanceGuidOfPreNT5NetCardInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HrGetNetConExtendedStatusFromGuid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HrGetNetConExtendedStatusFromINetConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HrGetStatusStringFromNetConExtendedStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HrIsIpStateCheckingEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HrLaunchConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HrLaunchConnectionEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HrLaunchNetworkOptionalComponents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HrOemUpgrade" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="HrRenameConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HrRunWizard" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="InvokeDunFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NcFreeNetconProperties" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NcIsValidConnectionName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NetSetupAddRasConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NetSetupFinishInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NetSetupInstallSoftware" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NetSetupPrepareSysPrep" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NetSetupRequestWizardPages" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NetSetupSetProgressCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NormalizeExtendedStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RaiseSupportDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RepairConnection" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="StartNCW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

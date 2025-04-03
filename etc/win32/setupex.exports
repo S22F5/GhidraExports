@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="setupex.dll" PATH="/DLLArchive/etc/SETUPEX.DLL" DATE="Fri Jul 03 22:15:31 CEST 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="GetLimit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UpdateValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UpdateValueEx" PURGE="4" COMMENT="" />
+</LIBRARY>
+

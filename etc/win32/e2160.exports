@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="e2160.dll" PATH="/DLLArchive/etc/E2160.dll" DATE="Tue Jun 09 11:36:00 CEST 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="E2160" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="patchw32.dll" PATH="/DLLArchive/etc/PATCHW32.DLL" DATE="Fri Jul 03 13:06:08 PDT 2020" VERSION="6.03">
+    <EXPORT ORDINAL="1" NAME="RTPatchApply32@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RTPatchSetOpen@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RTPatchSetDirWalk@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RTPatchSetCreate@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RTPatchSetDelete@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RTPatchSetRename@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RTPatchSetAttribSet@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RTPatchSetAttribGet@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RTPatchApply32NoCall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RTPBatSvr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RTPRegSvr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RTPRenSvr" PURGE="16" COMMENT="" />
+</LIBRARY>
+

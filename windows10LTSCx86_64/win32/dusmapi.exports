@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dusmapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/dusmapi.dll" DATE="Wed Oct 06 06:52:59 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DusmEnumConnectionList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DusmEnumProfileList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DusmFlushCostCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DusmFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DusmGetAttributedNetworkUsage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DusmGetConnectionListNetworkUsage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DusmGetNetworkUsage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DusmGetProviderNetworkUsage" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DusmQueryBackgroundRestriction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DusmQueryConnectionProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DusmQueryCost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DusmQueryDataPlan" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DusmQueryGlobalDpuState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DusmQueryOperatorCost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DusmQueryOperatorDataPlan" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DusmQuerySource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DusmQueryUserCost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DusmQueryUserDataPlan" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DusmResetNetworkUsage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DusmSetAttributionMapping" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DusmSetBackgroundRestriction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DusmSetOperatorCost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DusmSetOperatorDataPlan" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DusmSetSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DusmSetUserCost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DusmSetUserDataPlan" PURGE="8" COMMENT="" />
+</LIBRARY>
+

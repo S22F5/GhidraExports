@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="extendscriptide.dll" PATH="/DLLArchive/etc/ExtendScriptIDE.dll" DATE="Fri Jul 03 12:33:47 PDT 2020" VERSION="3.2.20">
+    <EXPORT ORDINAL="1" NAME="??0API@ScScript@@IAE@AAVEngine@1@J@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0Callback@ScScript@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0Debugger@ScScript@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1API@ScScript@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1Callback@ScScript@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1DebugAPI@ScScript@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1EmptyNode@ScScript@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1GlobalDialogs@ScScript@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??1HiliteAPI@ScScript@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??1LiveObjectAPI@ScScript@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??1Node@ScScript@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??1ParserAPI@ScScript@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??4InitTerm@ScScript@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??4OSSpecific@ScScript@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??_7API@ScScript@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??_7Callback@ScScript@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??_7Debugger@ScScript@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?add@DataPool@ScScript@@QAEJG@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?addProperties@Dispatcher@ScScript@@QAEXJPBUPropEntry@2@PBG@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?decRef@ScopeInfo@ScScript@@QBEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?getContextLevel@DebugAPI@ScScript@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?getDebugLevel@Engine@ScScript@@QBEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?getEngine@API@ScScript@@QBEAAVEngine@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?getName@API@ScScript@@QBEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?getNode@ListNode@ScScript@@QBEPAVNode@2@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?getOutputStream@DebugAPI@ScScript@@QBEPAVFile@ScCore@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?getSecurityFlags@FileDisp@ScScript@@QBEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?getUserData@Dispatcher@ScScript@@QBEPAVRoot@ScCore@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?getUserData@Engine@ScScript@@QBEPAVRoot@ScCore@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?incRef@ScopeInfo@ScScript@@QBEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?isEmpty@Node@ScScript@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?isInteger@DataPool@ScScript@@QBE_NJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?isUInteger@DataPool@ScScript@@QBE_NJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?length@ListNode@ScScript@@QBEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?setOutputStream@DebugAPI@ScScript@@QAEXPAVFile@ScCore@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?setSecurityFlags@FileDisp@ScScript@@QAEXJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?setUserData@Dispatcher@ScScript@@QAEXPAVRoot@ScCore@@_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?setUserData@Engine@ScScript@@QAEXPAVRoot@ScCore@@_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="_DllMain@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="getDebugger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="getVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

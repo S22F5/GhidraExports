@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acroiehelper.dll" PATH="/DLLArchive/etc/AcroIEHelper.dll" DATE="Fri Jul 03 12:15:44 PDT 2020" VERSION="6.0.1.2003110300">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AcroBrwSetCallbacks" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AcroBrwSubclassWindow" PURGE="4" COMMENT="" />
+</LIBRARY>
+

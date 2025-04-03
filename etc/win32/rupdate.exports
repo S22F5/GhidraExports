@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rupdate.dll" PATH="/DLLArchive/etc/Rupdate.dll" DATE="Fri Jul 03 22:13:10 CEST 2020" VERSION="1.02.1024.0">
+    <EXPORT ORDINAL="1" NAME="CentralCreateWindow" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CentralCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CentralAppInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CentralAppShutDown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RuQueryUpdate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RuIsUpdateAvailable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RuCancelUpdateQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RuGetComponentName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RuGetOption" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RuSetOption" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="McRtlComponentsKeyA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="McRtlSharedComponentsKeyA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

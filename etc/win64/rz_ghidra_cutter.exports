@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_ghidra_cutter.dll" PATH="/DLLArchive/etc/rz_ghidra_cutter.dll" DATE="Mon Mar 04 10:56:08 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="qt_plugin_instance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="qt_plugin_query_metadata" PURGE="0" COMMENT="" />
+</LIBRARY>
+

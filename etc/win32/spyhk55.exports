@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spyhk55.dll" PATH="/DLLArchive/etc/SPYHK55.DLL" DATE="Wed Jun 17 10:40:42 PDT 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="_DLLEntryPoint@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetWindowClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_SpyxxCallWndProc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_SpyxxCallWndRetProc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_SpyxxGetMsgProc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="gaaClasses" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="gabMsgBuf" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="gcMsgPackets" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="gcSubclass" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="gfEnableSubclass" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="gfHookEnabled" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="gfOnWindows4x" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="gfOnWindows5x" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="gfOnWindows9x" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ghhkCallHook" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ghhkMsgHook" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ghhkRetHook" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="gmet" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="gmet3D" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="gmetAni" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="gmetCBX" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="gmetCCtl" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="gmetDT" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="gmetDlg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="gmetEdit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="gmetHK" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="gmetHdr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="gmetIP" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="gmetLV" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="gmetMC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="gmetPgr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="gmetProg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="gmetRbr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="gmetStat" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="gmetTB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="gmetTT" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="gmetTV" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="gmetTab" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="gmetTrk" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="gmetUpDn" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="gmsgOtherProcessData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="goffRead" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="goffWrite" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="gopd" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="gpidSpyxx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="gtidSpyxx" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

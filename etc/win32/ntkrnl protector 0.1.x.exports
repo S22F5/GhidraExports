@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntkrnl protector 0.1.x.dll" PATH="/DLLArchive/etc/NTKrnl Protector 0.1.x.dll" DATE="Sat Jan 20 13:42:00 CET 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="execryptor.dll" PATH="/DLLArchive/etc/ExeCryptor.dll" DATE="Sat Dec 31 23:11:36 PST 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

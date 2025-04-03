@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dot3dlg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dot3dlg.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="Dot3ACOnBalloonClick" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Dot3ACCanShowBalloon" PURGE="24" COMMENT="" />
+</LIBRARY>
+

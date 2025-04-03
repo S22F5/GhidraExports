@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d2d1.dll" PATH="/DLLArchive/windows10LTSCX86_64/d2d1.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="D2D1CreateFactory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D2D1MakeRotateMatrix" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D2D1MakeSkewMatrix" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D2D1IsMatrixInvertible" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D2D1InvertMatrix" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D2D1ConvertColorSpace" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D2D1CreateDevice" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D2D1CreateDeviceContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="D2D1SinCos" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="D2D1Tan" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="D2D1Vec3Length" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="D2D1ComputeMaximumScaleFactor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="D2D1GetGradientMeshInteriorPointsFromCoonsPatch" PURGE="64" COMMENT="" />
+</LIBRARY>
+

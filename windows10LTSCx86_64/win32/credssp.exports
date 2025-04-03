@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="credssp.dll" PATH="/DLLArchive/windows10LTSCX86_64/credssp.dll" DATE="Wed Oct 06 06:52:39 PDT 2021" VERSION="10.0.19041.264 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="InitSecurityInterfaceW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SpAcceptSecurityContext" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SpAcquireCredentialsHandleW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SpAddCredentialsW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SpApplyControlToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SpChangeAccountPasswordW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SpCompleteAuthToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SpDecryptMessage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SpDeleteSecurityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SpEncryptMessage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SpEnumerateSecurityPackagesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SpExportSecurityContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SpFreeContextBuffer" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SpFreeCredentialsHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SpImpersonateSecurityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SpImportSecurityContextW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SpInitializeSecurityContextW" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SpMakeSignature" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SpQueryContextAttributesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SpQueryCredentialsAttributesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SpQuerySecurityContextToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SpQuerySecurityPackageInfoW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SpRevertSecurityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SpSetContextAttributesW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SpSetCredentialsAttributesW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SpVerifySignature" PURGE="16" COMMENT="" />
+</LIBRARY>
+

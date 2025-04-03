@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spwmp.dll" PATH="/DLLArchive/windows10LTSCX86_64/spwmp.dll" DATE="Wed Oct 06 06:53:35 PDT 2021" VERSION="12.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Sysprep_Clean_WMP" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Sysprep_Generalize_WMP" PURGE="0" COMMENT="" />
+</LIBRARY>
+

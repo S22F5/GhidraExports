@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appxapplicabilityengine.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppxApplicabilityEngine.dll" DATE="Wed Oct 06 15:52:22 CEST 2021" VERSION="10.0.19041.508 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetApplicabilityContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddDirectXFeatureLevelToContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AddUserLanguagesToContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateApplicabilityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateApplicabilityContextFromString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FreeApplicabilityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FreeApplicablePackages" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetApplicablePackages" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetApplicablePackagesForUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetApplicablePackagesForUserWithAppChosenResources" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetApplicablePackagesWithAppChosenResources" PURGE="24" COMMENT="" />
+</LIBRARY>
+

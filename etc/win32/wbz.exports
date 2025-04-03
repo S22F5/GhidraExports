@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wbz.dll" PATH="/DLLArchive/etc/Wbz.dll" DATE="Fri Nov 09 16:01:28 PST 2012" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Read_Comment" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadWBZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReadWBC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ScanWBC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

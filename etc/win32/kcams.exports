@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kcams.dll" PATH="/DLLArchive/etc/kcams.dll" DATE="Fri Jul 03 12:45:33 PDT 2020" VERSION="4.5.00.0128">
+    <EXPORT ORDINAL="1" NAME="LibraryCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PerformRegistration" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_SK_GetTCData@40" PURGE="40" COMMENT="" />
+</LIBRARY>
+

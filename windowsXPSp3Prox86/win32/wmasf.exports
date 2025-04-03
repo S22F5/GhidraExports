@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmasf.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wmasf.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="9.00.00.4503 (xpsp.080413-0845)">
+    <EXPORT ORDINAL="5" NAME="ASFCreateLibrary" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ASFGetHeaderObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ASFGetRootObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ASFGetStreamPropertiesObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ASFFindHeaderObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ASFFindRootObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ASFFindStreamPropertiesObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateAsfCellPoolAllocator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ASFCreateIndexMaker" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ASFCreateIndexMakerFileSink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ASFAddPresDelta" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ASFAddSendDelta" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ASFGUIDFromCodecID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ASFGUIDToCodecID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ASFReadHeaderFromFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ASFCalculatePresDelta" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ASFCreateBitrateTracker" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ASFWriteHeaderToFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ASFCreateIOMonitor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ASFGetDataUnitInfo" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ASFCreateMediaObjectIndexMaker" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ASFCreateStreamSelector" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ASFGetTimeBase" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ASFPresDeltaTimeToTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ASFPresDeltaToFull" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ASFPresFullToDelta" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ASFPresTimeToSendTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ASFPresTimeToTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ASFReadHeaderFromFileHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ASFSendTimeToPresTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ASFSendTimeToTime" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ASFSetDataUnitInfo" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ASFTimeToPresDeltaTime" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ASFTimeToPresTime" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ASFTimeToSendTime" PURGE="16" COMMENT="" />
+</LIBRARY>
+

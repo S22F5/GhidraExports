@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xpinstal.dll" PATH="/DLLArchive/etc/xpinstal.dll" DATE="Fri Jul 03 13:41:30 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SU_Uninstall" PURGE="0" COMMENT="" />
+</LIBRARY>
+

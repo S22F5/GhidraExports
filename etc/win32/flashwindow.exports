@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="flashwindow.dll" PATH="/DLLArchive/etc/flashwindow.dll" DATE="Fri Jul 03 12:34:10 PDT 2020" VERSION="8.00.000">
+    <EXPORT ORDINAL="1" NAME="CreateFlashWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateFlashPaletteWindow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

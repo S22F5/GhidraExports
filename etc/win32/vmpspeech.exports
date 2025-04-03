@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vmpspeech.dll" PATH="/DLLArchive/etc/VMPSpeech.dll" DATE="Fri Jul 03 13:28:14 PDT 2020" VERSION="3, 2, 2, 26">
+    <EXPORT ORDINAL="1" NAME="??0Decoder@@QAE@PAVNciDecode@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0NciDecode@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1Decoder@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1NciDecode@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AddEncodedData@Decoder@@QAEGPAEH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AddEncodedData@NciDecode@@QAEGPAEH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?ClearBuffers@Decoder@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?ClearBuffers@NciDecode@@QAEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Decode@Decoder@@UAEGPAEHPAPBFPAH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?DecodeBuffer@Decoder@@QAEGPAPBFPAH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?DecodeFrame@NciDecode@@QAEGPAFPAH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Free@NciDecode@@QAEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetBitsPerSample@Decoder@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetChannelCount@Decoder@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GetCodecBitRate@Decoder@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetMaxInputChunkBytes@Decoder@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetSamplingRate@Decoder@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Init@NciDecode@@QAEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ObjectInit@Decoder@@UAEGH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MTSCanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MTSCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MTSGetCreatorFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MTSRegisterComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MTSSetGlobalServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MTSUnregisterComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="UpdateHook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

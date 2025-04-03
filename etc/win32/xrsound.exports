@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xrsound.dll" PATH="/DLLArchive/etc/xrSound.dll" DATE="Fri Jul 03 13:42:08 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0CSound_emitter@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CSound_emitter@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CSound_manager_interface@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0CSound_manager_interface@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0CSound_source@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0CSound_source@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??0CSound_stats_ext@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??0CSound_stats_ext@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??1CSound_manager_interface@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??1CSound_stats_ext@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??4CSound_emitter@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??4CSound_environment@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??4CSound_manager_interface@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??4CSound_params@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??4CSound_source@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??4CSound_stats@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??4CSound_stats_ext@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??4CSound_stream_interface@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="??_7CSound_emitter@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="??_7CSound_manager_interface@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="??_7CSound_source@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?Sound@@3PAVCSound_manager_interface@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?_create@CSound_manager_interface@@SAX_K@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?_destroy@CSound_manager_interface@@SAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?append@CSound_stats_ext@@QAEXABUSItem@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?clear@CSound_stats_ext@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?psSoundCacheSizeMB@@3HA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?psSoundFlags@@3U?$_flags@I@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?psSoundFreq@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?psSoundModel@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?psSoundOcclusionScale@@3MA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?psSoundRolloff@@3MA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?psSoundTargets@@3HA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?psSoundVEffects@@3MA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?psSoundVFactor@@3MA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?psSoundVMusic@@3MA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

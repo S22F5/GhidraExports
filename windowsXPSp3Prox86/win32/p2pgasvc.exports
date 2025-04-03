@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="p2pgasvc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/p2pgasvc.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="SVCServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

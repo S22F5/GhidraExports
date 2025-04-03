@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sbeio.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sbeio.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="9.00.00.3165 (xpsp(bld4act).040414-1609)">
+    <EXPORT ORDINAL="1" NAME="DVRCreateDVRFileSink" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DVRCreateDVRFileSource" PURGE="24" COMMENT="" />
+</LIBRARY>
+

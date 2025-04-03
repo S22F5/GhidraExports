@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vfp6renu.dll" PATH="/DLLArchive/etc/vfp6renu.dll" DATE="Fri Jul 03 22:27:35 CEST 2020" VERSION="6.0.8167.0">
+    <EXPORT ORDINAL="1" NAME="DllVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

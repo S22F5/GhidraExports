@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dao360.dll" PATH="/DLLArchive/etc/dao360.dll" DATE="Fri Jul 03 12:30:20 PDT 2020" VERSION="03.60.8618.0">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServerEx" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxst30.dll" PATH="/DLLArchive/windowsXPSp3Prox86/fxst30.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.2.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="FaxDevAbortOperation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxDevEndJob" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FaxDevInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FaxDevReceive" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FaxDevReportStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FaxDevSend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FaxDevShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FaxDevStartJob" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FaxExtInitializeConfig" PURGE="20" COMMENT="" />
+</LIBRARY>
+

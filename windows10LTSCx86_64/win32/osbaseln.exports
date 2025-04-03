@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="osbaseln.dll" PATH="/DLLArchive/windows10LTSCX86_64/osbaseln.dll" DATE="Sat Dec 07 01:09:13 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseOsBaseline" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EnumOsBaselineComponentsA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnumOsBaselineComponentsW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnumOsOutOfDateComponentsA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnumOsOutOfDateComponentsW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetOsBaselineComponentInfoA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetOsBaselineComponentInfoW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetOsInstalledComponentInfoA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetOsInstalledComponentInfoW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetOsLatestBaselineServicePack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OpenOsBaseline" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="pGetOsBaselineCurrentVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="pGetOsCurrentBaselineServicePack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="pOpenOsBaselineByVersion" PURGE="12" COMMENT="" />
+</LIBRARY>
+

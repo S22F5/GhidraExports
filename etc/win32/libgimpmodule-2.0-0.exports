@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libgimpmodule-2.0-0.dll" PATH="/DLLArchive/etc/libgimpmodule-2.0-0.dll" DATE="Fri Jul 03 12:46:50 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_gimp_module_db_get_load_inhibit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_gimp_module_db_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_gimp_module_db_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_gimp_module_db_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_gimp_module_db_refresh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_gimp_module_db_set_load_inhibit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_gimp_module_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_gimp_module_info_copy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_gimp_module_info_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_gimp_module_info_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_gimp_module_modified" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_gimp_module_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_gimp_module_query_module" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_gimp_module_set_load_inhibit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_gimp_module_state_name" PURGE="0" COMMENT="" />
+</LIBRARY>
+

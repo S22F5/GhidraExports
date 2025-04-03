@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wing32.dll" PATH="/DLLArchive/etc/Wing32.dll" DATE="Fri Jul 03 13:32:20 PDT 2020" VERSION="WinG Version 1.0">
+    <EXPORT ORDINAL="1" NAME="WinGBitBlt" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WinGCreateBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WinGCreateDC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WinGCreateHalftoneBrush" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WinGCreateHalftonePalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WinGGetDIBColorTable" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WinGGetDIBPointer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WinGRecommendDIBFormat" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WinGSetDIBColorTable" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WinGStretchBlt" PURGE="40" COMMENT="" />
+</LIBRARY>
+

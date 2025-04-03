@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="recpage.dll" PATH="/DLLArchive/etc/RecPage.dll" DATE="Fri Jul 03 13:11:05 PDT 2020" VERSION="5.0.0.482">
+    <EXPORT ORDINAL="1" NAME="Deinitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="__FineObjUsed" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

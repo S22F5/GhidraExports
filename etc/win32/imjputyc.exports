@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imjputyc.dll" PATH="/DLLArchive/etc/imjputyc.dll" DATE="Fri Jul 03 12:41:39 PDT 2020" VERSION="8.1.4202.0">
+    <EXPORT ORDINAL="1" NAME="_AutoCorrLbSubWndProc@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenImeTool" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OpenUty" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UtyHookMsgProc" PURGE="12" COMMENT="" />
+</LIBRARY>
+

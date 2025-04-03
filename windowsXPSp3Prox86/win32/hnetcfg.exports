@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hnetcfg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/hnetcfg.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="HNetDeleteRasConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HNetFreeSharingServicesPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HNetGetSharingServicesPage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WinBomConfigureWindowsFirewall" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HNetFreeFirewallLoggingSettings" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HNetGetFirewallSettingsPage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HNetGetShareAndBridgeSettings" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HNetSetShareAndBridgeSettings" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HNetSharedAccessSettingsDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HNetSharingAndFirewallSettingsDlg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IcfChangeNotificationCreate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IcfChangeNotificationDestroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IcfCheckAppAuthorization" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IcfCloseDynamicFwPort" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IcfConnect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IcfDisconnect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IcfFreeAdapters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IcfFreeDynamicFwPorts" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IcfFreeProfile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IcfFreeString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IcfFreeTickets" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IcfGetAdapters" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IcfGetCurrentProfileType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IcfGetDynamicFwPorts" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IcfGetOperationalMode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IcfGetProfile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IcfGetTickets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IcfIsIcmpTypeAllowed" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IcfIsPortAllowed" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="IcfOpenDynamicFwPort" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="IcfOpenDynamicFwPortWithoutSocket" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="IcfOpenFileSharingPorts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="IcfRefreshPolicy" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="IcfRemoveDisabledAuthorizedApp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="IcfSetServicePermission" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="IcfSubNetsGetScope" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="IcfSubNetsIsStringValid" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="IcfSubNetsToString" PURGE="8" COMMENT="" />
+</LIBRARY>
+

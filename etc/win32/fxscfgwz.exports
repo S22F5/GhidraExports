@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxscfgwz.dll" PATH="/DLLArchive/etc/fxscfgwz.dll" DATE="Fri Jul 03 12:35:18 PDT 2020" VERSION="5.2.1776.0">
+    <EXPORT ORDINAL="1" NAME="FaxCfgWzrdDllW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxConfigWizard" PURGE="8" COMMENT="" />
+</LIBRARY>
+

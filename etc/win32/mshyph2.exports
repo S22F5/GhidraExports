@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mshyph2.dll" PATH="/DLLArchive/etc/MSHYPH2.DLL" DATE="Fri Jul 03 12:56:05 PDT 2020" VERSION="1.3.8131">
+    <EXPORT ORDINAL="20" NAME="HyphenatorVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HyphenatorInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HyphenatorTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HyphenatorOpenLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HyphenatorCloseLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HyphenatorSetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HyphenatorGetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HyphenatorCheck" PURGE="12" COMMENT="" />
+</LIBRARY>
+

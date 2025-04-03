@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsetup.dll" PATH="/DLLArchive/etc/DSETUP.DLL" DATE="Fri Jul 03 21:32:17 CEST 2020" VERSION="4.06.00.0318">
+    <EXPORT ORDINAL="1" NAME="DirectXDeviceDriverSetupA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DirectXDeviceDriverSetupW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DirectXRegisterApplicationA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DirectXRegisterApplicationW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DirectXSetupA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DirectXSetupIsJapan" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DirectXSetupIsJapanNec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DirectXSetupW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DirectXUnRegisterApplication" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DirectXSetupSetCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DirectXSetupGetVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DirectXSetupCallback" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DirectXSetupGetFileVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DirectXLoadString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DirectXSetupIsEng" PURGE="0" COMMENT="" />
+</LIBRARY>
+

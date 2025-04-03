@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dim.dll" PATH="/DLLArchive/windowsXPSp3Prox86/d3dim.dll" DATE="Fri Aug 17 13:36:12 PDT 2001" VERSION="5.1.2600.0">
+    <EXPORT ORDINAL="1" NAME="D3DFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D3DMalloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3DRealloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Direct3DCreateDevice" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Direct3DCreateTexture" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Direct3DGetSWRastZPixFmts" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Direct3DCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Direct3D_HALCleanUp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FlushD3DDevices2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FlushD3DDevices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PaletteAssociateNotify" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PaletteUpdateNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SurfaceFlipNotify" PURGE="4" COMMENT="" />
+</LIBRARY>
+

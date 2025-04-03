@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kdserial.dll" PATH="/DLLArchive/etc/kdserial.dll" DATE="Tue Oct 24 23:54:06 CEST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HviGetDebugDeviceOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HviGetHypervisorFeatures" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HviIsHypervisorVendorMicrosoft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="KdHyperDbgPrepareDebuggeeConnectionPort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="KdHyperDbgRecvByte" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="KdHyperDbgSendByte" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="KdHyperDbgTest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="KdInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="KdPower" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="KdReceivePacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="KdSendPacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="KdSetHiberRange" PURGE="0" COMMENT="" />
+</LIBRARY>
+

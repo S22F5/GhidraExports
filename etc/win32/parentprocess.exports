@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="parentprocess.dll" PATH="/DLLArchive/etc/ParentProcess.dll" DATE="Thu Aug 24 17:22:56 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="tst_ParentProcess" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="tst_ParentProcess_about" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="tst_ParentProcess_description" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="tst_ParentProcess_name" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

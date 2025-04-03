@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="swsupport.dll" PATH="/DLLArchive/etc/SwSupport.dll" DATE="Fri Jul 03 22:21:37 CEST 2020" VERSION="10.1r11">
+    <EXPORT ORDINAL="1" NAME="GetMediaTypeFuncs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetRemoteFuncs2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetShockwaveRemoteFuncs" PURGE="0" COMMENT="" />
+</LIBRARY>
+

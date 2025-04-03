@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfctrs.dll" PATH="/DLLArchive/windows10LTSCX86_64/perfctrs.dll" DATE="Wed Oct 06 15:52:35 CEST 2021" VERSION="10.0.19041.488 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="OpenNbfPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectNbfPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseNbfPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OpenTcpIpPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CollectTcpIpPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CloseTcpIpPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OpenIPXPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CollectIPXPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CloseIPXPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OpenSPXPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CollectSPXPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CloseSPXPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="OpenNWNBPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CollectNWNBPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CloseNWNBPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OpenDhcpPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CollectDhcpPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CloseDhcpPerformanceData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

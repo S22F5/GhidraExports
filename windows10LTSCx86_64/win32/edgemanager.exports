@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="edgemanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/EdgeManager.dll" DATE="Wed Oct 06 06:53:02 PDT 2021" VERSION="11.00.19041.1165 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateEdgeIsoSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateWebRuntimeDebugTargetClient" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateWebRuntimeDebugTargetManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateWebRuntimeDiagnosticsTarget" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnsureWebDriverForWebViewHost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateCoreWebViewComponentAndUninitializedCoreWebViewComponentCallbackForWebInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateCoreWebViewControl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateCoreWebViewHostProcess" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateCoreWebViewOOP" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateWebViewControlAcceleratorKeyPressedEventArgs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateWebViewControlAndInitializeCoreWebViewComponentCallback" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateWebViewControlMoveFocusRequestedEventArgs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="EnsureServiceWorkerEnvironmentForWebView" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetWebDriverHostInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

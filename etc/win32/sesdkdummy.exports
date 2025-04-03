@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sesdkdummy.dll" PATH="/DLLArchive/etc/SESDKDummy.dll" DATE="Wed Feb 19 21:21:15 PST 2014" VERSION="">
+    <EXPORT ORDINAL="1" NAME="SEAddMemoryGuard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SECheckCountryID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SECheckExecTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SECheckExpDate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SECheckHardwareID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SECheckLicenseFileA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SECheckLicenseFileEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SECheckLicenseFileW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SECheckNumDays" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SECheckNumExec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SECheckProtection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SECheckTotalExecTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SEDecodeStringA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SEDecodeStringW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SEDelMemoryGuard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SEFreeString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SEGetAppStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SEGetExecTimeLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SEGetExecTimeUsed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SEGetHardwareIDA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SEGetHardwareIDW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SEGetLicenseHash" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SEGetLicenseTrialInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SEGetLicenseUserInfoA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SEGetLicenseUserInfoW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SEGetNumDaysLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SEGetNumDaysUsed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SEGetNumExecLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SEGetNumExecUsed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SEGetProtectionDate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SEGetTotalExecTimeLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SEGetTotalExecTimeUsed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SENotifyLicenseBanned" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SEProtectEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SEProtectStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SEProtectStartMutation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SEProtectStartUltra" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SEProtectStartVirtualization" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SEResetTrial" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SESetAppStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SESetExecTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SESetNumExecUsed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SESetTotalExecTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SEUnProtectEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SEUnProtectStart" PURGE="0" COMMENT="" />
+</LIBRARY>
+

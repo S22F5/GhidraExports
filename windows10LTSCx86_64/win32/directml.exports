@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="directml.dll" PATH="/DLLArchive/windows10LTSCX86_64/directml.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="1.0.200713-1013.1.vb.07142e1">
+    <EXPORT ORDINAL="1" NAME="DMLCreateDevice" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DMLCreateDevice1" PURGE="20" COMMENT="" />
+</LIBRARY>
+

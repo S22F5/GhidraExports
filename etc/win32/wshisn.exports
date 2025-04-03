@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wshisn.dll" PATH="/DLLArchive/etc/wshisn.dll" DATE="Fri Jul 03 13:37:54 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="WSHAddressToString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSHEnumProtocols" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSHGetProviderGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSHGetSockaddrType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSHGetSocketInformation" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSHGetWildcardSockaddr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSHGetWinsockMapping" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSHNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSHOpenSocket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WSHSetSocketInformation" PURGE="32" COMMENT="" />
+</LIBRARY>
+

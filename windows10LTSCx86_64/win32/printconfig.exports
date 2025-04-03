@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="printconfig.dll" PATH="/DLLArchive/windows10LTSCX86_64/PrintConfig.dll" DATE="Wed Oct 06 15:51:03 CEST 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="254" NAME="DrvSplDeviceCaps" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="255" NAME="DrvResetConfigCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="256" NAME="MxdcGetPDEVAdjustment" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="DevQueryPrintEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="264" NAME="DrvConvertDevMode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="265" NAME="DrvDeviceCapabilities" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="266" NAME="DrvDevicePropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="267" NAME="DrvDocumentEvent" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="268" NAME="DrvDocumentPropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="269" NAME="DrvDriverEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="270" NAME="DrvPopulateFilterServices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="271" NAME="DrvPrinterEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="272" NAME="DrvQueryColorProfile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="273" NAME="DrvQueryJobAttributes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="274" NAME="DrvUpgradePrinter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="275" NAME="NotifyEntry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="300" NAME="GetStandardMessageForPrinterStatus" PURGE="12" COMMENT="" />
+</LIBRARY>
+

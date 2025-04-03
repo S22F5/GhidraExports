@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="burningold.dll" PATH="/DLLArchive/etc/BurningOld.dll" DATE="Tue May 14 11:41:34 PDT 2013" VERSION="4.36">
+    <EXPORT ORDINAL="1" NAME="NeroBurn_Slideshow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tcl.dll" PATH="/DLLArchive/etc/TCL.dll" DATE="Fri Jul 03 13:22:24 PDT 2020" VERSION="6.8.0.3">
+    <EXPORT ORDINAL="1" NAME="Tcl_AddErrorInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Tcl_AppendElement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Tcl_AppendResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Tcl_AssembleCmd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Tcl_Backslash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Tcl_CloneInterp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Tcl_Concat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Tcl_ConvertElement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Tcl_CreateCmdBuf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Tcl_CreateCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Tcl_CreateInterp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Tcl_CreateTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Tcl_DeleteClone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Tcl_DeleteCmdBuf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Tcl_DeleteCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Tcl_DeleteHashEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Tcl_DeleteHashTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Tcl_DeleteInterp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Tcl_DeleteTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Tcl_EvalEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Tcl_ExprDouble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Tcl_ExprString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Tcl_FirstHashEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Tcl_FreeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Tcl_GetBoolean" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Tcl_GetDouble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Tcl_GetInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Tcl_GetStringResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Tcl_GetVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Tcl_GetVar2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Tcl_GlobalEval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Tcl_HashStats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Tcl_InitHashTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Tcl_Merge" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="Tcl_NextHashEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="Tcl_ProcCmd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="Tcl_ResetResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="Tcl_ScanElement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="Tcl_SetErrorCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Tcl_SetResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="Tcl_SetVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="Tcl_SetVar2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="Tcl_SplitList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="Tcl_StringMatch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="Tcl_TraceVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="Tcl_TraceVar2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="Tcl_UnsetVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="Tcl_UnsetVar2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="Tcl_UntraceVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="Tcl_UntraceVar2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="Tcl_VarEval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="Tcl_VarTraceInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="Tcl_VarTraceInfo2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

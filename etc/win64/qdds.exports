@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qdds.dll" PATH="/DLLArchive/etc/qdds.dll" DATE="Mon Apr 25 22:35:54 CEST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="qt_plugin_instance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="qt_plugin_query_metadata" PURGE="0" COMMENT="" />
+</LIBRARY>
+

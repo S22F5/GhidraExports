@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navgen.dll" PATH="/DLLArchive/etc/NavGen.dll" DATE="Thu Jun 27 13:08:20 CEST 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BuildBVHForMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BuildNavmeshForMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetBVHNodes" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetBVHSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetBoundingBox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetMeshTriCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetMeshTris" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetMeshVertCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMeshVerts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetNodeSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetNavmeshBuildParams" PURGE="0" COMMENT="" />
+</LIBRARY>
+

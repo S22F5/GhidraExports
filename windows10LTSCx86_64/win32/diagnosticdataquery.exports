@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="diagnosticdataquery.dll" PATH="/DLLArchive/windows10LTSCX86_64/diagnosticdataquery.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DdqCancelDiagnosticRecordOperation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DdqCloseSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DdqCreateSession" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DdqExtractDiagnosticReport" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DdqFreeDiagnosticRecordLocaleTags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DdqFreeDiagnosticRecordPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DdqFreeDiagnosticRecordProducerCategories" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DdqFreeDiagnosticRecordProducers" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DdqFreeDiagnosticReport" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DdqGetDiagnosticDataAccessLevelAllowed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DdqGetDiagnosticRecordAtIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DdqGetDiagnosticRecordBinaryDistribution" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DdqGetDiagnosticRecordCategoryAtIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DdqGetDiagnosticRecordCategoryCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DdqGetDiagnosticRecordCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DdqGetDiagnosticRecordLocaleTagAtIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DdqGetDiagnosticRecordLocaleTagCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DdqGetDiagnosticRecordLocaleTags" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DdqGetDiagnosticRecordPage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DdqGetDiagnosticRecordPayload" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DdqGetDiagnosticRecordProducerAtIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DdqGetDiagnosticRecordProducerCategories" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DdqGetDiagnosticRecordProducerCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DdqGetDiagnosticRecordProducers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DdqGetDiagnosticRecordStats" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DdqGetDiagnosticRecordSummary" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DdqGetDiagnosticRecordTagDistribution" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DdqGetDiagnosticReport" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DdqGetDiagnosticReportAtIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DdqGetDiagnosticReportCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DdqGetDiagnosticReportStoreReportCount" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DdqGetSessionAccessLevel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DdqGetTranscriptConfiguration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DdqIsDiagnosticRecordSampledIn" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DdqSetTranscriptConfiguration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="UtcSendTraceLogging2" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="UtcSendTraceLogging" PURGE="40" COMMENT="" />
+</LIBRARY>
+

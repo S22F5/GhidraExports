@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="loadcsdll.dll" PATH="/DLLArchive/etc/LoadCSDll.dll" DATE="Mon Mar 30 14:53:18 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDoNet" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sxshared.dll" PATH="/DLLArchive/windows10LTSCX86_64/sxshared.dll" DATE="Sat Dec 07 01:09:57 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetLastFailureAsHRESULT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HRESULTFromNTSTATUS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Win32FromHRESULT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Win32FromNTSTATUS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SxTracerDebuggerBreak" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SxTracerGetThreadContextDebug" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SxTracerGetThreadContextRetail" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SxTracerShouldTrackFailure" PURGE="4" COMMENT="" />
+</LIBRARY>
+

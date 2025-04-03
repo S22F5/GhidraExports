@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comppkgsup.dll" PATH="/DLLArchive/windows10LTSCX86_64/CompPkgSup.dll" DATE="Wed Oct 06 06:52:17 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AreDvdCodecsEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetMediaComponentPackageInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetMediaExtensionCommunicationFactory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetNetworkRequestCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetServerForPMP" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InstantiateComponentFromPackage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsMediaBehaviorEnabled" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RegisterServerForPMP" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RequireNetworkDuringMediaTaskCompletion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UnregisterServerForPMP" PURGE="4" COMMENT="" />
+</LIBRARY>
+

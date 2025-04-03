@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="semnt.dll" PATH="/DLLArchive/etc/SEMNT.DLL" DATE="Fri Jul 03 13:15:04 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="CheckAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeleteAgentProxyPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetAgentProxyPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDomainCtrlType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetSQLExecSvcAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitCmdExecSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InstallSQLExecSvcSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ModifySQLExecSvcAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetAgentProxyPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetSQLExecSvcAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetupCmdExecAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UnInstallSQLExecSvcSecurity" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="2g_dll_bfluart.dll" PATH="/DLLArchive/etc/2G_Dll_bfluart.dll" DATE="Fri Jul 03 12:10:15 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="BFLOADER_ComAbortDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BFLOADER_ComChangeConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BFLOADER_ComCloseDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BFLOADER_ComConfigInitDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BFLOADER_ComSendCmd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BFLOADER_GetDllVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

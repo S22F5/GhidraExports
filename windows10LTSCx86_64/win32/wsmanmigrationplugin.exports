@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wsmanmigrationplugin.dll" PATH="/DLLArchive/windows10LTSCX86_64/WSManMigrationPlugin.dll" DATE="Wed Oct 06 06:52:22 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0?$SafeMap_Iterator@VKey@Locale@@K@@QAE@AAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAE@ABV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1?$SafeMap_Iterator@VKey@Locale@@K@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CWSManCriticalSectionWithConditionVar@@QAE@XZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Acquire@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UBEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Acquire@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Acquired@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AsReference@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QAEAAV1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Data@?$SafeMap_Iterator@VKey@Locale@@K@@IBEAAV?$STLMap@VKey@Locale@@K@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?DeInitialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UAE_NAAVIRequestContext@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GetInitError@CWSManCriticalSection@@QBEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetMap@?$SafeMap_Iterator@VKey@Locale@@K@@QBEAAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetMap@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QBEABV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Initialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UAE_NAAVIRequestContext@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?IsValid@?$SafeMap_Iterator@VKey@Locale@@K@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Release@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UBEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Reset@?$SafeMap_Iterator@VKey@Locale@@K@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?SkipOrphans@?$SafeMap_Iterator@VKey@Locale@@K@@IAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

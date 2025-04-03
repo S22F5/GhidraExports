@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_yara.dll" PATH="/DLLArchive/etc/rz_yara.dll" DATE="Mon Mar 04 10:54:22 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rizin_plugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_yara_compiler_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_yara_compiler_get_rules_and_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_yara_compiler_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_yara_compiler_parse_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_yara_compiler_parse_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_yara_create_rule_from_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_yara_metadata_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_yara_metadata_new" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_yara_rules_foreach" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_yara_rules_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_yara_scanner_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_yara_scanner_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_yara_scanner_search" PURGE="0" COMMENT="" />
+</LIBRARY>
+

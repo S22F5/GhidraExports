@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ecw.dll" PATH="/DLLArchive/etc/Ecw.dll" DATE="Mon Oct 12 21:26:26 CEST 2020" VERSION="4.56.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadECW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SaveECW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ShowPlugInSaveOptions" PURGE="0" COMMENT="" />
+</LIBRARY>
+

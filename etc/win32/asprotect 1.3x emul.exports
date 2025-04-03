@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asprotect 1.3x emul.dll" PATH="/DLLArchive/etc/ASProtect 1.3x Emul.dll" DATE="Tue Oct 08 13:50:46 PDT 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="0" COMMENT="" />
+</LIBRARY>
+

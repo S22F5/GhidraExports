@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ralf.dll" PATH="/DLLArchive/etc/ralf.dll" DATE="Fri Jul 03 22:10:32 CEST 2020" VERSION="6.0.0.616">
+    <EXPORT ORDINAL="1" NAME="RACreateDecoderInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RACreateEncoderInstance" PURGE="8" COMMENT="" />
+</LIBRARY>
+

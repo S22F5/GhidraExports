@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msajetfs.dll" PATH="/DLLArchive/etc/Msajetfs.dll" DATE="Fri Jul 03 12:54:11 PDT 2020" VERSION="3.000.3011">
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="8" COMMENT="" />
+</LIBRARY>
+

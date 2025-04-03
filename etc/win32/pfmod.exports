@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pfmod.dll" PATH="/DLLArchive/etc/PFMOD.dll" DATE="Fri Jul 03 13:06:37 PDT 2020" VERSION="5.5.3">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="QuerySupportInterface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetCurrentVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

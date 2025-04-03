@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbd101c.dll" PATH="/DLLArchive/etc/kbd101c.dll" DATE="Fri Jul 03 21:45:03 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KbdNlsLayerDescriptor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

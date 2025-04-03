@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libtasn1-6.dll" PATH="/DLLArchive/etc/libtasn1-6.dll" DATE="Wed Nov 15 20:03:00 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="asn1_array2tree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="asn1_bit_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="asn1_check_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="asn1_copy_node" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="asn1_create_element" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="asn1_decode_simple_ber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="asn1_decode_simple_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="asn1_delete_element" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="asn1_delete_structure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="asn1_delete_structure2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="asn1_der_coding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="asn1_der_decoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="asn1_der_decoding2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="asn1_der_decoding_element" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="asn1_der_decoding_startEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="asn1_dup_node" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="asn1_encode_simple_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="asn1_expand_any_defined_by" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="asn1_expand_octet_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="asn1_find_node" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="asn1_find_structure_from_oid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="asn1_get_bit_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="asn1_get_length_ber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="asn1_get_length_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="asn1_get_object_id_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="asn1_get_octet_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="asn1_get_tag_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="asn1_length_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="asn1_number_of_elements" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="asn1_object_id_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="asn1_octet_der" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="asn1_parser2array" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="asn1_parser2tree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="asn1_perror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="asn1_print_structure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="asn1_read_node_value" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="asn1_read_tag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="asn1_read_value" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="asn1_read_value_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="asn1_strerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="asn1_write_value" PURGE="0" COMMENT="" />
+</LIBRARY>
+

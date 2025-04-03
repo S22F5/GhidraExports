@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpcjrr.dll" PATH="/DLLArchive/etc/hpcjrr.dll" DATE="Fri Jul 03 12:36:49 PDT 2020" VERSION="1.0.33.0">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

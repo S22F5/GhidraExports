@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rmcxt3.dll" PATH="/DLLArchive/etc/rmcxt3.dll" DATE="Fri Jul 03 13:12:13 PDT 2020" VERSION="7.0.0.8739">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="remote_addContextListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="remote_createContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="remote_getContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="remote_getContextList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="remote_removeContextListener" PURGE="0" COMMENT="" />
+</LIBRARY>
+

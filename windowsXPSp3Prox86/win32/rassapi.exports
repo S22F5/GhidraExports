@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rassapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rassapi.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="2" NAME="RasAdminUserSetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RasAdminUserGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RasAdminGetUserAccountServer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RasAdminPortEnum" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RasAdminPortGetInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RasAdminPortClearStatistics" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RasAdminServerGetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RasAdminPortDisconnect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RasAdminFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RasAdminSetUserParms" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RasAdminGetUserParms" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RasAdminCompressPhoneNumber" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RasAdminGetErrorString" PURGE="12" COMMENT="" />
+</LIBRARY>
+

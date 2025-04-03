@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptdll.dll" PATH="/DLLArchive/windowsXPSp3Prox86/cryptdll.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="CDBuildIntegrityVect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CDBuildVect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CDFindCommonCSystem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CDFindCommonCSystemWithKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CDGenerateRandomBits" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CDLocateCSystem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CDLocateCheckSum" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CDLocateRng" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CDRegisterCSystem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CDRegisterCheckSum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CDRegisterRng" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MD5Final" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MD5Init" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MD5Update" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

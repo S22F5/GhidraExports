@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odbcji32.dll" PATH="/DLLArchive/etc/odbcji32.dll" DATE="Fri Jul 03 22:04:42 CEST 2020" VERSION="4.0.6304.0">
+    <EXPORT ORDINAL="1" NAME="IntlLibHinst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="500" NAME="LibMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

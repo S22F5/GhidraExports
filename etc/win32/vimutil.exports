@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vimutil.dll" PATH="/DLLArchive/etc/vimutil.dll" DATE="Fri Jul 03 13:27:50 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="QTUInitializeQTML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="QTUTerminateQTML" PURGE="0" COMMENT="" />
+</LIBRARY>
+

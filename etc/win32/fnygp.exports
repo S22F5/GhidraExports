@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fnygp.dll" PATH="/DLLArchive/etc/FnYGP.dll" DATE="Fri Jul 03 12:34:26 PDT 2020" VERSION="1, 0, 0, 28">
+    <EXPORT ORDINAL="1" NAME="ClearEditHistory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrawThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EditAdjustHSL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EditAdjustLUT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EditCrop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EditCurrentHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EditCurrentWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EditDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EditDraw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EditEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EditEnhance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EditEqualizeHistogram" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EditGrayScale" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EditInvert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="EditMakeThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="EditPreviewEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="EditPreviewStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="EditRedEye" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="EditRotate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="EditSepia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EditSharpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="EditStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ExportImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetExtendedErrorCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ImageHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ImageWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IsExportable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IsFormatExportable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="LoadThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="LosslessRotate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Peek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="Property" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RotateThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="Terminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ThumbnailHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ThumbnailWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="WasImageEdited" PURGE="0" COMMENT="" />
+</LIBRARY>
+

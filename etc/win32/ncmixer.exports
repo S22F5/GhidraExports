@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncmixer.dll" PATH="/DLLArchive/etc/NcMixer.dll" DATE="Tue May 30 10:43:50 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateNcMixerMngr" PURGE="0" COMMENT="" />
+</LIBRARY>
+

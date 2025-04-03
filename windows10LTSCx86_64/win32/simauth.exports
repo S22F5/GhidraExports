@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="simauth.dll" PATH="/DLLArchive/windows10LTSCX86_64/SimAuth.dll" DATE="Sat Dec 07 10:09:11 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EapPeerFreeErrorMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EapPeerFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EapPeerGetInfo" PURGE="12" COMMENT="" />
+</LIBRARY>
+

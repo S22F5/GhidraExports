@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rs.dll" PATH="/DLLArchive/etc/rs.dll" DATE="Wed Nov 08 06:13:59 CET 2006" VERSION="1.0.0.3">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="0" COMMENT="" />
+</LIBRARY>
+

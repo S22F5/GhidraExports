@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nooby.dll" PATH="/DLLArchive/etc/nooby.dll" DATE="Mon Apr 13 19:30:31 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_nooby" PURGE="0" COMMENT="" />
+</LIBRARY>
+

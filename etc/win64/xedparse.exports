@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xedparse.dll" PATH="/DLLArchive/etc/XEDParse.dll" DATE="Sat Oct 23 17:24:54 CEST 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XEDParseAssemble" PURGE="0" COMMENT="" />
+</LIBRARY>
+

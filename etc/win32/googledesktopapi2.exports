@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="googledesktopapi2.dll" PATH="/DLLArchive/etc/GoogleDesktopAPI2.dll" DATE="Fri Jul 03 12:36:03 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllNotifyCore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Ordinal_14" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Ordinal_15" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Ordinal_16" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Ordinal_17" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Ordinal_18" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ordinal_19" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Ordinal_21" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Ordinal_22" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Ordinal_27" PURGE="0" COMMENT="" />
+</LIBRARY>
+

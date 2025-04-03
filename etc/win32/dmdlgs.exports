@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmdlgs.dll" PATH="/DLLArchive/etc/dmdlgs.dll" DATE="Fri Jul 03 12:31:42 PDT 2020" VERSION="2600.0.503.0">
+    <EXPORT ORDINAL="1" NAME="?GetLdmObjectId@CDMNodeObj@@QAE_JXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetNumMembers@CDMNodeObj@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetServerName@CDataCache@@QAE?AVCString@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

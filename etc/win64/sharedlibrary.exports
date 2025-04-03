@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sharedlibrary.dll" PATH="/DLLArchive/etc/SharedLibrary.dll" DATE="Wed Jan 30 01:56:12 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="$NEAT$" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ActivatorCreateInstanceAny" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AppendExceptionStackFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CheckStaticClassConstruction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateCommandLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Dbl2IntOvf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Dbl2LngOvf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Dbl2UIntOvf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Dbl2ULngOvf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DebugFuncEvalAbortHelper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DebugFuncEvalHelper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FailFast" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Flt2IntOvf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Flt2LngOvf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GenericLookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GenericLookupAndAllocArray" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GenericLookupAndAllocObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GenericLookupAndCallCtor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GenericLookupAndCast" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GenericLookupAndCheckArrayElemType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetRuntimeException" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetSystemArrayEEType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetThreadStaticsForDynamicType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="InitializeFinalizerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="InitializeModules" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="InvokeExeMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="OnFirstChanceException" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="UpdateMethodFloatingDictionary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="UpdateTypeFloatingDictionary" PURGE="0" COMMENT="" />
+</LIBRARY>
+

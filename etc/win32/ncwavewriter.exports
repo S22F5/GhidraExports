@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncwavewriter.dll" PATH="/DLLArchive/etc/NcWaveWriter.Dll" DATE="Thu Nov 03 09:41:36 PST 2005" VERSION="9.00">
+    <EXPORT ORDINAL="1" NAME="?CreateWaveDestFilter@@YGPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

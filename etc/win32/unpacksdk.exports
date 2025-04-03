@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unpacksdk.dll" PATH="/DLLArchive/etc/UnpackSDK.dll" DATE="Thu Aug 02 02:02:54 PDT 2007" VERSION="1.2.5.1">
+    <EXPORT ORDINAL="1" NAME="GetASTUnpackFun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetASTUnpackFunArray" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetUnpackFun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitVM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetOEPCallBack" PURGE="0" COMMENT="" />
+</LIBRARY>
+

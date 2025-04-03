@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="agldt28l.dll" PATH="/DLLArchive/etc/agldt28l.dll" DATE="Fri Jul 03 21:17:35 CEST 2020" VERSION="2, 8, 0, 0">
+    <EXPORT ORDINAL="1" NAME="agldt28_dat" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

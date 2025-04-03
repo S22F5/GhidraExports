@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pyisapi_loader.dll" PATH="/DLLArchive/etc/PyISAPI_loader.dll" DATE="Wed Oct 25 01:20:10 CEST 2023" VERSION="3.11.306.0">
+    <EXPORT ORDINAL="1" NAME="GetExtensionVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetFilterVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HttpExtensionProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HttpFilterProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PyISAPISetOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TerminateExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TerminateFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WriteEventLogMessage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

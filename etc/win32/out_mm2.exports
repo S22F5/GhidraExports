@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="out_mm2.dll" PATH="/DLLArchive/etc/out_mm2.dll" DATE="Fri Jul 03 13:05:45 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="winampGetOutModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="presentationhost_v0400.dll" PATH="/DLLArchive/windows10LTSCX86_64/PresentationHost_v0400.dll" DATE="Wed Oct 06 06:44:38 PDT 2021" VERSION="4.8.4390.0 built by: NET48REL1LAST_C">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Activate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Deactivate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ForwardTranslateAccelerator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SaveToHistory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LoadFromHistory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ProcessUnhandledException" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateIDispatchSTAForwarder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetFakeActiveWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ProcessCommandLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="601" NAME="DRMInitEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="602" NAME="DRMCreateBoundLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="603" NAME="DRMCreateLicenseStorageSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="604" NAME="DRMCreateEnablingBitsDecryptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="605" NAME="DRMCreateEnablingBitsEncryptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="606" NAME="DRMEncrypt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="607" NAME="DRMDecrypt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="608" NAME="DRMGetInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="609" NAME="DRMGetBoundLicenseObjectCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="610" NAME="DRMGetBoundLicenseObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="611" NAME="DRMGetBoundLicenseAttribute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="612" NAME="DRMGetSignedIssuanceLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="613" NAME="DRMGetServiceLocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="614" NAME="DRMCloseEnvironmentHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="615" NAME="DRMCloseHandle" PURGE="0" COMMENT="" />
+</LIBRARY>
+

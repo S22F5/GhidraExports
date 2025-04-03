@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imagxpr7.dll" PATH="/DLLArchive/etc/imagxpr7.dll" DATE="Fri Jul 03 21:41:23 CEST 2020" VERSION="7.0.46.0">
+    <EXPORT ORDINAL="1" NAME="PS_Unlock" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IX_ConnectEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IX_DisConnectEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

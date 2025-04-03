@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sampleplugin.dll" PATH="/DLLArchive/etc/SamplePlugin.dll" DATE="Tue Mar 04 00:43:32 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="PluginMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

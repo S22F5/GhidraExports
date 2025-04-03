@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="php_mbstring.dll" PATH="/DLLArchive/etc/php_mbstring.dll" DATE="Fri Jul 03 13:06:48 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="get_module" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="mbstr_treat_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="php_mb_check_encoding_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="php_mb_convert_encoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="php_mb_encoding_translation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="php_mb_mbchar_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="php_mb_mbchar_bytes_ex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="php_mb_safe_strrchr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="php_mb_safe_strrchr_ex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="php_mb_strrchr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="php_unicode_convert_case" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="php_unicode_is_prop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="php_unicode_tolower" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="php_unicode_totitle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="php_unicode_toupper" PURGE="0" COMMENT="" />
+</LIBRARY>
+

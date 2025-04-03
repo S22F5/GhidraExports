@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="liblibbluray_plugin.dll" PATH="/DLLArchive/etc/liblibbluray_plugin.dll" DATE="Sat Jun 08 15:53:14 PDT 2024" VERSION="3.0.21">
+    <EXPORT ORDINAL="1" NAME="Java_java_awt_BDFontMetrics_charWidthN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_java_awt_BDFontMetrics_charsWidthN@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_java_awt_BDFontMetrics_destroyFontN@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_java_awt_BDFontMetrics_destroyN@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_java_awt_BDFontMetrics_getFontFamilyAndStyleN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_java_awt_BDFontMetrics_initN@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_java_awt_BDFontMetrics_loadFontN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_java_awt_BDFontMetrics_resolveFontN@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Java_java_awt_BDFontMetrics_stringWidthN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Java_java_awt_BDFontMetrics_unloadFontConfigN@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Java_java_awt_BDGraphics_drawStringN@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Java_org_videolan_Libbluray_cacheBdRomFileN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Java_org_videolan_Libbluray_getAacsDataN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Java_org_videolan_Libbluray_getBdjoN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Java_org_videolan_Libbluray_getPlaylistInfoN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Java_org_videolan_Libbluray_getTitleInfosN@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Java_org_videolan_Libbluray_getUOMaskN@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Java_org_videolan_Libbluray_listBdFilesN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Java_org_videolan_Libbluray_readRegN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Java_org_videolan_Libbluray_seekN@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Java_org_videolan_Libbluray_selectAngleN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Java_org_videolan_Libbluray_selectPlaylistN@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Java_org_videolan_Libbluray_selectRateN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Java_org_videolan_Libbluray_selectTitleN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Java_org_videolan_Libbluray_setKeyInterestN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Java_org_videolan_Libbluray_setUOMaskN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Java_org_videolan_Libbluray_setVirtualPackageN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Java_org_videolan_Libbluray_soundEffectN@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Java_org_videolan_Libbluray_tellTimeN@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Java_org_videolan_Libbluray_updateGraphicN@44" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Java_org_videolan_Libbluray_writeRegN@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Java_org_videolan_Logger_logN@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="vlc_entry__3_0_0f" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="vlc_entry_copyright__3_0_0f" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="vlc_entry_license__3_0_0f" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="instwdm.dll" PATH="/DLLArchive/etc/instwdm.dll" DATE="Fri Jul 03 12:43:03 PDT 2020" VERSION="0.80.00.0260-0.80.2600">
+    <EXPORT ORDINAL="1" NAME="DoNTReboot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoPreRefreshTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DoRemoveDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DoRemoveList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DoWDMInstall" PURGE="0" COMMENT="" />
+</LIBRARY>
+

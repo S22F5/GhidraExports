@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="networkhelper.dll" PATH="/DLLArchive/windows10LTSCX86_64/networkhelper.dll" DATE="Wed Oct 06 06:53:21 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateControlChannelTriggerConnectionManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetSerializedAppMetadata" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CHttpTransport_CreateInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CheckPdcRenewal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetOrCreateNullPowerDependencyCoordinatorManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitializePowerDependencyCoordinatorManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsNetworkConnectionCostRestricted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ProgressStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReleasePowerDependencyCoordinatorManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ReportSyncProgress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SyncPdcReference_WatchdogReport" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SyncPdcReference_WatchdogsEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SyncWerReportComponentName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SyncWerReportGenerator" PURGE="12" COMMENT="" />
+</LIBRARY>
+

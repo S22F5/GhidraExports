@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="amdgpu_dis.dll" PATH="/DLLArchive/etc/amdgpu_dis.dll" DATE="Wed Jun 26 12:54:38 CEST 2024" VERSION="0">
+    <EXPORT ORDINAL="1" NAME="AmdGpuDisGetApiTable" PURGE="0" COMMENT="" />
+</LIBRARY>
+

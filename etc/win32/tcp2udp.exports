@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tcp2udp.dll" PATH="/DLLArchive/etc/tcp2udp.dll" DATE="Fri Jul 03 13:22:27 PDT 2020" VERSION="3.5.0.1176">
+    <EXPORT ORDINAL="1" NAME="TCP2UDPShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TCP2UDPStartup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

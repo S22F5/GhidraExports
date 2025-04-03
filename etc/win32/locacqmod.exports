@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="locacqmod.dll" PATH="/DLLArchive/etc/LocAcqMod.dll" DATE="Fri Jul 03 21:47:35 CEST 2020" VERSION="1, 0, 4, 256">
+    <EXPORT ORDINAL="1" NAME="_MyLocDllHandle" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

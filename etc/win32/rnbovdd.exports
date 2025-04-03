@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rnbovdd.dll" PATH="/DLLArchive/etc/rnbovdd.dll" DATE="Fri Jul 03 22:12:19 CEST 2020" VERSION="SSD-5.39">
+    <EXPORT ORDINAL="1" NAME="VDDInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VDDRegisterInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VDDDispatch" PURGE="0" COMMENT="" />
+</LIBRARY>
+

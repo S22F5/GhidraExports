@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="34ds.dll" PATH="/DLLArchive/etc/34ds.dll" DATE="Fri Jul 03 21:10:35 CEST 2020" VERSION="2, 1, 0, 0">
+    <EXPORT ORDINAL="1" NAME="??0CdsObject@@QAE@PAUHWND__@@PAU_GUID@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CdsObject@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4CdsObject@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?CreatePrimaryBuffer@CdsObject@@QAEHHGGH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?CreatePrimaryBufferOld@CdsObject@@QAEHHGH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?CreateStreamingBuffer@CdsObject@@QAEHKKPAX0HGGH@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CreateStreamingBufferOld@CdsObject@@QAEHKKPAX0HGH@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetNumberOfSystemSpeakerConfig@CdsObject@@QAEHPAH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetStreamingBufferPositions@CdsObject@@QAEHPAK0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetStreamingBufferVolume@CdsObject@@QAEHPAJ00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?InitializationSuccessful@CdsObject@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?LockStreamingBuffer@CdsObject@@QAEHKPAPAXPAK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?PlayStreamingBuffer@CdsObject@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?RemovePrimaryBuffer@CdsObject@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?RemoveStreamingBuffer@CdsObject@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ResetStreamingBuffer@CdsObject@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?RestoreStreamingBuffer@CdsObject@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SetApplicationMode@CdsObject@@QAEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SetStreamingBufferPosition@CdsObject@@QAEHK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetStreamingBufferVolume@CdsObject@@QAEHJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?StopStreamingBuffer@CdsObject@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?UnlockStreamingBuffer@CdsObject@@QAEHK@Z" PURGE="4" COMMENT="" />
+</LIBRARY>
+

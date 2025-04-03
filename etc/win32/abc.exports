@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="abc.dll" PATH="/DLLArchive/etc/abc.dll" DATE="Fri Jul 03 12:14:49 PDT 2020" VERSION="5.0.0 (Build 50C001221)                                ">
+    <EXPORT ORDINAL="1" NAME="_AcReqAddToCache@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AcReqDropFromCache@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AcReqGetAfcNameForRox@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_AcReqGetCacheFile@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_AcReqGetRoxNameForRoi@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_AcReqInitialize@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_AcReqInstallAfc@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_AcReqIsAfcInstalled@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_AcReqPrintReport@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_AcReqPrintReportEx@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_AcReqSelectClient@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_AcReqSetCacheSize@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_AcReqSetEUDTPath@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_AcReqSetPrinterName@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_AcReqUnInitialize@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_AcReqViewReport@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

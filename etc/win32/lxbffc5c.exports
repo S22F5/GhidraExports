@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbffc5c.dll" PATH="/DLLArchive/etc/LXBFFC5C.DLL" DATE="Fri Jul 03 21:48:50 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="FCEndDoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FCEndPage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FCGetInkUsage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FCGetResolution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FCInstallCartridge" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FCOutputStrip" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FCProductReturns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FCSendCartridgeHome" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FCStartDoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FCStartPage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

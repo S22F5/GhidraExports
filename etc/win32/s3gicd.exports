@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="s3gicd.dll" PATH="/DLLArchive/etc/s3gicd.dll" DATE="Fri Jul 03 22:13:34 CEST 2020" VERSION="4.11.01.4005-6.13.25">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrvCopyContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrvCreateContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DrvCreateLayerContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DrvDeleteContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DrvDescribeLayerPlane" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DrvDescribePixelFormat" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DrvGetLayerPaletteEntries" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DrvGetProcAddress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DrvRealizeLayerPalette" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DrvReleaseContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DrvSetContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DrvSetLayerPaletteEntries" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DrvSetPixelFormat" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DrvShareLists" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DrvSwapBuffers" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DrvSwapLayerBuffers" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DrvValidateVersion" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

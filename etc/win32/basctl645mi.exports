@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="basctl645mi.dll" PATH="/DLLArchive/etc/basctl645mi.dll" DATE="Fri Jul 03 12:25:00 PDT 2020" VERSION="7.0.0.8773">
+    <EXPORT ORDINAL="1" NAME="CreateObjBasicDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeInitBasicIDEDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitBasicIDEDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="basicide_choose_macro" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="basicide_handle_basic_error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

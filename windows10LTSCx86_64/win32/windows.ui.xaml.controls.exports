@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.ui.xaml.controls.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.UI.Xaml.Controls.dll" DATE="Wed Oct 06 06:52:22 PDT 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetDependencyLocatorStorage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SendTelemetryOnSuspend" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="XamlTestHookFreeControlsResourceLibrary" PURGE="0" COMMENT="" />
+</LIBRARY>
+

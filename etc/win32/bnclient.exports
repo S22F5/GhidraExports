@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bnclient.dll" PATH="/DLLArchive/etc/bnclient.dll" DATE="Fri Jul 03 12:25:23 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??4BNGatewayAccess@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CurGateway@BNGatewayAccess@@QAGHXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DNS@BNGatewayAccess@@QAGPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?FindKey@BNGatewayAccess@@AAEPADPAD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?FindSection@BNGatewayAccess@@AAEPADPAD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GMT@BNGatewayAccess@@QAGHH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetBattlenetGatewayList@BNGatewayAccess@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetBattlenetRealmsList@BNGatewayAccess@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetGatewayList@BNGatewayAccess@@AAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetSystemTimeZone@BNGatewayAccess@@AAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Load@BNGatewayAccess@@QAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Name@BNGatewayAccess@@QAGPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Nth@BNGatewayAccess@@AAEPADH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?NumGateways@BNGatewayAccess@@QAGHXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?PickClosestZone@BNGatewayAccess@@AAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Realm@BNGatewayAccess@@QAGPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?SetCurGateway@BNGatewayAccess@@QAGXH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SkipEOL@BNGatewayAccess@@AAEPADPAD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SkipToEOL@BNGatewayAccess@@AAEPADPAD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Unload@BNGatewayAccess@@QAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?UpdateGatewaysFromIni@BNGatewayAccess@@QAGXPAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?WriteDefaultGatewayList@BNGatewayAccess@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="QueryInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

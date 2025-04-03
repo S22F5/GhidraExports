@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iuengine.dll" PATH="/DLLArchive/etc/iuengine.dll" DATE="Fri Jul 03 12:43:46 PDT 2020" VERSION="5.4.3790.2182 built by: srv03_rtm(ntvbl04)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EngGetSystemSpec" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EngGetManifest" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EngDetect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EngDownload" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EngDownloadAsync" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EngInstall" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EngInstallAsync" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EngSetOperationMode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EngGetOperationMode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EngGetHistory" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShutdownThreads" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EngBrowseForFolder" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EngRebootMachine" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CompleteSelfUpdateProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="InternalDetFilesDownloaded" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="InternalDownloadGetUpdatedFiles" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="InternalDownloadUpdatedFiles" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="InternalFindMatchingDriver" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="InternalLogDriverNotFound" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="InternalQueryDetectionFiles" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="InternalSetGlobalOfflineFlag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AsyncExtraWorkUponEngineLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ShutdownGlobalThreads" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CreateEngUpdateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DeleteEngUpdateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PingIUEngineUpdateStatus" PURGE="24" COMMENT="" />
+</LIBRARY>
+

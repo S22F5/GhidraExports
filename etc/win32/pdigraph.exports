@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pdigraph.dll" PATH="/DLLArchive/etc/PDIGRAPH.DLL" DATE="Fri Jul 03 13:06:32 PDT 2020" VERSION="9.0.2601">
+    <EXPORT ORDINAL="1" NAME="_GetIGraphBiffFactory@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

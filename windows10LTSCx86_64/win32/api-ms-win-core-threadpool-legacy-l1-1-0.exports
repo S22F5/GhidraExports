@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-threadpool-legacy-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-threadpool-legacy-l1-1-0.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ChangeTimerQueueTimer" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="ChangeTimerQueueTimer" />
+    <EXPORT ORDINAL="2" NAME="CreateTimerQueue" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateTimerQueue" />
+    <EXPORT ORDINAL="3" NAME="CreateTimerQueueTimer" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateTimerQueueTimer" />
+    <EXPORT ORDINAL="4" NAME="DeleteTimerQueueEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="DeleteTimerQueueEx" />
+    <EXPORT ORDINAL="5" NAME="DeleteTimerQueueTimer" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="DeleteTimerQueueTimer" />
+    <EXPORT ORDINAL="6" NAME="QueueUserWorkItem" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="QueueUserWorkItem" />
+    <EXPORT ORDINAL="7" NAME="UnregisterWaitEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="UnregisterWaitEx" />
+</LIBRARY>
+

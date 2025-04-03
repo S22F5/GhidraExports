@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rgb9rast.dll" PATH="/DLLArchive/windows10LTSCX86_64/rgb9rast.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0PrimProcessor@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1PrimProcessor@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4PrimProcessor@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AllocSpans@PrimProcessor@@QAEJPAIPAPAUtagD3DI_RASTSPAN@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AppendPrim@PrimProcessor@@AAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Begin@PrimProcessor@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?BeginPrimSet@PrimProcessor@@QAEXW4_D3DPRIMITIVETYPE@@W4_RAST_VERTEX_TYPE@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?ClrFlags@PrimProcessor@@QAEXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?End@PrimProcessor@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?FillPointSpan@PrimProcessor@@AAEXPAU_D3DTLVERTEX@@PAUtagD3DI_RASTSPAN@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Flush@PrimProcessor@@AAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?FlushPartial@PrimProcessor@@AAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?FreeSpans@PrimProcessor@@QAEXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetFlags@PrimProcessor@@QAEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Initialize@PrimProcessor@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Line@PrimProcessor@@QAEJPAU_D3DTLVERTEX@@00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?LineSetup@PrimProcessor@@AAEHPAU_D3DTLVERTEX@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?NormalizeLineRHW@PrimProcessor@@AAEXPAU_D3DTLVERTEX@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?NormalizePointRHW@PrimProcessor@@AAEXPAU_D3DTLVERTEX@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?NormalizeTriRHW@PrimProcessor@@AAEXPAU_D3DTLVERTEX@@00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Point@PrimProcessor@@QAEJPAU_D3DTLVERTEX@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?PointDiamondCheck@PrimProcessor@@AAEHHHHH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?ResetBuffer@PrimProcessor@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?SetCtx@PrimProcessor@@QAEXPAUtagD3DI_RASTCTX@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?SetFlags@PrimProcessor@@QAEXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?SetTriFunctions@PrimProcessor@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?StateChanged@PrimProcessor@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?Tri@PrimProcessor@@QAEJPAU_D3DTLVERTEX@@00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?TriSetup@PrimProcessor@@AAEHPAU_D3DTLVERTEX@@00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="D3D9GetSWInfo" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="narrhook.dll" PATH="/DLLArchive/windowsXPSp3Prox86/narrhook.dll" DATE="Fri Aug 17 13:36:26 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="?BackToApplication@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetAnnounceMenu@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetAnnouncePopup@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetAnnounceToolTips@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetAnnounceWindow@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetCurrentText@@YGXPAGH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetEchoChars@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetReviewLevel@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetReviewStyle@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetTrackCaret@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetTrackInputFocus@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetTrackSecondary@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?InitKeys@@YGHPAUHWND__@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?InitMSAA@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?SetAnnounceMenu@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?SetAnnouncePopup@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?SetAnnounceToolTips@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SetAnnounceWindow@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SetCurrentText@@YGXPBG@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetEchoChars@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?SetReviewLevel@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?SetReviewStyle@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?SetTrackCaret@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?SetTrackInputFocus@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?SetTrackSecondary@@YGXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?UnInitMSAA@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?UninitKeys@@YGHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?lstrcatn@@YGPAGPAG0H@Z" PURGE="12" COMMENT="" />
+</LIBRARY>
+

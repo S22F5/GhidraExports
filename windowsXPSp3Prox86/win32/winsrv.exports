@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winsrv.dll" PATH="/DLLArchive/windowsXPSp3Prox86/winsrv.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="ConServerDllInitialization" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UserServerDllInitialization" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_UserSoundSentry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_UserTestTokenForInteractive" PURGE="8" COMMENT="" />
+</LIBRARY>
+

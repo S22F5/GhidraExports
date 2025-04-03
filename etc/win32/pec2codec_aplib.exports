@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pec2codec_aplib.dll" PATH="/DLLArchive/etc/pec2codec_aplib.dll" DATE="Sun Sep 25 21:04:08 PDT 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CodecGetProcAddress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetNumberOfCodecs" PURGE="0" COMMENT="" />
+</LIBRARY>
+

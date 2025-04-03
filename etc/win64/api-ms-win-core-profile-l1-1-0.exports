@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-profile-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-core-profile-l1-1-0.dll" DATE="Sat Nov 07 14:26:41 CET 2020" VERSION="10.0.10586.15 (th2_release.151119-1817)">
+    <EXPORT ORDINAL="1" NAME="QueryPerformanceCounter" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="QueryPerformanceCounter" />
+    <EXPORT ORDINAL="2" NAME="QueryPerformanceFrequency" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="QueryPerformanceFrequency" />
+</LIBRARY>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tsappcmp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/tsappcmp.dll" DATE="Fri Aug 17 13:36:34 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="TermServPrepareAppInstallDueMSI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TermServProcessAppInstallDueMSI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetTermsrCompatFlags" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetTermsrCompatFlagsEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TermsrvAdjustPhyMemLimits" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TermsrvBuildIniFileName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TermsrvBuildSysIniPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TermsrvCORIniFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TermsrvCheckNewIniFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TermsrvConvertSysRootToUserDir" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TermsrvCopyIniFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TermsrvCreateRegEntry" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TermsrvDeleteKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TermsrvDeleteValue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TermsrvFormatObjectName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="TermsrvGetComputerName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="TermsrvGetPreSetValue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="TermsrvGetString" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TermsrvGetWindowsDirectoryA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="TermsrvGetWindowsDirectoryW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TermsrvLogInstallIniFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TermsrvLogInstallIniFileEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TermsrvOpenRegEntry" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TermsrvOpenUserClasses" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TermsrvRemoveClassesKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TermsrvRestoreKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TermsrvSetKeySecurity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TermsrvSetValueKey" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TermsrvUpdateAllUserMenu" PURGE="4" COMMENT="" />
+</LIBRARY>
+

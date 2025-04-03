@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mstask.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mstask.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="ConvertAtJobsToTasks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetNetScheduleAccountInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetrJobAdd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetrJobDel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetrJobEnum" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetrJobGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SAGetAccountInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SAGetNSAccountInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SASetAccountInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SASetNSAccountInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetNetScheduleAccountInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_ConvertAtJobsToTasks@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_DllCanUnloadNow@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_DllGetClassObject@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_GetNetScheduleAccountInformation@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_NetrJobAdd@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_NetrJobDel@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_NetrJobEnum@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_NetrJobGetInfo@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_SAGetAccountInformation@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_SAGetNSAccountInformation@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_SASetAccountInformation@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_SASetNSAccountInformation@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_SetNetScheduleAccountInformation@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

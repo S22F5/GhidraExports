@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netid.dll" PATH="/DLLArchive/windowsXPSp3Prox86/netid.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="CreateNetIDPropertyPage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ShowDcNotFoundErrorDialog" PURGE="12" COMMENT="" />
+</LIBRARY>
+

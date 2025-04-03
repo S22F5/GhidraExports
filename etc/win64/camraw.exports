@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="camraw.dll" PATH="/DLLArchive/etc/CamRAW.dll" DATE="Fri Jan 05 21:00:06 CET 2024" VERSION="4.66.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RAW_GetThumbInfos_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReadCam_RAW_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

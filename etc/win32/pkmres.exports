@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pkmres.dll" PATH="/DLLArchive/etc/PKMRES.DLL" DATE="Fri Jul 03 22:07:02 CEST 2020" VERSION="10.145.3722.0">
+    <EXPORT ORDINAL="1" NAME="dlgGetResourceInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="dlgLoadStringA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="dlgLoadStringW" PURGE="12" COMMENT="" />
+</LIBRARY>
+

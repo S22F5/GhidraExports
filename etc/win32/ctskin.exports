@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctskin.dll" PATH="/DLLArchive/etc/CTSKIN.dll" DATE="Fri Jul 03 12:28:31 PDT 2020" VERSION="2.0.10.0">
+    <EXPORT ORDINAL="1" NAME="SendSkinMessage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

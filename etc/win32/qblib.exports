@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qblib.dll" PATH="/DLLArchive/etc/qblib.dll" DATE="Fri Jul 03 22:08:52 CEST 2020" VERSION="1.55">
+    <EXPORT ORDINAL="1" NAME="Builder" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

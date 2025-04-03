@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dupgeninv.dll" PATH="/DLLArchive/etc/dupgeninv.dll" DATE="Tue Oct 03 04:18:34 PDT 2023" VERSION="22.01.003 (BLD_231)">
+    <EXPORT ORDINAL="1" NAME="SPFreeInventoryXML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SPGetInventory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

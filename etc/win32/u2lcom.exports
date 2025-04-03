@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="u2lcom.dll" PATH="/DLLArchive/etc/u2lcom.dll" DATE="Fri Jul 03 13:24:02 PDT 2020" VERSION="9.1.0.2">
+    <EXPORT ORDINAL="1" NAME="InitPerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsThreadSafe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UFEndJob" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UFErrorRecovery" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UFGetFunctionDefStrings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UFGetFunctionExamples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UFGetFunctionTemplates" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UFGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UFInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UFStartJob" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UFTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UninitPerThread" PURGE="0" COMMENT="" />
+</LIBRARY>
+

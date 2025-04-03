@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="devmgr.dll" PATH="/DLLArchive/etc/devmgr.dll" DATE="Fri Jul 03 12:30:59 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="5" NAME="DeviceProperties_RunDLLA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeviceProperties_RunDLLW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DevicePropertiesA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DevicePropertiesW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DeviceManager_ExecuteA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DeviceManager_ExecuteW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DeviceProblemTextA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DeviceProblemTextW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DeviceProblemWizardA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DeviceProblemWizardW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DeviceManagerPrintA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DeviceManagerPrintW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DeviceAdvancedPropertiesA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DeviceAdvancedPropertiesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DeviceCreateHardwarePage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DeviceCreateHardwarePageEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DevicePropertiesExA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DevicePropertiesExW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DeviceProblenWizard_RunDLLA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DeviceProblenWizard_RunDLLW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

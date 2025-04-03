@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qryint32.dll" PATH="/DLLArchive/etc/QRYINT32.DLL" DATE="Fri Apr 24 10:42:56 PDT 1998" VERSION="8.00.3308">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CchLszOfId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LszOfId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ChOfId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LrgbOfId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="bdChooseColumns1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="bdChooseColumns2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="bdChooseDataSource1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="bdChooseDataSource2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="bdCreateNewDataSource1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="bdCreateNewDataSource2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="bdCreateNewDataSource3" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="bdCreateNewDataSource4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="bdFilterData1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="bdFilterData2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="bdFinish1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="bdFinish2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="bdSortOrder1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="bdSortOrder2" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

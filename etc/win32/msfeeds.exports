@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msfeeds.dll" PATH="/DLLArchive/etc/msfeeds.dll" DATE="Fri Jul 03 12:55:30 PDT 2020" VERSION="7.00.5296.0 (winmain(wmbla).060125-1505)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Scheduler" PURGE="16" COMMENT="" />
+</LIBRARY>
+

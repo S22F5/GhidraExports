@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="selfreg.dll" PATH="/DLLArchive/etc/SELFREG.dll" DATE="Fri Jul 03 22:14:59 CEST 2020" VERSION="8.0">
+    <EXPORT ORDINAL="3" NAME="RegistryAdd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RegistryDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HrSetupRegistryAdd" PURGE="12" COMMENT="" />
+</LIBRARY>
+

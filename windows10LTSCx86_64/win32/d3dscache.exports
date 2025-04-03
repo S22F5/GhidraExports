@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dscache.dll" PATH="/DLLArchive/windows10LTSCX86_64/D3DSCache.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ShaderCache_AddValue" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ShaderCache_Create" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ShaderCache_Destroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShaderCache_FindValue" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ShaderCache_Flush" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ShaderCache_FreeValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShaderCache_GetDesc" PURGE="8" COMMENT="" />
+</LIBRARY>
+

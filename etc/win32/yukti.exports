@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="yukti.dll" PATH="/DLLArchive/etc/yukti.dll" DATE="Fri Jul 03 22:43:37 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Yukti_GetLastDisplayDriver@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Yukti_RecordStatus@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

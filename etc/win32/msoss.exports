@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msoss.dll" PATH="/DLLArchive/etc/MSOSS.DLL" DATE="Fri Jul 03 21:59:27 CEST 2020" VERSION="5.131.1877.3">
+    <EXPORT ORDINAL="1" NAME="decode" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="encode" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="freeBUF" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="freePDU" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ossAsnValToEncodedOid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ossCallerIsDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ossCheckConstraints" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ossCmpValue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ossCpyValue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ossDecode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ossDotValToEncodedOid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ossEncode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ossEncodedOidToAsnVal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ossEncodedOidToDotVal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ossFreeBuf" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ossFreeObjectStack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ossFreePDU" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ossGetDecodingFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ossGetDecodingLength" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ossGetEncodingFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ossGetEncodingRules" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ossGetErrMsg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ossGetOssGlobalSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ossLinkBer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ossLinkBerReal" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ossLinkCmpValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ossLinkConstraint" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ossLinkDer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ossLinkPer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ossLinkPerPDV" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ossLinkPerReal" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ossLinkUserConstraint" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ossLoadMemoryManager" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ossMarkObj" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ossOpenTraceFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ossOpenTraceWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ossPrint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ossPrintHex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ossPrintPDU" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ossSaveTraceInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ossSetDecodingFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ossSetDecodingLength" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ossSetEncodingFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ossSetEncodingRules" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ossSetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="ossSetTimeout" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="ossTestObj" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="ossUnmarkObj" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="ossWinit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="ossWterm" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="ossinit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="ossterm" PURGE="4" COMMENT="" />
+</LIBRARY>
+

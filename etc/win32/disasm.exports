@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="disasm.dll" PATH="/DLLArchive/etc/disasm.dll" DATE="Tue Jul 18 10:31:58 CEST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?Disasm_Assemble@@YAHPADKPAUt_asmmodel@@HH0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?Disasm_Checkcondition@@YAHHK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?Disasm_Decodeaddress@@YAHKPADH0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Disasm_Disasm@@YAKPADKKPAUt_disasm@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Disasm_Disassembleback@@YAKPADKKKH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Disasm_Disassembleforward@@YAKPADKKKH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Disasm_Isfilling@@YAHKPADKK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Disasm_Print3dnow@@YAHPAD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Disasm_Printfloat10@@YAHPADO@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Disasm_Printfloat4@@YAHPADM@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Disasm_Printfloat8@@YAHPADN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Disasm_Settings@@3Ut_settings@@A" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgadgen.dll" PATH="/DLLArchive/etc/jgadgen.dll" DATE="Fri Jul 03 12:44:13 PDT 2020" VERSION="5022">
+    <EXPORT ORDINAL="3001" NAME="JgpADecStartUp" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3002" NAME="JgpADecShutDown" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3003" NAME="JgpADecOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3004" NAME="JgpADecClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3005" NAME="JgpADecInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3006" NAME="JgpADecSetEOF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3007" NAME="JgpADecQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3008" NAME="JgpADecGetImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3009" NAME="JgpADecGetDecodeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3010" NAME="JgpADecGetPalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3011" NAME="JgpADecGetMemoryUsage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

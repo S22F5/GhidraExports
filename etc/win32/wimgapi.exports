@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wimgapi.dll" PATH="/DLLArchive/etc/wimgapi.dll" DATE="Fri Jul 03 13:31:51 PDT 2020" VERSION="6.0.6001.18000 (longhorn_rtm.080118-1840)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WIMApplyImage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WIMCaptureImage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WIMCloseHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WIMCopyFile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WIMCreateFile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WIMDeleteImage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WIMExportImage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WIMGetAttributes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WIMGetImageCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WIMGetImageInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WIMGetMessageCallbackCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WIMGetMountedImages" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WIMInitFileIOCallbacks" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WIMLoadImage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WIMMountImage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WIMRegisterMessageCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WIMSetBootImage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WIMSetFileIOCallbackTemporaryPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WIMSetImageInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WIMSetReferenceFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WIMSetTemporaryPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WIMSplitFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WIMUnmountImage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WIMUnregisterMessageCallback" PURGE="8" COMMENT="" />
+</LIBRARY>
+

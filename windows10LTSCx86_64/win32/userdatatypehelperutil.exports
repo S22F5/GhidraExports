@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="userdatatypehelperutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/UserDataTypeHelperUtil.dll" DATE="Sat Dec 07 01:09:18 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetFilePathFromStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BytesToDigits" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ComparePropVals" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CompressWhitespaceNW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ConvertUnicodeToUtf8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ConvertUnicodeToUtf8Sz" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ConvertUtf8ToUnicode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CopyPropValue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CopyStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateTempFileStm" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateWrapFileNameStm" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateWrapFileStm" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateWrapFileStreamFromDssToken" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DupString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DupStringA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DupStringNA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DupStringRes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DuplicateCEPROPVALArray" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DuplicateCEPROPVALArrayNoAlloc" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="EcGlobalObjIdToUid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="EcUidToGlobalObjId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EscapeURL" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FileTimeToISO8601String" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="FindProp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="FormatPoomIdToString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetPropMemSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetStreamSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ISO8601StringToFileTime" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ISO8601StringToSystemTime" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MapiIdToEmailUdmId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ParseDelimitedString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ParsePoomIdFromString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ReadStreamContent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ReadStreamContentA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RemoveLeadingAndTrailingSpace" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ReplaceChar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SafeLPWSTR" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SafeStrDup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SplitString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="StreamCopyTo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="StreamFromStringW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="StringToBytes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SystemTimeToISO8601String" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="TrimWhiteSpaces" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="UsOidToCalendarUdmId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="UsOidToContactUdmId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="UsOidToTaskUdmId" PURGE="8" COMMENT="" />
+</LIBRARY>
+

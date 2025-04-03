@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oleautobridge.uno.dll" PATH="/DLLArchive/etc/oleautobridge.uno.dll" DATE="Fri Jul 03 13:05:04 PDT 2020" VERSION="7.0.0.8772">
+    <EXPORT ORDINAL="100" NAME="component_writeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="component_getFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="component_getImplementationEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="component_canUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

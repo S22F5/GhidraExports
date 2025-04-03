@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="morphine.dll" PATH="/DLLArchive/etc/Morphine.dll" DATE="Thu Nov 16 16:34:22 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="clbcatq.dll" PATH="/DLLArchive/windows10LTSCX86_64/clbcatq.dll" DATE="Wed Oct 06 06:52:32 PDT 2021" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ActivatorUpdateForIsRouterChanges" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CoRegCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeleteAllActivatorsForClsid" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DowngradeAPL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetGlobalBabyJITEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UpdateFromAppChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UpdateFromComponentChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CLSIDFromStringByBitness" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CheckMemoryGates" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ComPlusEnablePartitions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ComPlusEnableRemoteAccess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ComPlusMigrate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ComPlusPartitionsEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ComPlusRemoteAccessEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CreateComponentLibraryEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetCatalogObject2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetCatalogObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetComputerObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetSimpleTableDispenser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="InprocServer32FromString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="OpenComponentLibraryEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="OpenComponentLibraryOnMemEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="OpenComponentLibraryOnStreamEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ServerGetApplicationType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SetSetupOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SetSetupSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetupOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetupSave" PURGE="0" COMMENT="" />
+</LIBRARY>
+

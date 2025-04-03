@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gdpfile.dll" PATH="/DLLArchive/etc/gdpfile.dll" DATE="Fri Jul 03 12:35:41 PDT 2020" VERSION="2, 5, 0, 0">
+    <EXPORT ORDINAL="1" NAME="?Create@IGDPFile@LifeStudioHeadAPI@@SGPAU12@PBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CreateFullControl@IGDPFileDev@LifeStudioHeadAPI@@SGPAU12@PBD@Z" PURGE="4" COMMENT="" />
+</LIBRARY>
+

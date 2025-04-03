@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aadtb.dll" PATH="/DLLArchive/windows10LTSCX86_64/aadtb.dll" DATE="Wed Oct 06 06:52:23 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AADTBAcquireToken" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AADTBAcquireTokenEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AADTBFreeString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AADTBFreeStruct" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="quicktime.dll" PATH="/DLLArchive/etc/Quicktime.dll" DATE="Tue Oct 13 08:02:20 PDT 2020" VERSION="4.56.0.0">
+    <EXPORT ORDINAL="1" NAME="CloseQTPlayer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Load_QT_File" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Play_QT_File" PURGE="0" COMMENT="" />
+</LIBRARY>
+

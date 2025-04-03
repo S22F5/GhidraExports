@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jetocr.dll" PATH="/DLLArchive/etc/JetOCR.dll" DATE="Fri Jul 03 21:44:09 CEST 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="JetOCR_GetLastError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JetOCR_GetDefaultOCRInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JetOCR_EnumOCRLanguages" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JetOCR_EnumOCRDocTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JetOCR_DoOCRFromDIB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JetOCR_DoOCRFromImageFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JetOCR_SetOCRInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

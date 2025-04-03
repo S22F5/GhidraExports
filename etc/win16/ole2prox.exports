@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ole2prox.dll" PATH="/DLLArchive/etc/Ole2prox.dll" DATE="Fri Jul 03 16:05:01 EDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DLLGETCLASSOBJECT" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WEP" PURGE="2" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="___EXPORTEDSTUB" PURGE="0" COMMENT="" />
+</LIBRARY>
+

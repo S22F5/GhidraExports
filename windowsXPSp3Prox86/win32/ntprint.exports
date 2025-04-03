@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntprint.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntprint.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PSetupUpgradeClusterDriversW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ServerInstallW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ClassInstall32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PSetupAssociateICMProfiles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PSetupBuildDriversFromPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PSetupCreateDrvSetupPage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PSetupCreateMonitorInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PSetupCreatePrinterDeviceInfoList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PSetupDestroyDriverInfo3" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PSetupDestroyMonitorInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PSetupDestroyPrinterDeviceInfoList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PSetupDestroySelectedDriverInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PSetupDriverInfoFromName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PSetupEnumMonitor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PSetupFindMappedDriver" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PSetupFreeDrvField" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PSetupFreeMem" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PSetupGetDriverInfForPrinter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PSetupGetDriverInfo3" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PSetupGetLocalDataField" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PSetupGetPathToSearch" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PSetupGetSelectedDriverInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PSetupInstallICMProfiles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PSetupInstallInboxDriverSilently" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="PSetupInstallMonitor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PSetupInstallPrinterDriver" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="PSetupInstallPrinterDriverFromTheWeb" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="PSetupIsCompatibleDriver" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PSetupIsDriverInstalled" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="PSetupIsOemDriver" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PSetupIsTheDriverFoundInInfInstalled" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="PSetupKillBadUserConnections" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PSetupPreSelectDriver" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="PSetupProcessPrinterAdded" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="PSetupRefreshDriverList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="PSetupSelectDeviceButtons" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="PSetupSelectDriver" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="PSetupSetSelectDevTitleAndInstructions" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="PSetupShowBlockedDriverUI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="PSetupThisPlatform" PURGE="0" COMMENT="" />
+</LIBRARY>
+

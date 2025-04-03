@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pidgenx.dll" PATH="/DLLArchive/windows10LTSCX86_64/pidgenx.dll" DATE="Sat Dec 07 01:08:58 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="117" NAME="Ordinal_117" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="GetPKeyData" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="PidGenX2" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="PidGenX" PURGE="28" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="u2dapp.dll" PATH="/DLLArchive/etc/u2dapp.dll" DATE="Fri Jul 03 13:23:56 PDT 2020" VERSION="8.0.0.0">
+    <EXPORT ORDINAL="1" NAME="UXDDecodeDestinationOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UXDEncodeDestinationOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UXDExportToDestination" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UXDFreeDestinationOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UXDGetErrorText" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UXDGetExportDestinations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UXDGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UXDInitExportDestination" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UXDInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UXDTermExportDestination" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UXDTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

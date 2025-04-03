@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmxbici.dll" PATH="/DLLArchive/etc/DmxBici.dll" DATE="Fri Jul 03 12:31:51 PDT 2020" VERSION="15.4.3538.0513_ship.wlx.w4m4 (ship)">
+    <EXPORT ORDINAL="1" NAME="?AddStringToDataPoint@BiciWrapper@@YG_NKKPB_W@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?AddToAverage@BiciWrapper@@YG_NKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?AddToDataPoint@BiciWrapper@@YG_NKKK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AddToStream@BiciWrapper@@YGXKPBVTuple@1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?EndExperience@BiciWrapper@@YGJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Increment@BiciWrapper@@YG_NKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Set@BiciWrapper@@YG_NKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?SetAnid@BiciWrapper@@YGJPB_W@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?SetIfMax@BiciWrapper@@YG_NKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?SetIfMin@BiciWrapper@@YG_NKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?SetString@BiciWrapper@@YG_NKPB_W@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?StartExperience@BiciWrapper@@YGJW4BiciStartupId@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?StartExperience@BiciWrapper@@YGJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?TimerAccumulate@BiciWrapper@@YG_NK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?TimerRecord@BiciWrapper@@YG_NK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?TimerStart@BiciWrapper@@YG_NK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?TransferExperienceToApp@BiciWrapper@@YG_NPAPA_W@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?TransferExperienceToAppId@BiciWrapper@@YG_NK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?TransferExperienceToWeb@BiciWrapper@@YG_NPB_WPAPA_W@Z" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="physxextensions.dll" PATH="/DLLArchive/etc/PhysXExtensions.dll" DATE="Fri Jul 03 13:06:53 PDT 2020" VERSION="2, 8, 1, 15">
+    <EXPORT ORDINAL="1" NAME="NxCreateExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NxReleaseExtension" PURGE="0" COMMENT="" />
+</LIBRARY>
+

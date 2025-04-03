@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oneauth.dll" PATH="/DLLArchive/windows10LTSCX86_64/oneauth.dll" DATE="Wed Aug 04 23:44:38 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="MATSEndWamAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MATSStartWamAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OneAuthAcquireAccessTokenInteractively" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OneAuthAcquireAccessTokenSilently" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OneAuthAcquireCredentialSilently" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OneAuthAssociateAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OneAuthDisassociateAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OneAuthDiscoverAccounts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OneAuthGetProfileImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OneAuthGetProofOfPossessionCookieInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OneAuthInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OneAuthIsAccountAssociated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="OneAuthReadAllAccounts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="OneAuthSignInInteractively" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="OneAuthSignInInteractivelyWithAccountType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OneAuthSignInSilently" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="OneAuthUninitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="chapi3t1.dll" PATH="/DLLArchive/etc/CHAPI3T1.DLL" DATE="Fri Jul 03 21:26:42 CEST 2020" VERSION="1.1.0.4307">
+    <EXPORT ORDINAL="19" NAME="HyphenatorSetDllName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HyphenatorVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HyphenatorInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HyphenatorTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HyphenatorOpenLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HyphenatorCloseLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HyphenatorSetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HyphenatorGetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HyphenatorCheck" PURGE="12" COMMENT="" />
+</LIBRARY>
+

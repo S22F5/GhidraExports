@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iuctl.dll" PATH="/DLLArchive/etc/iuctl.dll" DATE="Fri Jul 03 12:43:45 PDT 2020" VERSION="5.3.3790.13 built by: SRV03_RTM(ntvbl04)">
+    <EXPORT ORDINAL="1" NAME="BeginSelfUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadIUEngine" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UnLoadIUEngine" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CtlCancelEngineLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetControlUpdateInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BeginSelfUpdateRunDLL" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

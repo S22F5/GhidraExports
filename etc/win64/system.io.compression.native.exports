@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="system.io.compression.native.dll" PATH="/DLLArchive/etc/System.IO.Compression.Native.dll" DATE="Wed Oct 25 00:01:00 CEST 2023" VERSION="42,42,42,42424">
+    <EXPORT ORDINAL="1" NAME="BrotliDecoderCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BrotliDecoderDecompress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BrotliDecoderDecompressStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BrotliDecoderDestroyInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrotliDecoderIsFinished" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BrotliEncoderCompress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BrotliEncoderCompressStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BrotliEncoderCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BrotliEncoderDestroyInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BrotliEncoderHasMoreOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BrotliEncoderSetParameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CompressionNative_Crc32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CompressionNative_Deflate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CompressionNative_DeflateEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CompressionNative_DeflateInit2_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CompressionNative_DeflateReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CompressionNative_Inflate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CompressionNative_InflateEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CompressionNative_InflateInit2_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="CompressionNative_InflateReset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

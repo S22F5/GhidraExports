@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mscordacwks.dll" PATH="/DLLArchive/windows10LTSCX86_64/mscordacwks.dll" DATE="Wed Oct 06 06:44:38 PDT 2021" VERSION="4.8.4400.0 built by: NET48REL1LAST_C">
+    <EXPORT ORDINAL="1" NAME="CLRDataCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DacDbiInterfaceInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OutOfProcessExceptionEventCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OutOfProcessExceptionEventDebuggerLaunchCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OutOfProcessExceptionEventSignatureCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OutOfProcessFunctionTableCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OutOfProcessFunctionTableCallbackEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

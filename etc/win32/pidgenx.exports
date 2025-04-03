@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pidgenx.dll" PATH="/DLLArchive/etc/pidgenx.dll" DATE="Fri Jul 03 13:06:57 PDT 2020" VERSION="6.0.6002.18005 (lh_sp2rtm.090410-1830)">
+    <EXPORT ORDINAL="1" NAME="PidGenX" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ztrace_maps.dll" PATH="/DLLArchive/windows10LTSCX86_64/ztrace_maps.dll" DATE="Sat Dec 07 01:09:17 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ZTraceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZTraceEnabledHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZTraceHelper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZTraceHelperNoThis" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZTraceHelperV" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZTraceHelperVC" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ZTraceInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ZTraceReportIgnore" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ZTraceReportIgnoreC" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ZTraceReportIgnoreNoThis" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ZTraceReportOrigination" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ZTraceReportOriginationC" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ZTraceReportOriginationNoThis" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ZTraceReportPropagation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ZTraceReportPropagationC" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ZTraceReportPropagationNoThis" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ZTraceTestCopyTrace" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ZTraceTestForceClose" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ZTraceTestInit" PURGE="12" COMMENT="" />
+</LIBRARY>
+

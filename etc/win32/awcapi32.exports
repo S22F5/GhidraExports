@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awcapi32.dll" PATH="/DLLArchive/etc/Awcapi32.dll" DATE="Fri Jul 03 12:24:29 PDT 2020" VERSION="4.0.950">
+    <EXPORT ORDINAL="1" NAME="_DeleteCapabilitiesEntry@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_EnumCapabilitiesEntry@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_EnumCapabilitiesOpen@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_GetCapabilitiesEntry@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_GetCapabilitiesValue@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_UpdateCapabilitiesEntry@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

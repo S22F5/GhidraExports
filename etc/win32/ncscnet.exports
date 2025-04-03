@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncscnet.dll" PATH="/DLLArchive/etc/NCScnet.dll" DATE="Fri Jun 23 07:33:00 PDT 2006" VERSION="3,3,0,183">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NCSUseWinHTTP" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NCScnetCreate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NCScnetCreateEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NCScnetCreateProxy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NCScnetDestroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NCScnetInit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NCScnetPostURL" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NCScnetSendPacket" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NCScnetSetIISDLLName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NCScnetSetProxy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NCScnetSetRecvCB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NCScnetSetSendBlocking" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NCScnetSetSentCB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NCScnetShutdown" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NCScnetVerifyURL" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pperr.dll" PATH="/DLLArchive/etc/Pperr.dll" DATE="Fri Jul 03 22:07:18 CEST 2020" VERSION="6.1">
+    <EXPORT ORDINAL="1" NAME="PPERR_LoadString" PURGE="12" COMMENT="" />
+</LIBRARY>
+

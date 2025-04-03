@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lex2kusb.dll" PATH="/DLLArchive/etc/LEX2KUSB.DLL" DATE="Fri Jul 03 12:46:03 PDT 2020" VERSION="8.19">
+    <EXPORT ORDINAL="1" NAME="NetClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetEndDoc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetEnumByUNC" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetEnumSpecific" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetEnumSpecificPort" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetEnumerate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetExchangeInfo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetGetDeviceIDString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NetGetInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetGetSpecificAddr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetIsAdmin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NetIsQueueAdmin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NetOpen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NetRegisterCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NetSetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NetShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NetStartDoc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NetUnregisterCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NetWrite" PURGE="28" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="proximitycommon.dll" PATH="/DLLArchive/windows10LTSCX86_64/ProximityCommon.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="21" NAME="Ordinal_21" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Ordinal_28" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ordinal_19" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Ordinal_23" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Ordinal_27" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Ordinal_24" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Ordinal_22" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Ordinal_26" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Ordinal_20" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Ordinal_25" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

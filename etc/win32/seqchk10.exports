@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="seqchk10.dll" PATH="/DLLArchive/etc/SEQCHK10.DLL" DATE="Fri Jul 03 13:15:17 PDT 2020" VERSION="11.0.5510">
+    <EXPORT ORDINAL="100" NAME="ISCCreateObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="ISCDestroyObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="ISCCheckSequence" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="ISCGetContext" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="ISCGetCurrentState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="ISCSetCurrentState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="ISCMacroSequenceCheck" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="ISCDecodeCommand" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="ISCDecodeCommandEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="ISCSupportLCID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="_resetstkoflw" PURGE="0" COMMENT="" />
+</LIBRARY>
+

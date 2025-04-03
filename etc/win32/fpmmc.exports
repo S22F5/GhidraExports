@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fpmmc.dll" PATH="/DLLArchive/etc/fpmmc.dll" DATE="Fri Jul 03 12:34:55 PDT 2020" VERSION="4.0.2.8912">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?LaunchOWSConfigWizard@@YIXPAU_TAGOwsConfigParam@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgn1500.dll" PATH="/DLLArchive/etc/jgn1500.dll" DATE="Fri Jul 03 21:44:29 CEST 2020" VERSION="018">
+    <EXPORT ORDINAL="1" NAME="Jgn1Begin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Jgn1Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Jgn1Destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Jgn1End" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Jgn1InitBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Jgn1ProcessBlock" PURGE="0" COMMENT="" />
+</LIBRARY>
+

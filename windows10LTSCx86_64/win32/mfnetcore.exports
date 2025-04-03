@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfnetcore.dll" PATH="/DLLArchive/windows10LTSCX86_64/mfnetcore.dll" DATE="Wed Oct 06 06:53:18 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IsLicensedComponentAC3_ENC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsLicensedComponentDOLBY" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsLicensedComponentMPEG2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsLicensedComponentMPEG2_ENC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MFCreateByteCacheFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MFCreateCredentialCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MFCreateFileBlockMap" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MFCreatePartialSeekableByteStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MFCreateProxyLocator" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MFGetSupportedDLNAProfileInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

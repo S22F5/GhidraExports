@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msenc10.dll" PATH="/DLLArchive/etc/MSENC10.DLL" DATE="Wed Jun 17 01:17:02 PDT 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="?PDBOpen@Enc@enc@@SAHPAD0KPAJQADPAPAUPDB@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?theEnc@Enc@enc@@SAPAU12@XZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

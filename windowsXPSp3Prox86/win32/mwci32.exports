@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mwci32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mwci32.dll" DATE="Fri Aug 17 13:36:26 PDT 2001" VERSION="2.60.35.0">
+    <EXPORT ORDINAL="1" NAME="ClassInstaller32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoUninstallForNT5Assist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HackUninstallForWin2000Upgrade" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InstallAssist32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ProcessInfFileSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RemoveIcons" PURGE="0" COMMENT="" />
+</LIBRARY>
+

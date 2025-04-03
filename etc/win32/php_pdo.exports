@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="php_pdo.dll" PATH="/DLLArchive/etc/php_pdo.dll" DATE="Fri Jul 03 13:06:49 PDT 2020" VERSION="5.1.2.2">
+    <EXPORT ORDINAL="1" NAME="get_module" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="pdo_parse_params" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="pdo_raise_impl_error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="php_pdo_dbh_addref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="php_pdo_dbh_delref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="php_pdo_declare_long_constant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="php_pdo_declare_stringl_constant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="php_pdo_get_exception" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="php_pdo_get_exception_base" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="php_pdo_int64_to_str" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="php_pdo_parse_data_source" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="php_pdo_register_driver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="php_pdo_stmt_addref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="php_pdo_stmt_delref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="php_pdo_unregister_driver" PURGE="0" COMMENT="" />
+</LIBRARY>
+

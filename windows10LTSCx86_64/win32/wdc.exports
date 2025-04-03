@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wdc.dll" PATH="/DLLArchive/windows10LTSCX86_64/wdc.dll" DATE="Sat Dec 07 01:10:02 PST 2019" VERSION="10.00">
+    <EXPORT ORDINAL="1" NAME="WdcParseLegacyFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WdcRunTaskAsInteractiveUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="obexkrnl.dll" PATH="/DLLArchive/etc/ObexKrnl.dll" DATE="Fri Jul 03 13:04:02 PDT 2020" VERSION="1.0">
+    <EXPORT ORDINAL="2" NAME="ObexInitModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ObexCleanupModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ObexInitContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ObexCleanupContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ObexSetUserParam" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ObexGetUserParam" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ObexConnect" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ObexDisconnect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ObexPutFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ObexPutBuffer" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ObexAbort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ObexGetFile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ObexSetPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ObexServerRegister" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ObexServerUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ObexGetRootFolder" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ObexSetRootFolder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ObexTransportConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ObexTransportDisconnect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ObexConnectObex" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ObexDisconnectObex" PURGE="8" COMMENT="" />
+</LIBRARY>
+

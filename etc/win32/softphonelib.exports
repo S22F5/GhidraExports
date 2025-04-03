@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="softphonelib.dll" PATH="/DLLArchive/etc/SoftPhoneLib.dll" DATE="Mon Jul 03 06:44:20 PDT 2006" VERSION="1, 0, 7, 5">
+    <EXPORT ORDINAL="1" NAME="??0CSoftPhoneX@@QAE@ABV0@@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CSoftPhoneX@@QAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CSoftPhoneX@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CSoftPhoneX@@QAEAAV0@ABV0@@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7CSoftPhoneX@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AcceptCall@CSoftPhoneX@@QAEFII@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CheckHttpConnect@CSoftPhoneX@@QAEHPADH@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?CloseTraceFile@CSoftPhoneX@@QAEFXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?EndCall@CSoftPhoneX@@QAEFXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?EndStack@CSoftPhoneX@@QAEFXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?ExitInstance@CSoftPhoneX@@QAEFXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?InitInstace@CSoftPhoneX@@QAEFPAUHWND__@@PBD1111G1GGHG_N1PAD@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?MakeCall@CSoftPhoneX@@QAEFPBDII00@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?MakeCollectCall@CSoftPhoneX@@QAEFIIPBD@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?OpenTraceFile@CSoftPhoneX@@QAEFFPBD@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?RejectCall@CSoftPhoneX@@QAEFH@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?SMS_Send@CSoftPhoneX@@QAEFPBD00@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SendDTMF@CSoftPhoneX@@QAEFPBD@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SetEventCyberMoneyStatusHandler@CSoftPhoneX@@QAEFP6AHPBD0@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetEventNetworkStatusHandler@CSoftPhoneX@@QAEFP6AHHH@ZJ@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?SetEventPCMDataHandler@CSoftPhoneX@@QAEFP6AHHPBD@Z1@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?SetEventPhoneStatusHandler@CSoftPhoneX@@QAEFP6AHHPBD@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?SetEventSMS_ReceiveHandler@CSoftPhoneX@@QAEFP6AHPBD00@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?SetEventSMS_SendResultHandler@CSoftPhoneX@@QAEFP6AHPBDI0@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?SetReservedEventHandler1@CSoftPhoneX@@QAEFP6AHHHHPBD00@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?SetReservedEventHandler2@CSoftPhoneX@@QAEFP6AHHHHPBD00@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?SetReservedEventHandler3@CSoftPhoneX@@QAEFP6AHHHHPBD00@Z@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?StartStack@CSoftPhoneX@@QAEFXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?get_AmplifyMicLevel@CSoftPhoneX@@QAEIXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?get_AmplifySpeakerLevel@CSoftPhoneX@@QAEIXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?get_MicMute@CSoftPhoneX@@QAE_NXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?get_PhoneStatusCode@CSoftPhoneX@@QAEHXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?get_SpeakerMute@CSoftPhoneX@@QAE_NXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?set_AmplifyMicLevel@CSoftPhoneX@@QAE_NI@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?set_AmplifySpeakerLevel@CSoftPhoneX@@QAE_NI@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?set_MicMute@CSoftPhoneX@@QAE_N_N@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?set_ReservedFunction1@CSoftPhoneX@@QAEHHHHPBD00@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?set_SpeakerMute@CSoftPhoneX@@QAE_N_N@Z" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pmxviceo.dll" PATH="/DLLArchive/windowsXPSp3Prox86/pmxviceo.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="?DrvCarriageMoveBackward@@YGHHH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ATE_CarriageMoveForward@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ATE_DrvSetParameter@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ATE_DrvStartScan@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ATE_DrvStopScan@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ATE_GetProductInfo@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ATE_GetUSBID@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ATE_GetVgaInfo@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_ATE_RegRead@8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_ATE_RegReadN@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_ATE_RegWrite@8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_ATE_RegWriteN@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_ATE_SetSwitcher@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_DrvClose@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_DrvFindScanner@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_DrvGetButtons@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_DrvGetFeatures@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_DrvGetImage@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_DrvGetInfo@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_DrvGetInfoEx@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_DrvGetLineartThreshold@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_DrvGetParameter@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_DrvGetSysMem@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_DrvGetWarmupRemainTime@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_DrvHomeCarriage@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_DrvOpen@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_DrvPhyMemMove@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_DrvSetLEDState@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_DrvSetLineartThreshold@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_DrvSetParameter@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_DrvSleepScanner@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_DrvStartScan@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_DrvStopScan@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_DrvWakeupScanner@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

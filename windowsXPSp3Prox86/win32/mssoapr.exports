@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssoapr.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mssoapr.dll" DATE="Fri Aug 17 13:36:26 PDT 2001" VERSION="1.02.814.0">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

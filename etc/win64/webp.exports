@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="webp.dll" PATH="/DLLArchive/etc/WebP.dll" DATE="Sun Nov 26 22:43:44 CET 2023" VERSION="4.63.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadAnimatedWebP_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReadWebP_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SaveWebP_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ScanWEBP_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShowPlugInSaveOptions_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

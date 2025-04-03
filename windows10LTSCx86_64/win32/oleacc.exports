@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oleacc.dll" PATH="/DLLArchive/windows10LTSCX86_64/oleacc.dll" DATE="Wed Oct 06 06:52:38 PDT 2021" VERSION="7.2.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AccGetRunningUtilityState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AccNotifyTouchInteraction" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AccSetRunningUtilityState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AccessibleChildren" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AccessibleObjectFromEvent" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AccessibleObjectFromPoint" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AccessibleObjectFromWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AccessibleObjectFromWindowTimeout" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateStdAccessibleObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateStdAccessibleProxyA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateStdAccessibleProxyW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetOleaccVersionInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetProcessHandleFromHwnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetRoleTextA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetRoleTextW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetStateTextA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetStateTextW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IID_IAccessible" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IID_IAccessibleHandler" PURGE="28676" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="LIBID_Accessibility" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="LresultFromObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ObjectFromLresult" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PropMgrClient_LookupProp" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WindowFromAccessibleObject" PURGE="8" COMMENT="" />
+</LIBRARY>
+

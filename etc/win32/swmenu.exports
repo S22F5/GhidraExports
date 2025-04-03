@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="swmenu.dll" PATH="/DLLArchive/etc/SwMenu.dll" DATE="Fri Jul 03 22:21:33 CEST 2020" VERSION="10.1r11">
+    <EXPORT ORDINAL="1" NAME="swMenuDispose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="swMenuHandleEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="swMenuIsPro" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="swMenuNew" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="swMenuReportNewStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="swMenuShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="swMenuStartUp" PURGE="4" COMMENT="" />
+</LIBRARY>
+

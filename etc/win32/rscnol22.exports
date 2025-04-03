@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rscnol22.dll" PATH="/DLLArchive/etc/RSCNOL22.DLL" DATE="Mon Feb 02 10:50:18 PST 1998" VERSION="2.25.298">
+    <EXPORT ORDINAL="2" NAME="GetOACVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetOACProcs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FarCreateStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FarDestroyStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FarCoMarshalInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FarCoUnmarshalInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

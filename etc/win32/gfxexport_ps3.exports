@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gfxexport_ps3.dll" PATH="/DLLArchive/etc/GFxExport_PS3.dll" DATE="Wed Mar 13 11:45:45 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetConsoleSupport" PURGE="0" COMMENT="" />
+</LIBRARY>
+

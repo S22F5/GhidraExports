@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bi.dll" PATH="/DLLArchive/windows10LTSCX86_64/bi.dll" DATE="Sat Dec 07 10:08:24 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BiActivateDeferredWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BiActivateInBackground" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BiActivateInBackgroundEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BiActivateWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BiAssociateActivationProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BiAssociateApplicationExtensionClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BiCancelWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BiCancelWorkItemEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BiCreateEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BiCreateEventForPackageName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BiDeleteEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BiDisassociateWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="BiDiscardPendingActivations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="BiEnumerateBrokeredEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="BiEnumerateUserContexts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="BiEnumerateUserSessions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="BiEnumerateWorkItemsForPackageName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="BiEnumerateWorkItemsForPackageNameEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="BiFreeMemory" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="BiQueryBrokeredEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="BiQuerySystemStateBroadcastChannels" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="BiQueryUserContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="BiQueryUserSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="BiQueryWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="BiQueryWorkItemEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="BiQueryWorkItemStatusStateName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="BiSignalEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="BiSignalEventEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="BiSignalMultipleEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="BiSignalTriggerEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="BiSignalTriggerEventEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="BiUpdateEventFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="BiUpdateEventInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="BiUpdateEventParameters" PURGE="0" COMMENT="" />
+</LIBRARY>
+

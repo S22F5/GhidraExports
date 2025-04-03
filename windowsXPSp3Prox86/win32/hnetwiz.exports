@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hnetwiz.dll" PATH="/DLLArchive/windowsXPSp3Prox86/hnetwiz.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2232.1">
+    <EXPORT ORDINAL="1" NAME="HomeNetWizardRunDll" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

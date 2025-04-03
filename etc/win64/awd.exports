@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awd.dll" PATH="/DLLArchive/etc/Awd.dll" DATE="Mon Feb 19 12:39:18 PST 2024" VERSION="2.0.1.0">
+    <EXPORT ORDINAL="1" NAME="dbkFCallWrapperAddr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__dbk_fcall_wrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TMethodImplementationIntercept" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadAWD" PURGE="0" COMMENT="" />
+</LIBRARY>
+

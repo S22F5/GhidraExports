@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="edpauditapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/edpauditapi.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EdpFlushTraces" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EdpAuditHarden" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EdpAuditLogApplicationGenerated" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EdpAuditLogApplicationLearning" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EdpAuditLogDataCopied" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EdpAuditLogProtectionRemoved" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EdpAuditLogSiteLearning" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EdpAuditLoggerRegister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EdpAuditLoggerUnregister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EdpAuditRead" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EdpGetLogFullPathFromRelativePath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ReadAuditLogByCount" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ReadAuditLogByTimeRange" PURGE="16" COMMENT="" />
+</LIBRARY>
+

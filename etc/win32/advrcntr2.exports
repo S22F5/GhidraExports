@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="advrcntr2.dll" PATH="/DLLArchive/etc/advrcntr2.dll" DATE="Fri Jul 03 12:17:08 PDT 2020" VERSION="2,0,0, 3021">
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

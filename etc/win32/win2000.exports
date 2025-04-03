@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="win2000.dll" PATH="/DLLArchive/etc/win2000.dll" DATE="Fri Jul 03 22:31:53 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ChangePermissions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenBW5Permissions" PURGE="0" COMMENT="" />
+</LIBRARY>
+

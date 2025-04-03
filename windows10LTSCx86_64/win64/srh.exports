@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="srh.dll" PATH="/DLLArchive/windows10LTSCX86_64/SRH.dll" DATE="Wed Oct 06 06:51:53 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateAndEnqueueNarratorCommandEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ExecuteNarratorFind" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetControlAndState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetInputLearningHelper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IgnoreLeaksInCurrentlyTrackedMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsIgnoringLeaks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PostTestCheckForLeaks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RunNarrator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetBrailleBlinkingCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetBrailleCursorRepresentation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetBrailleDeviceChangeFromReg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetBrailleIsEnabledFromReg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetBrailleTablesFromReg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetDictationRunning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetFastKeyEntryEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SetFollowInsertion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetReadHints" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetScriptingEnabledFromReg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetVoicePropertiesFromReg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="StartIgnoringLeaks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="StopIgnoringLeaks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="UpdateErrorLoggingCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="UpdateNarratorSettingsFromReg" PURGE="0" COMMENT="" />
+</LIBRARY>
+

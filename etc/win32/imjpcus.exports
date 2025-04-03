@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imjpcus.dll" PATH="/DLLArchive/etc/imjpcus.dll" DATE="Fri Jul 03 12:41:37 PDT 2020" VERSION="8.1.4202.0">
+    <EXPORT ORDINAL="1" NAME="OpenDetailDialog" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unfsg_v133.dll" PATH="/DLLArchive/etc/unfsg_v133.dll" DATE="Thu Oct 02 20:16:28 PDT 2003" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

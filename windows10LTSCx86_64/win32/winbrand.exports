@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winbrand.dll" PATH="/DLLArchive/windows10LTSCX86_64/winbrand.dll" DATE="Wed Oct 06 15:52:32 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BrandingFormatString" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BrandingFormatStringForEdition" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BrandingLoadBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BrandingLoadCursor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrandingLoadIcon" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BrandingLoadImage" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BrandingLoadNeutralStringForEdition" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BrandingLoadString" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BrandingLoadStringForEdition" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EulaFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetEULAFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetEULAInCurrentUILanguage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetHinstanceByNameSpace" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetInstalledEULAPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InstallEULA" PURGE="16" COMMENT="" />
+</LIBRARY>
+

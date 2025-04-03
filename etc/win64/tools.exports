@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tools.dll" PATH="/DLLArchive/etc/Tools.dll" DATE="Fri Apr 05 18:14:22 CEST 2024" VERSION="4.67.0.0">
+    <EXPORT ORDINAL="1" NAME="AddTextToImage_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateTextEffect_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EffectOptions_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FolderWatch_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IVLoadImage_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LoadResourceImage_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ScanResourceImages_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

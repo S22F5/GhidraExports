@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pnrpnsp.dll" PATH="/DLLArchive/etc/pnrpnsp.dll" DATE="Fri Jul 03 13:07:13 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NSPStartup" PURGE="8" COMMENT="" />
+</LIBRARY>
+

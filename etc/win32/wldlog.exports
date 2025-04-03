@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wldlog.dll" PATH="/DLLArchive/etc/wldlog.dll" DATE="Fri Jul 03 13:34:00 PDT 2020" VERSION="14.0.8117.0416">
+    <EXPORT ORDINAL="1" NAME="GetZoneLevel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializeLogging" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InitializeModule" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsRetailLoggingEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LogOutput" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RetailLoggingDirtyFlushLogs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RetailLoggingFlush" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RetailLoggingGetMemoryLog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RetailLoggingGetPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetRetailLogging" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetZoneLevel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetZoneLoggingEnabled" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UninitializeLogging" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UninitializeModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ZoneFileLoggingEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ZoneLoggingEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

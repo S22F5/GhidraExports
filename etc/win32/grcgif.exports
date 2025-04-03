@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="grcgif.dll" PATH="/DLLArchive/etc/GrCGif.dll" DATE="Fri Jul 03 21:36:12 CEST 2020" VERSION="1, 1, 0, 0">
+    <EXPORT ORDINAL="2" NAME="DecodeGif" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EncodeGif" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FileInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

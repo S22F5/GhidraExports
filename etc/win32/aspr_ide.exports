@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aspr_ide.dll" PATH="/DLLArchive/etc/aspr_ide.dll" DATE="Tue Sep 22 10:48:10 PDT 2009" VERSION="2.51.9.22 Beta">
+    <EXPORT ORDINAL="1" NAME="IsLMSEnabled@0" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsLMSEnabled" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetUserKey@8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetUserKey" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetHardwareID3@0" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetHardwareID3" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetHardwareID@0" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetHardwareID" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetHardwareIDEx@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetHardwareIDEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetModeInformation@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetModeInformation" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetExpirationDate@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetExpirationDate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetTrialExecs@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetTrialExecs" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetTrialDays@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetTrialDays" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetKeyExpirationDate@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetKeyExpirationDate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetKeyDate@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetKeyDate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CheckKeyAndDecrypt@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CheckKeyAndDecrypt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CheckKey@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CheckKey" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RemoveKey@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RemoveKey" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetRegistrationInformation@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetRegistrationInformation" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="GetRegistrationKeys@0" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="GetRegistrationKeys" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

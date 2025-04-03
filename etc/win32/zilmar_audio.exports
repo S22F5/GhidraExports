@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zilmar_audio.dll" PATH="/DLLArchive/etc/zilmar_audio.dll" DATE="Fri Jul 03 12:13:23 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AiDacrateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AiLenChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AiReadLength" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AiUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CloseDLL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllAbout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDllInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitiateAudio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ProcessAList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RomClosed" PURGE="0" COMMENT="" />
+</LIBRARY>
+

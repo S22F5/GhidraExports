@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dhcpcsvc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dhcpcsvc.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="DhcpAcquireParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DhcpAcquireParametersByBroadcast" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DhcpCApiCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DhcpCApiInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DhcpDeRegisterConnectionStateNotification" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DhcpDeRegisterOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DhcpDeRegisterParamChange" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DhcpDelPersistentRequestParams" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DhcpEnumClasses" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DhcpFallbackRefreshParams" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DhcpFreeMem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DhcpGetDhcpServicedConnections" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DhcpGetNotificationStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DhcpHandlePnPEvent" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DhcpLeaseIpAddress" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DhcpLeaseIpAddressEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DhcpNotifyConfigChange" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DhcpNotifyConfigChangeEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DhcpNotifyMediaReconnected" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DhcpOpenGlobalEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DhcpPersistentRequestParams" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DhcpQueryHWInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DhcpRegisterConnectionStateNotification" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DhcpRegisterOptions" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DhcpRegisterParamChange" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DhcpReleaseIpAddressLease" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DhcpReleaseIpAddressLeaseEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DhcpReleaseParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DhcpRemoveDNSRegistrations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DhcpRenewIpAddressLease" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DhcpRenewIpAddressLeaseEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DhcpRequestCachedParams" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DhcpRequestOptions" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DhcpRequestParams" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DhcpSetMSFTVendorSpecificOptions" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DhcpStaticRefreshParams" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DhcpUndoRequestParams" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="McastApiCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="McastApiStartup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="McastEnumerateScopes" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="McastGenUID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="McastReleaseAddress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="McastRenewAddress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="McastRequestAddress" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

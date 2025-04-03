@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hunspellx64.dll" PATH="/DLLArchive/etc/Hunspellx64.dll" DATE="Sun Oct 02 17:04:50 CEST 2022" VERSION="1,2,5554,16953">
+    <EXPORT ORDINAL="1" NAME="HunspellAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HunspellAddWithAffix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HunspellAnalyze" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HunspellFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HunspellGenerate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HunspellInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HunspellRemove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HunspellSpell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HunspellStem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HunspellSuggest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HyphenFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HyphenHyphenate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HyphenInit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

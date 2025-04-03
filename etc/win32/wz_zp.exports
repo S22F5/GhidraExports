@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wz_zp.dll" PATH="/DLLArchive/etc/wz_zp.dll" DATE="Fri Jul 03 13:50:30 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BZ2_bzBuffToBuffCompress" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BZ2_bzBuffToBuffDecompress" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BZ2_bzCompress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BZ2_bzCompressEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BZ2_bzCompressInit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BZ2_bzDecompress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BZ2_bzDecompressEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BZ2_bzDecompressInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BZ2_bzRead" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BZ2_bzReadClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BZ2_bzReadGetUnused" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BZ2_bzReadOpen" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="BZ2_bzWrite" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="BZ2_bzWriteClose64" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="BZ2_bzWriteClose" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="BZ2_bzWriteOpen" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="BZ2_bzclose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="BZ2_bzdopen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="BZ2_bzerror" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="BZ2_bzflush" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="BZ2_bzlibVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="BZ2_bzopen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="BZ2_bzread" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="BZ2_bzwrite" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WZCompressFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WZDecompressFile" PURGE="8" COMMENT="" />
+</LIBRARY>
+

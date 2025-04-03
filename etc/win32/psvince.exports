@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="psvince.dll" PATH="/DLLArchive/etc/psvince.dll" DATE="Mon Sep 05 11:08:08 PDT 2011" VERSION="1.0.0.0">
+    <EXPORT ORDINAL="1" NAME="IsModuleLoaded" PURGE="4" COMMENT="" />
+</LIBRARY>
+

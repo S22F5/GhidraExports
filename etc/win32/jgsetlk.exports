@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgsetlk.dll" PATH="/DLLArchive/etc/jgsetlk.dll" DATE="Fri Jul 03 12:44:37 PDT 2020" VERSION="033">
+    <EXPORT ORDINAL="1" NAME="JgseCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgseDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgseEncode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgseEndStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgseGetOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgseModifyControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgseQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgseQueryComponentTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgseQuerySilence" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgseReleaseInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgseRestart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgseSetStreamOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgseStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgseStop" PURGE="0" COMMENT="" />
+</LIBRARY>
+

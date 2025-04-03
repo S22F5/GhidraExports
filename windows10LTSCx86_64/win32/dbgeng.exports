@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbgeng.dll" PATH="/DLLArchive/windows10LTSCX86_64/dbgeng.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="332" NAME="Ordinal_332" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="327" NAME="Ordinal_327" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="328" NAME="DebugConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="329" NAME="DebugConnectWide" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="330" NAME="DebugCreate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="331" NAME="DebugCreateEx" PURGE="12" COMMENT="" />
+</LIBRARY>
+

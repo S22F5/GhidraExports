@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="apwcmdnt.dll" PATH="/DLLArchive/etc/APWCMDNT.DLL" DATE="Fri Jul 03 12:18:55 PDT 2020" VERSION="9.05.1015">
+    <EXPORT ORDINAL="1" NAME="_ApwCmdNew@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

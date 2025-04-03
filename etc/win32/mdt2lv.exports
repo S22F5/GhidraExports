@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdt2lv.dll" PATH="/DLLArchive/etc/MDT2LV.DLL" DATE="Fri Jun 19 16:45:48 PDT 1998" VERSION="2.00.00.8171">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetActivePane@CDaVinciPaneMgr@@UAGPAVCDavPaneSite@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?HwndGetWindow@CDaVinciPaneMgr@@QAGPAUHWND__@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?VSetActiveSite@CDaVinciPaneMgr@@QAGXPAVCDavPaneSite@@@Z" PURGE="8" COMMENT="" />
+</LIBRARY>
+

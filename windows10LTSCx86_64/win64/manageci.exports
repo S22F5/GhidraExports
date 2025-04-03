@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="manageci.dll" PATH="/DLLArchive/windows10LTSCX86_64/ManageCI.dll" DATE="Wed Oct 06 06:51:09 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BeginRemoveCIPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BeginRemoveSBCPToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BeginSetSBCPToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BeginTransaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BeginUpsertCIPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Commit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="End" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetAllCIPolicies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetAllSBCPTokens" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetCIPolicyByID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetPoliciesAuthorizedBySBCPToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetPolicyInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetSBCPTokenByID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetSBCPTokensForPolicyID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetSModeUnlockID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetTenantID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetTokenInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IsInProgress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ParsePolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Rollback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Start" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ValidateState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ManageCI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ManageCI_BeginRemoveCIPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ManageCI_BeginRemoveSBCPToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ManageCI_BeginSetSBCPToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ManageCI_BeginTransaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ManageCI_BeginUpsertCIPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ManageCI_Commit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ManageCI_End" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ManageCI_GetAllCIPolicies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ManageCI_GetAllSBCPTokens" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ManageCI_GetCIPolicyByID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ManageCI_GetPoliciesAuthorizedBySBCPToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ManageCI_GetPolicyInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ManageCI_GetSBCPTokenByID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ManageCI_GetSBCPTokensForPolicyID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ManageCI_GetSModeUnlockID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ManageCI_GetTenantID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ManageCI_GetTokenInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ManageCI_IsInProgress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ManageCI_ParsePolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ManageCI_Rollback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ManageCI_Start" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ManageCI_ValidateState" PURGE="0" COMMENT="" />
+</LIBRARY>
+

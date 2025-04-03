@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="smartcardsimulator.dll" PATH="/DLLArchive/windows10LTSCX86_64/SmartCardSimulator.dll" DATE="Wed Oct 06 06:52:15 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="VGidsSimulatorCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VGidsSimulatorDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VGidsSimulatorReadProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VGidsSimulatorWriteProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VTransportClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VTransportDeinitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VTransportInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VTransportOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VTransportReceive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VTransportTransmit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Microsoft_WDF_UMDF_Version" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

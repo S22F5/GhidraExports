@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="twebbrowse.dll" PATH="/DLLArchive/etc/twebbrowse.dll" DATE="Fri Jul 03 13:23:47 PDT 2020" VERSION="1.0.2.340">
+    <EXPORT ORDINAL="1" NAME="CreateBrowserInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

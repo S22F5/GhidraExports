@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usbpmapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/UsbPmApi.dll" DATE="Sat Dec 07 01:08:37 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="UsbPm_AssignConnectorPowerLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UsbPm_Deregister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UsbPm_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UsbPm_RetrieveConnectorProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UsbPm_RetrieveConnectorState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UsbPm_RetrieveHubConnectorHandles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UsbPm_RetrieveHubProperties" PURGE="0" COMMENT="" />
+</LIBRARY>
+

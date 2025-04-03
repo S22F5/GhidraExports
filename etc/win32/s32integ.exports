@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="s32integ.dll" PATH="/DLLArchive/etc/S32INTEG.DLL" DATE="Fri Jul 03 13:13:26 PDT 2020" VERSION="5.3.0.182">
+    <EXPORT ORDINAL="1" NAME="?LocalDiskReadPhysical@@YGIPAXEGEEE@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?LocalDiskWritePhysical@@YGIPAXEGEEE@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?LocalFileClose@@YGHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?LocalFileCreate@@YGHPADI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?LocalFileDelete@@YGHPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?LocalFileGetAttr@@YGIPADPAI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?LocalFileGetDateTime@@YGHHIPAG0@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?LocalFileOpen@@YGHPADI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?LocalFileRead@@YGIHPAXI@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?LocalFileSeek@@YGKHJH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?LocalFileSetAttr@@YGIPADI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?LocalFileSetDateTime@@YGHHIGG@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?LocalFileSize@@YGKH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?LocalFileWrite@@YGIHPAXI@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?LocalPermMemoryAlloc@@YGPAXK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?LocalPermMemoryFree@@YGXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?LocalTempMemoryAlloc@@YGPAXK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?LocalTempMemoryFree@@YGXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?VirusScanLockUnlockDiskL@@YGHIEI@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?VirusScanLockUnlockDiskP@@YGHIEI@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_CompareBytes@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_GetIntegId@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_InitCertlib@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_IntegAddEntry@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_IntegCreate@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_IntegGetSystemNames@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_IntegRepair@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_IntegRepairEntry@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_IntegSelfTest@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_IntegVerify@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_IntegVerifyDatabaseMatch@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_IntegVerifyEntry@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_WEP@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

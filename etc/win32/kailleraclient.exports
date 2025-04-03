@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kailleraclient.dll" PATH="/DLLArchive/etc/kailleraclient.dll" DATE="Fri Jul 03 12:45:00 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_kailleraChatSend@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_kailleraEndGame@0" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_kailleraGetVersion@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_kailleraInit@0" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_kailleraModifyPlayValues@8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_kailleraSelectServerDialog@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_kailleraSetInfos@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_kailleraShutdown@0" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

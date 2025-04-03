@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vp6vfw.dll" PATH="/DLLArchive/etc/vp6vfw.dll" DATE="Fri Jul 03 13:28:28 PDT 2020" VERSION="6,0,6,4">
+    <EXPORT ORDINAL="1" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

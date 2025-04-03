@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="trackutils.dll" PATH="/DLLArchive/etc/trackutils.dll" DATE="Fri Jul 03 13:23:22 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?CheckFileVersion@mnTrackUtils@@YAXABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@GGAA_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetCompatibleFileOpenString2@mnTrackUtils@@YAXAAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AAV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetCompatibleFileOpenString3@mnTrackUtils@@YAXAAV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetCompatibleFileOpenString@mnTrackUtils@@YAXAAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AAV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetCompatibleFormats@mnTrackUtils@@YAXAAV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@W4meFormatFunc@1@W4meFormatLoc@1@W4meFormatMatch@1@W4meFormatType@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetFormatDisplayName@mnTrackUtils@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetFormatFromPath@mnTrackUtils@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetInputDecoderName@mnTrackUtils@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetMatchFromFormat@mnTrackUtils@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@W4meFormatMatch@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetOutputEncoderName@mnTrackUtils@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetStringFromID@DMMLocalizeDll@@QAEHIAAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetStringFromID@DMMLocalizeDll@@QAEHIPAPAG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?IsCompatibleFormat@mnTrackUtils@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@W4meFormatFunc@1@W4meFormatLoc@1@W4meFormatMatch@1@W4meFormatType@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?IsCompatiblePath@mnTrackUtils@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?IsCompatiblePath@mnTrackUtils@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@W4meFormatFunc@1@W4meFormatLoc@1@W4meFormatType@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?IsCompatibleWindowsMediaPluginInstalled@mnTrackUtils@@YA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?MMJB_MultiByteToWideChar@DMMLocalizeDll@@QAEHPBDHPAGH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?MMJB_WideCharToMultiByte@DMMLocalizeDll@@QAEHPBGHPADH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?uCodePage@?1??MMJB_MultiByteToWideChar@DMMLocalizeDll@@QAEHPBDHPAGH@Z@4IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?uCodePage@?1??MMJB_WideCharToMultiByte@DMMLocalizeDll@@QAEHPBGHPADH@Z@4IA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

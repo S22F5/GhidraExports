@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="paul.dll" PATH="/DLLArchive/etc/paul.dll" DATE="Fri Jul 03 13:06:10 PDT 2020" VERSION="1.0.1.10">
+    <EXPORT ORDINAL="1" NAME="drm_pagui_doit" PURGE="8" COMMENT="" />
+</LIBRARY>
+

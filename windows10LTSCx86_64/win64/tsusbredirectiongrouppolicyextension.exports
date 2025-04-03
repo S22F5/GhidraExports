@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tsusbredirectiongrouppolicyextension.dll" PATH="/DLLArchive/windows10LTSCX86_64/TsUsbRedirectionGroupPolicyExtension.dll" DATE="Sat Dec 07 01:08:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ExecuteProcessGroupPolicyEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExecuteProcessGroupPolicyExWithError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProcessGroupPolicyEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

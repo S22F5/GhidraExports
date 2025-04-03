@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbgshim.dll" PATH="/DLLArchive/etc/dbgshim.dll" DATE="Tue Oct 24 15:00:54 PDT 2023" VERSION="6,0,2123,36311 @Commit: e40b3abf1b41621d4298642a5fd300ebf7cccf6d">
+    <EXPORT ORDINAL="1" NAME="CLRCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseCLREnumeration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseResumeHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateDebuggingInterfaceFromVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateDebuggingInterfaceFromVersion2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateDebuggingInterfaceFromVersionEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateProcessForLaunch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateVersionStringFromModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnumerateCLRs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetStartupNotificationEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RegisterForRuntimeStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RegisterForRuntimeStartupEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ResumeProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UnregisterForRuntimeStartup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

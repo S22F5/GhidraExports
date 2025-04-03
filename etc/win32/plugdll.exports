@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="plugdll.dll" PATH="/DLLArchive/etc/plugdll.dll" DATE="Fri Jul 03 13:07:06 PDT 2020" VERSION="1, 0, 0, 19">
+    <EXPORT ORDINAL="1" NAME="??0PlugClass@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0TrainerPlugManagerClass@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1PlugClass@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1TrainerPlugManagerClass@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7PlugClass@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??_7TrainerPlugManagerClass@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_EPlugClass@@UAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_ETrainerPlugManagerClass@@QAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??_GPlugClass@@UAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_GTrainerPlugManagerClass@@QAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?AddAllProperties@TrainerPlugManagerClass@@QAEXPAVCPropertySheet@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AddCompilerClass@PlugClass@@QAEXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?AddMoudle@TrainerPlugManagerClass@@QAEXPAUPLUGFILEINFO_STRUCT@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?AddPropertyPage@TrainerPlugManagerClass@@QAEXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?CanBePlayback@PlugClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CanBeRecorded@PlugClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?DeleteAll@TrainerPlugManagerClass@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?DeleteAllProperties@TrainerPlugManagerClass@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?DoError@@YAHW4Errors_Type_Enum@@HZZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?ExitFromPlugin@PlugClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?ExitFromTrainer@TrainerPlugManagerClass@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FillErrorDescription" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?FindMoudleNum@TrainerPlugManagerClass@@IAEPAUPLUGFILEINFO_STRUCT@@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetCompilerClass@PlugClass@@UAEXPAVCPtrArray@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetEnv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetEnvironmentVar@TrainerPlugManagerClass@@QAE?AVCString@@V2@HPAH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?GetPlugInInfo@TrainerPlugManagerClass@@QAEPAUPLUGFILEINFO_STRUCT@@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?GetPlugInInstance@TrainerPlugManagerClass@@QAEPAUHINSTANCE__@@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?GetPluginNumber@TrainerPlugManagerClass@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?GetThreadID@PlugClass@@UAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?HandleMessage@PlugClass@@UAEHIIJJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?InitPlayback@PlugClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?InitPlayback@TrainerPlugManagerClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?JustLoadMe@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?LineupEvents@TrainerPlugManagerClass@@QAEHK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?LoadAllFiles@TrainerPlugManagerClass@@QAEKPAUHWND__@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?LoadEnvironmenuVars@TrainerPlugManagerClass@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?LoadImageA@TrainerPlugManagerClass@@QAEPAUHBITMAP__@@VCString@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?LoadNewLibrary@TrainerPlugManagerClass@@QAEXVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?LoadPropResource@TrainerPlugManagerClass@@QAEXPAVCPropertyPage@@IH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?Plug@PlugClass@@UAEHVCString@@0PAUHINSTANCE__@@H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?PlugManager@@3VTrainerPlugManagerClass@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?PostMessageToThread@TrainerPlugManagerClass@@QAEHIIJH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?ReadyCompiler@TrainerPlugManagerClass@@QAEHPAVCPtrArray@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?ReloadPlugin@TrainerPlugManagerClass@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?SendBroadCastMessage@TrainerPlugManagerClass@@QAEHIHK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?SetEnvironmentVar@TrainerPlugManagerClass@@QAEXVCString@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="?SetRealTimeCompile@TrainerPlugManagerClass@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="?StartPlayback@PlugClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="?StartPlayback@TrainerPlugManagerClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="?StopPlayback@PlugClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="?StopPlayback@TrainerPlugManagerClass@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="?UnPlug@PlugClass@@UAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

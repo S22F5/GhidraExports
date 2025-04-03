@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rnms3260.dll" PATH="/DLLArchive/etc/rnms3260.dll" DATE="Fri Jul 03 13:12:23 PDT 2020" VERSION="6.0.8.692">
+    <EXPORT ORDINAL="1" NAME="RPCreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

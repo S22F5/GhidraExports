@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="clnutl32.dll" PATH="/DLLArchive/etc/clnutl32.dll" DATE="Fri Jul 03 12:27:04 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="thk_ThunkData32" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ForcePNPReenumeration32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UpdateExitToDosPif32" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InstallDeviceFromPNPID32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RemoveDevice32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RemoveEnsoniqDevices32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RemoveRegEntries32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CleanMediaResourcesRegKey32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TestCall32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetLddPath32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetLddPath32" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-errorhandling-l1-1-1.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-errorhandling-l1-1-1.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AddVectoredContinueHandler" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="AddVectoredContinueHandler" />
+    <EXPORT ORDINAL="2" NAME="AddVectoredExceptionHandler" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="AddVectoredExceptionHandler" />
+    <EXPORT ORDINAL="3" NAME="RemoveVectoredContinueHandler" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="RemoveVectoredContinueHandler" />
+    <EXPORT ORDINAL="4" NAME="RemoveVectoredExceptionHandler" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="RemoveVectoredExceptionHandler" />
+    <EXPORT ORDINAL="5" NAME="RestoreLastError" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="RestoreLastError" />
+</LIBRARY>
+

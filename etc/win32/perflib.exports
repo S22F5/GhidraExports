@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perflib.dll" PATH="/DLLArchive/etc/perflib.dll" DATE="Fri Jul 03 13:06:34 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_boot_Win32__PerfLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="boot_Win32__PerfLib" PURGE="0" COMMENT="" />
+</LIBRARY>
+

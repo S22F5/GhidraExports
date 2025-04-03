@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfsensorgroup.dll" PATH="/DLLArchive/windows10LTSCX86_64/mfsensorgroup.dll" DATE="Wed Oct 06 06:53:04 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MFCheckProcessCapabilities" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MFCloneSensorProfile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MFCreatePackageFamilyNameTag" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MFCreatePassthroughTranslatedMediaType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MFCreateRelativePanelWatcher" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MFCreateSensorActivityMonitor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MFCreateSensorGroup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MFCreateSensorGroupById" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MFCreateSensorGroupCollection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MFCreateSensorGroupIdManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MFCreateSensorProfile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MFCreateSensorProfileCollection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MFCreateSensorProfileWithFlags" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MFCreateSensorStream" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MFCreateTranslatedMediaType" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MFDeleteSensorGroupById" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MFGetDeviceFromFSUniqueId" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MFGetDeviceFromSGHash" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MFGetSGCH" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MFGetSensorDeviceProperty" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MFGetSensorDeviceRegistryProperty" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MFGetSensorGroupAttributesFromId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MFGetSensorGroupPropertyName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MFGetSensorOrientation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MFInitializeSensorGroupStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MFIsSensorGroupName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MFIsStreamAvailableToAppPackage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MFLoadSensorGroupFromRegistry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MFLoadSensorProfiles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MFPublishSensorProfiles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MFSensorProfileParseFilterSetString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MFValidateSensorProfile" PURGE="8" COMMENT="" />
+</LIBRARY>
+

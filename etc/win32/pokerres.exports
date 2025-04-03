@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pokerres.dll" PATH="/DLLArchive/etc/PokerRes.dll" DATE="Fri Jul 03 13:07:14 PDT 2020" VERSION="2, 1, 1, 10">
+    <EXPORT ORDINAL="1" NAME="QueryGFXInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

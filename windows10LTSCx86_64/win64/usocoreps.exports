@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usocoreps.dll" PATH="/DLLArchive/windows10LTSCX86_64/usocoreps.dll" DATE="Sat Dec 07 01:08:39 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

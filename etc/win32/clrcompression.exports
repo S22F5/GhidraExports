@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="clrcompression.dll" PATH="/DLLArchive/etc/clrcompression.dll" DATE="Thu Apr 14 00:38:26 CEST 2022" VERSION="42,42,42,42424 @Commit: 6a984143635bde23e728abaaccbde52f5ea8fa3e">
+    <EXPORT ORDINAL="1" NAME="BrotliDecoderCreateInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BrotliDecoderDecompress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BrotliDecoderDecompressStream" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BrotliDecoderDestroyInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrotliDecoderErrorString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BrotliDecoderGetErrorCode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BrotliDecoderHasMoreOutput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BrotliDecoderIsFinished" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BrotliDecoderIsUsed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BrotliDecoderSetParameter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BrotliDecoderTakeOutput" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BrotliDecoderVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="BrotliEncoderCompress" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="BrotliEncoderCompressStream" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="BrotliEncoderCreateInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="BrotliEncoderDestroyInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="BrotliEncoderHasMoreOutput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="BrotliEncoderIsFinished" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="BrotliEncoderMaxCompressedSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="BrotliEncoderSetParameter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="BrotliEncoderTakeOutput" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="BrotliEncoderVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="BrotliGetDictionary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="BrotliSetDictionaryData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CompressionNative_Crc32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CompressionNative_Deflate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="CompressionNative_DeflateEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="CompressionNative_DeflateInit2_" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CompressionNative_Inflate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CompressionNative_InflateEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="CompressionNative_InflateInit2_" PURGE="8" COMMENT="" />
+</LIBRARY>
+

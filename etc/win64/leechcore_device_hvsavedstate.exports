@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="leechcore_device_hvsavedstate.dll" PATH="/DLLArchive/etc/leechcore_device_hvsavedstate.dll" DATE="Thu Jan 11 08:23:42 CET 2024" VERSION="2.16.9.60">
+    <EXPORT ORDINAL="1" NAME="LcPluginCreate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

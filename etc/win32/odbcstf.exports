@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odbcstf.dll" PATH="/DLLArchive/etc/ODBCSTF.DLL" DATE="Mon Jun 22 04:43:26 PDT 1998" VERSION="3.510.3002.13">
+    <EXPORT ORDINAL="1" NAME="AcmeComplianceCheck" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AcmeConfigDataSource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AcmeDetectFileInUse" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AcmeDetectOS" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AcmeDllRegisterServer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AcmeInstallDriver" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AcmeInstallDriverManager" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AcmeInstallTranslator" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AcmeManageDataSources" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AcmeReboot" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AsyncEXECalloutCAH" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LibMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NoAdminSyncEXECallout" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SyncEXECalloutCAH1" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SyncEXECalloutCAH" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SzGetDatadefVer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

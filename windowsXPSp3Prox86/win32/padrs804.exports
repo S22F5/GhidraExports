@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="padrs804.dll" PATH="/DLLArchive/windowsXPSp3Prox86/padrs804.dll" DATE="Sun Apr 13 20:40:34 PDT 2008" VERSION="8.1.2327.0">
+    <EXPORT ORDINAL="1" NAME="PadHelp_HandleContextPopup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PadHelp_HandleHelp" PURGE="12" COMMENT="" />
+</LIBRARY>
+

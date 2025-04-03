@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dictationmanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/DictationManager.dll" DATE="Wed Oct 06 15:52:31 CEST 2021" VERSION="10.0.0.1">
+    <EXPORT ORDINAL="1" NAME="CreateDictationManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateDictationManagerWithDeviceController" PURGE="8" COMMENT="" />
+</LIBRARY>
+

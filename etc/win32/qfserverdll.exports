@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qfserverdll.dll" PATH="/DLLArchive/etc/qfserverdll.dll" DATE="Fri Jul 03 13:09:14 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="HandleApp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RemovePlugIns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AddPlugIns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetWord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_MouseProc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MouseWasDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UnHookKeyboard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HookKeyboard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UnHookMouse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HookMouse" PURGE="0" COMMENT="" />
+</LIBRARY>
+

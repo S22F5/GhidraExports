@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dec2hqx.dll" PATH="/DLLArchive/etc/DEC2HQX.DLL" DATE="Fri Jul 03 12:30:45 PDT 2020" VERSION="3.02.08.32">
+    <EXPORT ORDINAL="1" NAME="?DecDeleteEngine@@YAJPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DecDeleteHQXEngine@@YAJPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DecNewEngine@@YAJPAPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?DecNewHQXEngine@@YAJPAPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

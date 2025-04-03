@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aimsecondarysvcs.dll" PATH="/DLLArchive/etc/AimSecondarySvcs.dll" DATE="Fri Jul 03 12:18:04 PDT 2020" VERSION="5.5.3595">
+    <EXPORT ORDINAL="1" NAME="??0?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAE@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CCertsByUserName@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CCertsByUserName@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0TBStrToCertificateMap@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1TBStrToCertificateMap@@QAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4CCertsByUserName@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4Osc_va_list@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4TBStrToCertificateMap@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??A?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAEAAPAVSignatureAndEncryptionCerts@@PBG@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??_7CCertsByUserName@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??_F?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?BrowseForFile@@YAHPAUHWND__@@IIPAD1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Cleanup@CCertsByUserName@@UAEXJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetDesiredPopupParentWindow@CCertsByUserName@@UAEPAUHWND__@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetNextAssoc@?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QBEXAAPAU__POSITION@2@AAVTBstr@2@AAPAVSignatureAndEncryptionCerts@@@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Lookup@?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QBE_NPBGAAPAVSignatureAndEncryptionCerts@@@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?RemoveKey@?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAE_NPBG@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetAt@?$TTypedPtrMap@VTPtrFromBstrMap@XPRT@@VTBstr@2@PAVSignatureAndEncryptionCerts@@@XPRT@@QAEXPBGPAVSignatureAndEncryptionCerts@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?StillWantCert@CCertsByUserName@@UAE_NJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="BrowseForFolder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

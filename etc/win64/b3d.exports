@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="b3d.dll" PATH="/DLLArchive/etc/B3d.dll" DATE="Thu Nov 30 18:04:30 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadB3D_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

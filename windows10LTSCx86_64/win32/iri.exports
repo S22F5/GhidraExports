@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iri.dll" PATH="/DLLArchive/windows10LTSCX86_64/iri.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IriCreateFromString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IriClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IriMutableClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IriMakeConstantEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IriCopy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IriSplitIntoMutableIris" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IriGetAsString" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IriGetRelative" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IriSplit" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IriGetAttributeFlags" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IriGetComponent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IriGetSegment" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IriCompare" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IriFindLastCommonSegment" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IriGetSegmentCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IriSetComponent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IriAppendSegment" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IriAppendRelativeIri" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IriSetMetadata" PURGE="8" COMMENT="" />
+</LIBRARY>
+

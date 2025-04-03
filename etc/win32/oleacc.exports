@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oleacc.dll" PATH="/DLLArchive/etc/oleacc.dll" DATE="Fri Jul 03 13:05:02 PDT 2020" VERSION="4.2.5406.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AccessibleChildren" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AccessibleObjectFromEvent" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AccessibleObjectFromPoint" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AccessibleObjectFromWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateStdAccessibleObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateStdAccessibleProxyA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateStdAccessibleProxyW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetOleaccVersionInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetRoleTextA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetRoleTextW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetStateTextA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetStateTextW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IID_IAccessible" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IID_IAccessibleHandler" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="LIBID_Accessibility" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="LresultFromObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ObjectFromLresult" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WindowFromAccessibleObject" PURGE="8" COMMENT="" />
+</LIBRARY>
+

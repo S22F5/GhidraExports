@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="setu3260.dll" PATH="/DLLArchive/etc/setu3260.dll" DATE="Fri Jul 03 13:15:24 PDT 2020" VERSION="6.0.9.753">
+    <EXPORT ORDINAL="1" NAME="?DdeCallback@@YGPAUHDDEDATA__@@IIPAUHCONV__@@PAUHSZ__@@1PAU1@KK@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NR_RegAddKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NR_RegAddKeyRaw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NR_RegClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NR_RegDeleteEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NR_RegDeleteKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NR_RegDeleteKeyRaw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NR_RegEnumEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NR_RegEnumSubkeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NR_RegGetEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NR_RegGetEntryInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NR_RegGetEntryString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NR_RegGetKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NR_RegGetKeyRaw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NR_RegGetUsername" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NR_RegIsWritable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NR_RegOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NR_RegSetEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NR_RegSetEntryString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NR_RegSetUsername" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NR_ShutdownRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NR_StartupRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RPCreateClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="VR_Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="VR_CreateRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="VR_Enum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="VR_EnumUninstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="VR_GetDefaultDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="VR_GetPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="VR_GetRefCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="VR_GetUninstallUserName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="VR_GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="VR_InRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="VR_Install" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="VR_Remove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="VR_SetDefaultDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="VR_SetRefCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="VR_SetRegDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="VR_UninstallAddFileToList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="VR_UninstallCreateNode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="VR_UninstallDeleteFileFromList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="VR_UninstallDeleteSharedFilesKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="VR_UninstallDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="VR_UninstallEnumSharedFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="VR_UninstallFileExistsInList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="VR_ValidateComponent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

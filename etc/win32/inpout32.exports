@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inpout32.dll" PATH="/DLLArchive/etc/INPOUT32.DLL" DATE="Fri Jul 03 12:43:00 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Out32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Inp32" PURGE="4" COMMENT="" />
+</LIBRARY>
+

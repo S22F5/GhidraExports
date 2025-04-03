@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libpcre16.dll" PATH="/DLLArchive/etc/libpcre16.dll" DATE="Sun Aug 21 23:02:20 CEST 2022" VERSION="8.45">
+    <EXPORT ORDINAL="1" NAME="pcre16_assign_jit_stack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="pcre16_callout" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="pcre16_compile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="pcre16_compile2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="pcre16_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="pcre16_copy_named_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="pcre16_copy_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="pcre16_dfa_exec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="pcre16_exec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="pcre16_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="pcre16_free_study" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="pcre16_free_substring" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="pcre16_free_substring_list" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="pcre16_fullinfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="pcre16_get_named_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="pcre16_get_stringnumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="pcre16_get_stringtable_entries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="pcre16_get_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="pcre16_get_substring_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="pcre16_jit_exec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="pcre16_jit_free_unused_memory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="pcre16_jit_stack_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="pcre16_jit_stack_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="pcre16_maketables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="pcre16_malloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="pcre16_pattern_to_host_byte_order" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="pcre16_refcount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="pcre16_stack_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="pcre16_stack_guard" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="pcre16_stack_malloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="pcre16_study" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="pcre16_utf16_to_host_byte_order" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="pcre16_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

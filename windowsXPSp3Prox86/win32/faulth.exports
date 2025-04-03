@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="faulth.dll" PATH="/DLLArchive/windowsXPSp3Prox86/FAULTH.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="FAULTHCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FAULTHDelete" PURGE="4" COMMENT="" />
+</LIBRARY>
+

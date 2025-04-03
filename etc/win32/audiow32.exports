@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="audiow32.dll" PATH="/DLLArchive/etc/audiow32.dll" DATE="Fri Jul 03 12:24:14 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="100" NAME="AInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="AGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="AGetAudioNumDevs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="AGetAudioDevCaps" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="AGetErrorText" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="APingAudio" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="AOpenAudio" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="ACloseAudio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="AUpdateAudio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="AOpenVoices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="ACloseVoices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="ASetAudioCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="ASetAudioTimerProc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="ASetAudioTimerRate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="AGetAudioDataAvail" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="ACreateAudioData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="ADestroyAudioData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="AWriteAudioData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="ACreateAudioVoice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="ADestroyAudioVoice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="APlayVoice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="APrimeVoice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="AStartVoice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="AStopVoice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="ASetVoicePosition" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="ASetVoiceFrequency" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="ASetVoiceVolume" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="ASetVoicePanning" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="AGetVoicePosition" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="AGetVoiceFrequency" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="AGetVoiceVolume" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="AGetVoicePanning" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="AGetVoiceStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="APlayModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="AStopModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="APauseModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="AResumeModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="137" NAME="ASetModuleVolume" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="138" NAME="ASetModulePosition" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="139" NAME="AGetModuleVolume" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="140" NAME="AGetModulePosition" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="141" NAME="AGetModuleStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="142" NAME="ALoadModuleFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="143" NAME="AFreeModuleFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="144" NAME="ALoadWaveFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="145" NAME="AFreeWaveFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="146" NAME="ASetModuleCallback" PURGE="4" COMMENT="" />
+</LIBRARY>
+

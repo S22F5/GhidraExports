@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mrtrate.dll" PATH="/DLLArchive/etc/mrtRate.dll" DATE="Fri Jul 03 12:53:51 PDT 2020" VERSION="3.01">
+    <EXPORT ORDINAL="1" NAME="mrtGetCurrentConnectSpeed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="mrtGetCurrentTransmissionRate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="mrtGetTotalBytesSentReceived" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="mrtStartBandwidthManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="mrtStopBandwidthManager" PURGE="0" COMMENT="" />
+</LIBRARY>
+

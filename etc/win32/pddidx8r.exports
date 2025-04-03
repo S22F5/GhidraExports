@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pddidx8r.dll" PATH="/DLLArchive/etc/pddidx8r.dll" DATE="Fri Jul 03 22:06:23 CEST 2020" VERSION="13, 0, 56, 0">
+    <EXPORT ORDINAL="1" NAME="??0pddiColour@@QAE@HHHH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0pddiColour@@QAE@I@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0pddiColour@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0pddiRect@@QAE@HHHH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0pddiRect@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4pddiColour@@QAEAAU0@ABU0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4pddiRect@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??BpddiColour@@QAEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Alpha@pddiColour@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Blue@pddiColour@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Green@pddiColour@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Intensity@pddiColour@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Red@pddiColour@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Set@pddiColour@@QAEXHHHH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Set@pddiRect@@QAEXHHHH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?SetAlpha@pddiColour@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?SetBlue@pddiColour@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SetGreen@pddiColour@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SetRed@pddiColour@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="pddiCreate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

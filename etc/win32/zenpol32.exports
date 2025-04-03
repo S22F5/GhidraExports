@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zenpol32.dll" PATH="/DLLArchive/etc/zenpol32.dll" DATE="Fri Jul 03 12:12:38 PDT 2020" VERSION="3.0 (000531)">
+    <EXPORT ORDINAL="2" NAME="ZENGetTroubleTicketInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZENGetTroubleTicketConfig" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZENGetUserInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZENGetWorkstationInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZENGetHelpDeskInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ZENGetPolicyDN" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ZENGetPolicyDNList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ZENGetObjectAttrData" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ZENGetFileNameAndDrive" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ZENRunningAsAService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ZENGetObjectPolicyDN" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ZENGetPolicyAssociation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ZENIsZen3SchemaInstalled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ZENGetEffectivePolicyDNList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ZENReturnTypedNames" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ZENGetPolicyPackageDN" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ZENIsPolicyScheduledByPackage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ZENIsZen3ObjectDN" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ZENGetObjectEffectiveVersion" PURGE="8" COMMENT="" />
+</LIBRARY>
+

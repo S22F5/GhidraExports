@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspubw40.dll" PATH="/DLLArchive/etc/Mspubw40.dll" DATE="Fri Jul 03 12:59:40 PDT 2020" VERSION="4.0.2.208">
+    <EXPORT ORDINAL="1" NAME="AdWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AirplaneWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BannerWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BizCardWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrochureWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CalendarWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CardWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CouponWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnvelopeWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EpubsWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ExecuteCommand" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ExecuteDeferredCommand" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FlyerWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FormsWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InitializeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LabelWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LetterHeadWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="LogoWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NewsletterWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="OrigamiWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PostCardWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ReleaseMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ResetSMPtr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SignsWizardProc" PURGE="108" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WaitForDeferredCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WriteSMInt" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WriteSMLong" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WriteSMString" PURGE="4" COMMENT="" />
+</LIBRARY>
+

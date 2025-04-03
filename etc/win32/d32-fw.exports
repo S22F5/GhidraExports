@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d32-fw.dll" PATH="/DLLArchive/etc/d32-fw.dll" DATE="Fri Jul 03 12:28:50 PDT 2020" VERSION="3.4.6">
+    <EXPORT ORDINAL="2" NAME="fw_upcall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fw_connect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fw_bind" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="fw_open" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="fw_close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="fw_listen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="fw_yield" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="fw_select" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="fw_get_skt" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="fw_async_connect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="fw_get_info" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="fw_abort" PURGE="4" COMMENT="" />
+</LIBRARY>
+

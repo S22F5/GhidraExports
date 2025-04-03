@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmoldwb.dll" PATH="/DLLArchive/etc/nmoldwb.dll" DATE="Fri Jul 03 13:01:48 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="InitWB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RunWB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TermWB" PURGE="0" COMMENT="" />
+</LIBRARY>
+

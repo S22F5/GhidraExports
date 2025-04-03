@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dokanfuse2.dll" PATH="/DLLArchive/etc/dokanfuse2.dll" DATE="Fri Dec 22 13:48:16 CET 2023" VERSION="2.1.0.1000">
+    <EXPORT ORDINAL="1" NAME="extract_dir_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="extract_file_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="unixify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="wchar_to_utf8_cstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="convert_args" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="errno_to_ntstatus_error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="filetimeToUnixTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="free_converted_args" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="fuse_daemonize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="fuse_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="fuse_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="fuse_get_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="fuse_get_session" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="fuse_interrupted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="fuse_is_lib_option" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="fuse_loop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="fuse_loop_mt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="fuse_main_real" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="fuse_mount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="fuse_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="fuse_opt_add_arg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="fuse_opt_add_opt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="fuse_opt_free_args" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="fuse_opt_insert_arg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="fuse_opt_match" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="fuse_opt_parse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="fuse_parse_cmdline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="fuse_remove_signal_handlers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="fuse_set_signal_handlers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="fuse_setup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="fuse_teardown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="fuse_unmount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="fuse_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="is_filetime_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ntstatus_error_to_errno" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="unixTimeToFiletime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="utf8_to_wchar_buf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="utf8_to_wchar_buf_old" PURGE="0" COMMENT="" />
+</LIBRARY>
+

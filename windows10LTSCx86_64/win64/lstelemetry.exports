@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lstelemetry.dll" PATH="/DLLArchive/windows10LTSCX86_64/lstelemetry.dll" DATE="Wed Oct 06 06:53:13 PDT 2021" VERSION="10.0.19041.153 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetLicensingTelemetryCommonData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitRDLSTelemetryCommonData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LogRDLSSettingsTelemetryData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LogTSLSTelemetryEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LogTSLSTelemetryRDSEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RegisterAndEnableLicensingTelemetry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UnregisterLicensingTelemetry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UpdateRDLSTelemetryCommonData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

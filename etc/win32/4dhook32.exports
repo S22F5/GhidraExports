@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="4dhook32.dll" PATH="/DLLArchive/etc/4dhook32.dll" DATE="Fri Jul 03 21:12:03 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllSetScrollDirection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoCallWndProcHookFunc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DoGetMessageHookFunc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DoKeyboardHookFunc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnableScrolling" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnableZoomIn" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MouseProc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetAutoScrollCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetAutoScrollDirection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetAutoScrollDlg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetCallWndHookHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetKeyboardHookHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetMarkWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetMessageHookHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetMiddleButtonIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetMouseHookHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetParentWindow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetWheelMode" PURGE="4" COMMENT="" />
+</LIBRARY>
+

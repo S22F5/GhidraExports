@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsprop.dll" PATH="/DLLArchive/etc/dsprop.dll" DATE="Fri Jul 03 12:32:22 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="CheckADsError" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CrackName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DSPROP_GetGCSearchOnDomain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ErrMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ErrMsgParam" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FindSheet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MsgBox" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReportError" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Smart_PADS_ATTR_INFO__Empty" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ADsPropCheckIfWritable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ADsPropCreateNotifyObj" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ADsPropGetInitInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ADsPropSendErrorMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ADsPropSetHwnd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ADsPropSetHwndWithTitle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ADsPropShowErrorDialog" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="BringSheetToForeground" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IsSheetAlreadyUp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PostADsPropSheet" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sppcext.dll" PATH="/DLLArchive/windows10LTSCX86_64/sppcext.dll" DATE="Wed Oct 06 06:52:20 PDT 2021" VERSION="10.0.19041.868 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SLAcquireGenuineTicketForAppId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SLAcquireGenuineTicket" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SLActivateProduct" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SLDepositTokenActivationResponse" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SLFreeTokenActivationCertificates" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SLFreeTokenActivationGrants" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SLGenerateTokenActivationChallenge" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SLGetGenuineInformationEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SLGetPackageProductKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SLGetPackageProperties" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SLGetPackageToken" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SLGetReferralInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SLGetServerStatus" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SLGetTokenActivationCertificates" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SLGetTokenActivationGrants" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SLInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SLInstallPackage" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SLSignTokenActivationChallenge" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SLUninstallPackage" PURGE="20" COMMENT="" />
+</LIBRARY>
+

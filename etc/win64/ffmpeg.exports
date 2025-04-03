@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ffmpeg.dll" PATH="/DLLArchive/etc/ffmpeg.dll" DATE="Thu May 21 23:01:54 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="av_buffer_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="av_buffer_get_opaque" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="av_dict_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="av_dict_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="av_dict_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="av_dict_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="av_force_cpu_flags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="av_frame_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="av_frame_clone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="av_frame_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="av_frame_unref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="av_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="av_get_bytes_per_sample" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="av_get_cpu_flags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="av_image_check_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="av_init_packet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="av_log_set_level" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="av_malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="av_max_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="av_new_packet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="av_packet_copy_props" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="av_packet_get_side_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="av_packet_unref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="av_rdft_calc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="av_rdft_end" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="av_rdft_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="av_read_frame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="av_rescale_q" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="av_samples_get_buffer_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="av_seek_frame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="av_strerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="avcodec_align_dimensions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="avcodec_alloc_context3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="avcodec_decode_video2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="avcodec_descriptor_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="avcodec_descriptor_next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="avcodec_find_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="avcodec_flush_buffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="avcodec_free_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="avcodec_get_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="avcodec_open2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="avcodec_parameters_to_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="avcodec_receive_frame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="avcodec_send_packet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="avformat_alloc_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="avformat_close_input" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="avformat_find_stream_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="avformat_free_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="avformat_open_input" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="avio_alloc_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="avio_close" PURGE="0" COMMENT="" />
+</LIBRARY>
+

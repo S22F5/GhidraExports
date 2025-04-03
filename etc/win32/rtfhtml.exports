@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rtfhtml.dll" PATH="/DLLArchive/etc/RTFHTML.DLL" DATE="Fri Jul 03 13:13:01 PDT 2020" VERSION="9.0.2603">
+    <EXPORT ORDINAL="1" NAME="FHaveIE5" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HrCreateAttachConverter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HrCreateAttachConverter@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HrCreateHTMLConverter" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HrCreateHTMLConverter@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HrCreateTextConverter" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HrCreateTextConverter@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HrInitializeRTFHTML" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HrInitializeRTFHTML@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HrInitializeRTFHTMLEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HrInitializeRTFHTMLEx@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LpConvPropSheet@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LpFreePropSheet@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MlangIsConvertible" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MlangIsConvertible@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MlangMultiByteToWideChar" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MlangMultiByteToWideChar@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MlangWideCharToMultiByte" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MlangWideCharToMultiByte@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ReleaseRTFHTML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ReleaseRTFHTML@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ScGetGAPIConv" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ScGetGAPIConv@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ScGetMIMEData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ScGetMIMEData@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

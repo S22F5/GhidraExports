@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="taskkeyhookwd.dll" PATH="/DLLArchive/etc/TaskKeyHookWD.dll" DATE="Fri Jul 03 22:22:17 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?Is_KBD_Disabled@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?T3_KBD_Disable@@YAHHH@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

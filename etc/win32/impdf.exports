@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="impdf.dll" PATH="/DLLArchive/etc/ImPDF.dll" DATE="Sat May 05 20:27:22 CEST 2012" VERSION="v0.90">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ImDIBAction" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ImPDF_PropertiesW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ImPDF_SaveAsW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ImPDF_TestForImPDFW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ImPDF_Version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ImpdfIvSaveAs" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ImpdfIvSaveAsW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShowPlugInSaveOptions" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

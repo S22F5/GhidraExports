@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-memory-l1-1-2.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-memory-l1-1-2.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AllocateUserPhysicalPages" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.AllocateUserPhysicalPages" />
+    <EXPORT ORDINAL="2" NAME="AllocateUserPhysicalPagesNuma" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.AllocateUserPhysicalPagesNuma" />
+    <EXPORT ORDINAL="3" NAME="DiscardVirtualMemory" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.DiscardVirtualMemory" />
+    <EXPORT ORDINAL="4" NAME="FreeUserPhysicalPages" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.FreeUserPhysicalPages" />
+    <EXPORT ORDINAL="5" NAME="GetMemoryErrorHandlingCapabilities" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.GetMemoryErrorHandlingCapabilities" />
+    <EXPORT ORDINAL="6" NAME="MapUserPhysicalPages" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.MapUserPhysicalPages" />
+    <EXPORT ORDINAL="7" NAME="OfferVirtualMemory" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.OfferVirtualMemory" />
+    <EXPORT ORDINAL="8" NAME="ReclaimVirtualMemory" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.ReclaimVirtualMemory" />
+    <EXPORT ORDINAL="9" NAME="RegisterBadMemoryNotification" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.RegisterBadMemoryNotification" />
+    <EXPORT ORDINAL="10" NAME="UnregisterBadMemoryNotification" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.UnregisterBadMemoryNotification" />
+    <EXPORT ORDINAL="11" NAME="VirtualAllocExNuma" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.VirtualAllocExNuma" />
+</LIBRARY>
+

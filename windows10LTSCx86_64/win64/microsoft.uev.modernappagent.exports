@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoft.uev.modernappagent.dll" PATH="/DLLArchive/windows10LTSCX86_64/Microsoft.Uev.ModernAppAgent.dll" DATE="Wed Oct 06 06:53:08 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AllocateSettingsContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExportModernSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FreeSettingsContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetModernTemplateId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ImportModernSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitializeRollbackState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ImportSettingsFromStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ExportSettingsToStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetOSSettingsRoamingState" PURGE="0" COMMENT="" />
+</LIBRARY>
+

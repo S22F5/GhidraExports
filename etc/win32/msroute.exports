@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msroute.dll" PATH="/DLLArchive/etc/MSROUTE.DLL" DATE="Fri Jul 03 21:59:47 CEST 2020" VERSION="9.0.2508">
+    <EXPORT ORDINAL="1" NAME="DrtDocumentRouter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrtGetVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

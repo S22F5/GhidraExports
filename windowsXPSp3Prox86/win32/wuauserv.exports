@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wuauserv.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wuauserv.dll" DATE="Sun Apr 13 20:42:12 PDT 2008" VERSION="5.4.3790.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

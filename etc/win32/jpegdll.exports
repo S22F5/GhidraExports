@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpegdll.dll" PATH="/DLLArchive/etc/jpegdll.dll" DATE="Fri Jul 03 12:44:44 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="Bitmap2Jpeg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Jpeg2Bitmap" PURGE="8" COMMENT="" />
+</LIBRARY>
+

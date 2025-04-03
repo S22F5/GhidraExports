@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqlrepss.dll" PATH="/DLLArchive/etc/SQLREPSS.DLL" DATE="Fri Jul 03 13:19:34 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="ReplEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReplStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReplStop" PURGE="0" COMMENT="" />
+</LIBRARY>
+

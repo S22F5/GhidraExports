@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pluzina4.dll" PATH="/DLLArchive/etc/pluzina4.dll" DATE="Wed Mar 23 18:03:34 CET 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadDll" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

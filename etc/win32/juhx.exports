@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="juhx.dll" PATH="/DLLArchive/etc/juhx.dll" DATE="Fri Jul 03 12:44:53 PDT 2020" VERSION="7.0.0.8739">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_com_sun_star_comp_helper_Bootstrap_cppuhelper_1bootstrap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_com_sun_star_comp_helper_RegistryServiceFactory_createRegistryServiceFactory" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_com_sun_star_comp_helper_SharedLibraryLoader_component_1getFactory" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_com_sun_star_comp_helper_SharedLibraryLoader_component_1writeInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

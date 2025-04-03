@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dab.dll" PATH="/DLLArchive/windows10LTSCX86_64/dab.dll" DATE="Wed Oct 06 06:52:00 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DabInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DabPowerStateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DabSessionStateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DabTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

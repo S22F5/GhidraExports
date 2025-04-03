@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msw3prt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msw3prt.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="GetExtensionVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HttpExtensionProc" PURGE="4" COMMENT="" />
+</LIBRARY>
+

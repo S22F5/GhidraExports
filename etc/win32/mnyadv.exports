@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mnyadv.dll" PATH="/DLLArchive/etc/mnyadv.dll" DATE="Fri Jul 03 12:51:49 PDT 2020" VERSION="11.00.0716">
+    <EXPORT ORDINAL="1" NAME="??0CAdviceFormat@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CAdviceFormat@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0IAdvice@@QAE@ABU0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0IAdvice@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0IAdvisor@@QAE@ABU0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0IAdvisor@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CAdviceFormat@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4CAdviceFormat@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4IAdvice@@QAEAAU0@ABU0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4IAdvisor@@QAEAAU0@ABU0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_7IAdvice@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??_7IAdvisor@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?FGetIAdvisor@@YAHPAPAUIAdvisor@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?FInitBody@CAdviceFormat@@QAEHAAVCOfdListAdv@@PBDHHHHH1W4GRFADVC@@@Z" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?FInitBody@CAdviceFormat@@QAEHABVCOfdAdv@@PBDHHHH@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ReplaceInserts@CAdviceFormat@@AAEXPAVCString@@PBD1@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?SzActionGet@CAdviceFormat@@QAEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SzAdviceGet@CAdviceFormat@@QAEPBDXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

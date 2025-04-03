@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appmgmts.dll" PATH="/DLLArchive/etc/appmgmts.dll" DATE="Fri Jul 03 12:18:53 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="CsCreateClassStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CsEnumApps" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CsGetAppCategories" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CsGetClassAccess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CsGetClassStore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CsGetClassStorePath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CsRegisterAppCategory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CsUnregisterAppCategory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GenerateGroupPolicy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IID_IClassAdmin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ProcessGroupPolicyObjectsEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ReleaseAppCategoryInfoList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ReleasePackageDetail" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ReleasePackageInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

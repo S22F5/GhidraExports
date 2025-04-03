@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssp3es.dll" PATH="/DLLArchive/etc/MSSP3ES.DLL" DATE="Fri Jul 03 12:59:56 PDT 2020" VERSION="2, 0, 28, 13">
+    <EXPORT ORDINAL="8" NAME="SpellerCheck" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SpellerAddUdr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SpellerAddChangeUdr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SpellerDelUdr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SpellerClearUdr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SpellerGetSizeUdr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SpellerGetListUdr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SpellerBuiltinUdr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SpellerVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SpellerInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SpellerTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SpellerOpenLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SpellerCloseLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SpellerSetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SpellerGetOptions" PURGE="12" COMMENT="" />
+</LIBRARY>
+

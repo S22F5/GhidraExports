@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspatchc.dll" PATH="/DLLArchive/windows10LTSCX86_64/mspatchc.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="5.00 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreatePatchFileA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreatePatchFileByHandles" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreatePatchFileByHandlesEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreatePatchFileExA" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreatePatchFileExW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreatePatchFileW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ExtractPatchHeaderToFileA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ExtractPatchHeaderToFileByHandles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ExtractPatchHeaderToFileW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetFilePatchSignatureA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetFilePatchSignatureByBuffer" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetFilePatchSignatureByHandle" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetFilePatchSignatureW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NormalizeFileForPatchSignature" PURGE="40" COMMENT="" />
+</LIBRARY>
+

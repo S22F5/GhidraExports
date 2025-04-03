@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="padrs412.dll" PATH="/DLLArchive/windows10LTSCX86_64/padrs412.dll" DATE="Sat Dec 07 01:10:45 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PadHelp_HandleContextPopup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PadHelp_HandleHelp" PURGE="12" COMMENT="" />
+</LIBRARY>
+

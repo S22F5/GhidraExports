@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qt5scripttools.dll" PATH="/DLLArchive/etc/Qt5ScriptTools.dll" DATE="Mon Dec 26 22:04:56 PST 2022" VERSION="5.15.2.0">
+    <EXPORT ORDINAL="1" NAME="??0QScriptEngineDebugger@@QAE@PAVQObject@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1QScriptEngineDebugger@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??_7QScriptEngineDebugger@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??_FQScriptEngineDebugger@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?action@QScriptEngineDebugger@@QBEPAVQAction@@W4DebuggerAction@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?attachTo@QScriptEngineDebugger@@QAEXPAVQScriptEngine@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?autoShowStandardWindow@QScriptEngineDebugger@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?createStandardMenu@QScriptEngineDebugger@@QAEPAVQMenu@@PAVQWidget@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?createStandardToolBar@QScriptEngineDebugger@@QAEPAVQToolBar@@PAVQWidget@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?d_func@QScriptEngineDebugger@@AAEPAVQScriptEngineDebuggerPrivate@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?d_func@QScriptEngineDebugger@@ABEPBVQScriptEngineDebuggerPrivate@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?detach@QScriptEngineDebugger@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?evaluationResumed@QScriptEngineDebugger@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?evaluationSuspended@QScriptEngineDebugger@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?metaObject@QScriptEngineDebugger@@UBEPBUQMetaObject@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?qt_metacall@QScriptEngineDebugger@@UAEHW4Call@QMetaObject@@HPAPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?qt_metacast@QScriptEngineDebugger@@UAEPAXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?qt_static_metacall@QScriptEngineDebugger@@CAXPAVQObject@@W4Call@QMetaObject@@HPAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?setAutoShowStandardWindow@QScriptEngineDebugger@@QAEX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?standardWindow@QScriptEngineDebugger@@QBEPAVQMainWindow@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?state@QScriptEngineDebugger@@QBE?AW4DebuggerState@1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?staticMetaObject@QScriptEngineDebugger@@2UQMetaObject@@B" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?tr@QScriptEngineDebugger@@SA?AVQString@@PBD0H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?trUtf8@QScriptEngineDebugger@@SA?AVQString@@PBD0H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?widget@QScriptEngineDebugger@@QBEPAVQWidget@@W4DebuggerWidget@1@@Z" PURGE="4" COMMENT="" />
+</LIBRARY>
+

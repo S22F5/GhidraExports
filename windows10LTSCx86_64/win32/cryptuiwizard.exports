@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptuiwizard.dll" PATH="/DLLArchive/windows10LTSCX86_64/cryptuiwizard.dll" DATE="Wed Oct 06 06:53:04 PDT 2021" VERSION="10.0.19041.804 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetFunctionTable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CryptUIWizBuildCTL" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CryptUIWizDigitalSign" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CryptUIWizExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CryptUIWizFreeDigitalSignContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CryptUIWizImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CryptUIWizImportInternal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

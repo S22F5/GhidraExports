@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wbemupgd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wbemupgd.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="DowngradeRepository" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MUI_InstallMFLFiles" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UpgradeRepository" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

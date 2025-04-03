@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navuires.dll" PATH="/DLLArchive/etc/NAVUIRES.dll" DATE="Fri Jul 03 13:01:20 PDT 2020" VERSION="9.00.05">
+    <EXPORT ORDINAL="1" NAME="_FetchURL@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Upsell@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

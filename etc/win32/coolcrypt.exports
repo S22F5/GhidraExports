@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coolcrypt.dll" PATH="/DLLArchive/etc/CoolCrypt.dll" DATE="Mon Mar 27 16:34:28 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

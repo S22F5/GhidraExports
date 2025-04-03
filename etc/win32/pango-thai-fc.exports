@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pango-thai-fc.dll" PATH="/DLLArchive/etc/pango-thai-fc.dll" DATE="Fri Jul 03 13:06:06 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_script_engine_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_script_engine_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_script_engine_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_script_engine_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_thai_engine_shape" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_thai_get_font_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_thai_make_glyph" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_thai_make_unknown_glyph" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

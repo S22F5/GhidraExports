@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmpushroutercore.dll" PATH="/DLLArchive/windows10LTSCX86_64/DMPushRouterCore.dll" DATE="Wed Oct 06 06:52:03 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PrAreAllClientsHandled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PrSvcDecMessageCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PrSvcGetMessageCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PrSvcIncMessageCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PrSvcSetMessageCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PushRouter_SubmitPushLocal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InitializePushRouter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RegisterRPCInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShutDownPushRouter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShutDownPushRouterSynchronously" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UnregisterRPCInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

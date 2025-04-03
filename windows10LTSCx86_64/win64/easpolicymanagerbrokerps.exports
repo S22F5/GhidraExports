@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="easpolicymanagerbrokerps.dll" PATH="/DLLArchive/windows10LTSCX86_64/EasPolicyManagerBrokerPS.dll" DATE="Fri Dec 06 17:34:00 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetProxyDllInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

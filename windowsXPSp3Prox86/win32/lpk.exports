@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lpk.dll" PATH="/DLLArchive/windowsXPSp3Prox86/lpk.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="LpkInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LpkTabbedTextOut" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LpkDllInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LpkDrawTextEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LpkEditControl" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LpkExtTextOut" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LpkGetCharacterPlacement" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LpkGetTextExtentExPoint" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LpkPSMTextOut" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LpkUseGDIWidthCache" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ftsWordBreak" PURGE="20" COMMENT="" />
+</LIBRARY>
+

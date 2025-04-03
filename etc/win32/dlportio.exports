@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dlportio.dll" PATH="/DLLArchive/etc/dlportio.dll" DATE="Fri Jul 03 21:31:36 CEST 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="DlPortReadPortBufferUchar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DlPortReadPortBufferUlong" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DlPortReadPortBufferUshort" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DlPortReadPortUchar" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DlPortReadPortUlong" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DlPortReadPortUshort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DlPortWritePortBufferUchar" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DlPortWritePortBufferUlong" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DlPortWritePortBufferUshort" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DlPortWritePortUchar" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DlPortWritePortUlong" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DlPortWritePortUshort" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pnen3260.dll" PATH="/DLLArchive/etc/pnen3260.dll" DATE="Fri Jul 03 13:07:12 PDT 2020" VERSION="6.0.8.1660">
+    <EXPORT ORDINAL="1" NAME="?AsyncNotifyProc@CAsyncNetThread@@KGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?AsyncNotifyProc@CAsyncSockN@@KGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?CPNSiteStatusTextProc@@YGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?CPNSiteWindowedProc@@YGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?CRNSiteWindowedProc@@YGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?DdeCallback@@YGPAUHDDEDATA__@@IIPAUHCONV__@@PAUHSZ__@@1PAU1@KK@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?PNxSubclassProc@@YGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?PNxSubclassProcFroFullScreen@@YGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?RNxHookAllMessages@@YGJHIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?RNxHookChar@@YGJHIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?RNxHookSiteProc@@YGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?WaveOutWndProc@CAudioOutWindows@@SGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?WinDrawHelperCallWndProc@@YGJHIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?WindowProc@CPNFullScreenWindow@@SGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?WindowProc@CPNNewFullScreenWindow@@SGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CloseEngine" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CreateEngine" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_windraw_GetColorConverter@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_windraw_InitColorConverter@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_windraw_ScanAllCompatibleColorFormats@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_windraw_ScanCompatibleColorFormats@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_windraw_SetRGB8Palette@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_windraw_SuggestRGB8Palette@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

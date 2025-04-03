@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgid500.dll" PATH="/DLLArchive/etc/jgid500.dll" DATE="Fri Jul 03 21:44:23 CEST 2020" VERSION="5020">
+    <EXPORT ORDINAL="1" NAME="JgpIDecCloseContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgpIDecCloseDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpIDecGetImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpIDecGetMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpIDecGetPalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpIDecGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpIDecInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpIDecLosslessBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpIDecLosslessCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpIDecLosslessDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpIDecLosslessPartitionReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpIDecLosslessQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpIDecLosslessReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpIDecOpenContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpIDecOpenDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpIDecQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpIDecSetEOF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpIDecShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpIDecStartUp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

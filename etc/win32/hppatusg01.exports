@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hppatusg01.dll" PATH="/DLLArchive/etc/hppatusg01.dll" DATE="Fri Jul 03 12:36:56 PDT 2020" VERSION="1, 0, 0, 4">
+    <EXPORT ORDINAL="1" NAME="GetXmlSizeForUT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetXmlSizeForWarrantyInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsDeviceConnected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SaveDataToPrinter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UpdateXMLData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UpdateXMLDataFromPrinter" PURGE="0" COMMENT="" />
+</LIBRARY>
+

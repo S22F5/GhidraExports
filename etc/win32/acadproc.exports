@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acadproc.dll" PATH="/DLLArchive/etc/AcAdProc.dll" DATE="Fri Jul 03 12:15:12 PDT 2020" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="GetHookAPIs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NotifyShims" PURGE="8" COMMENT="" />
+</LIBRARY>
+

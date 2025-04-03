@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wab32.dll" PATH="/DLLArchive/etc/wab32.dll" DATE="Fri Jul 03 13:29:17 PDT 2020" VERSION="6.00.2900.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="2" NAME="WABOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WABCreateIProp" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WABOpenEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

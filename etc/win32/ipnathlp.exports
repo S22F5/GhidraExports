@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ipnathlp.dll" PATH="/DLLArchive/etc/ipnathlp.dll" DATE="Fri Jul 03 12:43:17 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="NhAcceptStreamSocket" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NhAcquireFixedLengthBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NhAcquireVariableLengthBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NhCreateDatagramSocket" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NhCreateStreamSocket" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NhDeleteSocket" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NhInitializeBufferManagement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NhInitializeTraceManagement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NhReadDatagramSocket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NhReadStreamSocket" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NhReleaseBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NhWriteDatagramSocket" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NhWriteStreamSocket" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RegisterProtocol" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NatAcquirePortReservation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NatCancelDynamicRedirect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NatCancelRedirect" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NatCreateDynamicFullRedirect" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NatCreateDynamicRedirect" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NatCreateDynamicRedirectEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NatCreateRedirect" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NatCreateRedirectEx" PURGE="60" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NatInitializePortReservation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NatInitializeTranslator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NatLookupAndQueryInformationSessionMapping" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NatQueryInformationRedirect" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NatQueryInformationRedirectHandle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NatReleasePortReservation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NatShutdownPortReservation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NatShutdownTranslator" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

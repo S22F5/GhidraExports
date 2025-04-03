@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tosavapi.dll" PATH="/DLLArchive/etc/TosAvAPI.dll" DATE="Fri Jul 03 22:23:15 CEST 2020" VERSION="5.00.6804.0">
+    <EXPORT ORDINAL="1" NAME="AvAbort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AvCloseAPI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AvGetCheckSCMS_T" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AvGetCodecInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AvGetCodecParameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AvGetCodecParameter2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AvGetConnectionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AvGetRemoteCapabilityInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AvGetRemoteCodecInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AvGetSEPInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AvGetTransferRate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AvMemAlloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AvMemFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AvMemReAlloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AvMemSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AvOpenAPI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AvSEPDiscovery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AvSetCheckSCMS_T" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AvSetCodecParameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AvSignallingConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AvSignallingDisconnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AvStreamConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AvStreamConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AvStreamDisconnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AvStreamStart" PURGE="0" COMMENT="" />
+</LIBRARY>
+

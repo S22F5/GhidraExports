@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inkeng.dll" PATH="/DLLArchive/etc/inkeng.dll" DATE="Fri Jul 03 12:42:59 PDT 2020" VERSION="3.5.0.1176">
+    <EXPORT ORDINAL="1" NAME="InitRichInkDLL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StringInFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

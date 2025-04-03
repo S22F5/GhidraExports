@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dt_shmem.dll" PATH="/DLLArchive/etc/dt_shmem.dll" DATE="Fri Jul 03 12:32:33 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_JDWP_OnLoad@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Java_com_sun_tools_jdi_SharedMemoryConnection_close0@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_com_sun_tools_jdi_SharedMemoryConnection_receiveByte0@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Java_com_sun_tools_jdi_SharedMemoryConnection_receivePacket0@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_com_sun_tools_jdi_SharedMemoryConnection_sendByte0@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_com_sun_tools_jdi_SharedMemoryConnection_sendPacket0@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_com_sun_tools_jdi_SharedMemoryTransport_accept0@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_com_sun_tools_jdi_SharedMemoryTransport_attach0@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_com_sun_tools_jdi_SharedMemoryTransport_initialize@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_com_sun_tools_jdi_SharedMemoryTransport_name@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_com_sun_tools_jdi_SharedMemoryTransport_startListening0@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_com_sun_tools_jdi_SharedMemoryTransport_stopListening0@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

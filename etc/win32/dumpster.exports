@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dumpster.dll" PATH="/DLLArchive/etc/DUMPSTER.DLL" DATE="Fri Jul 03 21:32:34 CEST 2020" VERSION="9.0.2520">
+    <EXPORT ORDINAL="1" NAME="ExchEntryPoint" PURGE="0" COMMENT="" />
+</LIBRARY>
+

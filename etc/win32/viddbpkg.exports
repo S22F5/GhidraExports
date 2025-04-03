@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="viddbpkg.dll" PATH="/DLLArchive/etc/VIDDBPKG.DLL" DATE="Tue Jun 09 20:14:12 PDT 1998" VERSION="6.00.8161">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?DaVinciFFillBoolean@@YGHHPAEIPAI@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?DaVinciFFillNumber@@YGHJPAEIPAI@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?DaVinciFFillString@@YGHQAGPAEIPAI@Z" PURGE="16" COMMENT="" />
+</LIBRARY>
+

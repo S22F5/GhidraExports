@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zoompantoolcore.dll" PATH="/DLLArchive/etc/ZoomPanToolCore.dll" DATE="Fri Jul 03 12:13:55 PDT 2020" VERSION="12.0.0.458">
+    <EXPORT ORDINAL="1" NAME="ZOOAutoPan" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZOOWillItPan" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?InitializeZOOMPANToolCoreCallbacks@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?ShutdownZOOMPANToolCoreCallbacks@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?ZOOPanOnExitState@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?ZOOPanOnInitState@@YGXPAUIDrawViewComponent@@IJH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?ZOOPanOnLButtonDown@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?ZOOPanOnLButtonUp@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?ZOOPanOnMouseMove@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?ZOOPanOnTimer@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?ZOOSetInitStateCursor@@YGXPAUIDrawViewComponent@@IJABUCURSOR_INFO@@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?ZOOZoomContextMenu@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?ZOOZoomOnExitState@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?ZOOZoomOnInitState@@YGXPAUIDrawViewComponent@@IJH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ZOOZoomOnKeyChange@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ZOOZoomOnLButtonDown@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?ZOOZoomOnMouseMove@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?ZOOZoomOnRButtonDown@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ZOOZoomOnReturnState@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?ZOO_GetCursorId@@YGXAAUCURSOR_INFO@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?ZOO_SetCursorId@@YGXABUCURSOR_INFO@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?ZOO_SetCursorId@@YGXABUCURSOR_INFO@@AAU1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?ZooIntelliOnPan@@YGXPAUIDrawViewComponent@@IJ@Z" PURGE="12" COMMENT="" />
+</LIBRARY>
+

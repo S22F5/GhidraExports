@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sw645mi.dll" PATH="/DLLArchive/etc/sw645mi.dll" DATE="Fri Jul 03 13:21:21 PDT 2020" VERSION="7.0.0.8782">
+    <EXPORT ORDINAL="20" NAME="CreateSwDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CreateObjSwDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CreateObjSwWebDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CreateObjSwGlobalDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="InitSwDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DeInitSwDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CreateSwWebDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="CreateSwGlobalDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="component_getImplementationEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="component_writeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="component_getFactory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

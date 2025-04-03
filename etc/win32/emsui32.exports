@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="emsui32.dll" PATH="/DLLArchive/etc/EMSUI32.DLL" DATE="Fri Jul 03 12:33:03 PDT 2020" VERSION="5.5.2791.0">
+    <EXPORT ORDINAL="2" NAME="EMSCfg" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HrEmsuiInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HrRxpCfgSup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EMSWizardEntry" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EmsuiPropSheetHeaderCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FreeEmsPref" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HrGetAddrBook" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ordinal_12" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HrGetEmsPref" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Ordinal_14" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Ordinal_15" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HrMakeRasCall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RemotePropsProc1" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Ordinal_18" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ordinal_19" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Ordinal_20" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RemotePropsProc3" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ScAllowLogon" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="XPProviderInit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

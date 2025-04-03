@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nwprovau.dll" PATH="/DLLArchive/windowsXPSp3Prox86/nwprovau.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetServiceItemFromList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitializeDll" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitializePrintProvidor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LsaApCallPackage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LsaApInitializePackage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LsaApLogonTerminated" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LsaApLogonUser" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NPAddConnection3" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NPAddConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NPCancelConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NPCloseEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NPEnumResource" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NPFormatNetworkName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NPGetCaps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NPGetConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NPGetConnectionPerformance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NPGetResourceInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NPGetResourceParent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NPGetUniversalName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NPGetUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NPLoadNameSpaces" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NPLogonNotify" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NPOpenEnum" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NPPasswordChangeNotify" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NSPStartup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NwAddGWDevice" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NwCleanupGatewayShares" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NwClearGatewayShare" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="NwDeleteGWDevice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="NwDeregisterService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="NwEncryptChallenge" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="NwEnumConnections" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="NwEnumGWDevices" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="NwGetService" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="NwGetUserNameForServer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="NwInitializeServiceProvider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="NwLogonGatewayAccount" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="NwQueryGatewayAccount" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="NwQueryInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="NwQueryLogonOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="NwRegisterGatewayShare" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="NwRegisterService" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="NwSetGatewayAccount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="NwSetInfoInRegistry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="NwSetInfoInWksta" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="NwSetLogonOptionsInRegistry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="NwSetLogonScript" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="NwTerminateServiceProvider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="NwValidateUser" PURGE="4" COMMENT="" />
+</LIBRARY>
+

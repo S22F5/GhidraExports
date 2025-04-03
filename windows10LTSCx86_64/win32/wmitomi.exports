@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmitomi.dll" PATH="/DLLArchive/windows10LTSCX86_64/wmitomi.dll" DATE="Sat Dec 07 10:09:15 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0CCritSec@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0MIServer@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CCritSec@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CAutoSetActivityId@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4CCritSec@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4MIServer@@QAEAAV0@$$QAV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4MIServer@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?SetAdapter@AdapterContextBase@@QAEJPAUIUnknown@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Adapter_DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Adapter_DllGetClassObject" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Adapter_RegisterDLL" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Adapter_UnRegisterDLL" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Adapter_CreateAdapterObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

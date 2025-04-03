@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mprui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mprui.dll" DATE="Fri Aug 17 13:36:22 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="BrowseDialogA0" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MPRUI_DoPasswordDialog" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MPRUI_DoProfileErrorDialog" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MPRUI_ShowReconnectDialog" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MPRUI_WNetClearConnections" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MPRUI_WNetConnectionDialog1A" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MPRUI_WNetConnectionDialog1W" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MPRUI_WNetConnectionDialog" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MPRUI_WNetDisconnectDialog1A" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MPRUI_WNetDisconnectDialog1W" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MPRUI_WNetDisconnectDialog" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WNetBrowseDialog" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WNetBrowsePrinterDialog" PURGE="24" COMMENT="" />
+</LIBRARY>
+

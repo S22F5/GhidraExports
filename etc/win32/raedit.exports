@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="raedit.dll" PATH="/DLLArchive/etc/RAEdit.dll" DATE="Sat May 28 11:49:16 PDT 2005" VERSION="1.0.7.0">
+    <EXPORT ORDINAL="1" NAME="GetCharTabPtr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCharTabVal" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDef" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDefEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InstallRAEdit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetCharTabVal" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetHiliteWords" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UnInstallRAEdit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

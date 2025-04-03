@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mciole32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mciole32.dll" DATE="Fri Aug 17 13:36:18 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="2" NAME="DllLoadFromStream" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCreateFromClip" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCreateLinkFromClip" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCreateFromTemplate" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCreate" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCreateFromFile" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCreateLinkFromFile" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMessageHook" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OleQueryObjPos" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InstallHook" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RemoveHook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

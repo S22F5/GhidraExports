@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgi1500.dll" PATH="/DLLArchive/etc/jgi1500.dll" DATE="Fri Jul 03 12:44:22 PDT 2020" VERSION="017">
+    <EXPORT ORDINAL="1" NAME="Jgi1BeginImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Jgi1Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Jgi1Destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Jgi1EndImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Jgi1InitBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Jgi1LosslessDecompressBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Jgi1LosslessDecompressCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Jgi1LosslessDecompressDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Jgi1LosslessDecompressInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Jgi1LosslessDecompressPartitionReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Jgi1LosslessDecompressQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Jgi1LosslessDecompressReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Jgi1ProcessBlock" PURGE="0" COMMENT="" />
+</LIBRARY>
+

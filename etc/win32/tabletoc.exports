@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tabletoc.dll" PATH="/DLLArchive/etc/tabletoc.dll" DATE="Fri Jul 03 13:22:07 PDT 2020" VERSION="1.7.2600.2180">
+    <EXPORT ORDINAL="1" NAME="CreateTutShortcut" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TabletSetupProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

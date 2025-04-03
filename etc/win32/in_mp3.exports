@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="in_mp3.dll" PATH="/DLLArchive/etc/in_mp3.dll" DATE="Fri Jul 03 12:43:08 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateAudioDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="aacGetBitBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="aacGetDecoderInterfaces" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="winampGetExtendedFileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="winampGetInModule2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="winampSetExtendedFileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="winampWriteExtendedFileInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

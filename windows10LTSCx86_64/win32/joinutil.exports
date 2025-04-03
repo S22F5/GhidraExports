@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="joinutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/joinutil.dll" DATE="Wed Oct 06 06:52:38 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NetpAvoidNetlogonSpnSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetpClearFullJoinState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetpCompatibilityMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetpControlServices" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetpDNSNameResolutionRequired" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetpDoDomainJoinLicensingCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetpFreeJoinStateContents" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetpGenerateDefaultPassword" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NetpGetLsaHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetpGetLsaMachineAccountInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetpGetLsaPrimaryDomain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetpHandleJoinedStateInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NetpLoadFullJoinState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NetpLoadParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NetpLsaOpenSecret" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NetpManageLocalGroups" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NetpManageMachineSecret2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NetpManageMachineSecret" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NetpMarkLastFullJoinAttempt" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NetpQueryService" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NetpRemoveInitialDcRecord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NetpSaveFullJoinStateInternal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NetpSetLsaHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NetpSetLsaMachineAccountInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NetpSetLsaPrimaryDomain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NetpSetWinlogonCAD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NetpStopService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NetpStoreInitialDcRecord" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NetpStoreInitialDcRecordEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NetpUpdateW32timeConfig" PURGE="4" COMMENT="" />
+</LIBRARY>
+

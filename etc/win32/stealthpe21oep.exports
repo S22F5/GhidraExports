@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="stealthpe21oep.dll" PATH="/DLLArchive/etc/StealthPE21OEP.dll" DATE="Tue Apr 22 05:23:20 CEST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ShortFinderName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOEPNow" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="termsrv.dll" PATH="/DLLArchive/windowsXPSp3Prox86/termsrv.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

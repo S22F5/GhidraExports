@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="picstore.dll" PATH="/DLLArchive/etc/PICSTORE.DLL" DATE="Fri Jul 03 13:06:54 PDT 2020" VERSION="2.2">
+    <EXPORT ORDINAL="1" NAME="AddPictureRef" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClosePictureStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreatePictureStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeletePictureRef" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeletePictureStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetPictureRef" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsValidPicture" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsValidPictureRef" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsValidPictureStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MaxPictureRef" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OpenPictureStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OpenPictureStoreReadWrite" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetPictureRef" PURGE="12" COMMENT="" />
+</LIBRARY>
+

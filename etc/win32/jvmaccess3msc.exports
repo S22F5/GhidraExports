@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jvmaccess3msc.dll" PATH="/DLLArchive/etc/jvmaccess3MSC.dll" DATE="Fri Jul 03 12:44:56 PDT 2020" VERSION="7.0.0.8779">
+    <EXPORT ORDINAL="1" NAME="??0AttachGuard@VirtualMachine@jvmaccess@@QAE@ABV?$Reference@VVirtualMachine@jvmaccess@@@rtl@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CreationException@AttachGuard@VirtualMachine@jvmaccess@@QAE@ABV0123@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CreationException@AttachGuard@VirtualMachine@jvmaccess@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0InitException@JavaInfo@jvmaccess@@QAE@ABV012@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0InitException@JavaInfo@jvmaccess@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0JavaInfo@jvmaccess@@QAE@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??0JavaInfo@jvmaccess@@QAE@ABVOUString@rtl@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??0JavaInfo@jvmaccess@@QAE@ABVOUString@rtl@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??0UnsupportedException@JavaInfo@jvmaccess@@QAE@ABV012@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??0UnsupportedException@JavaInfo@jvmaccess@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??0VirtualMachine@jvmaccess@@QAE@PAUJavaVM_@@H_NPAUJNIEnv_@@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??1AttachGuard@VirtualMachine@jvmaccess@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??1CreationException@AttachGuard@VirtualMachine@jvmaccess@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??1InitException@JavaInfo@jvmaccess@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??1JavaInfo@jvmaccess@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??1UnsupportedException@JavaInfo@jvmaccess@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??4CreationException@AttachGuard@VirtualMachine@jvmaccess@@QAEAAV0123@ABV0123@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??4InitException@JavaInfo@jvmaccess@@QAEAAV012@ABV012@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="??4JavaInfo@jvmaccess@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="??4UnsupportedException@JavaInfo@jvmaccess@@QAEAAV012@ABV012@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?compareVersions@JavaInfo@jvmaccess@@QBEHABV12@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?createAllInfo@JavaInfo@jvmaccess@@SAXPAV?$vector@VJavaInfo@jvmaccess@@V?$allocator@VJavaInfo@jvmaccess@@@_STL@@@_STL@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?createBestInfo@JavaInfo@jvmaccess@@SA?AV12@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?getInstallationLocation@JavaInfo@jvmaccess@@QBEABVOUString@rtl@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?getJarFilePath@JavaInfo@jvmaccess@@QBE?AVOUString@rtl@@ABV34@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?getLibLocations@JavaInfo@jvmaccess@@QBEABVOUString@rtl@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?getRuntimeLibLocation@JavaInfo@jvmaccess@@QBEABVOUString@rtl@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?getType@JavaInfo@jvmaccess@@QBEABVOUString@rtl@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?getVersion@JavaInfo@jvmaccess@@QBEABVOUString@rtl@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?isEqual@JavaInfo@jvmaccess@@QBE_NABV12@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?isSame@JavaInfo@jvmaccess@@QBE_NABV12@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?supportsAccessibility@JavaInfo@jvmaccess@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

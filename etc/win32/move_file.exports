@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="move_file.dll" PATH="/DLLArchive/etc/move_file.dll" DATE="Tue Mar 20 16:37:54 PDT 2012" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DUP2_EditPluginData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DUP2_ModuleDescription" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DUP2_PluginInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

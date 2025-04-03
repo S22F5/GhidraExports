@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dplayx.dll" PATH="/DLLArchive/etc/dplayx.dll" DATE="Fri Jul 03 12:32:00 PDT 2020" VERSION="5.03.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DirectPlayCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DirectPlayEnumerateA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DirectPlayEnumerateW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DirectPlayLobbyCreateA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DirectPlayLobbyCreateW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DirectPlayEnumerate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="gdwDPlaySPRefCount" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

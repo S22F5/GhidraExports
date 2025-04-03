@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="basesrv.dll" PATH="/DLLArchive/etc/basesrv.dll" DATE="Fri Jul 03 12:25:00 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="BaseSetProcessCreateNotify" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BaseSrvNewObDirAcls" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BaseSrvNlsLogon" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BaseSrvNlsUpdateRegistryCache" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ServerDllInitialization" PURGE="4" COMMENT="" />
+</LIBRARY>
+

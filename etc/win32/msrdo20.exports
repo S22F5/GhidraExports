@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msrdo20.dll" PATH="/DLLArchive/etc/MSRDO20.dll" DATE="Fri Jul 03 12:59:45 PDT 2020" VERSION="6.00.8862">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServerEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DLLGetDocumentation" PURGE="20" COMMENT="" />
+</LIBRARY>
+

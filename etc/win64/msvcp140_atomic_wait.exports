@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msvcp140_atomic_wait.dll" PATH="/DLLArchive/etc/msvcp140_atomic_wait.dll" DATE="Sat Sep 23 08:44:42 CEST 2023" VERSION="14.34.31931.0">
+    <EXPORT ORDINAL="1" NAME="__std_acquire_shared_mutex_for_instance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__std_atomic_compare_exchange_128" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="__std_atomic_get_mutex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="__std_atomic_has_cmpxchg16b" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="__std_atomic_notify_all_direct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="__std_atomic_notify_all_indirect" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="__std_atomic_notify_one_direct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="__std_atomic_notify_one_indirect" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="__std_atomic_set_api_level" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="__std_atomic_wait_direct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="__std_atomic_wait_get_deadline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="__std_atomic_wait_get_remaining_timeout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="__std_atomic_wait_indirect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="__std_bulk_submit_threadpool_work" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="__std_calloc_crt" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="__std_close_threadpool_work" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="__std_create_threadpool_work" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="__std_execution_wait_on_uchar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="__std_execution_wake_by_address_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="__std_free_crt" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="__std_parallel_algorithms_hw_threads" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="__std_release_shared_mutex_for_instance" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="__std_submit_threadpool_work" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="__std_tzdb_delete_current_zone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="__std_tzdb_delete_leap_seconds" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="__std_tzdb_delete_sys_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="__std_tzdb_delete_time_zones" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="__std_tzdb_get_current_zone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="__std_tzdb_get_leap_seconds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="__std_tzdb_get_sys_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="__std_tzdb_get_time_zones" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="__std_wait_for_threadpool_work_callbacks" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

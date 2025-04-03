@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xptl.dll" PATH="/DLLArchive/etc/Xptl.dll" DATE="Fri Jul 03 13:41:58 PDT 2020" VERSION="3.6.8.2277">
+    <EXPORT ORDINAL="1" NAME="_XptlAdvise@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_XptlComPtrAssign@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_XptlComQIPtrAssign@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_XptlFreeMarshalStream@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_XptlGetVersion@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_XptlInternalQueryInterface@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_XptlMarshalPtrInProc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_XptlModuleAddTermFunc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_XptlModuleGetClassObject@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_XptlModuleInit@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_XptlModuleLoadTypeLib@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_XptlModuleRegisterClassObjects@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_XptlModuleRegisterServer@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_XptlModuleRegisterTypeLib@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_XptlModuleRevokeClassObjects@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_XptlModuleTerm@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_XptlModuleUnRegisterTypeLib@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_XptlModuleUnregisterServer@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_XptlModuleUnregisterServerEx@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_XptlSetErrorInfo@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_XptlUnadvise@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_XptlUnmarshalPtr@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_XptlWaitWithMessageLoop@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

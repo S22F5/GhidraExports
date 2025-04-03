@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cdiserver.dll" PATH="/DLLArchive/etc/CDIServer.dll" DATE="Fri Jul 03 12:26:24 PDT 2020" VERSION="10.00.4033">
+    <EXPORT ORDINAL="1" NAME="?GetCStringFromID@DMMLocalizeDll@@QAEHIAAV?$CStringT@GV?$StrTraitMFC_DLL@GV?$ChTraitsCRT@G@ATL@@@@@ATL@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetStringFromID@DMMLocalizeDll@@QAEHIAAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@ABV23@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetStringFromID@DMMLocalizeDll@@QAEHIPAPAG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?MMJB_MultiByteToWideChar@DMMLocalizeDll@@QAEHPBDHPAGH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?MMJB_WideCharToMultiByte@DMMLocalizeDll@@QAEHPBGHPADH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?uCodePage@?1??MMJB_MultiByteToWideChar@DMMLocalizeDll@@QAEHPBDHPAGH@Z@4IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?uCodePage@?1??MMJB_WideCharToMultiByte@DMMLocalizeDll@@QAEHPBGHPADH@Z@4IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

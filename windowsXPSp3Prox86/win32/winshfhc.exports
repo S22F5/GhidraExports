@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winshfhc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/winshfhc.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="16" COMMENT="" />
+</LIBRARY>
+

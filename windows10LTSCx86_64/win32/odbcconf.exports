@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odbcconf.dll" PATH="/DLLArchive/windows10LTSCX86_64/odbcconf.dll" DATE="Wed Oct 06 15:53:04 CEST 2021" VERSION="10.0.19041.388 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="6" NAME="SetSilent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetActionLogFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetActionLogModeSz" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetActionLogMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ExecuteAction" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetActionEnum" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetActionName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AppRegEnum" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CloseAppRegEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="OpenAppRegEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="QueryApplication" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RefreshAppRegEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RegisterApplication" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RunDLL32_RegisterApplication" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RunDLL32_UnregisterApplication" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="UnregisterApplication" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hwidfx.dll" PATH="/DLLArchive/etc/HWIDfx.dll" DATE="Wed Sep 13 14:37:39 CEST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Init" PURGE="4" COMMENT="" />
+</LIBRARY>
+

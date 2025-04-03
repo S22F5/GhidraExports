@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iesetup.dll" PATH="/DLLArchive/windows10LTSCX86_64/iesetup.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="11.00.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IEApplyCurrentHardening" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IEHardenAdmin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IEHardenAdminNow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IEHardenLMSettings" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IEHardenMachineNow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IEHardenUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IEShowHardeningDialog" PURGE="0" COMMENT="" />
+</LIBRARY>
+

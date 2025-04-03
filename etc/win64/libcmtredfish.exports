@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libcmtredfish.dll" PATH="/DLLArchive/etc/libcmtredfish.dll" DATE="Wed Oct 23 01:36:40 PDT 2024" VERSION="22.01.001 (BLD_337)">
+    <EXPORT ORDINAL="1" NAME="??0DSMIPMIInterfaceImpl@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1DSMIPMIInterfaceImpl@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4DSMIPMIInterfaceImpl@@QEAAAEAV0@AEBV0@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??_7DSMIPMIInterfaceImpl@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?CreateRedfishBasicAuthIF@API_CMT_REDFISH@@YAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0PEAPEAUICMTRedfishBasicAuthMethod@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?CreateRedfishInventoryIF@API_CMT_REDFISH@@YAHAEBUCMTRedfishConnection@@PEAPEAUICMTRedfishSoftwareInventory@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CreateRedfishOAuthAuthIF@API_CMT_REDFISH@@YAHPEAPEAUICMTRedfishOAuthMethod@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?CreateRedfishSystemActionIF@API_CMT_REDFISH@@YAHAEBUCMTRedfishConnection@@PEAPEAUICMTRedfishSystemAction@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CreateRedfishSystemInfoIF@API_CMT_REDFISH@@YAHAEBUCMTRedfishConnection@@PEAPEAUICMTRedfishSystemInfo@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CreateRedfishUpdateIF@API_CMT_REDFISH@@YAHAEBUCMTRedfishConnection@@PEAPEAUICMTRedfishSoftwareUpdate@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CreateUsbnicInterface@API_CMT_REDFISH@@YAHPEAPEAUICMTUsbnicInterface@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Finalize@API_CMT_REDFISH@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?IPMIRequest@DSMIPMIInterfaceImpl@@QEAAIPEAU_DSMIPMICommandData@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Initialize@API_CMT_REDFISH@@YAHAEBUCMTRedfishLibInitParam@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Initialize@DSMIPMIInterfaceImpl@@QEAAIPEBU_DSMIPMIConfiguration@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Initialize@DSMIPMIInterfaceImpl@@QEAAIVDSMString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?InitializeDSMLogger@DSMIPMIInterfaceImpl@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Release@DSMIPMIInterfaceImpl@@QEAAIXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wship6.dll" PATH="/DLLArchive/etc/wship6.dll" DATE="Fri Jul 03 13:37:53 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="WSHAddressToString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSHEnumProtocols" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSHGetProviderGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSHGetSockaddrType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSHGetSocketInformation" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSHGetWSAProtocolInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSHGetWildcardSockaddr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSHGetWinsockMapping" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSHIoctl" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WSHJoinLeaf" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WSHNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WSHOpenSocket2" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WSHOpenSocket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WSHSetSocketInformation" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WSHStringToAddress" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="freeaddrinfo" PURGE="4" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="freeaddrinfo" />
+    <EXPORT ORDINAL="17" NAME="getaddrinfo" PURGE="16" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="getaddrinfo" />
+    <EXPORT ORDINAL="18" NAME="getnameinfo" PURGE="28" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="getnameinfo" />
+</LIBRARY>
+

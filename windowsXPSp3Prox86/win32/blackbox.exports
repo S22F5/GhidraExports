@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="blackbox.dll" PATH="/DLLArchive/windowsXPSp3Prox86/blackbox.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="9.00.00.4503">
+    <EXPORT ORDINAL="1" NAME="??0IBlackBox@@IAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0IBlackBox@@IAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1IBlackBox@@MAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??_7IBlackBox@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetHWID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IBlackBox_CreateInstance2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IBlackBox_CreateInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

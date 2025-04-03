@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmintf.dll" PATH="/DLLArchive/etc/dmintf.dll" DATE="Fri Jul 03 12:31:46 PDT 2020" VERSION="2600.0.503.0">
+    <EXPORT ORDINAL="4" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

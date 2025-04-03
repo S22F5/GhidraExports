@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bib.dll" PATH="/DLLArchive/etc/Bib.dll" DATE="Fri Jul 03 12:25:13 PDT 2020" VERSION="1.1.8">
+    <EXPORT ORDINAL="2" NAME="BIBGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BIBInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BIBTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BIBGetGetProcAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BIBInitialize2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BIBLockSmithLockImpl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BIBLockSmithUnlockImpl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BIBLockSmithDeleteImpl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BIBLockSmithAssertNoLocksImpl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BIBInitialize3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BIBInitialize4" PURGE="0" COMMENT="" />
+</LIBRARY>
+

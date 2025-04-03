@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odbc32gt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/odbc32gt.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="3.525.1132.0 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="Dispatch" PURGE="60" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Dispatch2" PURGE="60" COMMENT="" />
+</LIBRARY>
+

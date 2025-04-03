@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="catsrvut.dll" PATH="/DLLArchive/etc/catsrvut.dll" DATE="Fri Jul 03 12:26:07 PDT 2020" VERSION="2001.12.4414.258">
+    <EXPORT ORDINAL="1" NAME="??0CCom98Component@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CCom98Interface@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CCom98Method@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0CCom98Object@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0CComPlusComponent@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0CComPlusInterface@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??0CComPlusMethod@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??0CComPlusObject@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??1CComPlusComponent@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??1CComPlusInterface@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??4CCom98Component@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??4CCom98Dll@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??4CCom98Interface@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??4CCom98Method@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??4CCom98Object@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??4CComPlusComponent@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??4CComPlusInterface@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??4CComPlusMethod@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="??4CComPlusObject@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="??4CComPlusTypelib@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="??_7CCom98Component@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="??_7CCom98Interface@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="??_7CCom98Method@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="??_7CCom98Object@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="??_7CComPlusComponent@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="??_7CComPlusInterface@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="??_7CComPlusMethod@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="??_7CComPlusObject@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?GetITypeLib@CComPlusTypelib@@QAEPAUITypeLib@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RegDBBackup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RegDBRestore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="StartMTSTOCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="WinlogonHandlePendingInfOperations" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="CGMIsAdministrator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="COMPlusUninstallActionW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="EntryPointDllGetClassObjW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="EntryPointDllRegSvrW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="EntryPointDllUnRegSvrW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="FindAssemblyModulesW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="LoadLibraryOnUserDllW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ManagedRequestW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="QueryUserDllW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="RegisterUserDllW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="RunMTSToCom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="SysprepComplus2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="SysprepComplus" PURGE="0" COMMENT="" />
+</LIBRARY>
+

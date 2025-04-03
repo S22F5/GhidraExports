@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comsvcs.dll" PATH="/DLLArchive/etc/comsvcs.dll" DATE="Fri Jul 03 12:27:33 PDT 2020" VERSION="2001.12.4414.258">
+    <EXPORT ORDINAL="5" NAME="CosGetCallContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetMTAThreadPoolMetrics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CoCreateActivity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CoCreateStdTrustable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CoEnterServiceDomain" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CoLeaveServiceDomain" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CoLoadServices" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CoVerifyTrust" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ComSvcsExceptionFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ComSvcsLogError" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DispManGetContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetObjectContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetTrkSvrObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MTSCreateActivity" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MiniDumpW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RecycleSurrogate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RegisterComEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SafeRef" PURGE="0" COMMENT="" />
+</LIBRARY>
+

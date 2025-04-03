@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="x3daudio1_4.dll" PATH="/DLLArchive/etc/X3DAudio1_4.dll" DATE="Fri Jul 03 13:40:03 PDT 2020" VERSION="9.23 (DXSDK_JUN08.080530-1349)">
+    <EXPORT ORDINAL="1" NAME="X3DAudioCalculate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="X3DAudioInitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

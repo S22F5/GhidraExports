@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqloledb.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sqloledb.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="2000.085.1132.00 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SQLDebug" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

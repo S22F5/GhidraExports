@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vpnike.dll" PATH="/DLLArchive/windows10LTSCX86_64/vpnike.dll" DATE="Wed Oct 06 15:52:13 CEST 2021" VERSION="10.0.19041.964 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="VpnIkeRoamToBestCostInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializeProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InitializeServerProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SendMessageToProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UninitializeProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UninitializeServerProtocolEngine" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vchnt5.dll" PATH="/DLLArchive/windowsXPSp3Prox86/vchnt5.dll" DATE="Mon Apr 14 05:42:10 CEST 2008" VERSION="6.13.01.3198 ">
+    <EXPORT ORDINAL="1" NAME="DeviceGetInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

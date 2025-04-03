@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="charset.dll" PATH="/DLLArchive/etc/charset.dll" DATE="Fri Jul 03 21:26:42 CEST 2020" VERSION="1.2">
+    <EXPORT ORDINAL="1" NAME="locale_charset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdt2gkor.dll" PATH="/DLLArchive/etc/MDT2GKOR.DLL" DATE="Fri Apr 24 10:29:50 PDT 1998" VERSION="2.00.00.8083">
+    <EXPORT ORDINAL="1" NAME="AddDCC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddIfmRef" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DelIfmRef" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_GridDllEntryPoint@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GridInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GridPaint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HwndCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HwndGridCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IfmOfLpfmind" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitPioneerUtilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PpfmOfIfm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RemoveDCC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="g_PioneerFunctions" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="g_hInstGridDLL" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="demangler.dll" PATH="/DLLArchive/etc/Demangler.dll" DATE="Mon Apr 18 10:49:14 PDT 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetUnmangledName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

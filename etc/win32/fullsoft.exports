@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fullsoft.dll" PATH="/DLLArchive/etc/fullsoft.dll" DATE="Fri Jul 03 12:35:10 PDT 2020" VERSION="1.1.4171.2h">
+    <EXPORT ORDINAL="1" NAME="FCAddDataToKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FCAddDateToKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FCAddIntToKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FCAddStringToKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FCAssert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FCAssertInternal1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FCAssertParam" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FCAssertParamInternal1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FCCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FCClearCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FCClearKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FCClearKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FCCreateCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FCCreateKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FCCreatePersistentCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FCCreatePersistentKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FCCreateSupportIncidentInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FCDecrementCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FCDeleteKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FCEndTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FCExceptionHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FCGetCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FCGetSessionUniqueID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="FCHeartbeatTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="FCIncrementCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="FCInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="FCInitializeInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="FCInitializeWithManifestInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="FCInitializeWithManifestInternalEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="FCLibraryVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="FCRegisterMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="FCSetCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="FCSetUIState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="FCStartTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="FCTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="FCTraceInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="FCTraceParam" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="FCTraceParamInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="FCTrigger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="FCTriggerInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="FCTriggerInternal1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="FCUnregisterMemory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

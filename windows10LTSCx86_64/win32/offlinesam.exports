@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="offlinesam.dll" PATH="/DLLArchive/windows10LTSCX86_64/offlinesam.dll" DATE="Wed Oct 06 06:43:58 PDT 2021" VERSION="10.0.19041.1220 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SamOfflineAddMemberToAlias" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SamOfflineCloseHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SamOfflineConnect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SamOfflineConnectExternal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SamOfflineConnectForInstaller" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SamOfflineCreateAliasInDomain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SamOfflineCreateUserInDomain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SamOfflineDeleteAlias" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SamOfflineDeleteUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SamOfflineEnumerateAliasesInDomain" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SamOfflineEnumerateDomainsInSamServer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SamOfflineEnumerateUsersInDomain2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SamOfflineFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SamOfflineGetMembersInAlias" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SamOfflineLookupDomainInSamServer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SamOfflineLookupNamesInDomain" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SamOfflineOpenAlias" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SamOfflineOpenDomain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SamOfflineOpenUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SamOfflineQueryInformationAlias" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SamOfflineQueryInformationUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SamOfflineRemoveMemberFromAlias" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SamOfflineRidToSid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SamOfflineSetInformationAlias" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SamOfflineSetInformationUser" PURGE="12" COMMENT="" />
+</LIBRARY>
+

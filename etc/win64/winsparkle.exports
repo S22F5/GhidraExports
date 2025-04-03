@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winsparkle.dll" PATH="/DLLArchive/etc/WinSparkle.dll" DATE="Wed Nov 15 11:03:02 PST 2023" VERSION="0.8.0">
+    <EXPORT ORDINAL="1" NAME="win_sparkle_check_update_with_ui" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="win_sparkle_check_update_with_ui_and_install" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="win_sparkle_check_update_without_ui" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="win_sparkle_cleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="win_sparkle_clear_http_headers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="win_sparkle_get_automatic_check_for_updates" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="win_sparkle_get_last_check_time" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="win_sparkle_get_update_check_interval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="win_sparkle_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="win_sparkle_set_app_build_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="win_sparkle_set_app_details" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="win_sparkle_set_appcast_url" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="win_sparkle_set_automatic_check_for_updates" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="win_sparkle_set_can_shutdown_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="win_sparkle_set_config_methods" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="win_sparkle_set_did_find_update_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="win_sparkle_set_did_not_find_update_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="win_sparkle_set_dsa_pub_pem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="win_sparkle_set_error_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="win_sparkle_set_http_header" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="win_sparkle_set_lang" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="win_sparkle_set_langid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="win_sparkle_set_registry_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="win_sparkle_set_shutdown_request_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="win_sparkle_set_update_cancelled_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="win_sparkle_set_update_check_interval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="win_sparkle_set_update_dismissed_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="win_sparkle_set_update_postponed_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="win_sparkle_set_update_skipped_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="win_sparkle_set_user_run_installer_callback" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

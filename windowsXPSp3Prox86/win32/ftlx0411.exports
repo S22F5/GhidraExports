@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ftlx0411.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ftlx0411.dll" DATE="Fri Aug 17 13:34:40 PDT 2001" VERSION="4.00.4550 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="FTSWordBreakA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FTSWordBreakW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RemoveWhiteSpace" PURGE="16" COMMENT="" />
+</LIBRARY>
+

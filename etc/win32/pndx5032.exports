@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pndx5032.dll" PATH="/DLLArchive/etc/pndx5032.dll" DATE="Fri Jul 03 13:07:10 PDT 2020" VERSION="5.0.0.0">
+    <EXPORT ORDINAL="1" NAME="GetDevNodeStatus32Call" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="thk_ThunkData32" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

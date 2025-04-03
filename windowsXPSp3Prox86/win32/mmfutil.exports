@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mmfutil.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mmfutil.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="?DisplayAVIBox@@YGHPAUHWND__@@PBG1PAPAU1@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DisplayUserMessage@@YGHPAUHWND__@@PAUHINSTANCE__@@IIW4ERROR_SRC@@JI@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DisplayUserMessage@@YGHPAUHWND__@@PBG1W4ERROR_SRC@@JI@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ErrorStringEx@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

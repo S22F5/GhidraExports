@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xinterface.dll" PATH="/DLLArchive/etc/xinterface.dll" DATE="Fri Jul 03 13:40:43 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?SFLB_DoControl@XINTERFACE@@IAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DMAInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netplwiz.dll" PATH="/DLLArchive/windows10LTSCX86_64/netplwiz.dll" DATE="Wed Oct 06 06:52:20 PDT 2021" VERSION="10.0.19041.610 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ClearAutoLogon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetAccessWizard" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetPlacesWizardDoModal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SHDisconnectNetDrives" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UsersRunDllW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

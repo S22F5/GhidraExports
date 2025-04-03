@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dtcommonres.dll" PATH="/DLLArchive/etc/DTCommonRes.dll" DATE="Fri Jul 03 12:32:30 PDT 2020" VERSION="4.41.0315.0262">
+    <EXPORT ORDINAL="1" NAME="AboutDialogShow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckSPTDInstallation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DTProResReinitLocalization" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DevicesListDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DownloadFileDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EditBox" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetComputerNameDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetUserNameAndPassword" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsConvertImagesDialogShowed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IsDeviceInfoShowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsDeviceParametersShowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IsEraseDialogShowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MessageBoxChecked" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MessageBoxExt" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ProcessingInProgress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ReleaseDTProResObjects" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SelectImageCatalogFolder" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetInvisibleWaitDialog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShowBurnImageDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShowConvertImagesDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ShowDeviceInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ShowDeviceParameters" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ShowEraseDiskDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ShowGrabDiskDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SplashHide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SplashSetMessageText" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SplashShow" PURGE="4" COMMENT="" />
+</LIBRARY>
+

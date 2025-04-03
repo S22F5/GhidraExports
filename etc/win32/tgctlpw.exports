@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tgctlpw.dll" PATH="/DLLArchive/etc/tgctlpw.dll" DATE="Fri Jul 03 13:22:48 PDT 2020" VERSION="6,0,1334,0">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_tgpwctlclass_IPLookup_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Java_tgpwctlclass_SetDirect_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Java_tgpwctlclass_closeSocket_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Java_tgpwctlclass_close_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Java_tgpwctlclass_getAllResponseHeaders_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Java_tgpwctlclass_getResponseHeader_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Java_tgpwctlclass_openSocket_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Java_tgpwctlclass_open_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Java_tgpwctlclass_receiveSocket_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Java_tgpwctlclass_sendSocket_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Java_tgpwctlclass_send_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Java_tgpwctlclass_setRequestHeader_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NSGetModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="native_tgpwctlclass_IPLookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="native_tgpwctlclass_SetDirect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="native_tgpwctlclass_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="native_tgpwctlclass_closeSocket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="native_tgpwctlclass_getAllResponseHeaders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="native_tgpwctlclass_getResponseHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="native_tgpwctlclass_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="native_tgpwctlclass_openSocket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="native_tgpwctlclass_receiveSocket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="native_tgpwctlclass_send" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="native_tgpwctlclass_sendSocket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="native_tgpwctlclass_setRequestHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="unuse_netscape_javascript_JSObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="unuse_netscape_plugin_Plugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="unuse_tgpwctlclass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="use_netscape_javascript_JSObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="use_netscape_plugin_Plugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="use_tgpwctlclass" PURGE="0" COMMENT="" />
+</LIBRARY>
+

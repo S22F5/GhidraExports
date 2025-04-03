@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="compobj.dll" PATH="/DLLArchive/windows10LTSCX86_64/compobj.dll" DATE="Sat Dec 07 10:09:30 CET 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="WNDPROC" PURGE="10" COMMENT="" />
+</LIBRARY>
+

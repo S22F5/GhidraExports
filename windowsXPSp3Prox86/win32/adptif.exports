@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="adptif.dll" PATH="/DLLArchive/windowsXPSp3Prox86/adptif.dll" DATE="Fri Aug 17 22:36:10 CEST 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="CreateSocketPort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeleteSocketPort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FwBindFwInterfaceToAdapter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FwConnectionRequestFailed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FwCreateInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FwDeleteInterface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FwDisableFwInterface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FwEnableFwInterface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FwGetInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FwGetNotificationResult" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FwGetStaticNetbiosNames" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FwIsStarted" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FwNotifyConnectionRequest" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FwSetInterface" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FwSetStaticNetbiosNames" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FwStart" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FwStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FwUnbindFwInterfaceFromAdapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FwUpdateConfig" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FwUpdateRouteTable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetAdapterNameFromMacAddrW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetAdapterNameW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetFilters" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IpxAdjustIoCompletionParams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IpxCreateAdapterConfigurationPort" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IpxDeleteAdapterConfigurationPort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IpxDoesRouteExist" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IpxGetAdapterConfig" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IpxGetAdapterList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IpxGetOverlappedResult" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IpxGetQueuedAdapterConfigurationStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IpxGetQueuedCompletionStatus" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IpxPostQueuedCompletionStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="IpxRecvPacket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="IpxSendPacket" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="IpxWanCreateAdapterConfigurationPort" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="IpxWanQueryInactivityTimer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="IpxWanSetAdapterConfiguration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SetFilters" PURGE="24" COMMENT="" />
+</LIBRARY>
+

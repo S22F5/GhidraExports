@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fatimporter.dll" PATH="/DLLArchive/etc/fatimporter.dll" DATE="Fri Jul 03 21:33:51 CEST 2020" VERSION="6, 3, 0, 2">
+    <EXPORT ORDINAL="1" NAME="NERO_PLUGIN_GetInterfaceVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NERO_PLUGIN_GetPluginName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NERO_PLUGIN_GetPluginType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NERO_PLUGIN_GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NERO_PLUGIN_SetInterfaceVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NERO_PLUGIN_SetVendorInformations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NeroFileSystemDriver_Create" PURGE="0" COMMENT="" />
+</LIBRARY>
+

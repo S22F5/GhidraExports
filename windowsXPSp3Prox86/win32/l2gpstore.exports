@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="l2gpstore.dll" PATH="/DLLArchive/windowsXPSp3Prox86/l2gpstore.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="L2GPPolicyDataDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="L2GPPolicyDataDeleteAll" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="L2GPPolicyDataRead" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="L2GPPolicyDataWrite" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="L2GPPolicyFreeMem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="L2GPPolicyStoreClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="L2GPPolicyStoreOpen" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdelta.dll" PATH="/DLLArchive/windows10LTSCX86_64/msdelta.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="5.00 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ApplyDeltaA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ApplyDeltaB" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ApplyDeltaProvidedB" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ApplyDeltaW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateDeltaA" PURGE="64" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateDeltaB" PURGE="96" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateDeltaW" PURGE="64" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DeltaFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DeltaNormalizeProvidedB" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDeltaInfoA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetDeltaInfoB" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetDeltaInfoW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetDeltaSignatureA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetDeltaSignatureB" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetDeltaSignatureW" PURGE="20" COMMENT="" />
+</LIBRARY>
+

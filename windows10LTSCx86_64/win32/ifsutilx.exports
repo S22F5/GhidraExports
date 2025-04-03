@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ifsutilx.dll" PATH="/DLLArchive/windows10LTSCX86_64/ifsutilx.dll" DATE="Sat Dec 07 01:10:05 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CheckSnapshotPresence" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateVolumeSnapshot" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetSnapshotErrorMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitializeCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReleaseVolumeSnapshot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UninitializeCOM" PURGE="0" COMMENT="" />
+</LIBRARY>
+

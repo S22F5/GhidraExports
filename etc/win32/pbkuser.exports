@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pbkuser.dll" PATH="/DLLArchive/etc/PbkUser.dll" DATE="Fri Jul 03 22:06:13 CEST 2020" VERSION="3.00">
+    <EXPORT ORDINAL="1" NAME="_InitializePbkUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_UninitializePbkUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AddContact" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_GetContact" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_GetCallerId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Configurate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_AddContactEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_AddContactEx2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_EditContact" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_AddVCard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_FindEditContactModeless" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_EditContactModeless" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_SetActiveWndPtr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="__CloseAllModelessEdit@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="__CloseModelessEdit@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="__EditContactByNumber@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="__GetBkPtr@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="__GetCurrentFolderID@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

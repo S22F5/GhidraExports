@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mst120.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mst120.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="1" NAME="T120_CreateNodeController" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="T120_GetSecurityInfoFromGCCID" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="T120_TprtSecCtrl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GCC_CreateAppSap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MCS_AttachRequest" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="T120_AppletStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="T120_CloseApplet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="T120_CreateAppletSAP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="T120_CreateControlSAP" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="T120_CreatePluggableTransport" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="T120_GetNodeName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="T120_GetNodeVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="T120_GetUserData" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="T120_LoadApplet" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="T120_QueryApplet" PURGE="8" COMMENT="" />
+</LIBRARY>
+

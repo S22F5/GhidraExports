@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmidx.dll" PATH="/DLLArchive/etc/wmidx.dll" DATE="Fri Jul 03 13:34:51 PDT 2020" VERSION="9.00.00.3250">
+    <EXPORT ORDINAL="1" NAME="WMCreateASFChopper" PURGE="4" COMMENT="" />
+</LIBRARY>
+

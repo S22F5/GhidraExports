@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmidcom.dll" PATH="/DLLArchive/windows10LTSCX86_64/wmidcom.dll" DATE="Wed Oct 06 06:52:22 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0CCritSec@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CCritSec@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4CAutoSetActivityId@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CCritSec@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MI_Application_InitializeV1" PURGE="0" COMMENT="" />
+</LIBRARY>
+

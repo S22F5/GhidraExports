@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssp232.dll" PATH="/DLLArchive/etc/MSSP232.dll" DATE="Fri Jul 03 12:59:54 PDT 2020" VERSION="1.63.5626">
+    <EXPORT ORDINAL="1" NAME="SpellVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SpellInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SpellOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SpellCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SpellTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SpellVerifyMdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SpellOpenMdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SpellOpenUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SpellAddUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SpellAddChangeUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SpellDelUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SpellClearUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SpellGetSizeUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SpellGetListUdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SpellCloseMdr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SpellCloseUdr" PURGE="0" COMMENT="" />
+</LIBRARY>
+

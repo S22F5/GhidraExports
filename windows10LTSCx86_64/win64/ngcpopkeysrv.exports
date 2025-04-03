@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ngcpopkeysrv.dll" PATH="/DLLArchive/windows10LTSCX86_64/ngcpopkeysrv.dll" DATE="Wed Oct 06 06:51:26 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NgcGetPregenKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NgcPregenKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NgcTriggerTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="s_NgcDecryptWithSymmetricPopKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="s_NgcDeleteSymmetricPopKeyTransportKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="s_NgcEncryptWithSymmetricPopKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="s_NgcGetKeyAttestationForContainerService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="s_NgcGetPregenKeyState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="s_NgcGetPregenUserKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="s_NgcGetSymmetricPopKeyTransportKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="s_NgcGetSymmetricPopKeyTransportKeyName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="s_NgcImportSymmetricPopKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="s_NgcRenewKeyAttestation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="s_NgcSignWithSymmetricPopKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="s_NgcVerifyWithSymmetricPopKey" PURGE="0" COMMENT="" />
+</LIBRARY>
+

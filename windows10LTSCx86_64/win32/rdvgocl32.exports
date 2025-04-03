@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rdvgocl32.dll" PATH="/DLLArchive/windows10LTSCX86_64/rdvgocl32.dll" DATE="Wed Oct 06 06:53:13 PDT 2021" VERSION="10.0.10011.16384">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="clGetExtensionFunctionAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="clIcdGetPlatformIDsKHR" PURGE="12" COMMENT="" />
+</LIBRARY>
+

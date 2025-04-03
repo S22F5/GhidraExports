@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ws2help.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ws2help.dll" DATE="Sun Apr 13 20:42:12 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="WahCloseApcHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WahCloseHandleHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WahCloseNotificationHandleHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WahCloseSocketHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WahCloseThread" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WahCompleteRequest" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WahCreateHandleContextTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WahCreateNotificationHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WahCreateSocketHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WahDestroyHandleContextTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WahDisableNonIFSHandleSupport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WahEnableNonIFSHandleSupport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WahEnumerateHandleContexts" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WahInsertHandleContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WahNotifyAllProcesses" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WahOpenApcHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WahOpenCurrentThread" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WahOpenHandleHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WahOpenNotificationHandleHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WahQueueUserApc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WahReferenceContextByHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WahRemoveHandleContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WahWaitForNotification" PURGE="16" COMMENT="" />
+</LIBRARY>
+

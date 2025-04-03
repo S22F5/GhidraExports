@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3d9.dll" PATH="/DLLArchive/windowsXPSp3Prox86/d3d9.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.03.2600.5512 (xpsp.080413-0845)">
+    <EXPORT ORDINAL="1" NAME="CheckFullscreen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Direct3DShaderValidatorCreate9" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PSGPError" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PSGPSampleTexture" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3DPERF_BeginEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3DPERF_EndEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3DPERF_GetStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D3DPERF_QueryRepeatFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="D3DPERF_SetMarker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="D3DPERF_SetOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="D3DPERF_SetRegion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DebugSetLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DebugSetMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Direct3DCreate9" PURGE="4" COMMENT="" />
+</LIBRARY>
+

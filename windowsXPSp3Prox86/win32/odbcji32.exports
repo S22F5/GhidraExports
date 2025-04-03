@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odbcji32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/odbcji32.dll" DATE="Mon Apr 14 05:40:32 CEST 2008" VERSION="4.0.6305.0">
+    <EXPORT ORDINAL="1" NAME="IntlLibHinst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="500" NAME="LibMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

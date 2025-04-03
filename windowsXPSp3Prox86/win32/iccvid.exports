@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iccvid.dll" PATH="/DLLArchive/windowsXPSp3Prox86/iccvid.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="1.10.0.11">
+    <EXPORT ORDINAL="1" NAME="DllInstanceInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

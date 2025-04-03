@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inswanatw.dll" PATH="/DLLArchive/etc/InsWanAtw.dll" DATE="Fri Jul 03 12:43:04 PDT 2020" VERSION="2.0.20.1.US.1        ">
+    <EXPORT ORDINAL="1" NAME="CreateInsWanAtw" PURGE="8" COMMENT="" />
+</LIBRARY>
+

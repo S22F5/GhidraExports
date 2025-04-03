@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="loadiat.dll" PATH="/DLLArchive/etc/loadiat.dll" DATE="Fri Nov 17 05:54:44 PST 2000" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ProcessIAT" PURGE="16" COMMENT="" />
+</LIBRARY>
+

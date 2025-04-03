@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rpup3260.dll" PATH="/DLLArchive/etc/rpup3260.dll" DATE="Fri Jul 03 13:44:37 PDT 2020" VERSION="6.0.9.636">
+    <EXPORT ORDINAL="1" NAME="RPCreateClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RPCreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

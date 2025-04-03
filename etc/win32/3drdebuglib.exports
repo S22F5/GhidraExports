@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3drdebuglib.dll" PATH="/DLLArchive/etc/3DRDebugLib.dll" DATE="Fri Jul 03 12:11:31 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_AssertFailed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AssertFailedEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_BreakRelease" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_DebugOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_EnterSafeMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_SetAssertionFailedExHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_SetAssertionFailedHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_SetEnterSafeModeHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_WarnDebug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_WarnFinal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_WarnRelease" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mshwgst.dll" PATH="/DLLArchive/windows10LTSCX86_64/mshwgst.dll" DATE="Sat Dec 07 10:10:04 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AddStroke" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AdviseInkChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloneContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateRecognizer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DestroyContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DestroyRecognizer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EndInkInput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetBestResultString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetContextPropertyList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetContextPropertyValue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetEnabledUnicodeRanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetGuide" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetLatticePtr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetPreferredPacketDescription" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetRecoAttributes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetResultPropertyList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetUnicodeRanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IsStringSupported" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Process" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ResetContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetCACMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetContextPropertyValue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetEnabledUnicodeRanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SetFactoid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SetGuide" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SetTextContext" PURGE="20" COMMENT="" />
+</LIBRARY>
+

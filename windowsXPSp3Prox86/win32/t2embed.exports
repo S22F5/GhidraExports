@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="t2embed.dll" PATH="/DLLArchive/windowsXPSp3Prox86/t2embed.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="TTCharToUnicode" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TTDeleteEmbeddedFont" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TTEmbedFont" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TTEmbedFontFromFileA" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TTEnableEmbeddingForFacename" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TTGetEmbeddedFontInfo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TTGetEmbeddingType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TTIsEmbeddingEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TTIsEmbeddingEnabledForFacename" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TTLoadEmbeddedFont" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TTRunValidationTests" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_TTCharToUnicode@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_TTDeleteEmbeddedFont@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_TTEmbedFont@44" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_TTEmbedFontFromFileA@52" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_TTEnableEmbeddingForFacename@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_TTGetEmbeddedFontInfo@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_TTGetEmbeddingType@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_TTIsEmbeddingEnabled@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_TTIsEmbeddingEnabledForFacename@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_TTLoadEmbeddedFont@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_TTRunValidationTests@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TTEmbedFontEx" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TTRunValidationTestsEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TTGetNewFontName" PURGE="20" COMMENT="" />
+</LIBRARY>
+

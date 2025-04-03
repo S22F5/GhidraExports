@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dummy.dll" PATH="/DLLArchive/etc/dummy.dll" DATE="Sun Mar 25 19:45:34 PDT 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="isRegistered" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="getRegInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="setExternalKey" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getSystemID" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CallMark" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="storeLicense" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="getTrialRuns" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="getTrialDays" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="getLicenseExpiration" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="storeLicenseShort" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="getCustomValue" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="getLicenseHash" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="getLicenseStatus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="setLicense" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="setLicenseShort" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

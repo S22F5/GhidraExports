@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="at4re_overlay_tool.dll" PATH="/DLLArchive/etc/AT4RE_Overlay_Tool.dll" DATE="Sun Nov 15 09:09:44 PST 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="StartPTPlugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPTPluginName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DoMyJob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LoadDll" PURGE="0" COMMENT="" />
+</LIBRARY>
+

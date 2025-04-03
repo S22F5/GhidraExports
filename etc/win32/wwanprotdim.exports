@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wwanprotdim.dll" PATH="/DLLArchive/etc/wwanprotdim.dll" DATE="Fri Jul 03 13:39:11 PDT 2020" VERSION="08.01.7601.17514 (win7sp1_rtm.101119-1850)">
+    <EXPORT ORDINAL="1" NAME="DimInitialize" PURGE="12" COMMENT="" />
+</LIBRARY>
+

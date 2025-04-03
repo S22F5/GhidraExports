@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntglobalflag.dll" PATH="/DLLArchive/etc/NtGlobalFlag.dll" DATE="Tue Apr 22 05:21:35 CEST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Pausedex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ODBG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ODBG_Pluginclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

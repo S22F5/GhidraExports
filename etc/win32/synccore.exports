@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="synccore.dll" PATH="/DLLArchive/etc/synccore.dll" DATE="Fri Jul 03 13:21:49 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="Sync_Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Sync_Destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Sync_SetUrlField" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Sync_StartUrlString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Sync_ReadFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Sync_GetFileSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Sync_SetHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Sync_Query" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Sync_SetTagMap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??0CSyncHttp@@QAE@PBU_SYNC_TAGS@@HPAVCThreadSafeSocket@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??0CThreadSafeSocket@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??0CThreadSafeSocket@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??1CSyncHttp@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??1CThreadSafeSocket@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??4CSyncHttp@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??4CSyncUtil@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??4CThreadSafeSocket@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??_7CThreadSafeSocket@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ClearBuffer@CSyncUtil@@SAXPAVCSyncHttp@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?ConvertHostTagToLSTag@CSyncUtil@@SAJABVTString@@AAJPAU_SYNC_TAGS@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?CopyALine@CSyncUtil@@SAXPBDKAAVTString@@PAVCSyncHttp@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetHostOperEntryType@CSyncUtil@@SAJAAVTString@@00@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetHostOperEntryType@CSyncUtil@@SAJAAVTString@@0AAJ@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetLValAndRVal@CSyncUtil@@SAJABVTString@@AAV2@1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?NeedToKillThread@CSyncUtil@@SA_NPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?ReadLine@CSyncUtil@@SAJAAKAAVTString@@PAVCSyncHttp@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?Shutdown_And_Close@CThreadSafeSocket@@QAE_NHPA_NPAHPAW4eSyncState@1@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?SkipLine@CSyncUtil@@SAJAAKHAAVTString@@PAVCSyncHttp@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?SyncCloseAllHttpHandles@CSyncHttp@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SyncGetFileSize@CSyncHttp@@QAEKPAK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SyncGetServerResponse@CSyncHttp@@QAEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?SyncQuery@CSyncHttp@@QAEKPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?SyncReadFile@CSyncHttp@@QAEKPADHPAKK@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?SyncSetHeader@CSyncHttp@@QAEKPAU_SYNCHEADERINFO@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SyncSetURLField@CSyncHttp@@QAEKHPAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SyncStartURLString@CSyncHttp@@QAEKHPAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?ValidHostOper@CSyncUtil@@SA_NABVTString@@QAPBDH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?ValidHostType@CSyncUtil@@SA_NABJQBJH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?ValidHostTypeFP@CSyncUtil@@SA_NABVTString@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?connect@CThreadSafeSocket@@QAE_NPBUsockaddr@@HPAW4eSyncState@1@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?recv@CThreadSafeSocket@@QAE_NPADHHPAHPAW4eSyncState@1@2@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?send@CThreadSafeSocket@@QAE_NPBDHHPAHPAW4eSyncState@1@2@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?setsockopt@CThreadSafeSocket@@QAE_NHHPBDHPAW4eSyncState@1@@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?socket@CThreadSafeSocket@@QAE_NHHHPAW4eSyncState@1@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="nsEscape" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="nsEscapeCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="nsEscapeHTML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="nsUnescape" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="nsUnescapeCount" PURGE="0" COMMENT="" />
+</LIBRARY>
+

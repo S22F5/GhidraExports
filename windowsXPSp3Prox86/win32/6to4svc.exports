@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="6to4svc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/6to4svc.dll" DATE="Sun Apr 13 20:41:50 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

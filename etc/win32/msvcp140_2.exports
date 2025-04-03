@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msvcp140_2.dll" PATH="/DLLArchive/etc/msvcp140_2.dll" DATE="Sat Nov 07 05:26:41 PST 2020" VERSION="14.16.27012.6 built by: vcwrkspc">
+    <EXPORT ORDINAL="1" NAME="___std_smf_assoc_laguerre@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="___std_smf_assoc_laguerref@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="___std_smf_assoc_legendre@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="___std_smf_assoc_legendref@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="___std_smf_beta@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="___std_smf_betaf@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="___std_smf_comp_ellint_1@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="___std_smf_comp_ellint_1f@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="___std_smf_comp_ellint_2@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="___std_smf_comp_ellint_2f@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="___std_smf_comp_ellint_3@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="___std_smf_comp_ellint_3f@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="___std_smf_cyl_bessel_i@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="___std_smf_cyl_bessel_if@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="___std_smf_cyl_bessel_j@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="___std_smf_cyl_bessel_jf@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="___std_smf_cyl_bessel_k@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="___std_smf_cyl_bessel_kf@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="___std_smf_cyl_neumann@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="___std_smf_cyl_neumannf@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="___std_smf_ellint_1@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="___std_smf_ellint_1f@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="___std_smf_ellint_2@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="___std_smf_ellint_2f@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="___std_smf_ellint_3@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="___std_smf_ellint_3f@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="___std_smf_expint@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="___std_smf_expintf@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="___std_smf_hermite@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="___std_smf_hermitef@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="___std_smf_hypot3@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="___std_smf_hypot3f@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="___std_smf_laguerre@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="___std_smf_laguerref@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="___std_smf_legendre@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="___std_smf_legendref@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="___std_smf_riemann_zeta@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="___std_smf_riemann_zetaf@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="___std_smf_sph_bessel@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="___std_smf_sph_besself@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="___std_smf_sph_legendre@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="___std_smf_sph_legendref@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="___std_smf_sph_neumann@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="___std_smf_sph_neumannf@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

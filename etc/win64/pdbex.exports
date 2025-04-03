@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pdbex.dll" PATH="/DLLArchive/etc/pdbex.dll" DATE="Tue Oct 24 23:54:06 CEST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="pdbex_export" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="pdbex_set_logging_method_export" PURGE="0" COMMENT="" />
+</LIBRARY>
+

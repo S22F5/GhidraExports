@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awlhut32.dll" PATH="/DLLArchive/etc/AWLHUT32.DLL" DATE="Fri Jul 03 12:24:34 PDT 2020" VERSION="4.0.950">
+    <EXPORT ORDINAL="22" NAME="ASN1EncodeEndOfContentsOctets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ASN1DecodeZeroOctet" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ASN1EncodeIntegerImplicit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ASN1DecodeInteger" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ASN1EncodePrimitiveStringImplicit" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ASN1DecodePrimitiveString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ASN1DecodeObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="DiscardLinHeader" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="CreateSimpleHeader" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="DecodeLinHeader" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="LHSetCompress" PURGE="20" COMMENT="" />
+</LIBRARY>
+

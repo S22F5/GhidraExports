@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="admtmpl.dll" PATH="/DLLArchive/etc/AdmTmpl.dll" DATE="Fri Jul 03 12:16:33 PDT 2020" VERSION="6.1.7600.16385 (win7_rtm.090713-1255)">
+    <EXPORT ORDINAL="1" NAME="CreateCmtStoreObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateParserObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msocf.dll" PATH="/DLLArchive/etc/MSOCF.DLL" DATE="Fri Jul 03 12:59:08 PDT 2020" VERSION="11.0.5510">
+    <EXPORT ORDINAL="1" NAME="??0CToolbarData@Jot@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CToolbarData@Jot@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?CreateTheApp@Framework@Jot@@YGXPAUHINSTANCE__@@PAUAFrameAppUser@2@PAUAMsoClientUser@2@PBG_NPA_NPAPAUHWND__@@H3PAU_MSOREGLANG@@4@Z" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Finish@Framework@Jot@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Init@CToolbarData@Jot@@QAGXPBUStaticToolbarDesc@2@IPBUStaticMenuDesc@2@I@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Start@Framework@Jot@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?TerminateTheApp@Framework@Jot@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?TheApp@Framework@Jot@@YGPAUAFrameApp@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?WndProc@CFrame@Jot@@UAGJIIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?WndProc@CFrameAppHwnd@Jot@@EAGJIIJ@Z" PURGE="16" COMMENT="" />
+</LIBRARY>
+

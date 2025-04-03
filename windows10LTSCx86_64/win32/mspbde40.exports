@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspbde40.dll" PATH="/DLLArchive/windows10LTSCX86_64/mspbde40.dll" DATE="Sat Dec 07 01:10:02 PST 2019" VERSION="4.00.9801.15">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

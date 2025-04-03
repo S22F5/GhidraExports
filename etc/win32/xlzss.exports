@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xlzss.dll" PATH="/DLLArchive/etc/Xlzss.dll" DATE="Sat Feb 17 17:25:46 PST 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Compress" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

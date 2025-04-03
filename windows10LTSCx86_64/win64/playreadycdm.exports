@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="playreadycdm.dll" PATH="/DLLArchive/windows10LTSCX86_64/playreadycdm.dll" DATE="Wed Aug 04 23:44:50 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="CreateCdmInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeinitializeCdmModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCdmVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitializeCdmModule_4" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VerifyCdmHost_0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

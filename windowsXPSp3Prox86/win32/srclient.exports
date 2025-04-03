@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="srclient.dll" PATH="/DLLArchive/windowsXPSp3Prox86/srclient.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="CreateFirstRunRp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateSnapshot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DisableFIFO" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DisableSR" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnableFIFO" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EnableSR" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EnableSREx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ResetSR" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RestoreSnapshot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SRCompress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SRFifo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SRFreeze" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SRNotify" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SRPrintState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SRRegisterSnapshotCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SRRemoveRestorePoint" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SRSetRestorePointA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SRSetRestorePointW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SRSwitchLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SRUnregisterSnapshotCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SRUpdateDSSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SRUpdateMonitoredListA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SRUpdateMonitoredListW" PURGE="4" COMMENT="" />
+</LIBRARY>
+

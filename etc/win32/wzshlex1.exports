@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wzshlex1.dll" PATH="/DLLArchive/etc/WZSHLEX1.DLL" DATE="Fri Jul 03 13:39:56 PDT 2020" VERSION="4.1 (32-bit)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-wow64-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-wow64-l1-1-0.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IsWow64Process" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="IsWow64Process" />
+    <EXPORT ORDINAL="2" NAME="Wow64DisableWow64FsRedirection" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="Wow64DisableWow64FsRedirection" />
+    <EXPORT ORDINAL="3" NAME="Wow64RevertWow64FsRedirection" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="Wow64RevertWow64FsRedirection" />
+</LIBRARY>
+

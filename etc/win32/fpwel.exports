@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fpwel.dll" PATH="/DLLArchive/etc/FPWEL.DLL" DATE="Fri Jul 03 12:34:59 PDT 2020" VERSION="11.0.5516">
+    <EXPORT ORDINAL="1" NAME="??0Vfrpctest@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1Vfrpctest@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4COWSAllocator@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?VwelVersion@@YIPADXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?run@Vfrpctest@@MAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?setTransStat@Vfrpctest@@QAEXPAVVtransStat@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?startStats@Vfrpctest@@QAEXXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateRootWeb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="freeWelGlobals" PURGE="0" COMMENT="" />
+</LIBRARY>
+

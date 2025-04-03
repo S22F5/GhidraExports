@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dpcdll.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dpcdll.dll" DATE="Sun Apr 13 20:40:46 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="122" NAME="Ordinal_122" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="Ordinal_123" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="Ordinal_125" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sldl_dll.dll" PATH="/DLLArchive/etc/sldl_dll.dll" DATE="Fri Jul 03 22:16:52 CEST 2020" VERSION="6.0.5469.161 (winmain(wmbla).090513-0145)">
+    <EXPORT ORDINAL="1" NAME="SLDLClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SLDLConsumeRight" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SLDLDepositOfflineConfirmationId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SLDLGenerateOfflineInstallationId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SLDLGetInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SLDLGetInformationDWORD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SLDLGetLicense" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SLDLGetLicenseFileId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SLDLGetLicenseInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SLDLGetLicensingStatusInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SLDLGetPKeyId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SLDLGetPolicyInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SLDLGetPolicyInformationDWORD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SLDLGetProductSkuInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SLDLGetSLIDList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SLDLInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SLDLInstallLicense" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SLDLInstallProofOfPurchase" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SLDLOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SLDLRegisterLoggingCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SLDLShutdown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SLDLUninstallLicense" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SLDLUninstallLicensesByApplicationID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SLDLUninstallProofOfPurchase" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SLDLUnregisterLoggingCallback" PURGE="4" COMMENT="" />
+</LIBRARY>
+

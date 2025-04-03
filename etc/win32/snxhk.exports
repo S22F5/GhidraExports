@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="snxhk.dll" PATH="/DLLArchive/etc/snxhk.dll" DATE="Fri Jul 03 13:17:21 PDT 2020" VERSION="6.0.1203.0">
+    <EXPORT ORDINAL="1" NAME="SnxHk_InstallHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SnxHk_UninstallHook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="contab32.dll" PATH="/DLLArchive/etc/CONTAB32.DLL" DATE="Fri Jul 03 12:27:36 PDT 2020" VERSION="9.0.2625">
+    <EXPORT ORDINAL="2" NAME="ABProviderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ServiceEntry" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ServiceEntry@40" PURGE="40" COMMENT="" />
+</LIBRARY>
+

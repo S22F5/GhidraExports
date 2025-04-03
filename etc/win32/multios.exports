@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="multios.dll" PATH="/DLLArchive/etc/MultiOS.dll" DATE="Fri Jul 03 13:00:57 PDT 2020" VERSION="2.0.20.1.US.1        ">
+    <EXPORT ORDINAL="7" NAME="getCurrentOS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="getMultiOSObjectPointer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMTUFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetMTU" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetMTUFlag" PURGE="4" COMMENT="" />
+</LIBRARY>
+

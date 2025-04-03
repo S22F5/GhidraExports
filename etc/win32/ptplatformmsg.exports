@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ptplatformmsg.dll" PATH="/DLLArchive/etc/PtPlatformMsg.dll" DATE="Fri Jul 03 22:08:07 CEST 2020" VERSION="2.0.0.0">
+    <EXPORT ORDINAL="1" NAME="_DllMain@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

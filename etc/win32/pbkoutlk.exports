@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pbkoutlk.dll" PATH="/DLLArchive/etc/pbkoutlk.dll" DATE="Fri Jul 03 22:06:12 CEST 2020" VERSION="3.00">
+    <EXPORT ORDINAL="1" NAME="??0COutlookPbFile@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1COutlookPbFile@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??_7COutlookPbFile@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AdviseAllMsgStores@COutlookPbFile@@AAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?CloseAllMsgStores@COutlookPbFile@@AAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?CloseBook@COutlookPbFile@@UAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CopyRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?CreateBook@COutlookPbFile@@UAEJPAUHWND__@@PAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CreateFolder@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@W4FOLDERTYPES@@PAD0@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CreateRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@PAUtagRecordDataFile@@0PBD@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CreateService@COutlookPbFile@@AAEJPAUHWND__@@PAD1@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?DefaultMapping@COutlookPbFile@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?DeleteFolder@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?DeleteRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?EmptyFolder@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?EnumFolders@COutlookPbFile@@UAEJP6GHW4FOLDERTYPES@@PADKPAU_PB_ENTRY_ID@@J@ZJ@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?EnumRecords@COutlookPbFile@@UAEJKPAU_PB_ENTRY_ID@@P6GHPAUtagRecordDataFile@@0PAW4SELECTION@@J@ZJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?EnumTrash@COutlookPbFile@@AAEJP6GHW4FOLDERTYPES@@PADKPAU_PB_ENTRY_ID@@J@ZJKPAUIMsgStore@@PAH@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ExpandMsgStore@COutlookPbFile@@AAEJP6GHW4FOLDERTYPES@@PADKPAU_PB_ENTRY_ID@@J@ZPAUIMsgStore@@KPAUENTRYID@@J@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetAvailableFields@COutlookPbFile@@UAEJPAPAU_FIELDLIST@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetFileInfo@COutlookPbFile@@UAEJPAU_FILE_INFO@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetFolderID@COutlookPbFile@@UAEJPADKPAU_PB_ENTRY_ID@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetFolderRecordCount@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@PAK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetItemEntryID@COutlookPbFile@@AAEHPAU_PB_ENTRY_ID@@H0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?GetMapping@COutlookPbFile@@UAEJPAPAU_MAPTABLE@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetPublicFolderId@COutlookPbFile@@AAEJPAUIMsgStore@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?GetRootFolderID@COutlookPbFile@@AAEJPAUIMsgStore@@PAU_PB_ENTRY_ID@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?GetValidMapFieldCount@COutlookPbFile@@AAEJPAH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?IsFunctionAvailable@COutlookPbFile@@UAEJPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?MoveRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@00@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?OpenBook@COutlookPbFile@@UAEJPAUHWND__@@PAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?OpenMsgStores@COutlookPbFile@@AAEJH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?ReadRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@0KPAUtagRecordDataFile@@PAW4SELECTION@@PAW4ACCESS@@PAPAD@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?RenameFolder@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@PAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetOwner@COutlookPbFile@@UAEJPADD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SetRecordAccess@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@0W4ACCESS@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?TagRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@0W4SELECTION@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?UnadviseAllMsgStores@COutlookPbFile@@AAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?UpdateExtendedProperties@COutlookPbFile@@AAEJPAUIMAPIFolder@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?UpdateRecord@COutlookPbFile@@UAEJPAU_PB_ENTRY_ID@@0PAUtagRecordDataFile@@PBD@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?UpdateUsingExchangeServer@COutlookPbFile@@AAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-shutdown-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-shutdown-l1-1-0.dll" DATE="Sat Dec 07 01:09:10 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AbortSystemShutdownW" PURGE="4" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="AbortSystemShutdownW" />
+    <EXPORT ORDINAL="2" NAME="InitiateSystemShutdownExW" PURGE="24" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="InitiateSystemShutdownExW" />
+</LIBRARY>
+

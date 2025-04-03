@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ocget.dll" PATH="/DLLArchive/etc/ocget.dll" DATE="Fri Jul 03 13:04:30 PDT 2020" VERSION="3.0.0.3433">
+    <EXPORT ORDINAL="1" NAME="GetExtensionVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HttpExtensionProc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TerminateExtension" PURGE="4" COMMENT="" />
+</LIBRARY>
+

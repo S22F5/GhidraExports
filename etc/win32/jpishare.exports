@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpishare.dll" PATH="/DLLArchive/etc/jpishare.dll" DATE="Fri Jul 03 12:44:48 PDT 2020" VERSION="1, 4, 2, 40">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_sun_plugin_services_WPlatformService_getSystemProfilePath@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_sun_plugin_services_WPlatformService_getUserProfilePath@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_sun_plugin_services_WinRegistry_getWindowsDirectory@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_sun_plugin_services_WinRegistry_initIDs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_sun_plugin_services_WinRegistry_sysCloseKey@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_sun_plugin_services_WinRegistry_sysCreateKey@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_sun_plugin_services_WinRegistry_sysDeleteKey@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_sun_plugin_services_WinRegistry_sysOpenKey@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_sun_plugin_services_WinRegistry_sysQueryKey@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_sun_plugin_services_WinRegistry_sysSetStringValue@20" PURGE="20" COMMENT="" />
+</LIBRARY>
+

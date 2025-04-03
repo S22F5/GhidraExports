@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wzaudio.dll" PATH="/DLLArchive/etc/wzAudio.dll" DATE="Fri Jul 03 13:39:47 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="wzAudioCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="wzAudioDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="wzAudioGetStreamInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="wzAudioGetStreamOffsetRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="wzAudioGetStreamOffsetSec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="wzAudioGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="wzAudioOpenFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="wzAudioOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="wzAudioPause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="wzAudioPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="wzAudioSeek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="wzAudioSetEqualizer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="wzAudioSetMixerMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="wzAudioSetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="wzAudioStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="wzAudioVolumeDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="wzAudioVolumeUp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

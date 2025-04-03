@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoftaccountextension.dll" PATH="/DLLArchive/windows10LTSCX86_64/MicrosoftAccountExtension.dll" DATE="Wed Oct 06 06:51:20 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="es.dll" PATH="/DLLArchive/windowsXPSp3Prox86/es.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="2001.12.4414.701">
+    <EXPORT ORDINAL="6" NAME="NotifyLogoffUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NotifyLogonUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LCEControlServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RegisterTheEventServiceDuringSetup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RegisterTheEventServiceAfterSetup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

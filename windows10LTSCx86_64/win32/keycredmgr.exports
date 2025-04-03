@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="keycredmgr.dll" PATH="/DLLArchive/windows10LTSCX86_64/KeyCredMgr.dll" DATE="Wed Oct 06 15:52:34 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="KeyCredentialManagerFreeInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KeyCredentialManagerGetInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KeyCredentialManagerGetOperationErrorStates" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="KeyCredentialManagerShowUIOperation" PURGE="8" COMMENT="" />
+</LIBRARY>
+

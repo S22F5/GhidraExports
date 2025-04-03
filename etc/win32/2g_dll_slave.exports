@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="2g_dll_slave.dll" PATH="/DLLArchive/etc/2G_Dll_Slave.dll" DATE="Fri Jul 03 12:10:20 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="DLL_CreateDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DLL_DeleteDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DLL_ShowDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DLL_HideDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DLL_SettingModel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DLL_SetDownloadType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DLL_SetApplicationPath_Only" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DLL_DownloadStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DLL_AddUsbID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DLL_DeleteUsbID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DLL_GetUsbStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DLL_GetUsbID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DLL_SetUsbInstanceID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DLL_ScanUsbInstanceID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DLL_GetUsbInstanceID" PURGE="0" COMMENT="" />
+</LIBRARY>
+

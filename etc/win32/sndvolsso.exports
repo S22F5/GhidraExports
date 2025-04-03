@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sndvolsso.dll" PATH="/DLLArchive/etc/SndVolSSO.dll" DATE="Fri Jul 03 13:17:13 PDT 2020" VERSION="6.1.7601.17514 (win7sp1_rtm.101119-1850)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

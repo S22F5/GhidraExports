@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ygppicrip.dll" PATH="/DLLArchive/etc/ygppicrip.dll" DATE="Fri Jul 03 22:43:08 CEST 2020" VERSION="8.0.3.0">
+    <EXPORT ORDINAL="1" NAME="ClearEditHistory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrawThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EditEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EditRotate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EditStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ExportImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ImageHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ImageWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LoadThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Property" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RotateThumbnail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Terminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WasImageEdited" PURGE="0" COMMENT="" />
+</LIBRARY>
+

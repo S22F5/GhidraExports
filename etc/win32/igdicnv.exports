@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="igdicnv.dll" PATH="/DLLArchive/etc/iGdiCnv.dll" DATE="Fri Jul 03 21:40:41 CEST 2020" VERSION="9.01.429">
+    <EXPORT ORDINAL="1" NAME="BmpLoadFromFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Is256ColorsSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreatePaletteFromFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BmpDrawBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BmpCreateBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ProcessBmpFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetSkinManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LoadSkinArchive" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitializeSkin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ReleaseSkinManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetGifGuy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GifLoadFromFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ReleaseGifGuy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetWindowImage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ReleaseWindowImage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LoadWindowImageBitmap" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="InitializeSkin2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ExtractArchive" PURGE="12" COMMENT="" />
+</LIBRARY>
+

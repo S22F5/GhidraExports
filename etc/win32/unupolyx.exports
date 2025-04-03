@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unupolyx.dll" PATH="/DLLArchive/etc/UnUPolyX.dll" DATE="Sat Apr 29 18:06:06 CEST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

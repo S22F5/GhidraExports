@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pla.dll" PATH="/DLLArchive/windows10LTSCX86_64/pla.dll" DATE="Sat Dec 07 01:10:05 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PlaDeleteReport" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PlaExpandTaskArguments" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PlaExtractCabinet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PlaGetLegacyAlertActionsFlagsFromString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PlaGetLegacyAlertActionsStringFromFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PlaGetServerCapabilities" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PlaHost" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PlaServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PlaUpgrade" PURGE="16" COMMENT="" />
+</LIBRARY>
+

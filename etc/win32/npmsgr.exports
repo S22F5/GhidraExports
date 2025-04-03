@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="npmsgr.dll" PATH="/DLLArchive/etc/NpMsgr.dll" DATE="Tue May 30 10:43:50 PDT 2006" VERSION="1, 0, 0, 11">
+    <EXPORT ORDINAL="1" NAME="CreateNpMsgr" PURGE="4" COMMENT="" />
+</LIBRARY>
+

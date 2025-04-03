@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lffax13n.dll" PATH="/DLLArchive/etc/lffax13n.dll" DATE="Fri Jul 03 21:46:14 CEST 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="fltInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fltLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fltSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="fltLoadBuffer" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="fltSaveBuffer" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="L_LoadRawFax" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="L_SaveRawFax" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="L_LoadTiledFax" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="L_SaveTiledFax" PURGE="52" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fvecerts.dll" PATH="/DLLArchive/windows10LTSCX86_64/fvecerts.dll" DATE="Sat Dec 07 01:51:52 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FveCertCanCertificateBeAdded" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FveCertCreateCertInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FveCertCreateSelfSignedCertificate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FveCertFilterForValidCertificates" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FveCertFindValidCertificates" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FveCertFreeCertInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FveCertGetCertContextFromCert" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FveCertGetCertContextFromPfx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FveCertGetCertHashFromCertContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FveCertGetPrivateKeyHandle" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FveCertGetPublicKeyHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FveCertIsAlternateCert" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FveCertIsValidCertInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FveCertSignData" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FveCertWritePfxFromCertContext" PURGE="24" COMMENT="" />
+</LIBRARY>
+

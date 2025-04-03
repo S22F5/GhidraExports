@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appdata.dll" PATH="/DLLArchive/etc/appdata.dll" DATE="Fri Jul 03 12:18:49 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="GetCommonAppDataPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCommonAppDataPathA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCommonAppDataPathW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetCommonAppDataRootPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetCommonAppDataRootPathA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetCommonAppDataRootPathW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetProgramFilesCommonPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetProgramFilesCommonPathA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetProgramFilesCommonPathW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

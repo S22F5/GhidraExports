@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgs1gen.dll" PATH="/DLLArchive/etc/jgs1gen.dll" DATE="Fri Jul 03 12:44:33 PDT 2020" VERSION="034">
+    <EXPORT ORDINAL="1" NAME="JgaDBlockQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgaDDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgaDecodeBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgaDecodeCreate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

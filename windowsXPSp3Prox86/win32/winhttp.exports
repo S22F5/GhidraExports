@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winhttp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/winhttp.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WinHttpAddRequestHeaders" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WinHttpCheckPlatform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WinHttpCloseHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WinHttpConnect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WinHttpCrackUrl" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WinHttpCreateUrl" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WinHttpDetectAutoProxyConfigUrl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WinHttpGetDefaultProxyConfiguration" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WinHttpGetIEProxyConfigForCurrentUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WinHttpGetProxyForUrl" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WinHttpOpen" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WinHttpOpenRequest" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WinHttpQueryAuthSchemes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WinHttpQueryDataAvailable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WinHttpQueryHeaders" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WinHttpQueryOption" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WinHttpReadData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WinHttpReceiveResponse" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WinHttpSendRequest" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WinHttpSetCredentials" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WinHttpSetDefaultProxyConfiguration" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WinHttpSetOption" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WinHttpSetStatusCallback" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WinHttpSetTimeouts" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WinHttpTimeFromSystemTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WinHttpTimeToSystemTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WinHttpWriteData" PURGE="16" COMMENT="" />
+</LIBRARY>
+

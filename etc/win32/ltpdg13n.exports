@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltpdg13n.dll" PATH="/DLLArchive/etc/ltpdg13n.dll" DATE="Fri Jul 03 12:48:15 PDT 2020" VERSION="12.1.0.000">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="500" NAME="L_PntDlgBrush" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="501" NAME="L_PntDlgShape" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="502" NAME="L_PntDlgRegion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="503" NAME="L_PntDlgFill" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="504" NAME="L_PntDlgText" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="uring.dll" PATH="/DLLArchive/etc/Uring.dll" DATE="Mon Apr 21 20:24:14 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DWord2Str" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HookInt" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MovIntSys" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PageAllocate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PageFree" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ring0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ring0Ret" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetBPM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetBPX" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Str2DWord" PURGE="4" COMMENT="" />
+</LIBRARY>
+

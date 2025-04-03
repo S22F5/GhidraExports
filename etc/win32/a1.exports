@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="a1.dll" PATH="/DLLArchive/etc/a1.dll" DATE="Fri Jul 03 12:14:22 PDT 2020" VERSION="1.0.1">
+    <EXPORT ORDINAL="1" NAME="main" PURGE="0" COMMENT="" />
+</LIBRARY>
+

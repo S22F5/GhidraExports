@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odsole70.dll" PATH="/DLLArchive/etc/ODSOLE70.DLL" DATE="Fri Jul 03 13:04:45 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="DllMain@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__GetXpVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="sp_OACreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="sp_OADestroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="sp_OAGetErrorInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="sp_OAGetProperty" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="sp_OAMethod" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="sp_OASetProperty" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="sp_OAStop" PURGE="4" COMMENT="" />
+</LIBRARY>
+

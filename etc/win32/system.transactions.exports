@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="system.transactions.dll" PATH="/DLLArchive/etc/System.Transactions.dll" DATE="Mon Mar 30 14:53:56 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="_GetNotificationFactory@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

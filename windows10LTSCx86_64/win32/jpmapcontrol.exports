@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpmapcontrol.dll" PATH="/DLLArchive/windows10LTSCX86_64/JpMapControl.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JpIs3DSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JpIsUnifiedMapsStack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JpMapControlSettings_Create" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JpMapControl_Create" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JpMapFactory_Create" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JpMapModel3DFrom3MFStreamOperation_Create" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JpMapOverlayModel_Create" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JpMapStyleSheetFactory_Create" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JpOverviewMapControl_Create" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JpRestrictedApiAccessCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JpStreetsideExperience_Create" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JpStreetsidePanoramaOperation_Create" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MapSettings_GetMosBingMapsKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MapSettings_ResetMosKeys" PURGE="0" COMMENT="" />
+</LIBRARY>
+

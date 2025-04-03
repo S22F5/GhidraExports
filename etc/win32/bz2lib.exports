@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bz2lib.dll" PATH="/DLLArchive/etc/bz2lib.dll" DATE="Fri Jul 03 12:25:51 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BZ2Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BZ2GetLevel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BZ2GetLevelStream" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BZ2GetRunning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BZ2GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BZ2Open" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BZ2Read" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BZ2Write" PURGE="12" COMMENT="" />
+</LIBRARY>
+

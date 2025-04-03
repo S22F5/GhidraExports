@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sdprotector.dll" PATH="/DLLArchive/etc/sdprotector.dll" DATE="Wed Oct 06 14:10:26 CEST 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="SDP_IsRegistered" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SDP_GetRegistrationName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SDP_GetKeyExpirationDate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SDP_GetExpirationDate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SDP_GetNumOfDaysLeft" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SDP_GetNumOfExecutionsLeft" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SDP_DetectDebugger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SDP_RetrieveHardwareID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SDP_RunApplicationFunction" PURGE="0" COMMENT="" />
+</LIBRARY>
+

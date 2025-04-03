@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_search-0.7.dll" PATH="/DLLArchive/etc/rz_search-0.7.dll" DATE="Mon Mar 04 10:49:06 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_search_aes_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_search_begin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_search_deltakey_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_search_find" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_search_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_search_hit_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_search_keyword_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_search_keyword_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_search_keyword_new_hex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_search_keyword_new_hexmask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_search_keyword_new_regexp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_search_keyword_new_str" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_search_keyword_new_wide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_search_kw_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_search_kw_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_search_magic_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_search_mybinparse_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_search_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_search_pattern" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_search_pattern_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_search_privkey_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_search_regexp_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_search_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_search_set_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_search_set_distance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_search_set_mode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_search_set_string_limits" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rz_search_string_prepare_backward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="rz_search_strings_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="rz_search_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="rz_search_update_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="rz_search_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

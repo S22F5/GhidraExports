@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.ui.core.textinput.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.UI.Core.TextInput.dll" DATE="Wed Oct 06 15:52:26 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1500" NAME="Ordinal_1500" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="1501" NAME="Ordinal_1501" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="1502" NAME="Ordinal_1502" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="1503" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1504" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="1505" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

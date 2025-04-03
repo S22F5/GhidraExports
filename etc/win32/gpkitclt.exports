@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpkitclt.dll" PATH="/DLLArchive/etc/GPKitClt.dll" DATE="Fri Jul 03 12:36:07 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

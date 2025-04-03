@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xenroll.dll" PATH="/DLLArchive/windowsXPSp3Prox86/xenroll.dll" DATE="Sat Dec 30 22:11:38 PST 2006" VERSION="5.131.3686.0 (dnsrv.020925-1223)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PIEnroll2GetNoCOM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PIEnroll4GetNoCOM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PIEnrollGetNoCOM" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmiclnt.dll" PATH="/DLLArchive/windows10LTSCX86_64/wmiclnt.dll" DATE="Wed Oct 06 06:52:17 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WmiCloseBlock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WmiDevInstToInstanceNameA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WmiDevInstToInstanceNameW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WmiEnumerateGuids" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WmiExecuteMethodA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WmiExecuteMethodW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WmiFileHandleToInstanceNameA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WmiFileHandleToInstanceNameW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WmiFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WmiMofEnumerateResourcesA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WmiMofEnumerateResourcesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WmiNotificationRegistrationA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WmiNotificationRegistrationW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WmiOpenBlock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WmiQueryAllDataA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WmiQueryAllDataMultipleA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WmiQueryAllDataMultipleW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WmiQueryAllDataW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WmiQueryGuidInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WmiQuerySingleInstanceA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WmiQuerySingleInstanceMultipleA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WmiQuerySingleInstanceMultipleW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WmiQuerySingleInstanceW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WmiReceiveNotificationsA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WmiReceiveNotificationsW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WmiSetSingleInstanceA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WmiSetSingleInstanceW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WmiSetSingleItemA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WmiSetSingleItemW" PURGE="24" COMMENT="" />
+</LIBRARY>
+

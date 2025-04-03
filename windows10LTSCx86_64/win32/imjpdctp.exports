@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imjpdctp.dll" PATH="/DLLArchive/windows10LTSCX86_64/IMJPDCTP.dll" DATE="Sat Dec 07 01:10:45 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="OpenDicTool" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenRegisterWord" PURGE="28" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rm.dll" PATH="/DLLArchive/etc/RM.DLL" DATE="Fri Jul 03 13:12:12 PDT 2020" VERSION="9.0.2519">
+    <EXPORT ORDINAL="1" NAME="CnvInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CnvTerminate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FCnvExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FCnvImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FCnvSelect" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FCnvSilentImport" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="RMGetRegPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="RMGetSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="RMGetuser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="RMGetSite" PURGE="0" COMMENT="" />
+</LIBRARY>
+

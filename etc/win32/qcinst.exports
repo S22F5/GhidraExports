@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qcinst.dll" PATH="/DLLArchive/etc/qcinst.dll" DATE="Fri Jul 03 13:08:58 PDT 2020" VERSION="8.00.00.9373">
+    <EXPORT ORDINAL="1" NAME="IsFolderWriteable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsNT4TerminalServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UninstInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UninstUnInitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

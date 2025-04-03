@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lpk.dll" PATH="/DLLArchive/etc/lpk.dll" DATE="Fri Dec 25 13:32:42 PST 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LpkInitialize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LpkTabbedTextOut" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LpkDllInitialize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LpkDrawTextEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LpkEditControl" PURGE="170" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LpkExtTextOut" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LpkGetCharacterPlacement" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LpkGetTextExtentExPoint" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LpkPSMTextOut" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LpkUseGDIWidthCache" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ftsWordBreak" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

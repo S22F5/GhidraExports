@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msado15.dll" PATH="/DLLArchive/etc/msado15.dll" DATE="Fri Jul 03 12:54:04 PDT 2020" VERSION="2.81.1117.0 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RNIGetCompatibleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="com_ms_wfc_data_Field_getBoolean" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="com_ms_wfc_data_Field_getByte" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="com_ms_wfc_data_Field_getBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="com_ms_wfc_data_Field_getDataTimestamp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="com_ms_wfc_data_Field_getDouble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="com_ms_wfc_data_Field_getFloat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="com_ms_wfc_data_Field_getInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="com_ms_wfc_data_Field_getLong" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="com_ms_wfc_data_Field_getShort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="com_ms_wfc_data_Field_getString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="com_ms_wfc_data_Field_isNull" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="com_ms_wfc_data_Field_loadMsjava" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="com_ms_wfc_data_Field_setDataDate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

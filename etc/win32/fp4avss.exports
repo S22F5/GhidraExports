@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fp4avss.dll" PATH="/DLLArchive/etc/fp4avss.dll" DATE="Fri Jul 03 12:34:40 PDT 2020" VERSION="4.0.2.7523">
+    <EXPORT ORDINAL="1" NAME="?VvssVersion@@YIPADXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SourceControl_New" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

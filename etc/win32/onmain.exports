@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="onmain.dll" PATH="/DLLArchive/etc/ONMAIN.DLL" DATE="Fri Jul 03 22:05:19 CEST 2020" VERSION="11.0.5601">
+    <EXPORT ORDINAL="1" NAME="?CreateAudioCodecQuery@Jot@@YGXPAPAUIAudioCodecQuery@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CreateInstance@Jot@@YGXIABU_GUID@@PAPAX_N@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?CreateMainApp@Jot@@YGPAUAMainApp@1@PAUIActionMan@1@PAUIKeyMapMan@1@PAUAMainAppUser@1@AAV?$TOwnerPtrList@U_msostartupaction@@@Ofc@@_N@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?EnumerateCaptureDevices@AudioCaptureDeviceQuery@Jot@@YGXAAV?$TObjArray@UAudioCaptureDevice@AudioCaptureDeviceQuery@Jot@@@Ofc@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?EnumerateCapturePins@AudioCaptureDeviceQuery@Jot@@YGXPBGAAV?$TObjArray@UAudioCaptureDevicePin@AudioCaptureDeviceQuery@Jot@@@Ofc@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?FAutoKeyboardDefault@KeyboardUtil@Jot@@YG_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?FCreateInstance@Jot@@YG_NIABU_GUID@@PAPAX_N@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?FScrollBarsOnLeftDefault@CJotSurfaceWnd@Jot@@SG_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetUuDefault@UserUnitsUtil@Jot@@YG?AW4UserUnits@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?IsPostGermanReform@SpellingLangOptions@Jot@@YG_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?SelectCaptureDevice@AudioCaptureDeviceQuery@Jot@@YGXPBG0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?SetAutoKeyboard@KeyboardUtil@Jot@@YGX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?SetScrollBarOnLeftCurrent@CJotSurfaceWnd@Jot@@SGX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?TheFontCache@Jot@@YGPAUAFontCache@1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?WndProc@CJotSurfaceWnd@Jot@@UAGJIIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?WndProc@CScrollCorner@Jot@@UAGJIIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

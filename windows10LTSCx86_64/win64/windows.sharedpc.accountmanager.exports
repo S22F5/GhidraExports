@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.sharedpc.accountmanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.SharedPC.AccountManager.dll" DATE="Wed Oct 06 06:51:51 PDT 2021" VERSION="10.0.19041.789 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StartMaintenance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+</LIBRARY>
+

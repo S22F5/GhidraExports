@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasdlg.dll" PATH="/DLLArchive/etc/rasdlg.dll" DATE="Fri Jul 03 13:10:42 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DwTerminalDlg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetRasDialOutProtocols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RasAutodialDisableDlgA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RasAutodialDisableDlgW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RasAutodialQueryDlgA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RasAutodialQueryDlgW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RasDialDlgA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RasDialDlgW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RasEntryDlgA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RasEntryDlgW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RasMonitorDlgA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RasMonitorDlgW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RasPhonebookDlgA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RasPhonebookDlgW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RasSrvAddPropPages" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RasSrvAddWizPages" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RasSrvAllowConnectionsConfig" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RasSrvCleanupService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RasSrvEnumConnections" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RasSrvHangupConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RasSrvInitializeService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RasSrvIsConnectionConnected" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RasSrvIsServiceRunning" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RasSrvQueryShowIcon" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RasUserEnableManualDial" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RasUserGetManualDial" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RasUserPrefsDlg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RasWizCreateNewEntry" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="RasWizGetNCCFlags" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RasWizGetSuggestedEntryName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RasWizGetUserInputConnectionName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RasWizIsEntryRenamable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RasWizQueryMaxPageCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RasWizSetEntryName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RouterEntryDlgA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RouterEntryDlgW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

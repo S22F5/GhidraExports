@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mros432.dll" PATH="/DLLArchive/etc/Mros432.dll" DATE="Fri Jul 03 12:53:50 PDT 2020" VERSION="1.005">
+    <EXPORT ORDINAL="1" NAME="CloseIn16" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseOut16" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConfigThru16" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetOutStruct16" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetPriorityBuffer16" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetTime16" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OpenIn16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OpenOut16" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SendEvent16" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SendSysex16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

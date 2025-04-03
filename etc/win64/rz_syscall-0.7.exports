@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_syscall-0.7.dll" PATH="/DLLArchive/etc/rz_syscall-0.7.dll" DATE="Mon Mar 04 10:49:04 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_syscall_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_syscall_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_syscall_get_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_syscall_get_num" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_syscall_get_swi" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_syscall_item_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_syscall_item_new_from_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_syscall_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_syscall_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_syscall_ref" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_syscall_setup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_syscall_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_sysreg_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_sysreg_item_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_sysreg_item_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_sysreg_load_sdb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_sysreg_set_arch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_sysregs_db_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_sysregs_db_new" PURGE="0" COMMENT="" />
+</LIBRARY>
+

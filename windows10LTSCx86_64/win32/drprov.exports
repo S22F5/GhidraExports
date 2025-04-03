@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="drprov.dll" PATH="/DLLArchive/windows10LTSCX86_64/drprov.dll" DATE="Wed Oct 06 06:53:05 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NPAddConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NPAddConnection3" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NPCancelConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NPCloseEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NPEnumResource" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NPGetCaps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NPGetConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NPGetResourceInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NPGetResourceParent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NPGetUniversalName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NPOpenEnum" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="NPGetConnectionPerformance" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="proximityservicepal.dll" PATH="/DLLArchive/windows10LTSCX86_64/ProximityServicePal.dll" DATE="Sat Dec 07 01:08:21 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PAL_AllowNetworkInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PAL_BluetoothEnableDiscovery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PAL_BluetoothFindDeviceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PAL_BluetoothFindFirstDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PAL_BluetoothFindFirstRadio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PAL_BluetoothFindRadioClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PAL_BluetoothOpenFirewall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PAL_ConvertAppIdToPackageName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PAL_CreateForegroundNotifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PAL_CreateUnicastIpAddressEntry" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PAL_DeleteUnicastIpAddressEntry" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PAL_FWIndicateTupleInUse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PAL_FWResetIndicatedTupleInUse" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PAL_GetCallingApplicationInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PAL_GetConsoleSessionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PAL_HasWFDHardwareSupport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PAL_IsInteractiveApplicationId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PAL_IsMachineDomainJoined" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PAL_OpenProcessForQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PAL_RegisterConnectedStandbyNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PAL_RegisterConsoleDisplayStateNotifications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PAL_ServiceFreeTransientObjectSecurityAttribute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PAL_ServiceQueryTransientObjectSecurityAttribute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PAL_UnregisterConnectedStandbyNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PAL_UnregisterConsoleDisplayStateNotifications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="PAL_VerifyCallerIsElevated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PAL_CoCreateInstanceInSession" PURGE="0" COMMENT="" />
+</LIBRARY>
+

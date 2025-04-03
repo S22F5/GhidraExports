@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fusion.dll" PATH="/DLLArchive/windows10LTSCX86_64/fusion.dll" DATE="Sat Dec 07 01:10:34 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="CopyPDBs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClearDownloadCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateApplicationContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateAssemblyCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateAssemblyEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateAssemblyNameObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateHistoryReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateInstallReferenceEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCachePath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetHistoryFileDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InitializeFusion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InstallCustomModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LookupHistoryAssembly" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NukeDownloadedCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PreBindAssembly" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PreBindAssemblyEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetMSIHandleForLogging" PURGE="0" COMMENT="" />
+</LIBRARY>
+

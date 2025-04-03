@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="u32cfg.dll" PATH="/DLLArchive/etc/u32cfg.dll" DATE="Fri Jul 03 13:24:03 PDT 2020" VERSION="3.0.0.0">
+    <EXPORT ORDINAL="1" NAME="DestoryAboutDlgInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DestoryAboutDlgInfoEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetModuleInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitAboutDlgInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitAboutDlgInfoEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="QureyTimeLimit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ulcAboutPals" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ulcAppendPalsMenu" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ulcCheckLegality" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ulcDispLogo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ulcDispReg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ulcDispRegEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ulcErrMessage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ulcGenerate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ulcGetCommonWorkingFolder" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ulcGetHint" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ulcGetInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ulcGetModuleSubKeyName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ulcGetPalsInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ulcGetPalsNumber" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ulcGetProductName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ulcGetVERSIONINFO" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ulcIslegal" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ulcPalsExec" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ulcProductKeyName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ulcProductVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ulcSetCommonWorkingFolder" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ulcWinHelp" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

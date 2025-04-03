@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zenccs.dll" PATH="/DLLArchive/etc/zenccs.dll" DATE="Fri Jul 03 21:12:33 CEST 2020" VERSION="v4.0.1 (20030324)">
+    <EXPORT ORDINAL="1" NAME="ZENDecryptBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZENEncryptBuffer" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rscnrn22.dll" PATH="/DLLArchive/etc/RSCNRN22.DLL" DATE="Mon Feb 02 19:51:14 CET 1998" VERSION="2.25.298">
+    <EXPORT ORDINAL="2" NAME="ExpRuntimeRoutines" PURGE="4" COMMENT="" />
+</LIBRARY>
+

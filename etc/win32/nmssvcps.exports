@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmssvcps.dll" PATH="/DLLArchive/etc/NMSSvcPS.DLL" DATE="Fri Jul 03 22:01:49 CEST 2020" VERSION="2.1.8.0">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CONMS_HANDLE_UserSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CONMS_HANDLE_UserMarshal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CONMS_HANDLE_UserUnmarshal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CONMS_HANDLE_UserFree" PURGE="8" COMMENT="" />
+</LIBRARY>
+

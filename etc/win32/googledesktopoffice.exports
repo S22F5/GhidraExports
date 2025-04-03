@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="googledesktopoffice.dll" PATH="/DLLArchive/etc/GoogleDesktopOffice.dll" DATE="Fri Jul 03 12:36:04 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="5" NAME="ExchEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

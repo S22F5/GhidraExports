@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="onramp.dll" PATH="/DLLArchive/windows10LTSCX86_64/onramp.dll" DATE="Wed Aug 04 23:44:12 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="?GetEdgeAppId@@YA?AU_GUID@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetNetworkPrimaryBrowserForGivenDays@@YA_NHPEAV?$vector@UBrowserDataUsageInfo@@V?$allocator@UBrowserDataUsageInfo@@@__1@std@@@__1@std@@PEAW4BrowserNameEnumeration@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetPrimaryBrowser@@YA_NPEAW4BrowserNameEnumeration@@0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetPrimaryBrowserForGivenDays@@YA_NHPEAW4BrowserNameEnumeration@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?IsChromePrimaryBrowser@@YA_NAEBW4BrowserNameEnumeration@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?IsEdgePrimaryBrowser@@YA_NAEBW4BrowserNameEnumeration@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ConstructPasswordImporter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DestructPasswordImporter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FetchSearchEngineData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetEdgeAppId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetNetworkPrimaryBrowserForGivenDays" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetPrimaryBrowser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetPrimaryBrowserForGivenDays" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetSearchEngineDataType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetSearchEngineRawData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsBingDefaultSearchEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IsChromePrimaryBrowser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IsEdgePrimaryBrowser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IsSearchEngineImportAllowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UnobfuscateData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

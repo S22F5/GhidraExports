@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="uwfcsp.dll" PATH="/DLLArchive/windows10LTSCX86_64/uwfcsp.dll" DATE="Wed Oct 06 06:53:11 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

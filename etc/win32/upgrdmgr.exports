@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="upgrdmgr.dll" PATH="/DLLArchive/etc/Upgrdmgr.dll" DATE="Fri Jul 03 13:25:08 PDT 2020" VERSION="2.6.2.0">
+    <EXPORT ORDINAL="1" NAME="GetUpgrdmgr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReleaseUpgrdmgr" PURGE="0" COMMENT="" />
+</LIBRARY>
+

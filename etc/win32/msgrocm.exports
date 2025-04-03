@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msgrocm.dll" PATH="/DLLArchive/etc/msgrocm.dll" DATE="Fri Jul 03 12:55:56 PDT 2020" VERSION="4.7.3000 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="OcEntry" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hostpolicy.dll" PATH="/DLLArchive/etc/hostpolicy.dll" DATE="Wed Oct 25 00:00:56 CEST 2023" VERSION="6,0,2123,36311 @Commit: e40b3abf1b41621d4298642a5fd300ebf7cccf6d">
+    <EXPORT ORDINAL="1" NAME="corehost_initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="corehost_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="corehost_main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="corehost_main_with_output_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="corehost_resolve_component_dependencies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="corehost_set_error_writer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="corehost_unload" PURGE="0" COMMENT="" />
+</LIBRARY>
+

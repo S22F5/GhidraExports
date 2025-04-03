@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="7-zipfar.dll" PATH="/DLLArchive/etc/7-zipfar.dll" DATE="Fri Jul 03 12:12:12 PDT 2020" VERSION="2, 24, 1, 0">
+    <EXPORT ORDINAL="1" NAME="ClosePlugin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Configure" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeleteFiles" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeFindData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetFiles" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetFindData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetOpenPluginInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPluginInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OpenFilePlugin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OpenPlugin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ProcessKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PutFiles" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetDirectory" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetStartupInfo" PURGE="4" COMMENT="" />
+</LIBRARY>
+

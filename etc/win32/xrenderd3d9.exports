@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xrenderd3d9.dll" PATH="/DLLArchive/etc/XRenderD3D9.dll" DATE="Fri Jul 03 13:42:05 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CryModuleGetMemoryInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PackageRenderConstructor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

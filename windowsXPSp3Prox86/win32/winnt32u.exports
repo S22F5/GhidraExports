@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winnt32u.dll" PATH="/DLLArchive/windowsXPSp3Prox86/WINNT32U.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="CertificateServerUpgradeCompatibilityCheck" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProcessorUpgradeCompatibilityCheck" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SystemKernelCheck" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UnsupportedArchitectureCheck" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="winnt32" PURGE="16" COMMENT="" />
+</LIBRARY>
+

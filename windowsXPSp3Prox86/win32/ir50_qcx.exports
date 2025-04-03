@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ir50_qcx.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ir50_qcx.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="R.5.10.64.2.48">
+    <EXPORT ORDINAL="1" NAME="AllocInstanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Compress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CompressBegin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CompressEnd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CompressFramesInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CompressQuery" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeInstanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetCPUID" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetScalability" PURGE="12" COMMENT="" />
+</LIBRARY>
+

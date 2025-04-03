@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="shhook.dll" PATH="/DLLArchive/etc/ShHook.dll" DATE="Fri Jul 03 13:16:14 PDT 2020" VERSION="1.0.3.0">
+    <EXPORT ORDINAL="1" NAME="StartHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StopHook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

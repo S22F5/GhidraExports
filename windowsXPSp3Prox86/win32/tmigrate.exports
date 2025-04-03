@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tmigrate.dll" PATH="/DLLArchive/windowsXPSp3Prox86/tmigrate.dll" DATE="Sun Apr 13 20:41:00 PDT 2008" VERSION="5.2.3209">
+    <EXPORT ORDINAL="1" NAME="GetUserDicData" PURGE="20" COMMENT="" />
+</LIBRARY>
+

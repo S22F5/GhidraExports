@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iasrad.dll" PATH="/DLLArchive/windows10LTSCX86_64/iasrad.dll" DATE="Wed Oct 06 06:53:00 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="?initialize@VSAFilter@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?radiusFromIAS@VSAFilter@@QBEJPAUIAttributesRaw@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?radiusToIAS@VSAFilter@@QBEJPAEKAAVIASAttributeVector@IASTL@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?radiusToIAS@VSAFilter@@QBEJPAUIAttributesRaw@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?shutdown@VSAFilter@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

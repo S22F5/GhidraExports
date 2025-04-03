@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpedit.dll" PATH="/DLLArchive/etc/gpedit.dll" DATE="Fri Jul 03 12:36:06 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="Ordinal_104" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="BrowseForGPO" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="CreateGPOLink" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="DeleteAllGPOLinks" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="DeleteGPOLink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="ExportRSoPData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="ImportRSoPData" PURGE="8" COMMENT="" />
+</LIBRARY>
+

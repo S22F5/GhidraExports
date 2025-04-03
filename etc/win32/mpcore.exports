@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpcore.dll" PATH="/DLLArchive/etc/MPCore.dll" DATE="Fri Jul 03 12:52:49 PDT 2020" VERSION="2, 1, 1, 7">
+    <EXPORT ORDINAL="1" NAME="fnLaunch" PURGE="0" COMMENT="" />
+</LIBRARY>
+

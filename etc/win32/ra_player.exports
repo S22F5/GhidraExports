@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ra_player.dll" PATH="/DLLArchive/etc/Ra_player.dll" DATE="Fri May 15 07:25:58 PDT 2009" VERSION="3.37">
+    <EXPORT ORDINAL="1" NAME="Play_RealAudio_File" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseRealAudioPlayer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

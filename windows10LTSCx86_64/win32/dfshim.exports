@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dfshim.dll" PATH="/DLLArchive/windows10LTSCX86_64/dfshim.dll" DATE="Sat Dec 07 01:10:05 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateActContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateCMSFromXml" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCurrentActContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetUserStateManager" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetUserStore" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="KillService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LaunchApplication" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ParseManifest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShArpMaintain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShArpMaintainW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ShOpenVerbApplication" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShOpenVerbApplicationW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ShOpenVerbExtension" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ShOpenVerbExtensionW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ShOpenVerbShortcut" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ShOpenVerbShortcutW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CleanOnlineAppCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetDeploymentDataFromManifest" PURGE="40" COMMENT="" />
+</LIBRARY>
+

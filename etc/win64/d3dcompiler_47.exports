@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dcompiler_47.dll" PATH="/DLLArchive/etc/d3dcompiler_47.dll" DATE="Thu Feb 13 19:00:04 CET 2020" VERSION="10.0.18362.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="D3DAssemble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DebugSetMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3DCompile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3DCompile2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3DCompileFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3DCompressShaders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3DCreateBlob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D3DCreateFunctionLinkingGraph" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="D3DCreateLinker" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="D3DDecompressShaders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="D3DDisassemble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="D3DDisassemble10Effect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="D3DDisassemble11Trace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="D3DDisassembleRegion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="D3DGetBlobPart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="D3DGetDebugInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="D3DGetInputAndOutputSignatureBlob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="D3DGetInputSignatureBlob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="D3DGetOutputSignatureBlob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="D3DGetTraceInstructionOffsets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="D3DLoadModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="D3DPreprocess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="D3DReadFileToBlob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="D3DReflect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="D3DReflectLibrary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="D3DReturnFailure1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="D3DSetBlobPart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="D3DStripShader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="D3DWriteBlobToFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

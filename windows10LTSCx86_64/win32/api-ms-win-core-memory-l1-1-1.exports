@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-memory-l1-1-1.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-memory-l1-1-1.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateFileMappingFromApp" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.CreateFileMappingFromApp" />
+    <EXPORT ORDINAL="2" NAME="CreateFileMappingNumaW" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.CreateFileMappingNumaW" />
+    <EXPORT ORDINAL="3" NAME="CreateMemoryResourceNotification" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.CreateMemoryResourceNotification" />
+    <EXPORT ORDINAL="4" NAME="GetLargePageMinimum" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.GetLargePageMinimum" />
+    <EXPORT ORDINAL="5" NAME="GetProcessWorkingSetSizeEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.GetProcessWorkingSetSizeEx" />
+    <EXPORT ORDINAL="6" NAME="GetSystemFileCacheSize" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.GetSystemFileCacheSize" />
+    <EXPORT ORDINAL="7" NAME="GetWriteWatch" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.GetWriteWatch" />
+    <EXPORT ORDINAL="8" NAME="MapViewOfFileFromApp" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.MapViewOfFileFromApp" />
+    <EXPORT ORDINAL="9" NAME="PrefetchVirtualMemory" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.PrefetchVirtualMemory" />
+    <EXPORT ORDINAL="10" NAME="QueryMemoryResourceNotification" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.QueryMemoryResourceNotification" />
+    <EXPORT ORDINAL="11" NAME="ResetWriteWatch" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.ResetWriteWatch" />
+    <EXPORT ORDINAL="12" NAME="SetProcessWorkingSetSizeEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.SetProcessWorkingSetSizeEx" />
+    <EXPORT ORDINAL="13" NAME="SetSystemFileCacheSize" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.SetSystemFileCacheSize" />
+    <EXPORT ORDINAL="14" NAME="UnmapViewOfFileEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.UnmapViewOfFileEx" />
+    <EXPORT ORDINAL="15" NAME="VirtualLock" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.VirtualLock" />
+    <EXPORT ORDINAL="16" NAME="VirtualUnlock" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.VirtualUnlock" />
+</LIBRARY>
+

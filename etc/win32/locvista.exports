@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="locvista.dll" PATH="/DLLArchive/etc/LocVista.dll" DATE="Fri Jul 03 21:47:43 CEST 2020" VERSION="1, 0, 4, 214">
+    <EXPORT ORDINAL="1" NAME="_MyLocDllHandle" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wshunix.dll" PATH="/DLLArchive/windows10LTSCX86_64/wshunix.dll" DATE="Sat Dec 07 01:09:30 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WSHAddressToString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSHEnumProtocols" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSHGetBroadcastSockaddr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSHGetProviderGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSHGetSockaddrType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSHGetSocketInformation" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSHGetWSAProtocolInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSHGetWildcardSockaddr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSHGetWinsockMapping" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WSHIoctl" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WSHJoinLeaf" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WSHNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WSHOpenSocket2" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WSHOpenSocket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WSHSetSocketInformation" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WSHStringToAddress" PURGE="20" COMMENT="" />
+</LIBRARY>
+

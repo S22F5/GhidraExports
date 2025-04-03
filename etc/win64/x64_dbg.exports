@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="x64_dbg.dll" PATH="/DLLArchive/etc/x64_dbg.dll" DATE="Sat Oct 23 17:24:54 CEST 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_dbg_addrinfoget" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_addrinfoget" />
+    <EXPORT ORDINAL="2" NAME="_dbg_addrinfoset" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_addrinfoset" />
+    <EXPORT ORDINAL="3" NAME="_dbg_bpgettypeat" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_bpgettypeat" />
+    <EXPORT ORDINAL="4" NAME="_dbg_dbgcmddirectexec" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_dbgcmddirectexec" />
+    <EXPORT ORDINAL="5" NAME="_dbg_dbgcmdexec" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_dbgcmdexec" />
+    <EXPORT ORDINAL="6" NAME="_dbg_dbgexitsignal" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_dbgexitsignal" />
+    <EXPORT ORDINAL="7" NAME="_dbg_dbginit" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_dbginit" />
+    <EXPORT ORDINAL="8" NAME="_dbg_functionoverlaps" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_functionoverlaps" />
+    <EXPORT ORDINAL="9" NAME="_dbg_getbplist" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_getbplist" />
+    <EXPORT ORDINAL="10" NAME="_dbg_getbranchdestination" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_getbranchdestination" />
+    <EXPORT ORDINAL="11" NAME="_dbg_getregdump" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_getregdump" />
+    <EXPORT ORDINAL="12" NAME="_dbg_isdebugging" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_isdebugging" />
+    <EXPORT ORDINAL="13" NAME="_dbg_isjumpgoingtoexecute" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_isjumpgoingtoexecute" />
+    <EXPORT ORDINAL="14" NAME="_dbg_memfindbaseaddr" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_memfindbaseaddr" />
+    <EXPORT ORDINAL="15" NAME="_dbg_memisvalidreadptr" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_memisvalidreadptr" />
+    <EXPORT ORDINAL="16" NAME="_dbg_memmap" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_memmap" />
+    <EXPORT ORDINAL="17" NAME="_dbg_memread" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_memread" />
+    <EXPORT ORDINAL="18" NAME="_dbg_memwrite" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_memwrite" />
+    <EXPORT ORDINAL="19" NAME="_dbg_sendmessage" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_sendmessage" />
+    <EXPORT ORDINAL="20" NAME="_dbg_valfromstring" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_valfromstring" />
+    <EXPORT ORDINAL="21" NAME="_dbg_valtostring" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_dbg_valtostring" />
+    <EXPORT ORDINAL="22" NAME="_plugin_debugpause" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_debugpause" />
+    <EXPORT ORDINAL="23" NAME="_plugin_debugskipexceptions" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_debugskipexceptions" />
+    <EXPORT ORDINAL="24" NAME="_plugin_logprintf" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_logprintf" />
+    <EXPORT ORDINAL="25" NAME="_plugin_logputs" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_logputs" />
+    <EXPORT ORDINAL="26" NAME="_plugin_menuadd" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_menuadd" />
+    <EXPORT ORDINAL="27" NAME="_plugin_menuaddentry" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_menuaddentry" />
+    <EXPORT ORDINAL="28" NAME="_plugin_menuaddseparator" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_menuaddseparator" />
+    <EXPORT ORDINAL="29" NAME="_plugin_menuclear" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_menuclear" />
+    <EXPORT ORDINAL="30" NAME="_plugin_registercallback" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_registercallback" />
+    <EXPORT ORDINAL="31" NAME="_plugin_registercommand" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_registercommand" />
+    <EXPORT ORDINAL="32" NAME="_plugin_unregistercallback" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_unregistercallback" />
+    <EXPORT ORDINAL="33" NAME="_plugin_unregistercommand" PURGE="0" COMMENT="" FOWARDLIBRARY="X64DBG.DLL" FOWARDSYMBOL="_plugin_unregistercommand" />
+</LIBRARY>
+

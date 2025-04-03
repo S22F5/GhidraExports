@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wtsapi32.dll" PATH="/DLLArchive/etc/wtsapi32.dll" DATE="Fri Jul 03 13:38:34 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="WTSCloseServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WTSDisconnectSession" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WTSEnumerateProcessesA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WTSEnumerateProcessesW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WTSEnumerateServersA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WTSEnumerateServersW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WTSEnumerateSessionsA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WTSEnumerateSessionsW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WTSFreeMemory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WTSLogoffSession" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WTSOpenServerA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WTSOpenServerW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WTSQuerySessionInformationA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WTSQuerySessionInformationW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WTSQueryUserConfigA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WTSQueryUserConfigW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WTSQueryUserToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WTSRegisterSessionNotification" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WTSSendMessageA" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WTSSendMessageW" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WTSSetSessionInformationA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WTSSetSessionInformationW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WTSSetUserConfigA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WTSSetUserConfigW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WTSShutdownSystem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WTSTerminateProcess" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WTSUnRegisterSessionNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WTSVirtualChannelClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WTSVirtualChannelOpen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WTSVirtualChannelPurgeInput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WTSVirtualChannelPurgeOutput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="WTSVirtualChannelQuery" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="WTSVirtualChannelRead" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="WTSVirtualChannelWrite" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="WTSWaitSystemEvent" PURGE="12" COMMENT="" />
+</LIBRARY>
+

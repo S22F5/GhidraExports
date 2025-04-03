@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="camexl20.dll" PATH="/DLLArchive/etc/CamExL20.dll" DATE="Fri Jul 03 12:25:58 PDT 2020" VERSION="8.2.0.1189">
+    <EXPORT ORDINAL="1" NAME="VFWWDMExtension" PURGE="12" COMMENT="" />
+</LIBRARY>
+

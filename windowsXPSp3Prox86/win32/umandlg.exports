@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="umandlg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/umandlg.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="UManDlg" PURGE="12" COMMENT="" />
+</LIBRARY>
+

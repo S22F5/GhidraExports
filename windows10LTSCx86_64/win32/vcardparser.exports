@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vcardparser.dll" PATH="/DLLArchive/windows10LTSCX86_64/VCardParser.dll" DATE="Wed Oct 06 06:52:27 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EncodeQP" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateCardParser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateCardParserEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateCardParserExA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateICalGen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateVCardGen" PURGE="4" COMMENT="" />
+</LIBRARY>
+

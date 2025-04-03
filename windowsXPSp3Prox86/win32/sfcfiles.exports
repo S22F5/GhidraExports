@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sfcfiles.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sfcfiles.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SfcGetFiles" PURGE="8" COMMENT="" />
+</LIBRARY>
+

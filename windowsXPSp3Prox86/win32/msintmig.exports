@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msintmig.dll" PATH="/DLLArchive/windowsXPSp3Prox86/MSINTMIG.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="2.0.2600.0">
+    <EXPORT ORDINAL="1" NAME="InitializeNT" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LogonNotify" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MigrateSystemNT" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MigrateUserNT" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="StartupNotify" PURGE="4" COMMENT="" />
+</LIBRARY>
+

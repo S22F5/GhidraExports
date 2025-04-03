@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iassvcs.dll" PATH="/DLLArchive/windows10LTSCX86_64/iassvcs.dll" DATE="Wed Oct 06 06:53:00 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IASAdler32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IASAllocateUniqueID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IASGetDictionary" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IASGetHostByName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IASGetLocalDictionary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IASGetProductLimits" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IASGlobalLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IASGlobalUnlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IASInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IASRadiusCrypt" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IASRegisterComponent" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IASReportEvent" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IASReportLicenseViolation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IASReportSecurityEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IASRequestThread" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IASSetMaxNumberOfThreads" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IASSetMaxThreadIdle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IASShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IASUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IASVariantChangeType" PURGE="16" COMMENT="" />
+</LIBRARY>
+

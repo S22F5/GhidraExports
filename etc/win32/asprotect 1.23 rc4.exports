@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asprotect 1.23 rc4.dll" PATH="/DLLArchive/etc/ASProtect 1.23 rc4.dll" DATE="Fri Nov 21 12:15:02 CET 2003" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

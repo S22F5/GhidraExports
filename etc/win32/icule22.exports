@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icule22.dll" PATH="/DLLArchive/etc/icule22.dll" DATE="Fri Jul 03 12:39:45 PDT 2020" VERSION="2, 2, 0, 0">
+    <EXPORT ORDINAL="1" NAME="??0ICULayoutEngine@icu_2_2@@AAE@PAVLayoutEngine@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0ICULayoutEngine@icu_2_2@@AAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0ICULayoutEngine@icu_2_2@@QAE@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0LayoutEngine@icu_2_2@@IAE@PBVLEFontInstance@1@JJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0LayoutEngine@icu_2_2@@QAE@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1ICULayoutEngine@icu_2_2@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1LayoutEngine@icu_2_2@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4ICULayoutEngine@icu_2_2@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4LayoutEngine@icu_2_2@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_7ICULayoutEngine@icu_2_2@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_7LayoutEngine@icu_2_2@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?adjustGlyphPositions@LayoutEngine@icu_2_2@@MAEXQBGJJCQAGJQAMAAW4LEErrorCode@2@@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?adjustMarkGlyphs@LayoutEngine@icu_2_2@@KAXQBGJCPAVLEGlyphFilter@2@QAMAAW4LEErrorCode@2@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?computeGlyphs@LayoutEngine@icu_2_2@@MAEJQBGJJJCAAPAGAAPAJAAW4LEErrorCode@2@@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?countGlyphs@ICULayoutEngine@icu_2_2@@QBEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?createInstance@ICULayoutEngine@icu_2_2@@SAPAV12@PBVLEFontInstance@2@W4UScriptCode@@AAVLocale@2@AAW4UErrorCode@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?fgClassID@ICULayoutEngine@icu_2_2@@0DB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?fgClassID@LayoutEngine@icu_2_2@@0DB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?getCharIndices@ICULayoutEngine@icu_2_2@@QAEXQAJAAW4UErrorCode@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?getCharIndices@ICULayoutEngine@icu_2_2@@QAEXQAJJAAW4UErrorCode@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?getCharIndices@LayoutEngine@icu_2_2@@QBEXQAJAAW4LEErrorCode@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?getCharIndices@LayoutEngine@icu_2_2@@QBEXQAJJAAW4LEErrorCode@2@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?getDynamicClassID@ICULayoutEngine@icu_2_2@@UBEPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?getDynamicClassID@LayoutEngine@icu_2_2@@UBEPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?getFontTable@LayoutEngine@icu_2_2@@MBEPBXK@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?getGlyphCount@LayoutEngine@icu_2_2@@QBEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?getGlyphPosition@ICULayoutEngine@icu_2_2@@QAEXJAAM0AAW4UErrorCode@@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?getGlyphPosition@LayoutEngine@icu_2_2@@QBEXJAAM0AAW4LEErrorCode@2@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?getGlyphPositions@ICULayoutEngine@icu_2_2@@QAEXQAMAAW4UErrorCode@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?getGlyphPositions@LayoutEngine@icu_2_2@@QBEXQAMAAW4LEErrorCode@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?getGlyphs@ICULayoutEngine@icu_2_2@@QAEXQAGAAW4UErrorCode@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?getGlyphs@LayoutEngine@icu_2_2@@QBEXQAGAAW4LEErrorCode@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?getGlyphs@LayoutEngine@icu_2_2@@UBEXQAKKAAW4LEErrorCode@2@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?getStaticClassID@ICULayoutEngine@icu_2_2@@SAPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?getStaticClassID@LayoutEngine@icu_2_2@@SAPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?layoutChars@ICULayoutEngine@icu_2_2@@QAEJQBGJJJCMMAAW4UErrorCode@@@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?layoutChars@LayoutEngine@icu_2_2@@UAEJQBGJJJCMMAAW4LEErrorCode@2@@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?layoutEngineFactory@LayoutEngine@icu_2_2@@SAPAV12@PBVLEFontInstance@2@JJAAW4LEErrorCode@2@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?layoutString@ICULayoutEngine@icu_2_2@@QAEJABVUnicodeString@2@JJCMMAAW4UErrorCode@@@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?mapCharsToGlyphs@LayoutEngine@icu_2_2@@MAEXQBGJJCCAAPAGAAPAJAAW4LEErrorCode@2@@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?positionGlyphs@LayoutEngine@icu_2_2@@MAEXQBGJMMAAPAMAAW4LEErrorCode@2@@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?reset@LayoutEngine@icu_2_2@@UAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

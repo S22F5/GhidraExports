@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dsnd.dll" PATH="/DLLArchive/etc/3dsnd.dll" DATE="Fri Jul 03 12:11:38 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="SetCoordinate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

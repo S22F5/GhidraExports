@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="werconcpl.dll" PATH="/DLLArchive/etc/werconcpl.dll" DATE="Fri Jul 03 13:31:00 PDT 2020" VERSION="6.1.7260.0 (win7_rtm.090612-2110)">
+    <EXPORT ORDINAL="1" NAME="LaunchErcAppW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ShowCEIPDialogW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WerpIsResponseApplicable" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

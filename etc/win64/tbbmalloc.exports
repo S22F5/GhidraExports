@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tbbmalloc.dll" PATH="/DLLArchive/etc/tbbmalloc.dll" DATE="Sat Jun 29 19:48:42 CEST 2024" VERSION="2021.4">
+    <EXPORT ORDINAL="1" NAME="?pool_aligned_malloc@rml@@YAPEAXPEAVMemoryPool@1@_K1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?pool_aligned_realloc@rml@@YAPEAXPEAVMemoryPool@1@PEAX_K2@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?pool_create@rml@@YAPEAVMemoryPool@1@_JPEBUMemPoolPolicy@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?pool_create_v1@rml@@YA?AW4MemPoolError@1@_JPEBUMemPoolPolicy@1@PEAPEAVMemoryPool@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?pool_destroy@rml@@YA_NPEAVMemoryPool@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?pool_free@rml@@YA_NPEAVMemoryPool@1@PEAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?pool_identify@rml@@YAPEAVMemoryPool@1@PEAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?pool_malloc@rml@@YAPEAXPEAVMemoryPool@1@_K@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?pool_msize@rml@@YA_KPEAVMemoryPool@1@PEAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?pool_realloc@rml@@YAPEAXPEAVMemoryPool@1@PEAX_K@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?pool_reset@rml@@YA_NPEAVMemoryPool@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="__TBB_malloc_safer_aligned_msize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="__TBB_malloc_safer_aligned_realloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="__TBB_malloc_safer_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="__TBB_malloc_safer_msize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="__TBB_malloc_safer_realloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="scalable_aligned_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="scalable_aligned_malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="scalable_aligned_realloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="scalable_allocation_command" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="scalable_allocation_mode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="scalable_calloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="scalable_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="scalable_malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="scalable_msize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="scalable_posix_memalign" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="scalable_realloc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

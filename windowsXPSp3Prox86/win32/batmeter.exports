@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="batmeter.dll" PATH="/DLLArchive/windowsXPSp3Prox86/batmeter.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="BatMeterCapabilities" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateBatMeter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DestroyBatMeter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PowerCapabilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UpdateBatMeter" PURGE="16" COMMENT="" />
+</LIBRARY>
+

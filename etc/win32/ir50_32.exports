@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ir50_32.dll" PATH="/DLLArchive/etc/ir50_32.dll" DATE="Fri Jul 03 12:43:28 PDT 2020" VERSION="R.5.10.15.2.55">
+    <EXPORT ORDINAL="1" NAME="AboutDialogProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConfigureDialogProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

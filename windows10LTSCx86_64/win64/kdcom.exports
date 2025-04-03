@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kdcom.dll" PATH="/DLLArchive/windows10LTSCX86_64/kdcom.dll" DATE="Sat Dec 07 01:08:49 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="KdInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KdPower" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KdReceivePacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="KdSendPacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="KdSetHiberRange" PURGE="0" COMMENT="" />
+</LIBRARY>
+

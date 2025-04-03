@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kissy.dll" PATH="/DLLArchive/etc/Kissy.dll" DATE="Thu Feb 23 08:48:12 PST 2017" VERSION="">
+    <EXPORT ORDINAL="1" NAME="dbkFCallWrapperAddr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__dbk_fcall_wrapper" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TMethodImplementationIntercept" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RapGod" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dup2plug.dll" PATH="/DLLArchive/etc/dup2plug.dll" DATE="Sat May 26 00:17:34 CEST 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Pluginclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Plugindestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ODBG_Pluginreset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

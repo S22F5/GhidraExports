@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="schedsvc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/schedsvc.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="SPUninstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SPUninstallCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SchedServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SysPrepBackup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SysPrepRestore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CloseProc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SysPrepCallback" PURGE="16" COMMENT="" />
+</LIBRARY>
+

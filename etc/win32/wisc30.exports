@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wisc30.dll" PATH="/DLLArchive/etc/WISC30.DLL" DATE="Fri Jul 03 13:33:25 PDT 2020" VERSION="3.00.1906.0">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="updater.dll" PATH="/DLLArchive/etc/Updater.dll" DATE="Sat Dec 09 02:06:48 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="UpdateEngine" PURGE="8" COMMENT="" />
+</LIBRARY>
+

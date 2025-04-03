@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sldlext.dll" PATH="/DLLArchive/etc/sldlext.dll" DATE="Fri Jul 03 13:16:48 PDT 2020" VERSION="6.0.5469.58 (winmain(wmbla).070220-1645)">
+    <EXPORT ORDINAL="1" NAME="SLDLActivateProduct" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SLDLExtInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SLDLExtRegisterLoggingCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SLDLExtShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SLDLExtUnregisterLoggingCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SLDLGetPackageProductKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SLDLGetPackageProperties" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SLDLGetServerStatus" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SLDLInstallPackage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SLDLUninstallPackage" PURGE="20" COMMENT="" />
+</LIBRARY>
+

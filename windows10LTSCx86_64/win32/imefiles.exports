@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imefiles.dll" PATH="/DLLArchive/windows10LTSCX86_64/IMEFILES.dll" DATE="Wed Oct 06 06:53:01 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FNRM_CleanupGarbageFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FNRM_GetActiveFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FNRM_GetRegistrationLevel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FNRM_SetActiveFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FNRM_UnregisterAllPerUserFilesExcept" PURGE="8" COMMENT="" />
+</LIBRARY>
+

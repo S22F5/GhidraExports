@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="btmshell.dll" PATH="/DLLArchive/etc/btmshell.dll" DATE="Fri Jul 03 12:25:40 PDT 2020" VERSION="1.2.0.0071">
+    <EXPORT ORDINAL="1" NAME="BluetoothEnableRadio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsBluetoothRadioEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MSBtGetBppSupportedFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MSBtGetPairedDeviceList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MSBtInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MSBtIsServiceSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?MSBtIsServiceSupportedEx@@YAHPEB_WU_GUID@@AEAG2@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MSBtUninitialize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SendToW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="StopTrayAppW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TrayAppW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="VdpSinkConnectW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="VdpSinkDisconnectW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

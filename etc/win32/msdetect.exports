@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdetect.dll" PATH="/DLLArchive/etc/MSDETECT.DLL" DATE="Fri Jul 03 12:55:15 PDT 2020" VERSION="9.0.2416">
+    <EXPORT ORDINAL="1" NAME="HrDetectApp" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HrRecommendMail" PURGE="28" COMMENT="" />
+</LIBRARY>
+

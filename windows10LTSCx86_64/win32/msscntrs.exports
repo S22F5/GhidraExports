@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msscntrs.dll" PATH="/DLLArchive/windows10LTSCX86_64/msscntrs.dll" DATE="Wed Oct 06 15:52:25 CEST 2021" VERSION="7.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Collect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Open" PURGE="4" COMMENT="" />
+</LIBRARY>
+

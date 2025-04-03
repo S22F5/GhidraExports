@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wintypes.dll" PATH="/DLLArchive/windows10LTSCX86_64/WinTypes.dll" DATE="Wed Oct 06 06:52:33 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RoCreateNonAgilePropertySet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RoCreatePropertySetSerializer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RoGetBufferMarshaler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RoGetMetaDataFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RoIsApiContractMajorVersionPresent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RoIsApiContractPresent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RoParseTypeName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RoResolveNamespace" PURGE="32" COMMENT="" />
+</LIBRARY>
+

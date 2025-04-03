@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wuaueng.dll" PATH="/DLLArchive/etc/wuaueng.dll" DATE="Fri Jul 03 13:38:39 PDT 2020" VERSION="5.4.3790.2182 built by: srv03_rtm(ntvbl04)">
+    <EXPORT ORDINAL="1" NAME="GetAUOptionsEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DSRunStoreAsComServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UHRunRemoteHandlerServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WUCheckForUpdatesAtShutdown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WUAutoUpdateAtShutdown" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetEngineStatusInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RegisterServiceVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ServiceHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ServiceMain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

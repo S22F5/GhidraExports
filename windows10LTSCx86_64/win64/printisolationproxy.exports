@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="printisolationproxy.dll" PATH="/DLLArchive/windows10LTSCX86_64/PrintIsolationProxy.dll" DATE="Wed Oct 06 06:51:13 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="400" NAME="Ordinal_400" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="401" NAME="Ordinal_401" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="402" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="403" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="404" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="405" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

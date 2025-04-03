@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fpexedll.dll" PATH="/DLLArchive/etc/fpexedll.dll" DATE="Fri Jul 03 12:34:50 PDT 2020" VERSION="4.0.2.7523">
+    <EXPORT ORDINAL="1" NAME="?VfpexedllVersion@@YIPADXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetFilterVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HttpFilterProc" PURGE="12" COMMENT="" />
+</LIBRARY>
+

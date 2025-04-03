@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ipnathlpclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/IpNatHlpClient.dll" DATE="Sat Dec 07 01:09:32 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IpNatHlpFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IpNatHlpGetConnectedDevices" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IpNatHlpStartDhcpServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IpNatHlpStartSharing" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IpNatHlpStopDhcpServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IpNatHlpStopSharing" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IpNatHlpUpdateSharingSettingsFromStorage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="V2IpNatHlpCreateStaticMapping" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="V2IpNatHlpDeleteStaticMapping" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="V2IpNatHlpEnumDhcpState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="V2IpNatHlpEnumDnsState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="V2IpNatHlpStartDhcpServer" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="V2IpNatHlpStartDnsServer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="V2IpNatHlpStartSharingInternalPrefix" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="V2IpNatHlpStopDhcpServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="V2IpNatHlpStopDnsServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="V2IpNatHlpStopSharingInternalPrefix" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fmifs.dll" PATH="/DLLArchive/etc/fmifs.dll" DATE="Fri Jul 03 12:34:17 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="Chkdsk" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ChkdskEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ComputeFmMediaType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DiskCopy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnableVolumeCompression" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Extend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Format" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FormatEx2" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FormatEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitializeFmIfs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="QueryAvailableFileSystemFormat" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="QueryDeviceInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="QueryDeviceInformationByHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="QueryFileSystemName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="QueryLatestFileSystemVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="QuerySupportedMedia" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetLabel" PURGE="8" COMMENT="" />
+</LIBRARY>
+

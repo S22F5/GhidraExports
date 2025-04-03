@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jdl_vorbis.dll" PATH="/DLLArchive/etc/jdl_vorbis.dll" DATE="Fri Jul 03 12:44:06 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_floor_P" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_mapping_P" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_residue_P" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="vorbis_analysis" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="vorbis_analysis_blockout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="vorbis_analysis_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="vorbis_analysis_headerout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="vorbis_analysis_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="vorbis_analysis_wrote" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="vorbis_bitrate_addblock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="vorbis_bitrate_flushpacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="vorbis_block_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="vorbis_block_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="vorbis_comment_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="vorbis_comment_add_tag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="vorbis_comment_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="vorbis_comment_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="vorbis_comment_query" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="vorbis_comment_query_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="vorbis_commentheader_out" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="vorbis_dsp_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="vorbis_info_blocksize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="vorbis_info_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="vorbis_info_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="vorbis_packet_blocksize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="vorbis_synthesis" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="vorbis_synthesis_blockin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="vorbis_synthesis_headerin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="vorbis_synthesis_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="vorbis_synthesis_pcmout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="vorbis_synthesis_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="vorbis_synthesis_trackonly" PURGE="0" COMMENT="" />
+</LIBRARY>
+

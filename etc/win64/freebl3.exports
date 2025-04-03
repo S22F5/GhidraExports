@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="freebl3.dll" PATH="/DLLArchive/etc/freebl3.dll" DATE="Fri Jan 01 00:00:00 CET 2010" VERSION="115.18.0">
+    <EXPORT ORDINAL="1" NAME="FREEBL_GetVector" PURGE="0" COMMENT="" />
+</LIBRARY>
+

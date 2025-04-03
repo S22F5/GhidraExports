@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ds32gt.dll" PATH="/DLLArchive/etc/ds32gt.dll" DATE="Fri Jul 03 12:32:14 PDT 2020" VERSION="3.525.1117.0 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="Dispatch" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jetscan.dll" PATH="/DLLArchive/etc/JetScan.dll" DATE="Fri Jul 03 12:44:10 PDT 2020" VERSION="0, 10, 1, 0">
+    <EXPORT ORDINAL="1" NAME="JetScan_EnumTwainSourceNames" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JetScan_GetDefaultTwainInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JetScan_GetCurrentTwainSourceName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JetScan_GetDefaultScanInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JetScan_SetTwainInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JetScan_SetScanInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JetScan_ScanToDIB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JetScan_GetLastError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JetScan_GetScanResolutionRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JetScan_GetScanMaxWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JetScan_GetScanMaxHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JetScan_IsScannerBusy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JetScan_SetScannerBusy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JetScan_ScanToDIBBand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JetScan_GetDefaultScanInfo2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JetScan_SetScanInfo2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JetScan_IsADFAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JetScan_IsADFEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JetScan_EnableADF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JetScan_HasPaperInADF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JetScan_ScanToDIBFromADF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JetScan_ScanToDIBBandFromADF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JetScan_GetButtonStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JetScan_IsHostAlive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JetScan_SendAppListToOpPanel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JetScan_GetAppListToOpPanel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JetScan_SetTimeStamp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JetScan_GetTimeStamp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="JetScan_SendFaxSpeedDialListToOpPanel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="JetScan_IsScannerReady" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="JetScan_GetScanVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="JetScan_GetScanMemSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="JetScan_GetADFStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="JetScan_GetScanMinTop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="JetScan_GetScanMinLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="JetScan_GetADFScanMaxWidth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="JetScan_GetADFScanMaxHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="JetScan_GetADFScanMinTop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="JetScan_GetADFScanMinLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="JetScan_GetScannerStatus" PURGE="0" COMMENT="" />
+</LIBRARY>
+

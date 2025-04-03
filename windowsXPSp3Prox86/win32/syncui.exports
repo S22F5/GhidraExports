@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="syncui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/syncui.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="4" NAME="Briefcase_Create" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Briefcase_Intro" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Briefcase_CreateW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Briefcase_CreateA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

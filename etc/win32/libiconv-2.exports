@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libiconv-2.dll" PATH="/DLLArchive/etc/libiconv-2.dll" DATE="Sat Sep 03 07:15:32 CEST 2016" VERSION="1.14">
+    <EXPORT ORDINAL="1" NAME="_libiconv_version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_aliases2_lookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_aliases_lookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_iconv_canonicalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_libiconv" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_libiconv_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_libiconv_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_libiconv_open_into" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_libiconv_relocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_libiconv_set_relocation_prefix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_libiconvctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_libiconvlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_locale_charset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

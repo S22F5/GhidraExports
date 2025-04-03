@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mobilenetworking.dll" PATH="/DLLArchive/windows10LTSCX86_64/mobilenetworking.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetPersistentRegPath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPersistentRegPathFromRegPath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PersistentRegPathCreateKey" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PersistentRegPathGetDWORD" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PersistentRegPathGetValue" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PersistentRegPathOpenKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PersistentRegPathSetDWORD" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PersistentRegPathSetString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PersistentRegPathSetValue" PURGE="24" COMMENT="" />
+</LIBRARY>
+

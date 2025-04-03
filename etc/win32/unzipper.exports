@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unzipper.dll" PATH="/DLLArchive/etc/Unzipper.dll" DATE="Thu Dec 21 22:09:36 PST 2023" VERSION="V1.01">
+    <EXPORT ORDINAL="1" NAME="kunzip_all" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="kunzip_count_files" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="kunzip_get_filesize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="kunzip_get_modtime" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="kunzip_get_name" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="kunzip_get_offset_by_name" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="kunzip_get_offset_by_number" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="kunzip_get_version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="kunzip_inflate_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="kunzip_inflate_init" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="kunzip_next" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="kunzip_print_version" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

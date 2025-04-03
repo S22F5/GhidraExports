@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="admparse.dll" PATH="/DLLArchive/windowsXPSp3Prox86/admparse.dll" DATE="Sun Apr 13 20:41:50 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IsAdmDirty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ResetAdmDirtyFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AdmClose" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AdmFinishedA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AdmFinishedW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AdmInitA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AdmInitW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AdmResetA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AdmResetW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AdmSaveData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CheckDuplicateKeysA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CheckDuplicateKeysW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CreateAdmUiA" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CreateAdmUiW" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetAdmCategoriesA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetAdmCategoriesW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetFontInfoA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetFontInfoW" PURGE="8" COMMENT="" />
+</LIBRARY>
+

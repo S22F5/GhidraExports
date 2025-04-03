@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ttlscfg.dll" PATH="/DLLArchive/windows10LTSCX86_64/TtlsCfg.dll" DATE="Sat Dec 07 01:09:11 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EapPeerCreateMethodConfiguration" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EapPeerGetIdentityPageGuid" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EapPeerGetMethodProperties" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EapPeerGetNextPageGuid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EapPeerConfigBlob2Xml" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EapPeerConfigXml2Blob" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EapPeerCredentialsXml2Blob" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EapPeerFreeErrorMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EapPeerFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EapPeerGetConfigBlobAndUserBlob" PURGE="68" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EapPeerInvokeConfigUI" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EapPeerInvokeIdentityUI" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EapPeerInvokeInteractiveUI" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EapPeerQueryCredentialInputFields" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EapPeerQueryInteractiveUIInputFields" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="EapPeerQueryUIBlobFromInteractiveUIInputFields" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="EapPeerQueryUserBlobFromCredentialInputFields" PURGE="48" COMMENT="" />
+</LIBRARY>
+

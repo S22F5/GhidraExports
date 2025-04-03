@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfpmnt.dll" PATH="/DLLArchive/etc/LXBFPMNT.DLL" DATE="Fri Jul 03 21:48:57 CEST 2020" VERSION="8,10,0,0">
+    <EXPORT ORDINAL="1" NAME="InitializePrintMonitor" PURGE="4" COMMENT="" />
+</LIBRARY>
+

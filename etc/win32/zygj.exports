@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zygj.dll" PATH="/DLLArchive/etc/zygj.dll" DATE="Fri Jul 03 12:14:18 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Java_oracle_oas_zyg_ZygJNIAddr_equals@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Java_oracle_oas_zyg_ZygJNIAddr_finalize@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_oracle_oas_zyg_ZygJNIAddr_newAddr__Ljava_lang_String_2@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Java_oracle_oas_zyg_ZygJNIAddr_newAddr__Loracle_oas_zyg_ZygJNIAddr_2@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_oracle_oas_zyg_ZygJNIAddr_toString@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_oracle_oas_zyg_ZygJNI_zygClose@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_oracle_oas_zyg_ZygJNI_zygInit@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_oracle_oas_zyg_ZygJNI_zygJoin@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_oracle_oas_zyg_ZygJNI_zygLeave@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_oracle_oas_zyg_ZygJNI_zygMcast@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_oracle_oas_zyg_ZygJNI_zygOpen@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_oracle_oas_zyg_ZygJNI_zygRegister@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_oracle_oas_zyg_ZygJNI_zygSend@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_oracle_oas_zyg_ZygJNI_zygTerm@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icwutil.dll" PATH="/DLLArchive/etc/icwutil.dll" DATE="Fri Jul 03 12:39:59 PDT 2020" VERSION="6.00.2900.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="RegisterServer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="URLAppendQueryPair" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="URLEncode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UnregisterServer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

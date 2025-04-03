@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ypp.dll" PATH="/DLLArchive/etc/YPP.dll" DATE="Tue Apr 27 11:08:06 PDT 2010" VERSION="1.0.0.2">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dtswiz.dll" PATH="/DLLArchive/etc/DTSWIZ.DLL" DATE="Fri Jul 03 12:32:33 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="?Proc@CAdvancedTransferObjectsPage@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?Proc@CAdvancedTransferOptionsPage@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?Proc@CDTSCreateDatabaseDlg@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Proc@CDTSScanningOptions@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Proc@CDlgDTSWizardAdvPropsDlg@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Proc@CDlgDTSWizardConnect@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Proc@CDlgDTSWizardDefineDelimiter@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Proc@CDlgDTSWizardDestFileFormat@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Proc@CDlgDTSWizardDistinctValsDlg@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Proc@CDlgDTSWizardFileFormat@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Proc@CDlgDTSWizardFinish@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Proc@CDlgDTSWizardFixedFieldLines@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Proc@CDlgDTSWizardMapTrans@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Proc@CDlgDTSWizardPositionRow@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Proc@CDlgDTSWizardQBWhereClause@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Proc@CDlgDTSWizardSQLStmtEditor@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?Proc@CDlgDTSWizardSaveAndSchedule@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Proc@CDlgDTSWizardSaveToServer@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?Proc@CDlgDTSWizardSelectColumns@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Proc@CDlgDTSWizardSelectSortOrder@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Proc@CDlgDTSWizardSelectTables@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?Proc@CDlgDTSWizardSrcSpreadsheet@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?Proc@CDlgDTSWizardTableQueryType@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?Proc@CDlgDTSWizardTransferProgress@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?Proc@CDlgDTSWizardTransformationFlags@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?Proc@CDlgDTSWizardWelcome@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?Proc@CDlgEditCreateTableSQL@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?Proc@CDlgPreviewData@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?Proc@CDlgTransferObjects@@MAEJIIJ@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DoDTSWizard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="StarWizardInitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

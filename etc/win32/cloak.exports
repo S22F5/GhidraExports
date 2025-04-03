@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cloak.dll" PATH="/DLLArchive/etc/Cloak.dll" DATE="Fri Jul 03 21:27:04 CEST 2020" VERSION="1, 0, 1, 6">
+    <EXPORT ORDINAL="1" NAME="Cloak_ClearConstHole_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Cloak_ClearConstHole_S_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Cloak_FillHole_NNNN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Cloak_FillHole_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Cloak_GetVarInt_NPN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Cloak_GetVarInt_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Cloak_GetVarStr_NPS_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Cloak_GetVarStr_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Cloak_MakeConstHole_NNNNS_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Cloak_MakeConstHole_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Cloak_MakeHole_NNNN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Cloak_MakeHole_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Cloak_Movie_GetVar_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Cloak_Movie_GetVar_SPS_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Cloak_Movie_Loop_N_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Cloak_Movie_Loop_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Cloak_Movie_Play_NNNNN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Cloak_Movie_Play_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Cloak_Movie_SetPath_F_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Cloak_Movie_SetPath_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Cloak_Movie_SetVar_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Cloak_Movie_SetVar_SS_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Cloak_SetHooks_N_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Cloak_SetHooks_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Cloak_SetOptions_NNNN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Cloak_SetOptions_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Cloak_SetPicturePos_NNNN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Cloak_SetPicturePos_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Cloak_SetPicture_F_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Cloak_SetPicture_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Cloak_SetProgress_N_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Cloak_SetProgress_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Cloak_SetRect_NNNN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Cloak_SetRect_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="Cloak_SetVarInt_NNPN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="Cloak_SetVarInt_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="Cloak_SetVarStr_NSPN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="Cloak_SetVarStr_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="Cloak_ShowWindow_NNNNNNNNSS_InitExit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Cloak_ShowWindow_NNNNNNNNSS_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="Cloak_ShowWindow_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="FreeVarTypeStruct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="GetCloakDispatch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="RegisterTrainerCompilerCommand" PURGE="0" COMMENT="" />
+</LIBRARY>
+

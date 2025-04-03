@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfnetsrc.dll" PATH="/DLLArchive/windows10LTSCX86_64/mfnetsrc.dll" DATE="Wed Oct 06 06:53:18 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MFCreateByteCacheFile" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MFCreateCacheManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MFCreateFileBlockMap" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msnsspc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msnsspc.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="6.1.1825.0">
+    <EXPORT ORDINAL="1" NAME="InitSecurityInterfaceA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitSecurityInterfaceW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AcquireCredentialsHandleA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AcquireCredentialsHandleW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeleteSecurityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FreeCredentialsHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InitializeSecurityContextA" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InitializeSecurityContextW" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnumerateSecurityPackagesA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EnumerateSecurityPackagesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="QueryContextAttributesA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="QueryContextAttributesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="QuerySecurityPackageInfoA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="QuerySecurityPackageInfoW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CompleteAuthToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ApplyControlToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MakeSignature" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="VerifySignature" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FreeContextBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SealMessage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="UnsealMessage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetMSNAccountInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SspcCreateSspiReg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CleanupCredentialCache" PURGE="0" COMMENT="" />
+</LIBRARY>
+

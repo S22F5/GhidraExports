@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hooklibraryx64.dll" PATH="/DLLArchive/etc/HookLibraryx64.dll" DATE="Fri Mar 24 13:58:14 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="HookDllData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HookedGetLocalTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HookedGetSystemTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HookedGetTickCount64" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HookedGetTickCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HookedKiUserExceptionDispatcher" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HookedNativeCallInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HookedNtClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HookedNtContinue" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HookedNtCreateSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HookedNtCreateThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HookedNtCreateThreadEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HookedNtDuplicateObject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HookedNtGetContextThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HookedNtMapViewOfSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HookedNtOpenFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HookedNtQueryInformationProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HookedNtQueryObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="HookedNtQueryPerformanceCounter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HookedNtQuerySystemInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HookedNtQuerySystemTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HookedNtResumeThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HookedNtSetContextThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HookedNtSetDebugFilterState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HookedNtSetInformationProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HookedNtSetInformationThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HookedNtUserBlockInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="HookedNtUserBuildHwndList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="HookedNtUserBuildHwndList_Eight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="HookedNtUserFindWindowEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="HookedNtUserGetForegroundWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="HookedNtUserQueryWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="HookedNtYieldExecution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="HookedOutputDebugStringA" PURGE="0" COMMENT="" />
+</LIBRARY>
+

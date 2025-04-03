@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d2d1.dll" PATH="/DLLArchive/etc/d2d1.dll" DATE="Fri Jul 03 12:28:49 PDT 2020" VERSION="7.0.6002.18107 (vistasp2_gdr_win7ip_dgt(wmbla).090924-1550)">
+    <EXPORT ORDINAL="1" NAME="D2D1CreateFactory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D2D1MakeRotateMatrix" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D2D1MakeSkewMatrix" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D2D1IsMatrixInvertible" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D2D1InvertMatrix" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mapsstore.dll" PATH="/DLLArchive/windows10LTSCX86_64/MapsStore.dll" DATE="Wed Oct 06 06:51:40 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MapsStore_CancelGetData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MapsStore_CancelInstallation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MapsStore_CheckUpdateAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MapsStore_DeleteData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MapsStore_FindNearbyPackages" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MapsStore_GetCopyright" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MapsStore_GetData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MapsStore_GetGSCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MapsStore_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MapsStore_InstallAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MapsStore_IsMapFullyInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MapsStore_LoadCatalogAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MapsStore_SuspendInstallation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MapsStore_UnInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MapsStore_UpdateAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MapsStore_WaitInstallation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MapsStore_SetServiceCallbacks" PURGE="0" COMMENT="" />
+</LIBRARY>
+

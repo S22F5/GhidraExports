@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tlbref.dll" PATH="/DLLArchive/etc/TLBREF.DLL" DATE="Mon Mar 30 14:54:00 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="GetTypeLibInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadTypeLibWithResolver" PURGE="16" COMMENT="" />
+</LIBRARY>
+

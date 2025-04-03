@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xpsprint.dll" PATH="/DLLArchive/windows10LTSCX86_64/XpsPrint.dll" DATE="Wed Oct 06 06:52:39 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StartXpsPrintJob1" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="StartXpsPrintJob" PURGE="40" COMMENT="" />
+</LIBRARY>
+

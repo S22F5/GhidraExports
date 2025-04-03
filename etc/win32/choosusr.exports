@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="choosusr.dll" PATH="/DLLArchive/etc/CHOOSUSR.DLL" DATE="Fri Jul 03 21:26:45 CEST 2020" VERSION="4.90.3000">
+    <EXPORT ORDINAL="2" NAME="ChooseUser" PURGE="4" COMMENT="" />
+</LIBRARY>
+

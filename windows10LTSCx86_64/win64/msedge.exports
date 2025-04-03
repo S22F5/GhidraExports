@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msedge.dll" PATH="/DLLArchive/windows10LTSCX86_64/msedge.dll" DATE="Thu Aug 05 08:46:16 CEST 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="ChromeMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CrashForExceptionInNonABICompliantCodeRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EdgeLaunchBrowserToHandleBackgroundTaskEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ExportSpartanCookies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsSandboxedProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RelaunchChromeBrowserWithNewCommandLineIfNeeded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ovly_debug_event" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="argon2_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="argon2_encodedlen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="argon2_error_message" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="argon2_hash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="argon2_type2string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="argon2_verify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="argon2_verify_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="argon2d_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="argon2d_hash_encoded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="argon2d_hash_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="argon2d_verify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="argon2d_verify_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="argon2i_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="argon2i_hash_encoded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="argon2i_hash_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="argon2i_verify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="argon2i_verify_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="argon2id_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="argon2id_hash_encoded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="argon2id_hash_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="argon2id_verify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="argon2id_verify_ctx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="nacl_global_xlate_base" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="nacl_thread_ids" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="nacl_user" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

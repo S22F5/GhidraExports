@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rscncx22.dll" PATH="/DLLArchive/etc/RSCNCX22.DLL" DATE="Mon Feb 02 19:49:18 CET 1998" VERSION="2.25.298">
+    <EXPORT ORDINAL="2" NAME="GetEBCXVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Pict_IsPictureFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Pict_IsPictureInLib" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Pict_IsPictureInLibInst" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Pict_SetMissingPictureString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Picture_SetEmpty" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Picture_SetFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Picture_SetLib" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Picture_SetLibInst" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Picture_GetNCValues" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Picture_ChangeFrame" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PictBtn_SetEmpty" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PictBtn_SetFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PictBtn_SetLib" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PictBtn_SetLibInst" PURGE="16" COMMENT="" />
+</LIBRARY>
+

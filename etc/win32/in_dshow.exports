@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="in_dshow.dll" PATH="/DLLArchive/etc/in_dshow.dll" DATE="Fri Jul 03 12:43:07 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="winampGetExtendedFileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="winampGetInModule2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

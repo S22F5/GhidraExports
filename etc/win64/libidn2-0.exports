@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libidn2-0.dll" PATH="/DLLArchive/etc/libidn2-0.dll" DATE="Sat May 20 23:55:06 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="idn2_check_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="idn2_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="idn2_lookup_u8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="idn2_lookup_ul" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="idn2_register_u8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="idn2_register_ul" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="idn2_strerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="idn2_strerror_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="idn2_to_ascii_4i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="idn2_to_ascii_4i2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="idn2_to_ascii_4z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="idn2_to_ascii_8z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="idn2_to_ascii_lz" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="idn2_to_unicode_44i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="idn2_to_unicode_4z4z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="idn2_to_unicode_8z4z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="idn2_to_unicode_8z8z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="idn2_to_unicode_8zlz" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="idn2_to_unicode_lzlz" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ssdm.dll" PATH="/DLLArchive/windows10LTSCX86_64/ssdm.dll" DATE="Wed Oct 06 06:52:17 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="s_RequestHrtfData" PURGE="12" COMMENT="" />
+</LIBRARY>
+

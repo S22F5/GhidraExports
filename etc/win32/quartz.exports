@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="quartz.dll" PATH="/DLLArchive/etc/quartz.dll" DATE="Fri Jul 03 13:10:20 PDT 2020" VERSION="6.05.2600.2180">
+    <EXPORT ORDINAL="1" NAME="AMGetErrorTextA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AMGetErrorTextW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AmpFactorToDB" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DBToAmpFactor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

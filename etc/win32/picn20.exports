@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="picn20.dll" PATH="/DLLArchive/etc/picn20.dll" DATE="Fri Jul 03 13:06:54 PDT 2020" VERSION="1.0.0.29">
+    <EXPORT ORDINAL="4" NAME="_PegasusQuery@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_PegasusCB@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Pegasus@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_PegasusLoad@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_PegasusUnload@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PegasusQuery" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PegasusCB" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Pegasus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PegasusLoad" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PegasusUnload" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_PegasusTrace@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PegasusTrace" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_PegasusLoadFromRes@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PegasusLoadFromRes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_PegasusLibInit@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PegasusLibInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_PegasusLibTerm@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PegasusLibTerm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_PegasusLibThreadInit@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PegasusLibThreadInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_PegasusLibThreadTerm@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PegasusLibThreadTerm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="__PicOp32@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PegasusQuery@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="PegasusCB@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Pegasus@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PegasusLoad@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="PegasusUnload@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PegasusTrace@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="PegasusLoadFromRes@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PegasusLibInit@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="PegasusLibTerm@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="PegasusLibThreadInit@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="PegasusLibThreadTerm@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_PicOp32@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

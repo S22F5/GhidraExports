@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libipt-32.dll" PATH="/DLLArchive/etc/libipt-32.dll" DATE="Sun May 30 17:18:04 CEST 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="pt_alloc_encoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="pt_cpu_errata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="pt_cpu_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="pt_enc_get_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="pt_enc_get_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="pt_enc_next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="pt_enc_sync_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="pt_errstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="pt_free_encoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="pt_image_add_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="pt_image_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="pt_image_copy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="pt_image_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="pt_image_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="pt_image_remove_by_asid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="pt_image_remove_by_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="pt_image_set_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="pt_insn_alloc_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="pt_insn_core_bus_ratio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="pt_insn_free_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="pt_insn_get_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="pt_insn_get_image" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="pt_insn_get_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="pt_insn_get_sync_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="pt_insn_next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="pt_insn_set_image" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="pt_insn_sync_backward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="pt_insn_sync_forward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="pt_insn_sync_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="pt_insn_time" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="pt_library_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="pt_pkt_alloc_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="pt_pkt_free_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="pt_pkt_get_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="pt_pkt_get_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="pt_pkt_get_sync_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="pt_pkt_next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="pt_pkt_sync_backward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="pt_pkt_sync_forward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="pt_pkt_sync_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="pt_qry_alloc_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="pt_qry_cond_branch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="pt_qry_core_bus_ratio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="pt_qry_event" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="pt_qry_free_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="pt_qry_get_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="pt_qry_get_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="pt_qry_get_sync_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="pt_qry_indirect_branch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="pt_qry_sync_backward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="pt_qry_sync_forward" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="pt_qry_sync_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="pt_qry_time" PURGE="0" COMMENT="" />
+</LIBRARY>
+

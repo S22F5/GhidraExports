@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mcou.dll" PATH="/DLLArchive/etc/mcou.dll" DATE="Fri Jul 03 21:49:45 CEST 2020" VERSION="5.0.12.0">
+    <EXPORT ORDINAL="1" NAME="ExchEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

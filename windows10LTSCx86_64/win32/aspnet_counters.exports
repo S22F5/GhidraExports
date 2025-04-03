@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aspnet_counters.dll" PATH="/DLLArchive/windows10LTSCX86_64/aspnet_counters.dll" DATE="Sat Dec 07 10:10:47 CET 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="CloseGenericCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseStateCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseVersion4Counters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CollectGenericCounters" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CollectStateCounters" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CollectVersion4Counters" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OpenGenericCounters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OpenStateCounters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OpenVersion4Counters" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="minet32.dll" PATH="/DLLArchive/etc/MINET32.DLL" DATE="Fri Jul 03 12:51:27 PDT 2020" VERSION="9.0">
+    <EXPORT ORDINAL="1" NAME="XPProviderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PFEXT_ME_New" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MailServiceEntry" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WizardEntry" PURGE="20" COMMENT="" />
+</LIBRARY>
+

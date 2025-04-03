@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mslid.dll" PATH="/DLLArchive/etc/MSLID.DLL" DATE="Fri Jul 03 21:58:35 CEST 2020" VERSION="1.0.2305">
+    <EXPORT ORDINAL="1" NAME="LidVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LidInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LidTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LidCheck" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LidCheckSz" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LidLanguages" PURGE="8" COMMENT="" />
+</LIBRARY>
+

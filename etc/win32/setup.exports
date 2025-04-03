@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="setup.dll" PATH="/DLLArchive/etc/Setup.dll" DATE="Fri Jul 03 13:15:25 PDT 2020" VERSION="7, 01, 100, 1302">
+    <EXPORT ORDINAL="1" NAME="Start" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FindCorrectLauncher" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UseXPTheme" PURGE="0" COMMENT="" />
+</LIBRARY>
+

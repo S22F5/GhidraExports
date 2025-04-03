@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dfx32vb.dll" PATH="/DLLArchive/etc/3dfx32vb.dll" DATE="Fri Jul 03 21:10:51 CEST 2020" VERSION="4.10.01.0232-1.00">
+    <EXPORT ORDINAL="1" NAME="DriverInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rmm_InitHeaps" PURGE="0" COMMENT="" />
+</LIBRARY>
+

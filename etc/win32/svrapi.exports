@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="svrapi.dll" PATH="/DLLArchive/etc/SVRAPI.DLL" DATE="Fri Jul 03 13:21:08 PDT 2020" VERSION="4.10.1998">
+    <EXPORT ORDINAL="1" NAME="NetAccessAdd" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetAccessCheck" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetAccessDel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetAccessEnum" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetAccessGetInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetAccessGetUserPerms" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetAccessSetInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetConnectionEnum" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NetFileClose2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetFileEnum" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetSecurityGetInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetServerGetInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NetSessionDel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NetSessionEnum" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NetSessionGetInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NetShareAdd" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NetShareDel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NetShareEnum" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NetShareGetInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NetShareSetInfo" PURGE="24" COMMENT="" />
+</LIBRARY>
+

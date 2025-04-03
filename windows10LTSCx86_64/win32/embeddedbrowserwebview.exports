@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="embeddedbrowserwebview.dll" PATH="/DLLArchive/windows10LTSCX86_64/EmbeddedBrowserWebView.dll" DATE="Wed Aug 04 23:44:50 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="CreateWebViewEnvironmentWithOptionsInternal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+</LIBRARY>
+

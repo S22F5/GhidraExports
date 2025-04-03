@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="luinsdll.dll" PATH="/DLLArchive/etc/LUINSDLL.DLL" DATE="Fri Jul 03 12:48:25 PDT 2020" VERSION="1.80.19.0">
+    <EXPORT ORDINAL="1" NAME="_DoLegacyInstall@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="titanhidete.dll" PATH="/DLLArchive/etc/TitanHideTE.dll" DATE="Fri Aug 19 15:50:34 CEST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="TitanDebuggingCallBack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TitanRegisterPlugin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

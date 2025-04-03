@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="opengl.dll" PATH="/DLLArchive/etc/OpenGL.dll" DATE="Fri Jul 03 13:05:19 PDT 2020" VERSION="4.5.7 (36)">
+    <EXPORT ORDINAL="1" NAME="??0openglengine@hfx@@QAE@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0openglengine@hfx@@QAE@GMMGG@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0openglengine@hfx@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1openglengine@hfx@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4openglengine@hfx@@QAEAAV01@ABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??8openglengine@hfx@@QBE_NABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??9openglengine@hfx@@QBE_NABV01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7openglengine@hfx@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?beginsequence@openglengine@hfx@@UAE_NPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?cleanup@openglengine@hfx@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?clone@openglengine@hfx@@UAEPAVelement@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?compare@openglengine@hfx@@ABE_NABV12@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?copy@openglengine@hfx@@AAEXABV12@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?endsequence@openglengine@hfx@@UAE_NPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?get@openglengine@hfx@@UAEXGKPAM@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?get@openglengine@hfx@@UAEXGPAM@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?getallow@openglengine@hfx@@UBEABVtext@hfxutil@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?getdesc@openglengine@hfx@@UBEABVtext@hfxutil@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?getfiletypes@openglengine@hfx@@UBEABVtext@hfxutil@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?getmask@openglengine@hfx@@UBEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?getplugname@openglengine@hfx@@UBEABVtext@hfxutil@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?getplugtype@openglengine@hfx@@UBEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?getrenderpoint@openglengine@hfx@@UBEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?init@openglengine@hfx@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?ogl_beginsequence@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?ogl_draw_cameras@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?ogl_draw_environment@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?ogl_draw_lights@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?ogl_obj_draw@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?ogl_obj_draw_shadow_full@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@MPAM@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?ogl_obj_drawfull@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?ogl_obj_drawfull_shadow_full@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?ogl_obj_drawnull@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?ogl_obj_prepspecular@openglengine@hfx@@AAE_NPAVrender@2@PAVsurface@2@M@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?ogl_obj_prepsurface@openglengine@hfx@@AAEXPAVrender@2@PAVsurface@2@M@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?ogl_obj_prepsurface_shadow@openglengine@hfx@@AAEXPAVrender@2@PAVsurface@2@M@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?ogl_obj_transform@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@_N@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?ogl_preptexture@openglengine@hfx@@AAEXPAVrender@2@PAVsurface@2@PAVimage@hfxutil@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?ogl_render@openglengine@hfx@@AAE_NPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?ogl_render_frame@openglengine@hfx@@AAE_NPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?ogl_render_shadows@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?ogl_render_tiled@openglengine@hfx@@AAE_NPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?ogl_setup_camera@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?ogl_setup_lights@openglengine@hfx@@AAEXPAVrender@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?ogl_shadow_draw@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?ogl_shadow_drawfull@openglengine@hfx@@AAEXPAVrender@2@PAVobject@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?render@openglengine@hfx@@UAE_NPAV02@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="plug_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="plug_getcount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="plug_getinfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

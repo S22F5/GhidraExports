@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="browcli.dll" PATH="/DLLArchive/windows10LTSCX86_64/browcli.dll" DATE="Sat Dec 07 01:09:11 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="I_BrowserDebugCall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="I_BrowserDebugTrace" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="I_BrowserQueryEmulatedDomains" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="I_BrowserQueryOtherDomains" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="I_BrowserQueryStatistics" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="I_BrowserResetNetlogonState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="I_BrowserResetStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="I_BrowserServerEnum" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="I_BrowserSetNetlogonState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetBrowserStatisticsGet" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetServerEnum" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetServerEnumEx" PURGE="36" COMMENT="" />
+</LIBRARY>
+

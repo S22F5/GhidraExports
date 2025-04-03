@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zeeverm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/zeeverm.dll" DATE="Fri Aug 17 13:36:36 PDT 2001" VERSION="1.2.629.1">
+    <EXPORT ORDINAL="1" NAME="GetVersionPack" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartUpdate" PURGE="12" COMMENT="" />
+</LIBRARY>
+

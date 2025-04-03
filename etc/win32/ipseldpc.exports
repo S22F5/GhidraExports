@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ipseldpc.dll" PATH="/DLLArchive/etc/ipseldpc.dll" DATE="Fri Jul 03 12:43:20 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="122" NAME="Ordinal_122" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="Ordinal_123" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="Ordinal_125" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

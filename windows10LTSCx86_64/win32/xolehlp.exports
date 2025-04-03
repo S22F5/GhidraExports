@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xolehlp.dll" PATH="/DLLArchive/windows10LTSCX86_64/xolehlp.dll" DATE="Sat Dec 07 10:09:57 CET 2019" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="4" NAME="GetDtcLocaleResourceHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DtcGetTransactionManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DtcGetTransactionManagerEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DtcGetTransactionManagerC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreezeLocalTransactionManagers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ThawLocalTransactionManagers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DtcGetTransactionManagerExA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DtcGetTransactionManagerExW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

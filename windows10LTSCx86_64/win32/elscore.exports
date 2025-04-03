@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="elscore.dll" PATH="/DLLArchive/windows10LTSCX86_64/ELSCore.dll" DATE="Wed Oct 06 06:52:37 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MappingDoAction" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MappingFreePropertyBag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MappingFreeServices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MappingGetServices" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MappingRecognizeText" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dxva2.dll" PATH="/DLLArchive/windows10LTSCX86_64/dxva2.dll" DATE="Sat Dec 07 10:09:17 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CapabilitiesRequestAndCapabilitiesReply" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DXVA2CreateDirect3DDeviceManager9" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DXVA2CreateVideoService" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DXVAHD_CreateDevice" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DegaussMonitor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DestroyPhysicalMonitor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DestroyPhysicalMonitors" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetCapabilitiesStringLength" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMonitorBrightness" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetMonitorCapabilities" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetMonitorColorTemperature" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetMonitorContrast" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetMonitorDisplayAreaPosition" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetMonitorDisplayAreaSize" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetMonitorRedGreenOrBlueDrive" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetMonitorRedGreenOrBlueGain" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetMonitorTechnologyType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetNumberOfPhysicalMonitorsFromHMONITOR" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetNumberOfPhysicalMonitorsFromIDirect3DDevice9" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetPhysicalMonitorsFromHMONITOR" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetPhysicalMonitorsFromIDirect3DDevice9" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetTimingReport" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetVCPFeatureAndVCPFeatureReply" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="OPMGetVideoOutputForTarget" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="OPMGetVideoOutputsFromHMONITOR" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="OPMGetVideoOutputsFromIDirect3DDevice9Object" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RestoreMonitorFactoryColorDefaults" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RestoreMonitorFactoryDefaults" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SaveCurrentMonitorSettings" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SaveCurrentSettings" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetMonitorBrightness" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetMonitorColorTemperature" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SetMonitorContrast" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SetMonitorDisplayAreaPosition" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SetMonitorDisplayAreaSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SetMonitorRedGreenOrBlueDrive" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SetMonitorRedGreenOrBlueGain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SetVCPFeature" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ialmdd5.dll" PATH="/DLLArchive/etc/ialmdd5.dll" DATE="Fri Jul 03 21:38:24 CEST 2020" VERSION="6.13.01.3485">
+    <EXPORT ORDINAL="1" NAME="DrvDisableDirectDraw" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrvEnableDirectDraw" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrvGetDirectDrawInfo" PURGE="24" COMMENT="" />
+</LIBRARY>
+

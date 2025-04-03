@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="esucmd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/esucmd.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="1.00">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PMGetScanError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PMSetImageSize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PMSetPixelType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PMInitAcquire" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PMAcquireImage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PMAbortScan" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="PMCloseScanner" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="PMGetExtStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="PMOpenScanner" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="PMGetOptionStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="PMEject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="PMReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="PMSetFocus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="PMFeed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="PMEnableOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="PMGetExtStatusNoE" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="PMSendParamE" PURGE="4" COMMENT="" />
+</LIBRARY>
+

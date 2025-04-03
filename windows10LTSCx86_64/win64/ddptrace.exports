@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ddptrace.dll" PATH="/DLLArchive/windows10LTSCX86_64/ddptrace.dll" DATE="Sat Dec 07 01:51:53 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SrmTraceInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SrmTraceUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SrmTraceMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SrmTraceBinary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SrmIsTracingEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SrmIsTracingEnabledPerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SrmIsTracingEnabledOnModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SrmIsTracingEnabledOnFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SrmSetTracingContextPerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SrmGetTracingContextPerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SrmGetTracingSequenceNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SrmIsKernelDebuggerAttached" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SrmGetTracingModuleInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SrmIsDebugFlagSet" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="adbwinusbapi.dll" PATH="/DLLArchive/etc/AdbWinUsbApi.dll" DATE="Sat May 18 14:28:08 PDT 2024" VERSION="2.0.0.1">
+    <EXPORT ORDINAL="1" NAME="InstantiateWinUsbInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

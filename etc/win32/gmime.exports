@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gmime.dll" PATH="/DLLArchive/etc/gmime.dll" DATE="Sat Feb 05 16:29:40 PST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="g_mime_content_type_get_media_subtype" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="g_mime_content_type_get_media_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="g_mime_data_wrapper_write_to_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="g_mime_header_list_foreach" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="g_mime_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="g_mime_message_foreach" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="g_mime_message_get_date" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="g_mime_message_get_date_as_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="g_mime_message_get_mime_part" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="g_mime_message_get_sender" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="g_mime_message_get_subject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="g_mime_message_part_get_message" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="g_mime_message_part_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="g_mime_message_partial_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="g_mime_multipart_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="g_mime_object_get_content_disposition_parameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="g_mime_object_get_content_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="g_mime_object_get_content_type_parameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="g_mime_object_get_header" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="g_mime_object_get_header_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="g_mime_object_write_to_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="g_mime_parser_construct_message" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="g_mime_parser_eos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="g_mime_parser_get_headers_begin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="g_mime_parser_new_with_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="g_mime_parser_set_persist_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="g_mime_parser_set_scan_from" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="g_mime_parser_tell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="g_mime_part_get_content_location" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="g_mime_part_get_content_object" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="g_mime_part_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="g_mime_stream_file_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="g_mime_stream_file_set_owner" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="g_mime_stream_fs_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="g_mime_stream_fs_set_owner" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="g_mime_stream_mem_get_byte_array" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="g_mime_stream_mem_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="g_mime_stream_mem_set_owner" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="g_mime_stream_null_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="g_mime_stream_seek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="g_mime_stream_set_bounds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="g_mime_stream_write_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="g_mime_stream_write_to_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="g_mime_utils_header_decode_text" PURGE="0" COMMENT="" />
+</LIBRARY>
+

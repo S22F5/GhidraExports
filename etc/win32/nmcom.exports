@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmcom.dll" PATH="/DLLArchive/etc/nmcom.dll" DATE="Fri Jul 03 13:01:46 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

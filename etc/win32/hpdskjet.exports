@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpdskjet.dll" PATH="/DLLArchive/etc/hpdskjet.dll" DATE="Fri Jul 03 21:36:50 CEST 2020" VERSION="4.00">
+    <EXPORT ORDINAL="1" NAME="bInitProc" PURGE="12" COMMENT="" />
+</LIBRARY>
+

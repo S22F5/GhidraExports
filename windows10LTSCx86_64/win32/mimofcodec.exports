@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mimofcodec.dll" PATH="/DLLArchive/windows10LTSCX86_64/mimofcodec.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MI_Application_NewDeserializer_Mof" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MI_Application_NewSerializer_Mof" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MI_MOFParser_Delete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MI_MOFParser_Init" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MI_MOFParser_Lex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MI_MOFParser_Parse" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NITS_PRESENCE_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NITS_STUB" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

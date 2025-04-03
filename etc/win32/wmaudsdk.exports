@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmaudsdk.dll" PATH="/DLLArchive/etc/Wmaudsdk.dll" DATE="Sat Aug 27 06:21:36 PDT 2016" VERSION="4.00.0.3845">
+    <EXPORT ORDINAL="1" NAME="WMAudioCreateReader" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WMAudioCreateWriter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WMAudioCreateInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

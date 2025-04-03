@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltsgm13n.dll" PATH="/DLLArchive/etc/LTSGM13N.dll" DATE="Fri Jul 03 12:48:17 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_MrcStartBitmapSegmentation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_MrcEndBitmapSegmentation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_MrcSetNewStripe" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_MrcSetStripeSegment" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_MrcSetStripeMaxHeight" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_MrcSegmentBitmap" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_MrcSaveBitmap" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_MrcLoadBitmap" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_MrcGetPagesCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_MrcSaveBitmapT44" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_MrcEnumSegments" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_MrcUpdateSegmentData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_MrcDeleteSegment" PURGE="8" COMMENT="" />
+</LIBRARY>
+

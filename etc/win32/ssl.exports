@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ssl.dll" PATH="/DLLArchive/etc/SSL.dll" DATE="Fri Jul 03 13:20:08 PDT 2020" VERSION="5, 0, 0, 0">
+    <EXPORT ORDINAL="1" NAME="SSL_CreateClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SSL_CreateServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SSL_ShouldRetry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SSL_Connect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SSL_Accept" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SSL_Read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SSL_Write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SSL_ShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SSL_SetClientCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SSL_CreateCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SSL_verify_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SSL_GetCertInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SSL_SaveStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SSL_StorePeerCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SSL_CreateCertStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SSL_FreeCertStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SSL_AddFileToStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SSL_GetCertsFromStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SSL_RemoveCertFromStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SSL_StoreCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SSL_SetCertInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SSL_GetServerCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SSL_CheckCertValid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SSL_GetSocketBySSL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SSL_GetSocketByStoreCTX" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SSL_verify_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SSL_verify_func_server" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SSL_GetCertsFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SSL_ExportCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SSL_RemoveCertFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SSL_MoveCertificate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SSL_ImportCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SSL_Delete" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SSL_DeleteList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="cert_info_server_st_FREE" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="cert_info_st_FREE" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SSL_Destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SSL_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SSL_X509Free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SSL_X509RemoveReference" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SSL_SignCert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SSL_AddSingleCertToStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SSL_GetCurrentCipher" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SSL_ConnectEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SSL_CreateClientEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SSL_CreateServerEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SSL_X509_GetEncodedBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SSL_X509_FreeEncodedBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="SSL_GetSSLVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

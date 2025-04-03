@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxst30.dll" PATH="/DLLArchive/etc/fxst30.dll" DATE="Fri Jul 03 12:35:24 PDT 2020" VERSION="5.2.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="FaxDevAbortOperation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxDevEndJob" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FaxDevInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FaxDevReceive" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FaxDevReportStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FaxDevSend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FaxDevShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FaxDevStartJob" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FaxExtInitializeConfig" PURGE="20" COMMENT="" />
+</LIBRARY>
+

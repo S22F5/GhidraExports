@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="resetengine.dll" PATH="/DLLArchive/windows10LTSCX86_64/ResetEngine.dll" DATE="Wed Oct 06 06:52:52 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ResetApplyCloudPartitionLayout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ResetArmBootTrigger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ResetCancelCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ResetCancelImageDownload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ResetClearSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ResetCloudEndpointAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ResetConnectCloud" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ResetCreateMedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ResetCreateSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ResetDisabledByPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ResetDisarmBootTrigger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ResetDownloadImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ResetDownloadPayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ResetEnterOOBE" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ResetExecCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ResetExecOnline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ResetExecute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ResetGetDataVolumes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ResetGetDiskSpaceRequired" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ResetGetMediaSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ResetGetRestoredApps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ResetGetScenarioType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ResetGetTargetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ResetGetTelemetrySessionID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ResetHasCustomizations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ResetLoadSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ResetNotifyAcknowledgeWarning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ResetNotifyCancel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ResetNotifyConfirm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ResetPayloadConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ResetPayloadEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ResetPrepareSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ResetProvisionMedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ResetReleaseMedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ResetReleaseSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ResetResumeLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ResetReturnToOldOS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ResetSetDataPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ResetSetStringPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ResetSetTestFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ResetStageOfflineBoot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ResetSubmitTelemetry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ResetSuspendSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ResetTraceClientInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ResetUndo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="ResetUnstageOfflineBoot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="ResetUserLogon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="ResetValidateScenario" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="ResetWillSuspendProtection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="ResetWipeSystem" PURGE="0" COMMENT="" />
+</LIBRARY>
+

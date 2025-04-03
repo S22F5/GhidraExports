@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libpangowin32-1.0-0.dll" PATH="/DLLArchive/etc/libpangowin32-1.0-0.dll" DATE="Fri Jul 03 12:47:08 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="__pango_included_win32_modules" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_pango_win32_coverage_language_classify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="pango_win32_debug" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_pango_win32_face_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_pango_win32_family_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_pango_win32_font_cache_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_pango_win32_font_cache_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_pango_win32_font_cache_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_pango_win32_font_cache_unload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_pango_win32_font_entry_get_coverage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_pango_win32_font_entry_remove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_pango_win32_font_entry_set_coverage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_pango_win32_font_get_glyph_index" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_pango_win32_font_logfont" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_pango_win32_font_map_for_display" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_pango_win32_font_map_get_font_cache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_pango_win32_font_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_pango_win32_fontmap_cache_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_pango_win32_fontmap_cache_remove" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_pango_win32_get_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_pango_win32_get_dc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_pango_win32_get_debug_flag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_pango_win32_get_name_header" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_pango_win32_get_name_record" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_pango_win32_get_shaper_map" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_pango_win32_get_unknown_glyph" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_pango_win32_hdc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_pango_win32_make_matching_logfont" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_pango_win32_os_version_info" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_pango_win32_render" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_pango_win32_render_layout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_pango_win32_render_layout_line" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_pango_win32_shutdown_display" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="yalertcenterm.dll" PATH="/DLLArchive/etc/yalertcenterM.dll" DATE="Fri Jul 03 22:42:48 CEST 2020" VERSION="2008, 1, 2, 1">
+    <EXPORT ORDINAL="1" NAME="??0CYAlert@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??4CYAlert@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?Dispose@CYAlert@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Hide@CYAlert@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?HideAlert@CYAlert@@QAEJJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Init@CYAlert@@QAEJPAVILayoutEngine@yui@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Notify2@CYAlert@@QAEJPAUYAlertNotification@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Notify@CYAlert@@QAEJPAJJPA_W11JJ@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?get_ClickedAlert@CYAlert@@QAEJPAJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?get_ComponentVersion@CYAlert@@QAEJPAPA_W@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?get_DisplayedNotifications@CYAlert@@QAEJPAJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?get_Icon@CYAlert@@QAEJPAPAJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?get_NotificationCountByFlag@CYAlert@@QAEJJPAJ@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?get_PendingNotifications@CYAlert@@QAEJPAJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?get_Version@CYAlert@@AAEJPAPA_W@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?get_hIcon@CYAlert@@SAPAUHICON__@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?is_SkinVersion1@CYAlert@@SA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?put_Icon@CYAlert@@QAEJPAJ@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?sm_bSkinVer1@CYAlert@@0_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?sm_hIcon@CYAlert@@0PAUHICON__@@A" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

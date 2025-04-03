@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pfpick.dll" PATH="/DLLArchive/etc/pfpick.dll" DATE="Fri Jul 03 13:06:38 PDT 2020" VERSION="1.10.0">
+    <EXPORT ORDINAL="201" NAME="PfPickSelect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="PfGetErrorText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="PfPickSetHelp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

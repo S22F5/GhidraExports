@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dpmesh.dll" PATH="/DLLArchive/etc/d3dpmesh.dll" DATE="Fri Jul 03 12:29:06 PDT 2020" VERSION="5.1.2600.0">
+    <EXPORT ORDINAL="1" NAME="CreateD3DRMPMeshVisual" PURGE="32" COMMENT="" />
+</LIBRARY>
+

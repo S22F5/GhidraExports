@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgit500.dll" PATH="/DLLArchive/etc/jgit500.dll" DATE="Fri Jul 03 12:44:25 PDT 2020" VERSION="5020">
+    <EXPORT ORDINAL="3001" NAME="JgpITOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3002" NAME="JgpITClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3003" NAME="JgpITBitBlt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3004" NAME="JgpITOptMaskBytesNeeded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3005" NAME="JgpITCreateOptMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3006" NAME="JgpITDestroyOptMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3007" NAME="JgpITPackOptMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3008" NAME="JgpITSetOptMaskMem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3009" NAME="JgpITInputOptMask" PURGE="0" COMMENT="" />
+</LIBRARY>
+

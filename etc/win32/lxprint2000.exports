@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxprint2000.dll" PATH="/DLLArchive/etc/lxprint2000.dll" DATE="Fri Jul 03 12:49:09 PDT 2020" VERSION="5.05 built by: WinDDK">
+    <EXPORT ORDINAL="1" NAME="ClosePrintProcessor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ControlPrintProcessor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EnumPrintProcessorDatatypesW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InstallPrintProcessor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenPrintProcessor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PrintDocumentOnPrintProcessor" PURGE="8" COMMENT="" />
+</LIBRARY>
+

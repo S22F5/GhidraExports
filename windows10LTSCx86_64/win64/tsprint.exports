@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tsprint.dll" PATH="/DLLArchive/windows10LTSCX86_64/tsprint.dll" DATE="Wed Oct 06 06:51:01 PDT 2021" VERSION="10.0.19041.153 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="254" NAME="DrvSplDeviceCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="255" NAME="DrvConvertDevMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="256" NAME="DrvPrinterEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="MxdcGetPDEVAdjustment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="DevQueryPrintEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="DrvDeviceCapabilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="DrvDevicePropertySheets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="264" NAME="DrvDocumentPropertySheets" PURGE="0" COMMENT="" />
+</LIBRARY>
+

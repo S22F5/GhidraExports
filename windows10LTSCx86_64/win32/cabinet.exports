@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cabinet.dll" PATH="/DLLArchive/windows10LTSCX86_64/cabinet.dll" DATE="Wed Oct 06 15:52:32 CEST 2021" VERSION="5.00 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetDllVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Extract" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeleteExtractedFiles" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FCICreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FCIAddFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FCIFlushFolder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FCIFlushCabinet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FCIDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FDICreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FDIIsCabinet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FDICopy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FDIDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="FDITruncateCabinet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CreateCompressor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetCompressorInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="QueryCompressorInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Compress" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ResetCompressor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="CloseCompressor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="CreateDecompressor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SetDecompressorInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="QueryDecompressorInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="Decompress" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ResetDecompressor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="CloseDecompressor" PURGE="4" COMMENT="" />
+</LIBRARY>
+

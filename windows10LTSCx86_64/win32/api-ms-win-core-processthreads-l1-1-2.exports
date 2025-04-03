@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-processthreads-l1-1-2.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-processthreads-l1-1-2.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetProcessPriorityBoost" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetProcessPriorityBoost" />
+    <EXPORT ORDINAL="2" NAME="GetSystemTimes" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetSystemTimes" />
+    <EXPORT ORDINAL="3" NAME="GetThreadIOPendingFlag" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetThreadIOPendingFlag" />
+    <EXPORT ORDINAL="4" NAME="GetThreadInformation" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetThreadInformation" />
+    <EXPORT ORDINAL="5" NAME="IsProcessCritical" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="IsProcessCritical" />
+    <EXPORT ORDINAL="6" NAME="QueryProtectedPolicy" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="QueryProtectedPolicy" />
+    <EXPORT ORDINAL="7" NAME="SetProcessPriorityBoost" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetProcessPriorityBoost" />
+    <EXPORT ORDINAL="8" NAME="SetProtectedPolicy" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetProtectedPolicy" />
+    <EXPORT ORDINAL="9" NAME="SetThreadInformation" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadInformation" />
+</LIBRARY>
+

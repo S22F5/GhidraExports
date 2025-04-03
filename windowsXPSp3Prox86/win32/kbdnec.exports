@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbdnec.dll" PATH="/DLLArchive/windowsXPSp3Prox86/KBDNEC.DLL" DATE="Mon Apr 14 14:00:00 CEST 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KbdNlsLayerDescriptor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iforce2.dll" PATH="/DLLArchive/etc/IFORCE2.dll" DATE="Fri Jul 03 12:40:35 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_IFCreateEffectStructs@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_IFCreateEffects@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_IFLoadProjectFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_IFLoadProjectObjectPointer@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_IFLoadProjectPointer@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_IFLoadProjectResource@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_IFReleaseEffectStructs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_IFReleaseEffects@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_IFReleaseProject@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_IForceDLLMain@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

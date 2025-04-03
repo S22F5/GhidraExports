@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ssdpapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/ssdpapi.dll" DATE="Sat Dec 07 01:09:57 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BeginRegisterPropChangeNotificationEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CleanupCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DHSetICSInterfaces" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DHSetICSOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeregisterNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeregisterService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DisableFirewallRule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnableFirewallRule" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EndRegisterPropChangeNotificationEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FindServices" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FindServicesCallback" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FindServicesCallbackEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FindServicesCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FindServicesClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FindServicesEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FindServicesOnNetworkCallbackEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FreeSsdpMessage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FreeSsdpMessageEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetFirstService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetFirstServiceEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetNextService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetNextServiceEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RegisterAliveNotificationOnNetworkEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RegisterNotification" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RegisterNotificationEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RegisterService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RegisterServiceEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SsdpCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SsdpStartup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

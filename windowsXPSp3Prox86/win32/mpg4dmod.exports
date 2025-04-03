@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpg4dmod.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mpg4dmod.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="9.00.00.4503">
+    <EXPORT ORDINAL="1" NAME="CreateInstance" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

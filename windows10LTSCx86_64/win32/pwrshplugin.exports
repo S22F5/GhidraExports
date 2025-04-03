@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pwrshplugin.dll" PATH="/DLLArchive/windows10LTSCX86_64/pwrshplugin.dll" DATE="Sat Dec 07 01:10:32 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetCLRVersionForPSVersion" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PerformWSManPluginReportCompletion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSManPluginCommand" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSManPluginConnect" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSManPluginReceive" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSManPluginReleaseCommandContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSManPluginReleaseShellContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSManPluginSend" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSManPluginShell" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WSManPluginShutdown" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WSManPluginSignal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WSManPluginStartup" PURGE="16" COMMENT="" />
+</LIBRARY>
+

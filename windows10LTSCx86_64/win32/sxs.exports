@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sxs.dll" PATH="/DLLArchive/windows10LTSCX86_64/sxs.dll" DATE="Wed Oct 06 06:52:20 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SxsFindClrClassInformation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SxsFindClrSurrogateInformation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SxsLookupClrGuid" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SxsRunDllInstallAssembly" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SxsRunDllInstallAssemblyW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SxspGenerateManifestPathOnAssemblyIdentity" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateAssemblyCache" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateAssemblyNameObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SxsBeginAssemblyInstall" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SxsEndAssemblyInstall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SxsGenerateActivationContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SxsInstallW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SxsOleAut32MapConfiguredClsidToReferenceClsid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SxsOleAut32MapIIDOrCLSIDToTypeLibrary" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SxsOleAut32MapIIDToProxyStubCLSID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SxsOleAut32MapIIDToTLBPath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SxsOleAut32MapReferenceClsidToConfiguredClsid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SxsOleAut32RedirectTypeLibrary" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SxsProbeAssemblyInstallation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SxsQueryManifestInformation" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SxsUninstallW" PURGE="8" COMMENT="" />
+</LIBRARY>
+

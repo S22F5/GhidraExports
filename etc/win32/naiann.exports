@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="naiann.dll" PATH="/DLLArchive/etc/naiann.dll" DATE="Fri Jul 03 13:01:05 PDT 2020" VERSION="6.0.0">
+    <EXPORT ORDINAL="1" NAME="AnnAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AnnFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetAnnVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Init" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NewInfection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NewUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReadDynamicReg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReadStaticReg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetHandles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UserGone" PURGE="0" COMMENT="" />
+</LIBRARY>
+

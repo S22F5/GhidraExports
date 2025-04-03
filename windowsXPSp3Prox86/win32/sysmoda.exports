@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sysmoda.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sysmoda.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="DestinationModule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ModuleInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ModuleTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SourceModule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TypeModule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VirtualComputerModule" PURGE="8" COMMENT="" />
+</LIBRARY>
+

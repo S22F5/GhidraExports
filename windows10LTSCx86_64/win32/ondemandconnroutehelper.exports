@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ondemandconnroutehelper.dll" PATH="/DLLArchive/windows10LTSCX86_64/OnDemandConnRouteHelper.dll" DATE="Wed Oct 06 06:52:22 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FreeInterfaceContextTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetInterfaceContextTableForHostName" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OnDemandAddRouteRequest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OnDemandGetRoutingHint" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OnDemandRegisterNotification" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OnDemandRemoveMatchingRoute" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OnDemandRemoveRouteRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OnDemandUnRegisterNotification" PURGE="4" COMMENT="" />
+</LIBRARY>
+

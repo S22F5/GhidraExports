@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pshost.dll" PATH="/DLLArchive/etc/PsHost.dll" DATE="Fri Apr 05 09:14:22 PDT 2024" VERSION="4.66.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Start8BF_Filter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Start8BF_Filter_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

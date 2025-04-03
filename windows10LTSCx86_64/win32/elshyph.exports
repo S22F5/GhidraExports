@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="elshyph.dll" PATH="/DLLArchive/windows10LTSCX86_64/elshyph.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DoAction" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FreePropertyBag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FreeService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitService" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RecognizeText" PURGE="24" COMMENT="" />
+</LIBRARY>
+

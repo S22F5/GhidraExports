@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bandtest.dll" PATH="/DLLArchive/etc/BandTest.dll" DATE="Fri Jul 03 12:24:57 PDT 2020" VERSION="1, 0, 0, 0">
+    <EXPORT ORDINAL="1" NAME="?Detect_Bandwidth@@YAKKKHAAHAAKKPAUtBandtestSettingsStruct@@PAD@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

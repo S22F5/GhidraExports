@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qunpackdll.dll" PATH="/DLLArchive/etc/QUnpackDll.dll" DATE="Mon Apr 21 20:23:24 PDT 2008" VERSION="1, 2, 0, 0">
+    <EXPORT ORDINAL="1" NAME="GetLog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UnpackFile" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

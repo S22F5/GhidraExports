@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="widevinecdm.dll" PATH="/DLLArchive/windows10LTSCX86_64/widevinecdm.dll" DATE="Wed Aug 04 23:47:19 PDT 2021" VERSION="4.10.2209.0">
+    <EXPORT ORDINAL="1" NAME="CreateCdmInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeinitializeCdmModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCdmVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitializeCdmModule_4" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VerifyCdmHost_0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

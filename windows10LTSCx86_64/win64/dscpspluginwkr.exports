@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dscpspluginwkr.dll" PATH="/DLLArchive/windows10LTSCX86_64/Dscpspluginwkr.dll" DATE="Sat Dec 07 01:09:45 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CALogFreeMemory" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CALogSetJobDeviceName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CAWhatIfEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetResourceIdFromContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LogCADebugMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LogCAProgressMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LogCAVerboseMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LogCAWarningMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LogCAWhatIfMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LogCAWriteMIError" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nddeapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/nddeapi.dll" DATE="Sat Dec 07 01:10:02 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="500" NAME="NDdeShareAddA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="501" NAME="NDdeShareDelA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="502" NAME="NDdeShareEnumA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="503" NAME="NDdeShareGetInfoA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="504" NAME="NDdeShareSetInfoA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="505" NAME="NDdeGetErrorStringA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="506" NAME="NDdeIsValidShareNameA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="507" NAME="NDdeIsValidAppTopicListA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="508" NAME="NDdeSpecialCommandA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="509" NAME="NDdeGetShareSecurityA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="510" NAME="NDdeSetShareSecurityA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="511" NAME="NDdeGetTrustedShareA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="512" NAME="NDdeSetTrustedShareA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="513" NAME="NDdeTrustedShareEnumA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="600" NAME="NDdeShareAddW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="601" NAME="NDdeShareDelW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="602" NAME="NDdeShareEnumW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="603" NAME="NDdeShareGetInfoW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="604" NAME="NDdeShareSetInfoW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="605" NAME="NDdeGetErrorStringW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="606" NAME="NDdeIsValidShareNameW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="607" NAME="NDdeIsValidAppTopicListW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="608" NAME="NDdeSpecialCommandW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="609" NAME="NDdeGetShareSecurityW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="610" NAME="NDdeSetShareSecurityW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="611" NAME="NDdeGetTrustedShareW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="612" NAME="NDdeSetTrustedShareW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="613" NAME="NDdeTrustedShareEnumW" PURGE="24" COMMENT="" />
+</LIBRARY>
+

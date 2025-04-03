@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jcalg1.dll" PATH="/DLLArchive/etc/jcalg1.dll" DATE="Sat Oct 04 13:05:26 CEST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="JCALG1_Compress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JCALG1_Decompress_Fast" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JCALG1_Decompress_Small" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JCALG1_GetInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JCALG1_GetNeededBufferSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JCALG1_GetUncompressedSizeOfCompressedBlock" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imjplmp.dll" PATH="/DLLArchive/windows10LTSCX86_64/IMJPLMP.dll" DATE="Wed Oct 06 06:53:01 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CJDictsCommentDictionary_CreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CJDictsDataForDWORD_CreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CJDictsDictionaryManifest_CreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CJDictsIndexerSatori_CreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CJDictsSystemLexiconStoreDelayLoad__CreateInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CJDictsUserDictionary_CreateInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CJDictsUserDictionary_FillByDummyHeader" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetSegmentedStr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IMECFM_AddJpnWordInfoAndLmContextForWatsonReport" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InitGetSegmentedStr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UnInitGetSegmentedStr" PURGE="0" COMMENT="" />
+</LIBRARY>
+

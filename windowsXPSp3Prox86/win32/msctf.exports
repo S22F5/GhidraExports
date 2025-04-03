@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msctf.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msctf.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="TF_GetLangIcon" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TF_GetMlngHKL" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TF_GetMlngIconIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TF_GetThreadFlags" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TF_InatExtractIcon" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TF_InitMlngInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TF_IsInMarshaling" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TF_MlngInfoCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TF_RunInputCPL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetInputScope" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetInputScopeXML" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetInputScopes" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="TF_CUASAppFix" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="TF_CheckThreadInputIdle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TF_ClearLangBarAddIns" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="TF_CreateCategoryMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TF_CreateCicLoadMutex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TF_CreateDisplayAttributeMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TF_CreateInputProcessorProfiles" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TF_CreateLangBarItemMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TF_CreateLangBarMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TF_CreateThreadMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TF_DllDetachInOther" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TF_GetGlobalCompartment" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TF_GetInputScope" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TF_GetThreadMgr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="TF_InitSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="TF_InvalidAssemblyListCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="TF_InvalidAssemblyListCacheIfExist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="TF_IsCtfmonRunning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="TF_IsFullScreenWindowAcitvated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="TF_PostAllThreadMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="TF_RegisterLangBarAddIn" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="TF_UninitSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="TF_UnregisterLangBarAddIn" PURGE="8" COMMENT="" />
+</LIBRARY>
+

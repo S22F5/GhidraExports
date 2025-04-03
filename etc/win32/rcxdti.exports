@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rcxdti.dll" PATH="/DLLArchive/etc/RCXDTI.DLL" DATE="Wed Jun 17 21:20:44 CEST 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="ResourceParser" PURGE="12" COMMENT="" />
+</LIBRARY>
+

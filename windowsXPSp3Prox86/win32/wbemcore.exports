@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wbemcore.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wbemcore.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Reinitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Shutdown" PURGE="8" COMMENT="" />
+</LIBRARY>
+

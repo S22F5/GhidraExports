@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="htrn_jis.dll" PATH="/DLLArchive/etc/htrn_jis.dll" DATE="Fri Jul 03 12:37:33 PDT 2020" VERSION="5.1.2600.0">
+    <EXPORT ORDINAL="1" NAME="transCharIn" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="transCharOut" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="transCreateHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="transDestroyHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="transDoDialog" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="transInitHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="transLoadHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="transSaveHandle" PURGE="4" COMMENT="" />
+</LIBRARY>
+

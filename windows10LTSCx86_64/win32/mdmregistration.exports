@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdmregistration.dll" PATH="/DLLArchive/windows10LTSCX86_64/mdmregistration.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2" NAME="FindDiscoveryService" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DiscoverManagementService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DiscoverManagementServiceEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetDeviceManagementConfigInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetDeviceRegistrationInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetManagementAppHyperlink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsDeviceRegisteredWithManagement" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsManagementRegistrationAllowed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IsMdmUxWithoutAadAllowed" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RegisterDeviceWithManagement" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RegisterDeviceWithManagementUsingAADCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RegisterDeviceWithManagementUsingAADDeviceCredentials2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RegisterDeviceWithManagementUsingAADDeviceCredentials" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetDeviceManagementConfigInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetManagedExternally" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UnregisterDeviceWithManagement" PURGE="4" COMMENT="" />
+</LIBRARY>
+

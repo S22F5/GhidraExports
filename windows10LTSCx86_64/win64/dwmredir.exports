@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dwmredir.dll" PATH="/DLLArchive/windows10LTSCX86_64/dwmredir.dll" DATE="Wed Oct 06 06:51:56 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DwmRedirectionManagerInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DwmRedirectionManagerShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DwmInitializeEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DwmInitializePort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DwmRenderDesktopForDDA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DwmShutdownEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DwmVersionCheck" PURGE="0" COMMENT="" />
+</LIBRARY>
+

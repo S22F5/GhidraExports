@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zvl32cv.dll" PATH="/DLLArchive/etc/zvl32cv.dll" DATE="Fri Jul 03 12:14:12 PDT 2020" VERSION="4, 0, 2480, 5">
+    <EXPORT ORDINAL="1" NAME="ZVLBreakLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZVLCopyImageToClipboard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZVLCountExportFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZVLCountImportFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZVLCreateImageFromClipboard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZVLDeleteImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ZVLEnumerateExportFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ZVLEnumerateImportFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ZVLFreeLibraries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ZVLGetFormatFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ZVLGetFormatFileExt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ZVLGetFormatFileOffset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ZVLGetFormatName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ZVLGetInfoFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ZVLGetInfoFileOffset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ZVLGetMetafile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ZVLHeight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ZVLInitLibraries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ZVLLoadImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ZVLLoadImageOffset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ZVLLoadImageOffset2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ZVLLoadImagePreviewOffset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ZVLSaveImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ZVLStretchDraw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ZVLWidth" PURGE="0" COMMENT="" />
+</LIBRARY>
+

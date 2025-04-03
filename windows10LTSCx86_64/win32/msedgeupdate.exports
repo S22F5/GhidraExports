@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msedgeupdate.dll" PATH="/DLLArchive/windows10LTSCX86_64/msedgeupdate.dll" DATE="Thu Aug 05 15:41:06 PDT 2021" VERSION="1.3.147.37">
+    <EXPORT ORDINAL="1" NAME="DllEntry" PURGE="8" COMMENT="" />
+</LIBRARY>
+

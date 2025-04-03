@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xinput9_1_0.dll" PATH="/DLLArchive/windows10LTSCX86_64/XInput9_1_0.dll" DATE="Sat Dec 07 01:09:57 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XInputGetCapabilities" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="XInputGetDSoundAudioDeviceGuids" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="XInputGetState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="XInputSetState" PURGE="8" COMMENT="" />
+</LIBRARY>
+

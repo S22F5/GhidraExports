@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dot3ui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dot3ui.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="Dot3CreatePsPage" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LanFreeProfile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LanInvokeProfileUI" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LanInvokeProfileUIXml" PURGE="20" COMMENT="" />
+</LIBRARY>
+

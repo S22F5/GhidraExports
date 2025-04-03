@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="saaudit2005mt.dll" PATH="/DLLArchive/etc/saAudit2005MT.dll" DATE="Fri Jul 03 13:13:38 PDT 2020" VERSION="1, 2, 2, 0">
+    <EXPORT ORDINAL="1" NAME="saAudit_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="saAudit_unInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="saAudit_setFeatureAudit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="saAudit_featureAuditByString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="saAudit_setHardwareAudit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="saAudit_setCovertAudit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="saAudit_licenseAudit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="saAudit_getLastCovertSendResponse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="saAudit_getLastHardwareSendResponse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="saAudit_getLastFeatureSendResponse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="saAudit_getLastCovertSendTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="saAudit_getLastHardwareSendTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="saAudit_getLastFeatureSendTime" PURGE="0" COMMENT="" />
+</LIBRARY>
+

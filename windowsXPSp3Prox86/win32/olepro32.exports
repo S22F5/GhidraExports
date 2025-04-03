@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="olepro32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/olepro32.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="248" NAME="OleIconToCursor" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="249" NAME="OleCreatePropertyFrameIndirect" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="250" NAME="OleCreatePropertyFrame" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="251" NAME="OleLoadPicture" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="252" NAME="OleCreatePictureIndirect" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="253" NAME="OleCreateFontIndirect" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="254" NAME="OleTranslateColor" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="255" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="256" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

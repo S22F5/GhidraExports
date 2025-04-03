@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="divxdecoder.dll" PATH="/DLLArchive/etc/divxdecoder.dll" DATE="Fri Jul 03 21:31:26 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DivxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializeDivxDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetOutputFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UnInitializeDivxDecoder" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="abmres.dll" PATH="/DLLArchive/etc/abmres.dll" DATE="Fri Jul 03 21:15:00 CEST 2020" VERSION="8.0.0.0">
+    <EXPORT ORDINAL="1" NAME="u32GetResHandle" PURGE="0" COMMENT="" />
+</LIBRARY>
+

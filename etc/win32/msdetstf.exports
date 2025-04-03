@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdetstf.dll" PATH="/DLLArchive/etc/MSDETSTF.DLL" DATE="Wed May 13 09:04:18 PDT 1998" VERSION="2.2">
+    <EXPORT ORDINAL="1" NAME="CbFindFileInTree" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CbFindTargetOnEnvVar" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CbGetDateOfFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CbGetEnvVariableValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CbGetIniKeyString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CbGetVersionOfFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FDirExists" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FDoesFileExist" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FDoesIniKeyExist" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FDoesIniSectionExist" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FGetFileVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FGetLocalHardDrivesList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FGetNetworkDrivesList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FGetParallelPortsList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FGetProcessorType" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FGetRemovableDrivesList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FGetSerialPortsList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FGetValidDrivesList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FHas87MathChip" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FHasMonochromeDisplay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FHasMouseInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FIsDriverInConfig" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FIsLocalHardDrive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="FIsRemoteDrive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="FIsRemoveDrive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="FIsValidDrive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetExistingFOTFileForTTF" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetFreeSpaceDrive" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetTotalSpaceDrive" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetTypeFaceNameFromTTF" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="GetWindowsDir" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="GetWindowsSysDir" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="GetWindowsVersion" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="LGetVersionNthField" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="LcbFreeDrive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="LcbGetSizeOfFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="LcbTotalDrive" PURGE="4" COMMENT="" />
+</LIBRARY>
+

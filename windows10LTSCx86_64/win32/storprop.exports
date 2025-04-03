@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="storprop.dll" PATH="/DLLArchive/windows10LTSCX86_64/Storprop.dll" DATE="Sat Dec 07 01:09:13 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AtaPropPageProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CdromDisableDigitalPlayback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CdromEnableDigitalPlayback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CdromIsDigitalPlaybackEnabled" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CdromKnownGoodDigitalPlayback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CdromSetDefaultDvdRegion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DiskClassInstaller" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DiskPropPageProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DvdClassInstaller" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DvdLauncher" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DvdPropPageProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HdcCoInstaller" PURGE="16" COMMENT="" />
+</LIBRARY>
+

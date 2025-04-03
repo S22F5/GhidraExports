@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sdhcinst.dll" PATH="/DLLArchive/etc/sdhcinst.dll" DATE="Fri Jul 03 13:14:49 PDT 2020" VERSION="6.0.4069.1 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="SdClassCoInstaller" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SdClassInstall" PURGE="12" COMMENT="" />
+</LIBRARY>
+

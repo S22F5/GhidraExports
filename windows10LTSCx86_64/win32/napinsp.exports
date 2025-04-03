@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="napinsp.dll" PATH="/DLLArchive/windows10LTSCX86_64/NapiNSP.dll" DATE="Wed Oct 06 06:52:23 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NSPStartup" PURGE="8" COMMENT="" />
+</LIBRARY>
+

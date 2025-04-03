@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="optipng.dll" PATH="/DLLArchive/etc/OptiPNG.dll" DATE="Sun Nov 26 13:44:46 PST 2023" VERSION="4.62.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OptiPNG_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

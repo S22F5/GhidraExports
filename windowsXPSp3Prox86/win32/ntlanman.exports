@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntlanman.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntlanman.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="12" NAME="NPGetConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NPGetCaps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="I_SystemFocusDialog" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NPGetUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NPAddConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NPCancelConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IsDfsPathEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NPAddConnection3ForCSCAgent" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NPCancelConnectionForCSCAgent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ServerBrowseDialogA0" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ShareAsDialogA0" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ShareCreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ShareManage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ShareStop" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="StopShareDialogA0" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NPPropertyDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NPGetDirectoryType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="NPDirectoryNotify" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="NPGetPropertyText" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="NPOpenEnum" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="NPEnumResource" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="NPCloseEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="NPFormatNetworkName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="NPAddConnection3" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="NPGetUniversalName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="NPGetResourceParent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="NPGetConnectionPerformance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="NPGetResourceInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="NPGetReconnectFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="NPGetConnection3" PURGE="16" COMMENT="" />
+</LIBRARY>
+

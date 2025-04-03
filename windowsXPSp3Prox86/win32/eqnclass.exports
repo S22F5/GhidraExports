@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eqnclass.dll" PATH="/DLLArchive/windowsXPSp3Prox86/eqnclass.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="5.0u(58)">
+    <EXPORT ORDINAL="1" NAME="ClassInstall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CoInstallClass" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CoInstallDevice" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CoInstallPortDevice" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnumPortPropPages" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnumPropPages" PURGE="12" COMMENT="" />
+</LIBRARY>
+

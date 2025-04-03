@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="corperfmonext.dll" PATH="/DLLArchive/windows10LTSCX86_64/CORPerfMonExt.dll" DATE="Sat Dec 07 01:10:36 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="CloseCtrs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectCtrs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenCtrs" PURGE="0" COMMENT="" />
+</LIBRARY>
+

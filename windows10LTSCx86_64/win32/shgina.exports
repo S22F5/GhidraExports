@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="shgina.dll" PATH="/DLLArchive/windows10LTSCX86_64/shgina.dll" DATE="Sat Dec 07 01:09:27 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="-1" COMMENT="" FOWARDLIBRARY="SHUNIMPL.DLL" FOWARDSYMBOL="#187" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

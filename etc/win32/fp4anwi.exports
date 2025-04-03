@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fp4anwi.dll" PATH="/DLLArchive/etc/FP4ANWI.DLL" DATE="Fri Jul 03 12:34:37 PDT 2020" VERSION="4.0.2.2611">
+    <EXPORT ORDINAL="1" NAME="CreateHttpSock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Term" PURGE="0" COMMENT="" />
+</LIBRARY>
+

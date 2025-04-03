@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unimdmat.dll" PATH="/DLLArchive/etc/unimdmat.dll" DATE="Fri Jul 03 13:24:53 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="100" NAME="UmInitializeModemDriver" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="UmDeinitializeModemDriver" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="UmOpenModem" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="UmCloseModem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="UmInitModem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="UmMonitorModem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="UmAnswerModem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="UmDialModem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="UmHangupModem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="UmGenerateDigit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="UmSetSpeakerPhoneState" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="UmDuplicateDeviceHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="UmAbortCurrentModemCommand" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="UmSetPassthroughMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="UmIssueCommand" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="UmWaveAction" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="UmLogStringA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="UmGetDiagnostics" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="UmLogDiagnostics" PURGE="8" COMMENT="" />
+</LIBRARY>
+

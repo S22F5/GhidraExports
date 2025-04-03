@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msv1160cp10.dll" PATH="/DLLArchive/etc/MSV1160CP10.dll" DATE="Tue Aug 13 05:58:36 PDT 2019" VERSION="10.0.14393.187 (rs1_release_inmarket.160906-1818)">
+    <EXPORT ORDINAL="1" NAME="DLLGetDISMProviderCLSID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgmegen.dll" PATH="/DLLArchive/etc/jgmegen.dll" DATE="Fri Jul 03 21:44:27 CEST 2020" VERSION="5020">
+    <EXPORT ORDINAL="2" NAME="JgpMemStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpMemShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Jgpfmemcpy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Jgphmemcpy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Jgpfmalloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Jgpffree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Jgpfrealloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="JgpBufInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="JgpBufKill" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="JgpBufInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="JgpBufIsEOD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="JgpBufSetEOD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="JgpBufGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="JgpBufInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="JgpBufTotalInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="JgpBufRelease" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="JgpBufReset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

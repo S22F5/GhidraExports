@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wuaueng1.dll" PATH="/DLLArchive/etc/wuaueng1.dll" DATE="Fri Jul 03 13:38:40 PDT 2020" VERSION="5.4.3790.2182 built by: srv03_rtm(ntvbl04)">
+    <EXPORT ORDINAL="1" NAME="ServiceHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ServiceMain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

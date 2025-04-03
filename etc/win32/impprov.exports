@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="impprov.dll" PATH="/DLLArchive/etc/IMPPROV.DLL" DATE="Fri Jul 03 12:42:44 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

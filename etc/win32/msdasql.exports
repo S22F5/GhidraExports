@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdasql.dll" PATH="/DLLArchive/etc/msdasql.dll" DATE="Fri Jul 03 12:55:10 PDT 2020" VERSION="2.81.1117.0 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

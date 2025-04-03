@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dolbyhph.dll" PATH="/DLLArchive/etc/dolbyhph.dll" DATE="Fri Jul 03 12:31:58 PDT 2020" VERSION="1.10.0270">
+    <EXPORT ORDINAL="1" NAME="_LakeClose@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_LakeDH@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_LakeFindFilter@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_LakeFlush@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_LakeGetFilterInfo@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_LakeGetMode@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_LakeLoadFilter@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_LakeOpen@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_LakeProcess@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_LakeSetMode@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

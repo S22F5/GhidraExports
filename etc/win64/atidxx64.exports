@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atidxx64.dll" PATH="/DLLArchive/etc/atidxx64.dll" DATE="Thu Jun 27 01:01:12 PDT 2024" VERSION="8.17.10.01087">
+    <EXPORT ORDINAL="1" NAME="AmdD3D11CreateDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AmdD3D11CreateDeviceAndSwapChain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AmdD3D11CreateDeviceAndSwapChainExt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AmdD3D11CreateDeviceExt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AmdDxExtCreate11" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AmdDxExtCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AmdDxShimQueryInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OpenAdapter10" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OpenAdapter10_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OpenShimInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="XdxInitXopAdapterServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="XdxInitXopServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="XdxQueryTlsLookupTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AmdDxGsaCompileShader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AmdDxGsaFreeCompiledShader" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AmdGetDxxModuleHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AmdLiquidVrAffinityInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AmdLiquidVrAffinityTerm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AmdLiquidVrD3D11CreateDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AmdLiquidVrD3D11WrapDeviceContext" PURGE="0" COMMENT="" />
+</LIBRARY>
+

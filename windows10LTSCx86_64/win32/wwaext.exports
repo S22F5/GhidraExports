@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wwaext.dll" PATH="/DLLArchive/windows10LTSCX86_64/WwaExt.dll" DATE="Wed Oct 06 15:52:22 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CheckAllowDiagnosticsMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DetermineCurrentDisplayRotationAngle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ExtensionModulePreActivate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetExtensionHostModuleCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetExtensionHostModuleFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetExtensionWebModuleCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetExtensionWebModuleFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetExtensionWebMultiThreadedModuleCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetExtensionWebMultiThreadedModuleFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ProcessDisplayRotation" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetPhoneWerParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="StaticExtensionInitialization" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="StaticExtensionUnInitialization" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WWABehaviorEnabled" PURGE="4" COMMENT="" />
+</LIBRARY>
+

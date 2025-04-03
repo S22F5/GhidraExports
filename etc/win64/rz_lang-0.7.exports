@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_lang-0.7.dll" PATH="/DLLArchive/etc/rz_lang-0.7.dll" DATE="Mon Mar 04 10:49:42 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_lang_def_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_lang_define" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_lang_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_lang_get_by_extension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_lang_get_by_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_lang_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_lang_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_lang_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_lang_prompt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_lang_run" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_lang_run_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_lang_run_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_lang_set_argv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_lang_set_user_ptr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_lang_setup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_lang_undef" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_lang_use" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_lang_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

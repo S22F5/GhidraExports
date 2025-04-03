@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="irfanview sandbox.dll" PATH="/DLLArchive/etc/IrfanView Sandbox.dll" DATE="Fri Apr 17 11:57:04 PDT 2015" VERSION="1,3,0,14">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartEffects2" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

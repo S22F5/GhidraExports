@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mmxpt.dll" PATH="/DLLArchive/etc/MMxpt.dll" DATE="Fri Jul 03 12:51:48 PDT 2020" VERSION="2, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="InstallFormatSN" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="daysUntilExpiration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="getEnumText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getLICENSECODE_Text" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="getLICENSECODE_TextFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="getMODIFICATION_CODE_Text" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="getMODIFICATION_CODE_TextFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="getMachineID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="getPACKAGING_Text" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="getPACKAGING_TextFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="getPLATFORM_TextFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="getProductName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="getProductNameFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="getProductTypeText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="getProductTypeTextFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="getSN_STATUS_Text" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="getSN_STATUS_TextFromValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="getSerializeData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="getSerializeStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="interpretSerialNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="isInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="isSerialNumberOk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="isUpgrade" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="isWebRegisterEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="launchBrowserToURL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="okToInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="okToLaunch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="printRegister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="registrationHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="removeSerialData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="sniffForPrerequisites" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="storeSerialData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="validateSNPrerequisite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="webRegister" PURGE="0" COMMENT="" />
+</LIBRARY>
+

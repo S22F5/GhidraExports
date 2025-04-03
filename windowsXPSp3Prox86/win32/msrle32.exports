@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msrle32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msrle32.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0845)">
+    <EXPORT ORDINAL="1" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

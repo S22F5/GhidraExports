@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pango-hebrew-fc.dll" PATH="/DLLArchive/etc/pango-hebrew-fc.dll" DATE="Fri Jul 03 13:06:05 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_hebrew_shaper_bidi_reorder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_hebrew_shaper_get_cluster_kerning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_hebrew_shaper_get_next_cluster" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_hebrew_shaper_swap_range" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_script_engine_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_script_engine_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_script_engine_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_script_engine_list" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbsync.dll" PATH="/DLLArchive/etc/dbsync.dll" DATE="Fri Jul 03 12:30:38 PDT 2020" VERSION="11.00.1322">
+    <EXPORT ORDINAL="1" NAME="??0CDbSyncErrorLog@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CDbSyncErrorLog@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4CDbSyncErrorLog@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Append@CDbSyncErrorLog@@QAEXQBU_GUID@@QBDJJ11@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?CreateDBSync@@YAXPAPAUIDBSync@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Flush@CDbSyncErrorLog@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Reset@CDbSyncErrorLog@@QAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

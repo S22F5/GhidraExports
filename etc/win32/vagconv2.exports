@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vagconv2.dll" PATH="/DLLArchive/etc/vagconv2.dll" DATE="Wed Mar 13 11:45:45 PDT 2013" VERSION="1, 0, 0, 0">
+    <EXPORT ORDINAL="1" NAME="_sceVagConvert@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_sceVagConvertFin@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_sceVagConvertInit@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

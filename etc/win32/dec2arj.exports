@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dec2arj.dll" PATH="/DLLArchive/etc/DEC2ARJ.DLL" DATE="Fri Jul 03 21:30:44 CEST 2020" VERSION="3.02.08.32">
+    <EXPORT ORDINAL="1" NAME="?DecDeleteARJEngine@@YAJPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DecDeleteEngine@@YAJPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DecNewARJEngine@@YAJPAPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?DecNewEngine@@YAJPAPAVIDecEngine@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

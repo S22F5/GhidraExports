@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xlzma.dll" PATH="/DLLArchive/etc/Xlzma.dll" DATE="Sun Feb 18 02:25:32 CET 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Compress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FreeCompressionMemory" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

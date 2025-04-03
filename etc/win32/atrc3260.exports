@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atrc3260.dll" PATH="/DLLArchive/etc/atrc3260.dll" DATE="Fri Jul 03 12:24:06 PDT 2020" VERSION="6.0.0.500">
+    <EXPORT ORDINAL="1" NAME="RAGetBackend" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RACloseCodec" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RADecode" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RAEncode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RAFlush" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RAFreeDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RAFreeEncoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RAGetFlavorProperty" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RAGetNumberOfFlavors2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RAGetNumberOfFlavors" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RAInitDecoder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RAInitEncoder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RAOpenCodec2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RAOpenCodec" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RASetFlavor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iecutil.dll" PATH="/DLLArchive/etc/iecutil.dll" DATE="Fri Jul 03 21:40:15 CEST 2020" VERSION="10.0.20.1.US.1       ">
+    <EXPORT ORDINAL="101" NAME="IECUTIL_GetIEMajorVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="IECUTIL_Initialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="IECUTIL_GetCacheInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="IECUTIL_ClearCacheEntries" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="IECUTIL_SetMaximumCacheSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="IECUTIL_Uninitialize" PURGE="4" COMMENT="" />
+</LIBRARY>
+

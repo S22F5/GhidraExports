@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lang_english.dll" PATH="/DLLArchive/etc/lang_english.dll" DATE="Wed Apr 04 02:50:22 CEST 2012" VERSION="">
+    <EXPORT ORDINAL="1" NAME="dup_language" PURGE="0" COMMENT="" />
+</LIBRARY>
+

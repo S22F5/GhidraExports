@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lfs.dll" PATH="/DLLArchive/etc/lfs.dll" DATE="Wed Jan 25 12:06:38 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="luaopen_lfs" PURGE="0" COMMENT="" />
+</LIBRARY>
+

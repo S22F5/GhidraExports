@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="a3dapi.dll" PATH="/DLLArchive/etc/a3dapi.dll" DATE="Fri Jul 03 12:14:26 PDT 2020" VERSION="2.02">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wisc10.dll" PATH="/DLLArchive/etc/wisc10.dll" DATE="Fri Jul 03 13:33:24 PDT 2020" VERSION="1.02.814.0">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateConnector" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

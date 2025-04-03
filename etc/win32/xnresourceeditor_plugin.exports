@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xnresourceeditor_plugin.dll" PATH="/DLLArchive/etc/XNResourceEditor_Plugin.dll" DATE="Wed Jun 22 08:14:24 PDT 2005" VERSION="2.1.1.1">
+    <EXPORT ORDINAL="1" NAME="StartPTPlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPTPluginName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LoadDll" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

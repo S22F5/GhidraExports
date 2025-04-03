@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sfmapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sfmapi.dll" DATE="Fri Aug 17 13:36:32 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="AfpAdminBufferFree" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AfpAdminConnect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AfpAdminConnectionClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AfpAdminConnectionEnum" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AfpAdminDirectoryGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AfpAdminDirectorySetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AfpAdminDisconnect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AfpAdminETCMapAdd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AfpAdminETCMapAssociate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AfpAdminETCMapDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AfpAdminETCMapGetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AfpAdminETCMapSetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AfpAdminFileClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AfpAdminFileEnum" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AfpAdminFinderSetInfo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AfpAdminInvalidVolumeDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AfpAdminInvalidVolumeEnum" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AfpAdminMessageSend" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AfpAdminProfileClear" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AfpAdminProfileGet" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AfpAdminServerGetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AfpAdminServerSetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AfpAdminSessionClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AfpAdminSessionEnum" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AfpAdminStatisticsClear" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="AfpAdminStatisticsGet" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="AfpAdminStatisticsGetEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="AfpAdminVolumeAdd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="AfpAdminVolumeDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="AfpAdminVolumeEnum" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AfpAdminVolumeGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="AfpAdminVolumeSetInfo" PURGE="12" COMMENT="" />
+</LIBRARY>
+

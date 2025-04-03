@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cshell.dll" PATH="/DLLArchive/etc/cshell.dll" DATE="Fri Jul 03 12:28:25 PDT 2020" VERSION="1, 27, 0, 0">
+    <EXPORT ORDINAL="1" NAME="GetClientShellFunctions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetClientShellVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetInstanceHandle" PURGE="0" COMMENT="" />
+</LIBRARY>
+

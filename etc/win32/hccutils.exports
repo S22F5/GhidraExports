@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hccutils.dll" PATH="/DLLArchive/etc/hccutils.dll" DATE="Fri Jul 03 12:36:37 PDT 2020" VERSION="3,0,0,1757">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateThisKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FreeResources" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DeleteString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnumDeviceByClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnumDspDev" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FindBaseKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FindBaseKeyNT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FindDeviceByNameAndClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FindDeviceKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FindDeviceKeyNT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FindResources" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FindShellKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FindShellKeyNT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FreeDirectDrawInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetAttachedMonitorDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetCUICustomizationKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetCUIDriverFromClassDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetCommonRegKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetCurrentDisplay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetCurrentDisplayFromPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetDirectDrawInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetDisplayDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetMonitorRect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetMyRegKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetStorageDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IsDisplayDeviceActive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IsDisplayValid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="LoadACCELERATORS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="LoadBITMAP" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="LoadBitmapFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="LoadCURSOR" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="LoadDialogString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="LoadICON" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="LoadIMAGE" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="LoadSTRING" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ReleaseClassDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SaveString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="StretchBitmap" PURGE="0" COMMENT="" />
+</LIBRARY>
+

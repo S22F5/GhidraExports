@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cdr4dll.dll" PATH="/DLLArchive/etc/CDR4DLL.DLL" DATE="Fri Jul 03 12:26:32 PDT 2020" VERSION="2.5 (075)">
+    <EXPORT ORDINAL="1" NAME="_CDR4VSDCloseWriteSession@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_CDR4VSDDisableAutoInsert@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_CDR4VSDDisableAutoRunPlay@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_CDR4VSDEnableAutoInsert@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_CDR4VSDEnableAutoRunPlay@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_CDR4VSDEndFileSystemBlocking@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_CDR4VSDGetDriverVersion@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_CDR4VSDQueryAutoInsert@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_CDR4VSDQueryCDX@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_CDR4VSDQueryDisconnect@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_CDR4VSDQueryFileSystemBlocking@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_CDR4VSDQueryMediaChanged@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_CDR4VSDQueryReserve@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_CDR4VSDQuerySession@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_CDR4VSDReleaseDevice@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_CDR4VSDReserveDevice@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_CDR4VSDSetDisconnect@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_CDR4VSDStartFileSystemBlocking@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_CDR4VSDStartSucceedTURs@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_CDR4VSDStartWriteSession@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_CDR4VSDStopSucceedTURs@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SessMgrGetCurrentSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SessMgrGetDeviceCnt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SessMgrGetDeviceInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SessMgrGetDriveLetterFromSCSIId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SessMgrGetSCSIIdForDriveLetter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SessMgrGetSessionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SessMgrGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SessMgrRefreshSessionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SessMgrSetCurrentSession" PURGE="0" COMMENT="" />
+</LIBRARY>
+

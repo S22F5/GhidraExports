@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="explorerframe.dll" PATH="/DLLArchive/etc/ExplorerFrame.dll" DATE="Fri Jul 03 12:33:43 PDT 2020" VERSION="6.1.7601.17514 (win7sp1_rtm.101119-1850)">
+    <EXPORT ORDINAL="110" NAME="Ordinal_110" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="Ordinal_111" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="DllGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="Ordinal_134" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="startwiz.dll" PATH="/DLLArchive/etc/STARTWIZ.DLL" DATE="Fri Jul 03 13:20:22 PDT 2020" VERSION="9.0.2416">
+    <EXPORT ORDINAL="1" NAME="HrStartupWizard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

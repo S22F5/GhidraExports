@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sfc_os.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sfc_os.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SfcGetNextProtectedFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SfcIsFileProtected" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SfcWLEventLogoff" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SfcWLEventLogon" PURGE="4" COMMENT="" />
+</LIBRARY>
+

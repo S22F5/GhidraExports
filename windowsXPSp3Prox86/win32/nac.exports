@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nac.dll" PATH="/DLLArchive/windowsXPSp3Prox86/nac.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="100" NAME="CreateMediaCapability" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="CreateStreamProvider" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="CreateQoS" PURGE="12" COMMENT="" />
+</LIBRARY>
+

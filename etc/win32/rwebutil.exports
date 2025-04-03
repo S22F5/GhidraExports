@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rwebutil.dll" PATH="/DLLArchive/etc/RWEBUTIL.DLL" DATE="Tue Feb 10 06:23:14 PST 1998" VERSION="1, 0, 0, 3">
+    <EXPORT ORDINAL="5" NAME="RWebUtil_OleRegisterTypeLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RWebUtil_OleUnregisterTypeLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

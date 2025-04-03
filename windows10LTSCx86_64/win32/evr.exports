@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="evr.dll" PATH="/DLLArchive/windows10LTSCX86_64/evr.dll" DATE="Wed Oct 06 06:53:18 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MFGetUncompressedVideoFormat" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MFConvertColorInfoFromDXVA" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MFConvertColorInfoToDXVA" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MFConvertFromFP16Array" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MFConvertToFP16Array" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MFCopyImage" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MFCreateDXSurfaceBuffer" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MFCreateVideoMediaType" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MFCreateVideoMediaTypeFromBitMapInfoHeader" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MFCreateVideoMediaTypeFromSubtype" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MFCreateVideoMediaTypeFromVideoInfoHeader2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MFCreateVideoMediaTypeFromVideoInfoHeader" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MFCreateVideoMixer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MFCreateVideoMixerAndPresenter" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MFCreateVideoOTA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MFCreateVideoPresenter2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MFCreateVideoPresenter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MFCreateVideoSampleAllocator" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MFCreateVideoSampleFromSurface" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MFGetPlaneSize" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MFGetStrideForBitmapInfoHeader" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MFInitVideoFormat" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MFInitVideoFormat_RGB" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MFIsFormatYUV" PURGE="4" COMMENT="" />
+</LIBRARY>
+

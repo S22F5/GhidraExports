@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aiimport.dll" PATH="/DLLArchive/etc/AIImport.dll" DATE="Fri Jul 03 12:17:58 PDT 2020" VERSION="6, 0, 21, 0">
+    <EXPORT ORDINAL="1" NAME="MFIGetImporterInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

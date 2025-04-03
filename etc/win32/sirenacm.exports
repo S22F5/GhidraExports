@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sirenacm.dll" PATH="/DLLArchive/etc/sirenacm.dll" DATE="Fri Jul 03 13:16:35 PDT 2020" VERSION="7.5.0324.0">
+    <EXPORT ORDINAL="1" NAME="Siren7_DecodeFrame" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Siren7_EncodeFrame" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Siren7_InitDecoderContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Siren7_InitEncoderContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Siren7_SizeofBitstream" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Siren7_SizeofDecoderContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Siren7_SizeofEncoderContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DriverProc" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Siren7_DecodeFrame@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Siren7_EncodeFrame@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Siren7_InitDecoderContext@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Siren7_InitEncoderContext@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Siren7_SizeofBitstream@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Siren7_SizeofDecoderContext@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_Siren7_SizeofEncoderContext@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

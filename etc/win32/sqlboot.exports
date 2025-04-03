@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqlboot.dll" PATH="/DLLArchive/etc/SQLBOOT.DLL" DATE="Fri Jul 03 22:19:12 CEST 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="IsScatterGatherOK" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="QueryValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="QueryValueEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="QueryValueW" PURGE="12" COMMENT="" />
+</LIBRARY>
+

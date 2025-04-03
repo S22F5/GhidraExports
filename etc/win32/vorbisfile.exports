@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vorbisfile.dll" PATH="/DLLArchive/etc/vorbisfile.dll" DATE="Fri Jul 03 13:28:26 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ov_bitrate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ov_bitrate_instant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ov_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ov_comment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ov_crosslap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ov_halfrate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ov_halfrate_p" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ov_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ov_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ov_open_callbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ov_pcm_seek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ov_pcm_seek_lap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ov_pcm_seek_page" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ov_pcm_seek_page_lap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ov_pcm_tell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ov_pcm_total" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ov_raw_seek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ov_raw_seek_lap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ov_raw_tell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ov_raw_total" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ov_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ov_read_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ov_seekable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ov_serialnumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ov_streams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ov_test" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ov_test_callbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ov_test_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ov_time_seek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ov_time_seek_lap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ov_time_seek_page" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ov_time_seek_page_lap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ov_time_tell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ov_time_total" PURGE="0" COMMENT="" />
+</LIBRARY>
+

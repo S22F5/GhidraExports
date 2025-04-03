@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unfakeninja.dll" PATH="/DLLArchive/etc/UnFakeNinja.dll" DATE="Tue Apr 27 11:08:04 PDT 2010" VERSION="v1.00.0000">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadDll" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

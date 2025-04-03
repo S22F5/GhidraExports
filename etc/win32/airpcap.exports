@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="airpcap.dll" PATH="/DLLArchive/etc/airpcap.dll" DATE="Wed Nov 15 11:02:58 PST 2023" VERSION="4.1.0.1622">
+    <EXPORT ORDINAL="1" NAME="AirpcapClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AirpcapConvertChannelToFrequency" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AirpcapConvertFrequencyToChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AirpcapFreeDeviceList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AirpcapGetDecryptionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AirpcapGetDeviceCapabilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AirpcapGetDeviceChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AirpcapGetDeviceChannelEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AirpcapGetDeviceChannelLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AirpcapGetDeviceKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AirpcapGetDeviceList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AirpcapGetDeviceMacFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AirpcapGetDeviceSupportedChannels" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AirpcapGetDeviceTimestamp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AirpcapGetDeviceTransmissionLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AirpcapGetDriverDecryptionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AirpcapGetDriverKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AirpcapGetFcsPresence" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AirpcapGetFcsValidation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AirpcapGetKernelBufferSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AirpcapGetLastError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AirpcapGetLedsNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AirpcapGetLinkType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AirpcapGetMacAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AirpcapGetReadEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="AirpcapGetStats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="AirpcapGetTxPower" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="AirpcapGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="AirpcapOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="AirpcapRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AirpcapSetDecryptionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="AirpcapSetDeviceChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="AirpcapSetDeviceChannelEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="AirpcapSetDeviceChannelLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="AirpcapSetDeviceKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="AirpcapSetDeviceMacFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="AirpcapSetDeviceTransmissionLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="AirpcapSetDriverDecryptionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="AirpcapSetDriverKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="AirpcapSetFcsPresence" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="AirpcapSetFcsValidation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="AirpcapSetFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="AirpcapSetKernelBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="AirpcapSetLinkType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="AirpcapSetMacAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="AirpcapSetMinToCopy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="AirpcapSetTxPower" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="AirpcapStoreCurConfigAsAdapterDefault" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="AirpcapTurnLedOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="AirpcapTurnLedOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="AirpcapWrite" PURGE="0" COMMENT="" />
+</LIBRARY>
+

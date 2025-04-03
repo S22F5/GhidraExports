@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="keyiso.dll" PATH="/DLLArchive/windows10LTSCX86_64/keyiso.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.388 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="KeyIsoServiceMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KeyIsoSetAuditingInterface" PURGE="4" COMMENT="" FOWARDLIBRARY="NCRYPTPROV.DLL" FOWARDSYMBOL="SetAuditingInterface" />
+</LIBRARY>
+

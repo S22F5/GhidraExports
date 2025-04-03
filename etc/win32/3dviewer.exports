@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dviewer.dll" PATH="/DLLArchive/etc/3dviewer.dll" DATE="Fri Jul 03 21:11:49 CEST 2020" VERSION="1, 5, 3, 8">
+    <EXPORT ORDINAL="1" NAME="Q3WinViewerAdjustCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Q3WinViewerClear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Q3WinViewerContinueTracking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Q3WinViewerCopy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Q3WinViewerCursorChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Q3WinViewerCut" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Q3WinViewerDispose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Q3WinViewerDraw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Q3WinViewerDrawContent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Q3WinViewerDrawControlStrip" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Q3WinViewerGetBackgroundColor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Q3WinViewerGetBitmap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Q3WinViewerGetBounds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Q3WinViewerGetButtonRect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Q3WinViewerGetCameraCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Q3WinViewerGetControlStrip" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Q3WinViewerGetCurrentButton" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Q3WinViewerGetDimension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Q3WinViewerGetFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Q3WinViewerGetGroup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Q3WinViewerGetMinimumDimension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Q3WinViewerGetReleaseVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Q3WinViewerGetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Q3WinViewerGetUndoString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Q3WinViewerGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Q3WinViewerGetView" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Q3WinViewerGetViewer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Q3WinViewerGetWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Q3WinViewerMouseDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Q3WinViewerMouseUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Q3WinViewerNew" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Q3WinViewerPaste" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Q3WinViewerRestoreView" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Q3WinViewerSetBackgroundColor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="Q3WinViewerSetBounds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="Q3WinViewerSetCameraNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="Q3WinViewerSetCameraView" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="Q3WinViewerSetCurrentButton" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="Q3WinViewerSetDimension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Q3WinViewerSetFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="Q3WinViewerSetWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="Q3WinViewerUndo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="Q3WinViewerUseData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="Q3WinViewerUseFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="Q3WinViewerUseGroup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="Q3WinViewerWriteData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="Q3WinViewerWriteFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptcatsvc.dll" PATH="/DLLArchive/windows10LTSCX86_64/cryptcatsvc.dll" DATE="Wed Oct 06 06:52:02 PDT 2021" VERSION="10.0.19041.508 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CatDbOfflineRebuildDatabasesRundll32W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CryptCATAdminCatalogDatabase" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CryptsvcDllCtrl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CatDbOfflineRebuildDatabasesW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jiti.dll" PATH="/DLLArchive/etc/jiti.dll" DATE="Fri Jul 03 12:44:40 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="IsFiletypeInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsMimetypeInstalled" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zssgcrcole2.dll" PATH="/DLLArchive/etc/zssgcrcole2.dll" DATE="Thu Mar 13 13:18:00 PST 2003" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CRC32FileCheck" PURGE="0" COMMENT="" />
+</LIBRARY>
+

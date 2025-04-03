@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vsui50.dll" PATH="/DLLArchive/etc/VsUi50.dll" DATE="Fri Jul 03 22:28:51 CEST 2020" VERSION="6.02.3000.1">
+    <EXPORT ORDINAL="2" NAME="CentralCreateWindow" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CentralAppInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CentralAppShutDown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ScanInstance_Create" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ScanInstance_Delete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ScanInstance_Start" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ScanInstance_Stop" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ScanInstance_Pause" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ScanInstance_Resume" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ScanInstance_GetEngineInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ScanInstance_DoWork" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RuStopComponent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RuStartComponent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RuGetComponentVersion" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RuAppInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RuAppShutdown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_DateTimeToSysTime@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_ScanInstance_SetExtendedOptions@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_Sched_Add@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_Sched_CommitChanges@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_Sched_Delete@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_Sched_End@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_Sched_GetCount@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_Sched_GetDir@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_Sched_GetItem@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_Sched_Init@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_Sched_RandomizeTime@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_SysTimeToDateTime@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

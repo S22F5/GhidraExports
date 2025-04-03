@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pccompat.dll" PATH="/DLLArchive/etc/pccompat.dll" DATE="Fri Jul 03 13:06:15 PDT 2020" VERSION="0, 1, 42, 4">
+    <EXPORT ORDINAL="1" NAME="_PCC_Evaluate@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_PCC_GetBooleanProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_PCC_GetFloatProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_PCC_GetIntegerProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_PCC_GetMessage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_PCC_GetMessageCount@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_PCC_GetStringProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_PCC_GetVersionProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_PCC_Initialize@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_PCC_ResetState@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_PCC_SetBooleanProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_PCC_SetFloatProperty@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_PCC_SetIntegerProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_PCC_SetStringProperty@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_PCC_SetVersionProperty@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_PCC_SetVinceOptions@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_PCC_ShowConsentUI@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_PCC_ShowMessages@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_PCC_ShutdownCheckpoint@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_PCC_StartupCheckpoint@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_PCC_Uninitialize@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

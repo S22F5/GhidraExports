@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dimm.dll" PATH="/DLLArchive/etc/D3DImm.dll" DATE="Sun Oct 06 11:25:40 PDT 2024" VERSION="4.7.1.3000">
+    <EXPORT ORDINAL="1" NAME="GetD3DInterface" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetD3DVersion" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

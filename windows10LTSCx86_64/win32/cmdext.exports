@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cmdext.dll" PATH="/DLLArchive/windows10LTSCX86_64/cmdext.dll" DATE="Sat Dec 07 01:09:22 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CmdBatNotificationStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoSHChangeNotify" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FindFirstStreamWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FindNextStreamWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetBinaryTypeWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetVDMCurrentDirectoriesStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LookupAccountSidWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MessageBeepStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="QueryFullProcessImageNameWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SaferWorker" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ShellExecuteWorker" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WNetAddConnection2WStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WNetCancelConnection2WStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WNetGetConnectionWStub" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

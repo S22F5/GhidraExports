@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wpportinglibrary.dll" PATH="/DLLArchive/windows10LTSCX86_64/WpPortingLibrary.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CmAcquireConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CmApiDeinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CmApiInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CmCloseSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CmCreateSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CmGetFirstCandidateConnection" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CmReleaseConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CmSetDataActivityState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetAppStorageFolder" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDeviceUniqueID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetPhoneBuildInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetStorageDeviceInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Is_AppXExecutionServiceReady_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Is_BatterySaverState_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Is_CmNet_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Is_GrantWPNoNetworkingRegistryAccess_Hack_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Is_OsBeginPostBootWorkState_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Is_ProvisioningCompleteState_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Is_ShellReadyInternalState_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Is_ShellStartReady_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Is_TaskScheduler_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Is_VoIPActiveCallState_Available" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PackageFullNameFromProductIdAndVersion" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PackageFullNameFromProductInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ProductInfoFromPackageFullName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="QueryPhoneInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TaskSchedulerCreateSchedule" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TaskSchedulerDeinit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TaskSchedulerDeleteSchedule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TaskSchedulerEnableSchedule" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="TaskSchedulerFreeSchedule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="TaskSchedulerFreeScheduleStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="TaskSchedulerGetPublishStateName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="TaskSchedulerGetSchedule" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="TaskSchedulerInit" PURGE="4" COMMENT="" />
+</LIBRARY>
+

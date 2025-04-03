@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dgsetup.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dgsetup.dll" DATE="Fri Aug 17 13:36:14 PDT 2001" VERSION="v3.7.3.0">
+    <EXPORT ORDINAL="1" NAME="DigiMultiPortCoInstaller" PURGE="16" COMMENT="" />
+</LIBRARY>
+

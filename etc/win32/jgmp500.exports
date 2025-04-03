@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgmp500.dll" PATH="/DLLArchive/etc/jgmp500.dll" DATE="Fri Jul 03 12:44:28 PDT 2020" VERSION="5010">
+    <EXPORT ORDINAL="2" NAME="JgpMPlayStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpMPlayShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpMPlayOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpMPlayClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpMPlaySetMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpMPlayOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpMPlayOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpMPlayGrabDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpMPlayReleaseDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpMPlayIsOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpMPlayReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpMPlayHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpMPlayStall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpMPlayUnstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpMPlayRequestStall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpMPlayGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpMPlayUpdateTimeInBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpMPlayUpdateSyncTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgpMPlayAuxOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgpMPlayAuxClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgpMPlayAuxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JgpMPlayDeviceGetCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JgpMPlayDrvHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="JgpMPlayPause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="JgpMPlayResume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="JgpMPlayQueryMIDtoMIDIEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="JgpMPlayConvertMIDtoMIDIEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="JgpMPlayStatus" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="w95upg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/W95UPG.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Win9xAnyNetDevicePresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Win9xGetIncompDrvs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Win9xReleaseIncompDrvs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Winnt32Cleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Winnt32GetOptionalDirectories" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Winnt32PluginGetPages" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Winnt32PluginInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Winnt32SetAutoBoot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Winnt32VirusScannerCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Winnt32WriteParams" PURGE="4" COMMENT="" />
+</LIBRARY>
+

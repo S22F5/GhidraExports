@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aiicon.dll" PATH="/DLLArchive/etc/aiicon.dll" DATE="Fri Jul 03 21:17:57 CEST 2020" VERSION="11.0">
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

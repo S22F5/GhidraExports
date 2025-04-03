@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="disasmenginedll.dll" PATH="/DLLArchive/etc/DisasmEngineDLL.dll" DATE="Tue Jan 02 23:00:00 CET 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Disassemble" PURGE="0" COMMENT="" />
+</LIBRARY>
+

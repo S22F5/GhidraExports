@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ddnt3260.dll" PATH="/DLLArchive/etc/ddnt3260.dll" DATE="Fri Jul 03 12:30:42 PDT 2020" VERSION="6.0.7.1686">
+    <EXPORT ORDINAL="1" NAME="CloseDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="dbDecode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="dbFreeDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="dbInitDecoder" PURGE="16" COMMENT="" />
+</LIBRARY>
+

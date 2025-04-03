@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pxdrv.dll" PATH="/DLLArchive/etc/pxdrv.dll" DATE="Fri Jul 03 13:08:16 PDT 2020" VERSION="1.00.47a">
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ordinal_12" PURGE="0" COMMENT="" />
+</LIBRARY>
+

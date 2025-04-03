@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="verifier.dll" PATH="/DLLArchive/windowsXPSp3Prox86/verifier.dll" DATE="Mon Apr 14 05:42:10 CEST 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="VerifierEnumerateResource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VerifierSetFlags" PURGE="12" COMMENT="" />
+</LIBRARY>
+

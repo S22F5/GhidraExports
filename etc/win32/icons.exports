@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icons.dll" PATH="/DLLArchive/etc/Icons.dll" DATE="Wed Jan 06 02:44:46 PST 2021" VERSION="1, 0, 0, 5">
+    <EXPORT ORDINAL="1" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

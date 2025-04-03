@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="yzdocklet.dll" PATH="/DLLArchive/etc/yzdocklet.dll" DATE="Fri Jul 03 13:43:45 PDT 2020" VERSION="0, 1, 1, 0">
+    <EXPORT ORDINAL="1" NAME="YzDockletAnimateIcon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="YzDockletChangeIcon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="YzDockletChangeName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="YzDockletCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="YzDockletDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="YzDockletGetFolderPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="YzDockletGetInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="YzDockletGetRect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="YzDockletGetString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="YzDockletLoadImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="YzDockletPopupShellContextMenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="YzDockletRedraw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="YzDockletSelectImageDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="YzDockletSetIndicator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="YzDockletWriteInt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="YzDockletWriteString" PURGE="0" COMMENT="" />
+</LIBRARY>
+

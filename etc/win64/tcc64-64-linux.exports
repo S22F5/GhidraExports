@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tcc64-64-linux.dll" PATH="/DLLArchive/etc/tcc64-64-linux.dll" DATE="Fri Sep 30 15:21:58 CEST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="tcc_add_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="tcc_add_include_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="tcc_add_library" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="tcc_add_library_err" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="tcc_add_library_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="tcc_add_symbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="tcc_add_sysinclude_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="tcc_basename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="tcc_compile_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="tcc_define_symbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="tcc_delete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="tcc_fileextension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="tcc_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="tcc_get_stab" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="tcc_get_symbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="tcc_get_symbols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="tcc_install_filehook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="tcc_malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="tcc_mallocz" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="tcc_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="tcc_output_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="tcc_parse_args" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="tcc_print_stats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="tcc_realloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="tcc_relocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="tcc_set_binary_writer_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="tcc_set_error_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="tcc_set_lib_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="tcc_set_options" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="tcc_set_output_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="tcc_set_symbol_lookup_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="tcc_strdup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="tcc_undefine_symbol" PURGE="0" COMMENT="" />
+</LIBRARY>
+

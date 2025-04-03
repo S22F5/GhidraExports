@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfmondata.dll" PATH="/DLLArchive/etc/perfmondata.dll" DATE="Wed Oct 25 01:20:10 CEST 2023" VERSION="3.11.306.0">
+    <EXPORT ORDINAL="1" NAME="ClosePerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenPerformanceData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpeglib.dll" PATH="/DLLArchive/etc/jpeglib.dll" DATE="Fri Jul 03 21:44:44 CEST 2020" VERSION="V1.1.FC1">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JPEGEncodeTileInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JPEGEncodeTile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="eJPEG_CreateHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="eJPEG_ConcatenateHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="eJPEG_SetTileSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="eJPEG_SetQFactor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="eJPEG_SetSubsampling" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="eJPEG_DisableInternalYCbCr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="eJPEG_EnableInternalYCbCr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="eJPEG_DisableInternalSubsampling" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="eJPEG_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="eJPEG_EncodeTile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="eJPEG_Shutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="dJPEG_DecodeTile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="dJPEG_DecoderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="dJPEG_DisableUpsample" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="dJPEG_DisableColorConvert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="dJPEG_DecodeTileHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="dJPEG_SetTileSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="dJPEG_DecoderFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="dJPEG_EnableColorConvert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="dJPEG_EnableUpsample" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="dJPEG_CopyJpegSubtype" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="eJPEG_DisableChannelInterleave" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="eJPEG_EnableChannelInterleave" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="eJPEG_SetHuffTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="eJPEG_SetQuantTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="FPX_malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="FPX_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="FPX_calloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="FPXSetMemoryHooks" PURGE="0" COMMENT="" />
+</LIBRARY>
+

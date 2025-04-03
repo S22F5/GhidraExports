@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msir3jp.dll" PATH="/DLLArchive/etc/msir3jp.dll" DATE="Fri Jul 03 21:56:26 CEST 2020" VERSION="3.1.2.2714">
+    <EXPORT ORDINAL="10" NAME="EnumSelectionOffsets" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="EnumSummarizationOffsets" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="EnumStemInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EnumSentenceOffsets" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WordBreakInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WordBreakInitEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="EnumPhrases" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="EnumSummarizationOffsetsEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="EnumStemOffsets" PURGE="24" COMMENT="" />
+</LIBRARY>
+

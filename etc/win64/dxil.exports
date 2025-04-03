@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dxil.dll" PATH="/DLLArchive/etc/dxil.dll" DATE="Wed Jun 26 14:51:00 CEST 2024" VERSION="101.8.2403.24">
+    <EXPORT ORDINAL="1" NAME="DxcCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DxcCreateInstance2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="borlndmm.dll" PATH="/DLLArchive/etc/borlndmm.dll" DATE="Fri Jul 03 12:25:24 PDT 2020" VERSION="3.0.3.70">
+    <EXPORT ORDINAL="1" NAME="GetAllocMemSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAllocMemCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetHeapStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ReallocMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FreeMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="@Borlndmm@SysReallocMem$qqrpvi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="@Borlndmm@SysFreeMem$qqrpv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="@Borlndmm@SysGetMem$qqri" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="impmail.dll" PATH="/DLLArchive/etc/IMPMAIL.DLL" DATE="Fri Jul 03 12:41:48 PDT 2020" VERSION="9.0.2526">
+    <EXPORT ORDINAL="1" NAME="ImportMailAndAddresses" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ImportRules" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SilentImport" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ImportAccounts" PURGE="24" COMMENT="" />
+</LIBRARY>
+

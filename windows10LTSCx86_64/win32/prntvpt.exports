@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="prntvpt.dll" PATH="/DLLArchive/windows10LTSCX86_64/prntvpt.dll" DATE="Wed Oct 06 15:52:38 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PTQuerySchemaVersionSupport" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PTOpenProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PTOpenProviderEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PTCloseProvider" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BindPTProviderThunk" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PTGetPrintCapabilities" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PTMergeAndValidatePrintTicket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PTConvertPrintTicketToDevMode" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PTConvertDevModeToPrintTicket" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PTReleaseMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PTGetPrintDeviceCapabilities" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PTGetPrintDeviceResources" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ConvertDevModeToPrintTicketThunk2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ConvertDevModeToPrintTicketThunk" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ConvertPrintTicketToDevModeThunk2" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ConvertPrintTicketToDevModeThunk" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetDeviceDefaultPrintTicketThunk" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetDeviceNamespacesThunk" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetPrintCapabilitiesThunk2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetPrintCapabilitiesThunk" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetPrintDeviceCapabilitiesThunk2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetPrintDeviceCapabilitiesThunk" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetPrintDeviceResourcesThunk2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetPrintDeviceResourcesThunk" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetSchemaVersionThunk" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MergeAndValidatePrintTicketThunk2" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MergeAndValidatePrintTicketThunk" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="UnbindPTProviderThunk" PURGE="4" COMMENT="" />
+</LIBRARY>
+

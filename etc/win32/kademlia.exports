@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kademlia.dll" PATH="/DLLArchive/etc/kademlia.dll" DATE="Fri Jul 03 12:45:01 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?FindFile@@YA_NPAE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?PublishFile@@YAXPAE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?RepublishFiles@@YAXPAEH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?SetFindFileResultHandler@@YAXP6AXPBEHG@Z@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?StartKademlia@@YAHPAEGG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?StopKademlia@@YAXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

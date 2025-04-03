@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="celt_encoder.dll" PATH="/DLLArchive/etc/celt_encoder.dll" DATE="Wed Mar 13 11:45:45 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="celt_decode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="celt_decode_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="celt_decoder_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="celt_decoder_create_custom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="celt_decoder_ctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="celt_decoder_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="celt_decoder_get_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="celt_decoder_get_size_custom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="celt_decoder_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="celt_decoder_init_custom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="celt_encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="celt_encode_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="celt_encoder_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="celt_encoder_create_custom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="celt_encoder_ctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="celt_encoder_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="celt_encoder_get_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="celt_encoder_get_size_custom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="celt_encoder_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="celt_encoder_init_custom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="celt_header_from_packet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="celt_header_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="celt_header_to_packet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="celt_mode_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="celt_mode_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="celt_mode_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="celt_strerror" PURGE="0" COMMENT="" />
+</LIBRARY>
+

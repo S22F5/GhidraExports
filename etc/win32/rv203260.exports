@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rv203260.dll" PATH="/DLLArchive/etc/rv203260.dll" DATE="Fri Jul 03 13:13:13 PDT 2020" VERSION="6.0.7.3928">
+    <EXPORT ORDINAL="1" NAME="PNCodec_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PNCodec_GetMediaFormats" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PNCodec_GetUIName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PNCodec_GetVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PNCodec_Input" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PNCodec_Open" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PNCodec_PreferredMediaFormat" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PNCodec_QueryMediaFormat" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PNCodec_StreamOpen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PNStream_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PNStream_GetIPNUnknown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PNStream_GetInputBufferSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PNStream_GetProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PNStream_GetStreamHeader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PNStream_GetStreamHeaderSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PNStream_Input" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PNStream_OpenSettingsBox" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PNStream_PostProcess" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PNStream_ReleaseFrame" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PNStream_SetDataCallback" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PNStream_SetOutputPacketSize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PNStream_SetProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

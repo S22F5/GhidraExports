@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mcast.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mcast.dll" DATE="Fri Aug 17 13:36:18 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="_MADCAP_AttachProperties@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_MADCAP_Deregister@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_MADCAP_FormatProperties@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_MADCAP_RecognizeFrame@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_MADCAP_Register@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ParserAutoInstallInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

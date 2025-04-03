@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="uninst.dll" PATH="/DLLArchive/etc/UnInst.Dll" DATE="Fri Jul 03 13:24:54 PDT 2020" VERSION="3.9.8.2">
+    <EXPORT ORDINAL="1" NAME="UninstInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UninstUnInitialize" PURGE="12" COMMENT="" />
+</LIBRARY>
+

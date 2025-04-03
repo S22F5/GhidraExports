@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nrpsrv.dll" PATH="/DLLArchive/windows10LTSCX86_64/nrpsrv.dll" DATE="Sat Dec 07 10:08:49 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NrpStartRpcServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NrpStopRpcServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

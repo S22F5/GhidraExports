@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dsnd22m.dll" PATH="/DLLArchive/etc/3dsnd22m.dll" DATE="Fri Jul 03 12:11:40 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReleaseListener" PURGE="0" COMMENT="" />
+</LIBRARY>
+

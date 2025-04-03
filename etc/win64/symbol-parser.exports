@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="symbol-parser.dll" PATH="/DLLArchive/etc/symbol-parser.dll" DATE="Tue Oct 24 14:54:08 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="SymCastingQueryForFiledsAndTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SymConvertFileToPdbFileAndGuidAndAgeDetails" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SymConvertFileToPdbPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SymConvertNameToAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SymCreateSymbolTableForDisassembler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SymGetDataTypeSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SymGetFieldOffset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SymLoadFileSymbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SymQuerySizeof" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SymSearchSymbolForMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SymSetTextMessageCallback" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SymShowDataBasedOnSymbolTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SymUnloadAllSymbols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SymUnloadModuleSymbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SymbolAbortLoading" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SymbolInitLoad" PURGE="0" COMMENT="" />
+</LIBRARY>
+

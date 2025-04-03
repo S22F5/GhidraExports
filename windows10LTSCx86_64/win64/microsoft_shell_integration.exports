@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoft_shell_integration.dll" PATH="/DLLArchive/windows10LTSCX86_64/microsoft_shell_integration.dll" DATE="Wed Aug 04 23:44:38 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="ChallengeUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateAndShowNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateWin7SpellCheckerFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DisableControllerNavigation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnableControllerNavigation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnableControllerNavigationHwnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetElementForTaskbar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetElementForTaskbarIcon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetNotificationIdentity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetProcessAppSessionGuid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetUIAClientInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InjectKeyboardInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="InjectMouseInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IsDeviceEnrolledInCommercialDataPipeline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IsItemPinnedToTaskbarByAppID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsShortcutPinnedToTaskbar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IsTipsOsSettingEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PinShortcutToTaskbar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RegisterClosestInteractiveBoundsWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ReplaceTaskbarPin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SetControllerNavigationCrossBoundsCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="UnpinShortcutFromTaskbar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="XboxCreateArgbScreenshot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="XboxFreeArgbScreenshot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="XboxNavigateBack" PURGE="0" COMMENT="" />
+</LIBRARY>
+

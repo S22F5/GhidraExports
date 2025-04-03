@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="upnpui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/upnpui.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InstallUPnPUI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsUPnPUIInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UnInstallUPnPUI" PURGE="4" COMMENT="" />
+</LIBRARY>
+

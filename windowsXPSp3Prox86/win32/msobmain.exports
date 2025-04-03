@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msobmain.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msobmain.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="LaunchMSOOBE" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsOemVer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

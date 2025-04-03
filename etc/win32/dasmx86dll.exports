@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dasmx86dll.dll" PATH="/DLLArchive/etc/DasmX86dll.dll" DATE="Fri Jul 03 12:30:20 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="disassemble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="getauthor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="getbits" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getversion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="setbits" PURGE="0" COMMENT="" />
+</LIBRARY>
+

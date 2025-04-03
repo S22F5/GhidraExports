@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fp4apws.dll" PATH="/DLLArchive/etc/fp4apws.dll" DATE="Fri Jul 03 12:34:38 PDT 2020" VERSION="4.0.2.7523">
+    <EXPORT ORDINAL="1" NAME="?VpwsVersion@@YIPADXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="beginAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="getInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="prepareToUnload" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wzcsapi.dll" PATH="/DLLArchive/etc/wzcsapi.dll" DATE="Fri Jul 03 13:39:52 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="60" NAME="MIDL_user_allocate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="MIDL_user_free" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="CloseWZCDbLogSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="CreateEapcfgNode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="64" NAME="DestroyEapcfgNode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="65" NAME="DtlDestroyList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="66" NAME="EapcfgNodeFromKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="67" NAME="EnumWZCDbLogRecords" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="68" NAME="FlushWZCDbLog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="69" NAME="GetEncryptionForAdapter" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="70" NAME="GetModeForAdapter" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="71" NAME="GetSSIDForAdapter" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="72" NAME="GetSignalStrengthForAdapter" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="73" NAME="GetSpecificLogRecord" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="74" NAME="OpenWZCDbLogSession" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="75" NAME="ReadEapcfgList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="76" NAME="WZCDeleteIntfObj" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="77" NAME="WZCEapolFreeState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="78" NAME="WZCEapolGetCustomAuthData" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="79" NAME="WZCEapolGetInterfaceParams" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="80" NAME="WZCEapolQueryState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="81" NAME="WZCEapolReAuthenticate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="82" NAME="WZCEapolSetCustomAuthData" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="83" NAME="WZCEapolSetInterfaceParams" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="84" NAME="WZCEapolUIResponse" PURGE="664" COMMENT="" />
+    <EXPORT ORDINAL="85" NAME="WZCEnumInterfaces" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="86" NAME="WZCGetAPIVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="87" NAME="WZCGetDlgResModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="88" NAME="WZCGetEapUserInfo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="89" NAME="WZCGetSPResModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="90" NAME="WZCPassword2Key" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="91" NAME="WZCProviderCreateConnectionProperties" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="92" NAME="WZCProviderCreateUserProperties" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="93" NAME="WZCProviderCreateWirelessProfile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="94" NAME="WZCProviderDeleteWirelessProfile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="95" NAME="WZCQueryContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="96" NAME="WZCQueryInterface" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="97" NAME="WZCRefreshInterface" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="98" NAME="WZCSetContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="99" NAME="WZCSetInterface" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="WZCSvcMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

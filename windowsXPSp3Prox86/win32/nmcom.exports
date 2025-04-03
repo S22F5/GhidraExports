@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmcom.dll" PATH="/DLLArchive/windowsXPSp3Prox86/nmcom.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

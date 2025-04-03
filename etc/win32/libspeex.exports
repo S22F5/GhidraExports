@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libspeex.dll" PATH="/DLLArchive/etc/libspeex.dll" DATE="Fri Jul 03 21:47:16 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="speex_nb_mode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="speex_bits_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="speex_bits_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="speex_bits_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="speex_bits_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="speex_bits_read_from" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="speex_encoder_init" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="speex_encoder_destroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="speex_encode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="speex_encoder_ctl" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="speex_decoder_init" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="speex_decoder_destroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="speex_decode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="speex_decoder_ctl" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="speex_mode_query" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

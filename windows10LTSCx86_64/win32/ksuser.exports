@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ksuser.dll" PATH="/DLLArchive/windows10LTSCX86_64/ksuser.dll" DATE="Sat Dec 07 10:09:11 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="KsCreateAllocator2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KsCreateAllocator" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KsCreateClock2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="KsCreateClock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="KsCreatePin2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="KsCreatePin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="KsCreateTopologyNode2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="KsCreateTopologyNode" PURGE="16" COMMENT="" />
+</LIBRARY>
+

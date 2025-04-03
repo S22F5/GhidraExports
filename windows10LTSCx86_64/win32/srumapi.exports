@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="srumapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/srumapi.dll" DATE="Wed Oct 06 06:52:59 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SruCreateCheckpoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SruCreateEnergyNotificationServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SruDeleteStatsByAppName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SruFreeRecordSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SruQueryStats" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SruQueryStatsBySeqNumber" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SruQueryStatsEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SruRegisterRealTimeStats" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SruRetrieveEnergyRecord" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SruUnregisterRealTimeStats" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SruUpdateStats" PURGE="4" COMMENT="" />
+</LIBRARY>
+

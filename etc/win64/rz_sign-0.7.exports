@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_sign-0.7.dll" PATH="/DLLArchive/etc/rz_sign-0.7.dll" DATE="Mon Mar 04 10:50:18 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_sign_flirt_apply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_sign_flirt_info_fini" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_sign_flirt_node_count_nodes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_sign_flirt_node_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_sign_flirt_node_from_function" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_sign_flirt_node_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_sign_flirt_parse_compressed_pattern_from_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_sign_flirt_parse_header_compressed_pattern_from_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_sign_flirt_parse_string_pattern_from_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_sign_flirt_write_compressed_pattern_to_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_sign_flirt_write_string_pattern_to_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_sign_sigdb_add_entry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_sign_sigdb_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_sign_sigdb_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_sign_sigdb_load_database" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_sign_sigdb_merge" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_sign_sigdb_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_sign_sigdb_signature_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_sign_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

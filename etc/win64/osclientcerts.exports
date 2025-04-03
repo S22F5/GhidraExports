@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="osclientcerts.dll" PATH="/DLLArchive/etc/osclientcerts.dll" DATE="Fri Jan 01 00:00:00 CET 2010" VERSION="115.18.0">
+    <EXPORT ORDINAL="1" NAME="C_GetFunctionList" PURGE="0" COMMENT="" />
+</LIBRARY>
+

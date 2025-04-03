@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="certpkicmdlet.dll" PATH="/DLLArchive/windows10LTSCX86_64/CertPKICmdlet.dll" DATE="Wed Oct 06 06:53:04 PDT 2021" VERSION="10.0.19041.804 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FindCertificate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsSmartCard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SuppressFreeCert" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SuppressFreeStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ExportCertificate" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ExportPFXCertificate" PURGE="64" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeCertResults" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FreeResourceString" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetCertificateFromEnrollmentInternal" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ImportCertificate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ImportPFXCertificate" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IsSecureKernelRunning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="LoadResourceString" PURGE="8" COMMENT="" />
+</LIBRARY>
+

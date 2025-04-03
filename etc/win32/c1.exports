@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="c1.dll" PATH="/DLLArchive/etc/C1.DLL" DATE="Wed Jun 17 02:39:38 PDT 1998" VERSION="12.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="_AbortCompilerPass@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_InvokeCompilerPass@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

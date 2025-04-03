@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="keygen64.dll" PATH="/DLLArchive/etc/KeyGen64.dll" DATE="Sun Dec 13 14:36:46 CET 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VMProtectFreeSerialNumberMemory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VMProtectGenerateSerialNumber" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

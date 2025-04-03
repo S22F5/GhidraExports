@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncc3.dll" PATH="/DLLArchive/etc/NCC3.dll" DATE="Sat Jun 13 00:07:20 PDT 2015" VERSION="1.0.0.1">
+    <EXPORT ORDINAL="1" NAME="DENC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DENC2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cimfs.dll" PATH="/DLLArchive/windows10LTSCX86_64/cimfs.dll" DATE="Wed Oct 06 06:51:45 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CimCloseImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CimCloseStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CimCommitImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CimCreateAlternateStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CimCreateFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CimCreateHardLink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CimCreateImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CimDeletePath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CimDismountImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CimMountImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CimWriteStream" PURGE="0" COMMENT="" />
+</LIBRARY>
+

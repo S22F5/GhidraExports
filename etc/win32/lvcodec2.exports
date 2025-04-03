@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lvcodec2.dll" PATH="/DLLArchive/etc/lvcodec2.dll" DATE="Fri Jul 03 12:48:26 PDT 2020" VERSION="8.2.0.1189">
+    <EXPORT ORDINAL="1" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

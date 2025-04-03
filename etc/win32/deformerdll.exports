@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="deformerdll.dll" PATH="/DLLArchive/etc/deformerdll.dll" DATE="Fri Jul 03 12:30:51 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?dllDeformerBlendedNoTanSSE@BFastMeshDeformer@@YAXABUBWorkQueueEntry@1@PBUBBlendVert@1@PAUpnt332_vertex@1@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?dllDeformerBlendedPosOnlySSE@BFastMeshDeformer@@YAXABUBWorkQueueEntry@1@PBUBBlendVert@1@PAUp3_vertex@1@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?dllDeformerBlendedSSE@BFastMeshDeformer@@YAXABUBWorkQueueEntry@1@PBUBBlendVert@1@PAUpngt3332_vertex@1@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?dllDeformerCopyMatricesSSE@BFastMeshDeformer@@YAXPBUBDataHeader@1@PAU__m128@@PBU3@PBH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?dllDeformerGetBumpVertexSSE@BFastMeshDeformer@@YAXPBUBDataHeader@1@PAEAAUBGrannyBumpVert@1@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?dllDeformerGetFlatVertexSSE@BFastMeshDeformer@@YAXPBUBDataHeader@1@PAEAAUBGrannyFlatVert@1@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?dllDeformerRigidToStackAlignedNoTanSSE@BFastMeshDeformer@@YAXPBUBDataHeader@1@ABUBWorkQueueEntry@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?dllDeformerRigidToStackAlignedPosOnlySSE@BFastMeshDeformer@@YAXPBUBDataHeader@1@ABUBWorkQueueEntry@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?dllDeformerRigidToStackAlignedSSE@BFastMeshDeformer@@YAXPBUBDataHeader@1@ABUBWorkQueueEntry@1@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

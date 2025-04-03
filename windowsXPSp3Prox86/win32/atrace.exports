@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atrace.dll" PATH="/DLLArchive/windowsXPSp3Prox86/atrace.dll" DATE="Fri Aug 17 13:36:10 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="INTERNAL__AsyncBinaryTrace" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="INTERNAL__AsyncStringTrace" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="INTERNAL__DebugAssert" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="INTERNAL__FlushAsyncTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="INTERNAL__InitAsyncTrace" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="INTERNAL__SetAsyncTraceParams" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="INTERNAL__TermAsyncTrace" PURGE="0" COMMENT="" />
+</LIBRARY>
+

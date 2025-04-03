@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="php_zip.dll" PATH="/DLLArchive/etc/php_zip.dll" DATE="Fri Jul 03 13:06:50 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="get_module" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="zzip_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="zzip_closedir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="zzip_compr_str" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="zzip_dir_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="zzip_dir_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="zzip_dir_fdopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="zzip_dir_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="zzip_dir_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="zzip_dir_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="zzip_dir_real" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="zzip_dirfd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="zzip_dirhandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="zzip_errno" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="zzip_error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="zzip_file_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="zzip_file_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="zzip_file_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="zzip_file_real" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="zzip_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="zzip_opendir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="zzip_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="zzip_readdir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="zzip_realdir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="zzip_realfd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="zzip_rewind" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="zzip_rewinddir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="zzip_seek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="zzip_seekdir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="zzip_seterror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="zzip_strerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="zzip_strerror_of" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="zzip_tell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="zzip_telldir" PURGE="0" COMMENT="" />
+</LIBRARY>
+

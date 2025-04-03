@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="httpapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/httpapi.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="HttpAddFragmentToCache" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HttpAddUrl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HttpAddUrlToConfigGroup" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HttpCreateAppPool" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HttpCreateConfigGroup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HttpCreateFilter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HttpCreateHttpHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HttpDeleteConfigGroup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HttpDeleteServiceConfiguration" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HttpFilterAccept" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HttpFilterAppRead" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HttpFilterAppWrite" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HttpFilterAppWriteAndRawRead" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HttpFilterClose" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HttpFilterRawRead" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HttpFilterRawWrite" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HttpFilterRawWriteAndAppRead" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HttpFlushResponseCache" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="HttpGetCounters" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HttpInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HttpOpenAppPool" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HttpOpenControlChannel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HttpOpenFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HttpQueryAppPoolInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HttpQueryConfigGroupInformation" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HttpQueryControlChannelInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HttpQueryServiceConfiguration" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="HttpReadFragmentFromCache" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="HttpReceiveClientCertificate" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="HttpReceiveHttpRequest" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="HttpReceiveRequestEntityBody" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="HttpRemoveAllUrlsFromConfigGroup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="HttpRemoveUrl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="HttpRemoveUrlFromConfigGroup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="HttpSendHttpResponse" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="HttpSendResponseEntityBody" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="HttpSetAppPoolInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="HttpSetConfigGroupInformation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="HttpSetControlChannelInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="HttpSetServiceConfiguration" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="HttpShutdownAppPool" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="HttpShutdownFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="HttpTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="HttpWaitForDemandStart" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="HttpWaitForDisconnect" PURGE="16" COMMENT="" />
+</LIBRARY>
+

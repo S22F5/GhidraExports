@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="steamui.dll" PATH="/DLLArchive/etc/SteamUI.dll" DATE="Fri Jul 03 13:20:37 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SteamDllMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntdsbcli.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntdsbcli.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllEntryPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DsBackupClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DsBackupEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DsBackupFree" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DsBackupGetBackupLogsA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DsBackupGetBackupLogsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DsBackupGetDatabaseNamesA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DsBackupGetDatabaseNamesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DsBackupOpenFileA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DsBackupOpenFileW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DsBackupPrepareA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DsBackupPrepareW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DsBackupRead" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DsBackupTruncateLogs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DsIsNTDSOnlineA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DsIsNTDSOnlineW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DsRestoreCheckExpiryToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DsRestoreEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DsRestoreGetDatabaseLocationsA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DsRestoreGetDatabaseLocationsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DsRestorePrepareA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DsRestorePrepareW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DsRestoreRegisterA" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DsRestoreRegisterComplete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DsRestoreRegisterW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DsSetAuthIdentityA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DsSetAuthIdentityW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DsSetCurrentBackupLogA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DsSetCurrentBackupLogW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="I_DsCheckBackupLogs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="I_DsRestoreW" PURGE="36" COMMENT="" />
+</LIBRARY>
+

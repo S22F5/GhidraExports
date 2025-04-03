@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lcms.dll" PATH="/DLLArchive/etc/lcms.dll" DATE="Sun Jul 30 02:16:46 PDT 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="JNI_OnLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_sun_java2d_cmm_lcms_LCMS_colorConvert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_sun_java2d_cmm_lcms_LCMS_createNativeTransform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_sun_java2d_cmm_lcms_LCMS_getProfileDataNative" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_sun_java2d_cmm_lcms_LCMS_getProfileID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_sun_java2d_cmm_lcms_LCMS_getTagNative" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_sun_java2d_cmm_lcms_LCMS_loadProfileNative" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_sun_java2d_cmm_lcms_LCMS_setTagDataNative" PURGE="0" COMMENT="" />
+</LIBRARY>
+

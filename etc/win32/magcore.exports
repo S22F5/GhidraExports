@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="magcore.dll" PATH="/DLLArchive/etc/magcore.dll" DATE="Fri Jul 03 12:49:17 PDT 2020" VERSION="1.0.0.163">
+    <EXPORT ORDINAL="1" NAME="Mag0CopyObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Mag0CopyOnWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Mag0CreateObj" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Mag0FreeModuleDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Mag0GetObjDataC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Mag0GetType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Mag0InitCore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Mag0Inter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Mag0IsTypeOf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Mag0LoadModuleDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Mag0LoadModuleDllW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Mag0RegisterClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Mag0Release" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Mag0Retain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Mag0RetainCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Mag0UninitCore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Mag0UnregisterClass" PURGE="0" COMMENT="" />
+</LIBRARY>
+

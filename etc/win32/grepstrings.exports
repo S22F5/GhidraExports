@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="grepstrings.dll" PATH="/DLLArchive/etc/GrepStrings.dll" DATE="Sat Jul 27 20:43:50 CEST 2013" VERSION="1.0.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPluginName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoUnpack" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="@@Grepstringsdialog@Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="@@Grepstringsdialog@Finalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="@@Fuu_sdk@Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="@@Fuu_sdk@Finalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="@TGrepStrings@$bctr$qqr17System@AnsiString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="@TGrepStrings@$bdtr$qqrv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="@TGrepStrings@SetMinStrLen$qqri" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="@TGrepStrings@SetIncludeSpanish$qqro" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="@TGrepStrings@IsValidAsciiCh$qqrc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="@TGrepStrings@OpenAndLoadFile$qqrv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="@TGrepStrings@GrepAsciiSrings$qqrv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="@TGrepStrings@GrepAsciiZSrings$qqrv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="@TGrepStrings@GrepUnicodeSrings$qqrv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="@TGrepStrings@PescarUnicode$qqripc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="@$xp$12TGrepStrings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="@@Unit_grepstrings@Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="@@Unit_grepstrings@Finalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="@TGrepStrings@" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

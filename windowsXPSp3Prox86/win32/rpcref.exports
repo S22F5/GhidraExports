@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rpcref.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rpcref.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="6.0.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="InetinfoStartRpcServerListen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InetinfoStopRpcServerListen" PURGE="0" COMMENT="" />
+</LIBRARY>
+

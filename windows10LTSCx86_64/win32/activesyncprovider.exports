@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="activesyncprovider.dll" PATH="/DLLArchive/windows10LTSCX86_64/ActiveSyncProvider.dll" DATE="Wed Oct 06 06:53:21 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="45" NAME="Ordinal_45" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="Ordinal_44" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ordinal_19" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="Ordinal_36" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="Ordinal_37" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Ordinal_18" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="Ordinal_61" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsEnabledForSync" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateMassObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateSyncServiceLayer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DownloadEmailAttachment" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DownloadEmailBody" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetActiveSyncServerProbeInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetConversationSyncEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetOutlookExtensionSupportForAccount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetOutlookExtensionSupportFromAccessor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetUserInfoForUnconfiguredAccount" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HandleEasMeetingResponseForAppointment" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HandleEasMeetingResponseForMeetingNotification" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsErrorCatastrophic" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IsValidOutlookExtensionVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MarkPeopleFolderForResync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="OneStopFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SyncGetMAPISession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SyncGetMessageStore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SyncGetSpecialFolder" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SyncMgrPurgeFolderProvider" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SyncMgrPurgeProviderStore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SyncMgrRemovePolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="UpdateEasTrackingSchema" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WriteStoreCapabilityProps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WriteStoreContentTypesProps" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="InitializeSyncStatus" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="SyncSqmUpdateStats" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mcdsrv32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mcdsrv32.dll" DATE="Fri Aug 17 13:57:18 CEST 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="MCDEngEscFilter" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MCDEngInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MCDEngInitEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MCDEngSetMemStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MCDEngUninit" PURGE="4" COMMENT="" />
+</LIBRARY>
+

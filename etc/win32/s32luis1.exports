@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="s32luis1.dll" PATH="/DLLArchive/etc/S32LUIS1.DLL" DATE="Fri Jul 03 13:13:29 PDT 2020" VERSION="1.80.19.0">
+    <EXPORT ORDINAL="1" NAME="_RunDIS@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mswsock.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mswsock.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AcceptEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnumProtocolsA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnumProtocolsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetAcceptExSockaddrs" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetAddressByNameA" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetAddressByNameW" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetNameByTypeA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetNameByTypeW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetServiceA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetServiceW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetTypeByNameA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetTypeByNameW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MigrateWinsockConfiguration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NPLoadNameSpaces" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NSPStartup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetServiceA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetServiceW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="StartWsdpService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="StopWsdpService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TransmitFile" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WSARecvEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WSPStartup" PURGE="76" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="dn_expand" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="getnetbyname" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="inet_network" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rcmd" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="rexec" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="rresvport" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="s_perror" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="sethostname" PURGE="8" COMMENT="" />
+</LIBRARY>
+

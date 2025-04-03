@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="filetracker.dll" PATH="/DLLArchive/windows10LTSCX86_64/FileTracker.dll" DATE="Sat Dec 07 01:10:36 PST 2019" VERSION="14.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="TrackerExportOne" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartTrackingContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StartTrackingContextWithRoot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EndTrackingContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="StopTrackingAndCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SuspendTracking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ResumeTracking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WriteAllTLogs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WriteContextTLogs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetThreadCount" PURGE="0" COMMENT="" />
+</LIBRARY>
+

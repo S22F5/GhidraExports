@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rdsdwmdr.dll" PATH="/DLLArchive/windows10LTSCX86_64/rdsdwmdr.dll" DATE="Wed Oct 06 06:52:55 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DwmIndirectCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DwmIndirectOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DwmIndirectSetDebugFlag" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="arcmod7000.dll" PATH="/DLLArchive/etc/ArcMod7000.dll" DATE="Fri Jul 03 12:19:00 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AM7K_interf_init" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AM7K_AddPid" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AM7K_RemovePid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AM7K_GetSection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AM7K_FlushSIPSIFifo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AM7K_SetFecTableId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AM7K_isMicrocodeLoaded" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AM7K_SetMicrocodeUploaded" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AM7K_getEmbedVersions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AM7K_TuneAndGetChannel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AM7K_DemodGetChannel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AM7K_SetSeamless_tsChannelNumber" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AM7K_Free_tsChannelNumber" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AM7K_test_hard" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AM7K_enable_power_saving" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AM7K_SetSignalMonitoring" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AM7K_GetSignalMonitoring" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AM7K_GetDvbhMonitoring" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AM7K_ResetDvbhMonitoring" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AM7K_GetGlobalMonitoring" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AM7K_RebootFirefly" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AM7K_upload_micro_code" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AM7K_enable_IT" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AM7K_LockUnlockDriver" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="AM7K_reset_uncor_packet_count" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="AM7K_init_software_event_handler" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="AM7K_deinit_software_event_handler" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="AM7K_ip_crypto_set_config" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="AM7K_ip_crypto_set_key" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AM7K_ip_crypto_set_iv" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="AM7K_ip_crypto_write" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="AM7K_ip_crypto_read" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="AM7K_ip_crypto_reset" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="newdev.dll" PATH="/DLLArchive/windows10LTSCX86_64/newdev.dll" DATE="Wed Oct 06 06:52:38 PDT 2021" VERSION="6.0.5054.0">
+    <EXPORT ORDINAL="1" NAME="CheckDriverSoftwareDependenciesSatisfied" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeviceInternetSettingUiW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DiInstallDevice" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DiInstallDriverA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DiInstallDriverW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DiRollbackDriver" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DiShowUpdateDevice" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DiShowUpdateDriver" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DiUninstallDevice" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DiUninstallDriverA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DiUninstallDriverW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetInternetPolicies" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="InstallLegacyDeviceDriver" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InstallNewDevice" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InstallSelectedDriver" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="InstallWindowsUpdateDriver" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="InstallWindowsUpdateDriverEx" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="InstallWindowsUpdateDrivers" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="QueryWindowsUpdateDriverStatus" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetDriverPackageRestorePoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SetInternetPolicies" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="UpdateDriverForPlugAndPlayDevicesA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="UpdateDriverForPlugAndPlayDevicesW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="pDiDoDeviceInstallAsAdmin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="pDiDoNullDriverInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="pDiRunFinishInstallOperations" PURGE="0" COMMENT="" />
+</LIBRARY>
+

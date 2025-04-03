@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libusb0.dll" PATH="/DLLArchive/etc/libusb0.dll" DATE="Fri Jul 03 12:47:17 PDT 2020" VERSION="20051120">
+    <EXPORT ORDINAL="1" NAME="usb_bulk_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="usb_bulk_setup_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="usb_bulk_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="usb_cancel_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="usb_claim_interface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="usb_clear_halt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="usb_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="usb_control_msg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="usb_device" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="usb_find_busses" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="usb_find_devices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="usb_free_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="usb_get_busses" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="usb_get_descriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="usb_get_descriptor_by_endpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="usb_get_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="usb_get_string_simple" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="usb_get_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="usb_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="usb_install_driver_np" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="usb_install_driver_np_rundll" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="usb_install_service_np" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="usb_install_service_np_rundll" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="usb_interrupt_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="usb_interrupt_setup_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="usb_interrupt_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="usb_isochronous_setup_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="usb_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="usb_reap_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="usb_reap_async_nocancel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="usb_release_interface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="usb_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="usb_resetep" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="usb_set_altinterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="usb_set_configuration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="usb_set_debug" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="usb_strerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="usb_submit_async" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="usb_touch_inf_file_np" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="usb_touch_inf_file_np_rundll" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="usb_uninstall_service_np" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="usb_uninstall_service_np_rundll" PURGE="16" COMMENT="" />
+</LIBRARY>
+

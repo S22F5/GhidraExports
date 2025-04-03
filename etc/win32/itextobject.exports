@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="itextobject.dll" PATH="/DLLArchive/etc/ITextObject.dll" DATE="Fri Jul 03 12:43:42 PDT 2020" VERSION="2, 1, 1, 7">
+    <EXPORT ORDINAL="1" NAME="GetSupportedObjects" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KillInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="QueryGFXInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

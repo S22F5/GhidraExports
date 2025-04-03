@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dxof.dll" PATH="/DLLArchive/windowsXPSp3Prox86/d3dxof.dll" DATE="Fri Aug 17 13:36:12 PDT 2001" VERSION="5.1.2600.0">
+    <EXPORT ORDINAL="1" NAME="DirectXFileCreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

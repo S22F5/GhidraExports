@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rapilib.dll" PATH="/DLLArchive/etc/rapilib.dll" DATE="Fri Jul 03 13:10:33 PDT 2020" VERSION="5.00.2195.6601">
+    <EXPORT ORDINAL="1" NAME="ErrorCleanupSockets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RapiCheckRsvpService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RapiDupEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RapiFreeMemoryFunction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RapiPollSockEvent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RapiReadQosFromSocket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RapiReleaseAndReRegister" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RapiSetCallBack" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rapi_init" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rapi_query" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rapi_release" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rapi_reserve" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rapi_sender" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rapi_session" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rapi_status" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rapi_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

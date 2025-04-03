@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="javawspl.dll" PATH="/DLLArchive/etc/javawspl.dll" DATE="Fri Jul 03 12:44:01 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Java_com_sun_javaws_WinBrowserSupport_showDocument@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Java_com_sun_javaws_WinInstallHandler_installShortcut@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_com_sun_javaws_WinRegistry_getWindowsDirectory@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Java_com_sun_javaws_WinRegistry_initIDs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_com_sun_javaws_WinRegistry_sysCloseKey@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_com_sun_javaws_WinRegistry_sysCreateKey@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_com_sun_javaws_WinRegistry_sysDeleteKey@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_com_sun_javaws_WinRegistry_sysOpenKey@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_com_sun_javaws_WinRegistry_sysQueryKey@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_com_sun_javaws_WinRegistry_sysReboot@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_com_sun_javaws_WinRegistry_sysSetStringValue@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_com_sun_javaws_security_WSeedGenerator_generateSeed@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

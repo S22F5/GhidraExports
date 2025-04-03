@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mprtp.dll" PATH="/DLLArchive/windows10LTSCX86_64/MpRtp.dll" DATE="Sat Dec 07 01:08:16 PST 2019" VERSION="4.18.1909.6 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MpPluginCheckExclusion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MpPluginConfigChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MpPluginConfigDirectoryMonitoring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MpPluginConfigSyncMonitoring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MpPluginFlushLogData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MpPluginGetConfigOperations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MpPluginGetHeartBeatData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MpPluginGetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MpPluginInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MpPluginIsSuspended" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MpPluginNotifySetupProgress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MpPluginRegisterFriendlyProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MpPluginReportThreadStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MpPluginSetDefaultConfigs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MpPluginSetEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MpPluginSetLastAccessTimeSuppressionMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MpPluginSetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MpPluginSetUserInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MpPluginShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MpPluginSignatureChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MpPluginStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MpPluginUpdateDlpData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MpPluginUpdateFolderGuardData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MpPluginUpdateMonitoringInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MpPluginUpdateMonitoringInfoEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MpPluginUpdateTPState" PURGE="0" COMMENT="" />
+</LIBRARY>
+

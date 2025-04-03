@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sisgrv.dll" PATH="/DLLArchive/etc/sisgrv.dll" DATE="Fri Jul 03 22:16:40 CEST 2020" VERSION="6.14.10.2210">
+    <EXPORT ORDINAL="1" NAME="_UpdateRegistry@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

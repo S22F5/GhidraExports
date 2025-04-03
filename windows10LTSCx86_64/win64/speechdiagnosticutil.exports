@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="speechdiagnosticutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/SpeechDiagnosticUtil.dll" DATE="Sat Dec 07 01:09:50 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetMicDiagnosticResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetMicrophoneLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetPrefMicDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetTroublePageShowStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IsCalibrationDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MarkTroublePageDisplayed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="StartMicDiagnostic" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="StopMicDiagnostic" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UpdateRegistryValues" PURGE="0" COMMENT="" />
+</LIBRARY>
+

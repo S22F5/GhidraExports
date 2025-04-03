@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usar.dll" PATH="/DLLArchive/etc/UsAr.dll" DATE="Thu Oct 17 08:24:36 CEST 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetDllOEPNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOEPNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ShortFinderName" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="insthelper.dll" PATH="/DLLArchive/etc/InstHelper.dll" DATE="Fri Jul 03 21:43:03 CEST 2020" VERSION="8.2.0.1192">
+    <EXPORT ORDINAL="1" NAME="Compare" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DisplayEULA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EndProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FindProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FindUSBHostController" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InstMessageBox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InstMessageBox2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ShowModelessMsg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TRACELOG" PURGE="0" COMMENT="" />
+</LIBRARY>
+

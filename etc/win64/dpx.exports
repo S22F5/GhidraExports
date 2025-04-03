@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dpx.dll" PATH="/DLLArchive/etc/Dpx.dll" DATE="Wed Feb 14 21:14:50 CET 2024" VERSION="4.66.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadCIN_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReadDPX_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

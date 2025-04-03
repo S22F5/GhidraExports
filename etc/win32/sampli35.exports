@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sampli35.dll" PATH="/DLLArchive/etc/sampli35.dll" DATE="Fri Jul 03 13:13:45 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DLLCloseMidiThruLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DLLFreeSysxRecordEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DLLFreeSysxRecordList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DLLGetLastEventTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DLLGetMidiData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DLLInitMidiThruLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_DLLMidiInCallback@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DLLMidiInClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DLLMidiInFreeData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DLLMidiInGetPeakValues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DLLMidiInOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DLLMidiInResetAll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DLLMidiInStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DLLMidiInStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DLLMidiOutClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DLLMidiOutOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DLLMidiOutSend" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DLLSendMidiThruEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DLLSendRWPStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DLLSetReferenceClock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DLLSetSyncParameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DLLStopSMPTERecord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_DLLTimerCallback@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DLLTimerStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DLLTimerStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_DLLWaveInCallback@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_DLLWaveOutCallback@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DLLinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DLLwaveInAddBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DLLwaveInClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DLLwaveInGetPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DLLwaveInOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DLLwaveInPrepareHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DLLwaveInReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DLLwaveInStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DLLwaveInStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DLLwaveInUnprepareHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="DLLwaveOutClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="DLLwaveOutGetPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="DLLwaveOutOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="DLLwaveOutPause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="DLLwaveOutPrepareHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="DLLwaveOutReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="DLLwaveOutRestart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="DLLwaveOutSetCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="DLLwaveOutUnprepareHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="DLLwaveOutWrite" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rrcm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rrcm.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="13" NAME="RTCPReportRequest" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="getRtcpSessionList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

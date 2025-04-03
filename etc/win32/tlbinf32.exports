@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tlbinf32.dll" PATH="/DLLArchive/etc/TLBINF32.dll" DATE="Wed Jun 17 20:49:06 PDT 1998" VERSION="1.10.8169">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NewGUID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetTypeInfoAttributeStrings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetImplAttributeStrings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetLibraryAttributeStrings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetFunctionAttributeStrings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetVariableAttributeStrings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SwapStringArrays" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AddressOfStringElement" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="loword" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="hiword" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="makelong" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="lobyte" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="hibyte" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="makeword" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DLLGetDocumentation" PURGE="20" COMMENT="" />
+</LIBRARY>
+

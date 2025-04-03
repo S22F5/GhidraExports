@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bw5mount.dll" PATH="/DLLArchive/etc/bw5mount.dll" DATE="Fri Jul 03 21:25:46 CEST 2020" VERSION="1.0.0.0">
+    <EXPORT ORDINAL="1" NAME="ImagePluginGetVersion" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ImagePluginOpen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ImagePluginClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ImagePluginGetInfo" PURGE="20" COMMENT="" />
+</LIBRARY>
+

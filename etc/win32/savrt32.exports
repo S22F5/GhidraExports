@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="savrt32.dll" PATH="/DLLArchive/etc/SAVRT32.DLL" DATE="Fri Jul 03 13:13:49 PDT 2020" VERSION="9.0.1.36">
+    <EXPORT ORDINAL="1" NAME="SAVRT_ControlledDeInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SAVRT_ControlledInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SAVRT_DesignateServiceThreads" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SAVRT_Exclusion_Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SAVRT_Exclusion_GetNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SAVRT_Exclusion_Go_To_List_Head" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SAVRT_Exclusion_Is_Dirty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SAVRT_Exclusion_Modify_Add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SAVRT_Exclusion_Modify_Edit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SAVRT_Exclusion_Modify_Remove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SAVRT_Exclusion_Modify_RemoveAll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SAVRT_Exclusion_Open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SAVRT_Exclusion_Set_Default" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SAVRT_GetEnabledState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SAVRT_GetStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SAVRT_Get_Dll_Version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SAVRT_InitializeDriverCommunications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SAVRT_LoadAVAPI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SAVRT_Options_AreOptionsDirty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SAVRT_Options_DefaultAll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SAVRT_Options_FreeValuesInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SAVRT_Options_GetBinaryValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SAVRT_Options_GetDwordValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SAVRT_Options_GetStringValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SAVRT_Options_GetValuesInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SAVRT_Options_Load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SAVRT_Options_RestoreDefaultsAndLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SAVRT_Options_Save" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SAVRT_Options_SetBinaryValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SAVRT_Options_SetDefaultValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SAVRT_Options_SetDwordValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SAVRT_Options_SetStringValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SAVRT_ProtectProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SAVRT_RegisterServiceCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SAVRT_ReloadConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SAVRT_SetEnabledState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SAVRT_TerminateDriverCommunications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SAVRT_UnloadAVAPI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SAVRT_UnprotectProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SAVRT_Win9xAgentDeInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SAVRT_Win9xAgentInit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

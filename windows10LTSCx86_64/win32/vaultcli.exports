@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vaultcli.dll" PATH="/DLLArchive/windows10LTSCX86_64/vaultcli.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="106" NAME="Ordinal_106" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="Ordinal_107" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="Ordinal_104" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="Ordinal_105" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="VaultAddItem" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="VaultCloseVault" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="VaultCreateItemType" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="VaultDeleteItemType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="VaultEnumerateItemTypes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="VaultEnumerateItems" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="VaultEnumerateVaults" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="VaultFindItems" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="VaultFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="VaultGetInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="VaultGetItem" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="VaultGetItemType" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="VaultOpenVault" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="VaultRemoveItem" PURGE="24" COMMENT="" />
+</LIBRARY>
+

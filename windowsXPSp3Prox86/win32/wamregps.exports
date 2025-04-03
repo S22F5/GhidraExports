@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wamregps.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wamregps.dll" DATE="Fri Aug 17 13:36:34 PDT 2001" VERSION="6.0.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="3" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

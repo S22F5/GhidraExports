@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmvcore2.dll" PATH="/DLLArchive/etc/wmvcore2.dll" DATE="Fri Jul 03 13:36:14 PDT 2020" VERSION="8.20.00.5058 built by: private/dmd_DEV(bld4act)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WMCreateBackupRestorer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WMCreateEditor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WMCreateIndexer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WMCreateProfileManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WMCreateReader" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WMCreateSyncReader" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WMCreateWriter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WMCreateWriterFileSink" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WMCreateWriterNetworkSink" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WMIsContentProtected" PURGE="8" COMMENT="" />
+</LIBRARY>
+

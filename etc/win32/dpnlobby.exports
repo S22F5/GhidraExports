@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dpnlobby.dll" PATH="/DLLArchive/etc/dpnlobby.dll" DATE="Fri Jul 03 12:32:01 PDT 2020" VERSION="5.03.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="DirectPlay8LobbyCreate" PURGE="12" COMMENT="" FOWARDLIBRARY="DPNET.DLL" FOWARDSYMBOL="DirectPlay8Create" />
+</LIBRARY>
+

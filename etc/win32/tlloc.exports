@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tlloc.dll" PATH="/DLLArchive/etc/TLLOC.DLL" DATE="Wed Jun 17 22:18:40 CEST 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="OSDebug4VersionCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TLFunc" PURGE="16" COMMENT="" />
+</LIBRARY>
+

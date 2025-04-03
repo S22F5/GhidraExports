@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dataclen.dll" PATH="/DLLArchive/windows10LTSCX86_64/dataclen.dll" DATE="Sat Dec 07 01:09:57 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0CDataDrivenCleaner@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CDataDrivenCleaner@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CDataDrivenCleaner@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CDataDrivenCleaner@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7CDataDrivenCleaner@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AddFileToList@CDataDrivenCleaner@@IAEHPBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?AddFolders@CDataDrivenCleaner@@QAEHPBG@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?AddRef@CDataDrivenCleaner@@UAGKXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Deactivate@CDataDrivenCleaner@@UAGJPAK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?ExecuteCmd@CDataDrivenCleaner@@IAEXPAGH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?FreeList@CDataDrivenCleaner@@IAEXPAUtag_CleanFileStruct@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetSpaceUsed@CDataDrivenCleaner@@UAGJPA_KPAUIEmptyVolumeCacheCallBack@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Initialize@CDataDrivenCleaner@@UAGJPAUHKEY__@@PBGPAPAG2PAK@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?LastAccessisOK@CDataDrivenCleaner@@IAEHU_FILETIME@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?MergeSortList@CDataDrivenCleaner@@IAEPAUtag_CleanFileStruct@@PAU2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Purge@CDataDrivenCleaner@@UAGJ_KPAUIEmptyVolumeCacheCallBack@@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?PurgeFiles@CDataDrivenCleaner@@IAEXPAUIEmptyVolumeCacheCallBack@@_K@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?QueryInterface@CDataDrivenCleaner@@UAGJABU_GUID@@PAPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?Release@CDataDrivenCleaner@@UAGKXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?ShowProperties@CDataDrivenCleaner@@UAGJPAUHWND__@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?WalkForUsedSpace@CDataDrivenCleaner@@IAEHPBGPAUIEmptyVolumeCacheCallBack@@H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

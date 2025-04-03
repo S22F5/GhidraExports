@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vpmsece.dll" PATH="/DLLArchive/etc/vpmsece.dll" DATE="Fri Jul 03 13:28:29 PDT 2020" VERSION="7.61.00.935">
+    <EXPORT ORDINAL="1" NAME="ExchEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MEC_StorageInit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

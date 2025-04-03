@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msimusic.dll" PATH="/DLLArchive/etc/MSIMUSIC.DLL" DATE="Fri Jul 03 12:56:22 PDT 2020" VERSION="2, 0, 0, 114">
+    <EXPORT ORDINAL="1" NAME="_AllocAAEngine@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AllocAAMIDIIn@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_GetFinalMIDISink@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_LoadBandFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_LoadMotifFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_LoadPatternFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_LoadPersonalityByName@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_LoadPersonalityFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_LoadPersonalityFromMemory@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_LoadSectionFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_LoadSongFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_LoadStyleByName@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_LoadStyleFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_LoadStyleFromMemory@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_LoadTemplateFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_MusicEngineSimpleInit95@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_MusicEngineSimpleInit@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_MusicEngineSimpleInitNT@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_Panic@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_SaveSectionAsMIDIFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_SaveSectionFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_SetAADebug@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

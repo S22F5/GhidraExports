@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdmdiagnostics.dll" PATH="/DLLArchive/windows10LTSCX86_64/MdmDiagnostics.dll" DATE="Wed Oct 06 06:52:03 PDT 2021" VERSION="10.0.19041.1052 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateMdmEnterpriseDiagnosticReport" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateMdmEnterpriseDiagnosticHTMLReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateLogCabOnArea" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateLogZipOnArea" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateLogZipOnXml" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CollectOneTraceFiles" PURGE="0" COMMENT="" />
+</LIBRARY>
+

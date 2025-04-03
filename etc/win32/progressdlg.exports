@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="progressdlg.dll" PATH="/DLLArchive/etc/ProgressDlg.dll" DATE="Fri Jul 03 13:07:24 PDT 2020" VERSION="1,0,0,1">
+    <EXPORT ORDINAL="1" NAME="Update" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ProgressDlg@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

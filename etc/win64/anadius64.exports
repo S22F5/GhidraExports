@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="anadius64.dll" PATH="/DLLArchive/etc/anadius64.dll" DATE="Wed Jul 28 21:52:46 PDT 2021" VERSION="1.1.2.0">
+    <EXPORT ORDINAL="1" NAME="anadius" PURGE="0" COMMENT="" />
+</LIBRARY>
+

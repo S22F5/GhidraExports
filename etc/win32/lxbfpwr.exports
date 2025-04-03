@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfpwr.dll" PATH="/DLLArchive/etc/lxbfpwr.dll" DATE="Fri Jul 03 21:49:03 CEST 2020" VERSION="0, 1, 61, 1">
+    <EXPORT ORDINAL="1" NAME="StartPORMonitor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StopPORMonitor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

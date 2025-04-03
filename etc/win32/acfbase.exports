@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acfbase.dll" PATH="/DLLArchive/etc/ACFBase.dll" DATE="Fri Jul 03 12:15:32 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="?AcfAddRefServer@@YAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?AcfCreateInstance@@YAJABU_GUID@@PAUIUnknown@@K0PAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?AcfCreateInstanceByName@@YAJPADPAPAUIUnknown@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AcfFreeUnusedLibraries@@YAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AcfGetActivityFlag@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AcfGetClassObject@@YAJABU_GUID@@KPAX0PAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?AcfGetShutdownEvent@@YAPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?AcfInitialize@@YAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?AcfRegisterServers@@YAJW4EACFRegistrationMode@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?AcfReleaseServer@@YAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?AcfResetActivityFlag@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AcfSetComponentDirectory@@YAJQAD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?AcfUninitialize@@YAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?AcfUpdateRegistery@@YAJPADH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?AcfUpdateRegisteryFromResource@@YAJPADIPBGH@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

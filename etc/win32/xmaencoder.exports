@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xmaencoder.dll" PATH="/DLLArchive/etc/xmaencoder.dll" DATE="Wed Mar 13 11:45:45 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="FMOD_XMA2Free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FMOD_XMA2InMemoryEncoder" PURGE="0" COMMENT="" />
+</LIBRARY>
+

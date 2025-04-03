@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssign32.dll" PATH="/DLLArchive/windows10LTSCX86_64/mssign32.dll" DATE="Sat Dec 07 10:09:26 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FreeCryptProvFromCert" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeCryptProvFromCertEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetCryptProvFromCert" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetCryptProvFromCertEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PvkFreeCryptProv" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PvkGetCryptProv" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PvkPrivateKeyAcquireContext" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PvkPrivateKeyAcquireContextA" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PvkPrivateKeyAcquireContextFromMemory" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PvkPrivateKeyAcquireContextFromMemoryA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PvkPrivateKeyLoad" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PvkPrivateKeyLoadA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PvkPrivateKeyLoadFromMemory" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PvkPrivateKeyLoadFromMemoryA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PvkPrivateKeyReleaseContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PvkPrivateKeyReleaseContextA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PvkPrivateKeySave" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PvkPrivateKeySaveA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PvkPrivateKeySaveToMemory" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PvkPrivateKeySaveToMemoryA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SignError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SignerAddTimeStampResponse" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SignerAddTimeStampResponseEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SignerCreateTimeStampRequest" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SignerFreeSignerContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SignerSign" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SignerSignEx2" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SignerSignEx3" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SignerSignEx" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SignerTimeStamp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SignerTimeStampEx2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SignerTimeStampEx3" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SignerTimeStampEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SpcGetCertFromKey" PURGE="20" COMMENT="" />
+</LIBRARY>
+

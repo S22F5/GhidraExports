@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_crypto-0.7.dll" PATH="/DLLArchive/etc/rz_crypto-0.7.dll" DATE="Mon Mar 04 10:48:56 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_crypto_append" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_crypto_codec_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_crypto_final" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_crypto_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_crypto_get_output" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_crypto_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_crypto_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_crypto_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_crypto_plugin_by_index" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_crypto_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_crypto_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_crypto_set_iv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_crypto_set_key" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_crypto_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_crypto_use" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_crypto_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_des_pc2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_des_permute_block0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_des_permute_block1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_des_permute_key" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_des_permute_key_inv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_des_round" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_des_round_key" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_des_shift_key" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fhsvcctl.dll" PATH="/DLLArchive/windows10LTSCX86_64/fhsvcctl.dll" DATE="Wed Oct 06 15:52:55 CEST 2021" VERSION="10.0.19041.1110 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FhQueryConfiguredUsersCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FhServiceBlockBackup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FhServiceClearProtectionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FhServiceClosePipe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FhServiceEnterMaintenanceMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FhServiceExitMaintenanceMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FhServiceMigrationFinished" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FhServiceMigrationStarting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FhServiceOpenPipe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FhServiceReloadConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FhServiceStartBackup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FhServiceStopBackup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FhServiceUnblockBackup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

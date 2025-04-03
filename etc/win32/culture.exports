@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="culture.dll" PATH="/DLLArchive/etc/Culture.dll" DATE="Mon Mar 30 14:54:04 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="ConvertLangIdToCultureName" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tcbloader.dll" PATH="/DLLArchive/windows10LTSCX86_64/tcbloader.dll" DATE="Wed Oct 06 15:52:42 CEST 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="OslGenRandomBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OslGetControlSubkeyCell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OslGetExportRoutineInModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OslGetStringValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OslGetValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OslIsRunningInSecureKernel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TcbLoadEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TcbResumeEntry" PURGE="0" COMMENT="" />
+</LIBRARY>
+

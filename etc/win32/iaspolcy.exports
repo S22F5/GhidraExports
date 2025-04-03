@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iaspolcy.dll" PATH="/DLLArchive/etc/iaspolcy.dll" DATE="Fri Jul 03 12:38:31 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IASAttributeAddRef" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IASAttributeAlloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IASAttributeAnsiAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IASAttributeRelease" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IASAttributeUnicodeAlloc" PURGE="4" COMMENT="" />
+</LIBRARY>
+

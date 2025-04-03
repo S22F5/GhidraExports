@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xapofx1_1.dll" PATH="/DLLArchive/etc/xapofx1_1.dll" DATE="Fri Jul 03 13:40:09 PDT 2020" VERSION="9.24 (DXSDK_AUG08.080730-0601)">
+    <EXPORT ORDINAL="1" NAME="CreateFX" PURGE="0" COMMENT="" />
+</LIBRARY>
+

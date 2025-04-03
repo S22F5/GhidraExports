@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sensapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sensapi.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="IsDestinationReachableA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsDestinationReachableW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsNetworkAlive" PURGE="4" COMMENT="" />
+</LIBRARY>
+

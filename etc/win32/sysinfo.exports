@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sysinfo.dll" PATH="/DLLArchive/etc/Sysinfo.dll" DATE="Fri Jul 03 13:21:54 PDT 2020" VERSION="1, 0, 0, 9">
+    <EXPORT ORDINAL="1" NAME="FreeVarTypeStruct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RegisterTrainerCompilerCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="System_Modems_GetCount_PN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="System_Modems_GetCount_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="System_Modems_GetInfo_Name_NPS_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="System_Modems_GetInfo_Name_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="System_Modems_GetInfo_Port_NPN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="System_Modems_GetInfo_Port_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="System_Modems_GetInfo_Speed_NPN_Playback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="System_Modems_GetInfo_Speed_Register" PURGE="0" COMMENT="" />
+</LIBRARY>
+

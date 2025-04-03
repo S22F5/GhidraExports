@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpg_transform.dll" PATH="/DLLArchive/etc/Jpg_transform.dll" DATE="Fri Apr 05 09:07:24 PDT 2024" VERSION="4.63.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JPEG_Crop_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JPEG_Transform_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

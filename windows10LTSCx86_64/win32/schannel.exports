@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="schannel.dll" PATH="/DLLArchive/windows10LTSCX86_64/schannel.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.789 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SpLsaModeInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AcceptSecurityContext" PURGE="36" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="AcceptSecurityContext" />
+    <EXPORT ORDINAL="3" NAME="AcquireCredentialsHandleA" PURGE="36" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="AcquireCredentialsHandleA" />
+    <EXPORT ORDINAL="4" NAME="AcquireCredentialsHandleW" PURGE="36" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="AcquireCredentialsHandleW" />
+    <EXPORT ORDINAL="5" NAME="ApplyControlToken" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="ApplyControlToken" />
+    <EXPORT ORDINAL="6" NAME="CompleteAuthToken" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="CompleteAuthToken" />
+    <EXPORT ORDINAL="7" NAME="DeleteSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="DeleteSecurityContext" />
+    <EXPORT ORDINAL="8" NAME="EnumerateSecurityPackagesA" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="EnumerateSecurityPackagesA" />
+    <EXPORT ORDINAL="9" NAME="EnumerateSecurityPackagesW" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="EnumerateSecurityPackagesW" />
+    <EXPORT ORDINAL="10" NAME="FreeContextBuffer" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="FreeContextBuffer" />
+    <EXPORT ORDINAL="11" NAME="FreeCredentialsHandle" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="FreeCredentialsHandle" />
+    <EXPORT ORDINAL="12" NAME="ImpersonateSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="ImpersonateSecurityContext" />
+    <EXPORT ORDINAL="13" NAME="InitSecurityInterfaceA" PURGE="0" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="InitSecurityInterfaceA" />
+    <EXPORT ORDINAL="14" NAME="InitSecurityInterfaceW" PURGE="0" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="InitSecurityInterfaceW" />
+    <EXPORT ORDINAL="15" NAME="InitializeSecurityContextA" PURGE="48" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="InitializeSecurityContextA" />
+    <EXPORT ORDINAL="16" NAME="InitializeSecurityContextW" PURGE="48" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="InitializeSecurityContextW" />
+    <EXPORT ORDINAL="17" NAME="MakeSignature" PURGE="16" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="MakeSignature" />
+    <EXPORT ORDINAL="18" NAME="QueryContextAttributesA" PURGE="12" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="QueryContextAttributesA" />
+    <EXPORT ORDINAL="19" NAME="QueryContextAttributesW" PURGE="12" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="QueryContextAttributesW" />
+    <EXPORT ORDINAL="20" NAME="QuerySecurityPackageInfoA" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="QuerySecurityPackageInfoA" />
+    <EXPORT ORDINAL="21" NAME="QuerySecurityPackageInfoW" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="QuerySecurityPackageInfoW" />
+    <EXPORT ORDINAL="22" NAME="RevertSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="RevertSecurityContext" />
+    <EXPORT ORDINAL="23" NAME="SealMessage" PURGE="16" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="SealMessage" />
+    <EXPORT ORDINAL="24" NAME="SpUserModeInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SslCrackCertificate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SslEmptyCacheA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SslEmptyCacheW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SslFreeCertificate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SslFreeCustomBuffer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SslGenerateRandomBits" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SslGetExtensions" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SslGetMaximumKeySize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SslGetServerIdentity" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SslLoadCertificate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="UnsealMessage" PURGE="16" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="UnsealMessage" />
+    <EXPORT ORDINAL="36" NAME="VerifySignature" PURGE="16" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="VerifySignature" />
+</LIBRARY>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntport.dll" PATH="/DLLArchive/etc/ntport.dll" DATE="Fri Jul 03 13:02:22 PDT 2020" VERSION="2.3.0.3">
+    <EXPORT ORDINAL="1" NAME="Inp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Inpw" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Inpd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Outp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Outpw" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Outpd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Inport" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InportW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InportD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Outport" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OutportW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OutportD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetLastState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IsWinNT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EnablePorts" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DisablePorts" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LicenseInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetNTPortVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetFastMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetFastMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetLPTPortAddress" PURGE="4" COMMENT="" />
+</LIBRARY>
+

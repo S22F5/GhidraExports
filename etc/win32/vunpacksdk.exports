@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vunpacksdk.dll" PATH="/DLLArchive/etc/VUnpackSDK.dll" DATE="Mon Sep 10 06:08:14 PDT 2007" VERSION="1.2.5.2">
+    <EXPORT ORDINAL="1" NAME="GetASTUnpackFun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetASTUnpackFunArray" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetStaticUnpackFun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetUnpackFun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitVM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetOEPCallBack" PURGE="0" COMMENT="" />
+</LIBRARY>
+

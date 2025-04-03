@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqupgrd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqupgrd.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="5.01.1110">
+    <EXPORT ORDINAL="1" NAME="CleanupOnCluster" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MqCreateMsmqObj" PURGE="0" COMMENT="" />
+</LIBRARY>
+

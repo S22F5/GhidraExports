@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wldp.dll" PATH="/DLLArchive/windows10LTSCX86_64/wldp.dll" DATE="Wed Oct 06 06:52:33 PDT 2021" VERSION="10.0.19041.662 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WldpIsAppApprovedByPolicy" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WldpQueryWindowsLockdownMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WldpQueryWindowsLockdownRestriction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WldpSetWindowsLockdownRestriction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WldpAddDeveloperCertificateForDynamicCodeTrust" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WldpCheckDeviceEncryptionNotStarted" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WldpCheckRetailConfiguration" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WldpCheckSecurityWatermarkState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WldpCheckWcosDeviceEncryptionSecure" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WldpDisableDeveloperMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WldpEnableDeveloperMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WldpGetLockdownPolicy" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WldpIsAllowedEntryPoint" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WldpIsClassInApprovedList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WldpIsDebugAllowed" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WldpIsDynamicCodePolicyEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WldpQueryDynamicCodeTrust" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WldpQuerySecurityPolicy" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WldpResetSecurityWatermarkState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WldpSetDynamicCodeTrust2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WldpSetDynamicCodeTrust" PURGE="4" COMMENT="" />
+</LIBRARY>
+

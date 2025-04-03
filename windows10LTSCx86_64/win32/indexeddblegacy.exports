@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="indexeddblegacy.dll" PATH="/DLLArchive/windows10LTSCX86_64/IndexedDbLegacy.dll" DATE="Wed Oct 06 06:53:02 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetIndexedDbLegacyFunctions" PURGE="0" COMMENT="" />
+</LIBRARY>
+

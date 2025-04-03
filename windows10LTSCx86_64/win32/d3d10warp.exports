@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3d10warp.dll" PATH="/DLLArchive/windows10LTSCX86_64/d3d10warp.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="199" NAME="Ordinal_199" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="VSD3DDebugConnectionBuffer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="D3D11RefGetLastCreation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="D3DLayerGetInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="OpenAdapter10_2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="204" NAME="OpenAdapter12" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="205" NAME="OpenAdapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="206" NAME="OpenDisplayAdapter1" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="207" NAME="QueryDListForApplication1" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winntbba.dll" PATH="/DLLArchive/windowsXPSp3Prox86/WINNTBBA.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="BB_Refresh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetBBHwnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetBBMainHwnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetPanelCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitBillBoard" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ProgressGaugeMsg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetInfoText" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetProgress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetProgressText" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetStep" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetTimeEstimate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShowProgressGaugeWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="StartBillBoard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="StopBillBoard" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TermBillBoard" PURGE="0" COMMENT="" />
+</LIBRARY>
+

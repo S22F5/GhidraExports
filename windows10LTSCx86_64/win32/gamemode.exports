@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gamemode.dll" PATH="/DLLArchive/windows10LTSCX86_64/gamemode.dll" DATE="Sat Dec 07 10:09:15 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetExpandedResourceExclusiveCpuCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HasExpandedResources" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MsixvcAddGameToGCS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MsixvcAddPackageAsync" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MsixvcRemediateMutablePackagesForVolumeAsync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MsixvcUpdatePolicyString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MsixvcUpdatePolicyUInt64" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReleaseExclusiveCpuSets" PURGE="0" COMMENT="" />
+</LIBRARY>
+

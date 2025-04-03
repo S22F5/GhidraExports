@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msxml2r.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msxml2r.dll" DATE="Fri Aug 17 22:35:14 CEST 2001" VERSION="8.1.7502.0">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

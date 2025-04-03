@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windowsperformancerecordercontrol.dll" PATH="/DLLArchive/windows10LTSCX86_64/windowsperformancerecordercontrol.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WPRCControlLogging" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WPRCCreateInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WPRCCreateInstanceUnderInstanceName" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WPRCDisableBuiltinProfiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WPRCFormatError" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WPRCQueryBuiltInProfiles" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WPRCReleaseInstanceByName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WPRCRemoveLogging" PURGE="0" COMMENT="" />
+</LIBRARY>
+

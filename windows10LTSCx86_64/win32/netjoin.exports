@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netjoin.dll" PATH="/DLLArchive/windows10LTSCX86_64/netjoin.dll" DATE="Sat Dec 07 01:09:30 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NetCreateProvisioningPackage" PURGE="16" COMMENT="" FOWARDLIBRARY="NETPROVFW.DLL" FOWARDSYMBOL="NetCreateProvisioningPackage" />
+    <EXPORT ORDINAL="2" NAME="NetProvisionComputerAccount" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetRequestOfflineDomainJoin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetRequestProvisioningPackageInstall" PURGE="20" COMMENT="" FOWARDLIBRARY="NETPROVFW.DLL" FOWARDSYMBOL="NetRequestProvisioningPackageInstall" />
+    <EXPORT ORDINAL="5" NAME="NetSetuppCloseLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetSetuppOpenLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetpAvoidNetlogonSpnSet" PURGE="4" COMMENT="" FOWARDLIBRARY="JOINUTIL.DLL" FOWARDSYMBOL="NetpAvoidNetlogonSpnSet" />
+    <EXPORT ORDINAL="8" NAME="NetpChangeMachineName" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NetpControlServices" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetpCrackNamesStatus2Win32Error" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetpCreateComputerObjectInDs" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetpDoDomainJoin" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NetpDomainJoinLicensingCheck" PURGE="0" COMMENT="" FOWARDLIBRARY="NETPROVFW.DLL" FOWARDSYMBOL="NetpProvDomainJoinLicensingCheck" />
+    <EXPORT ORDINAL="14" NAME="NetpGetJoinInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NetpGetListOfJoinableOUs" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NetpGetLsaPrimaryDomain" PURGE="16" COMMENT="" FOWARDLIBRARY="JOINUTIL.DLL" FOWARDSYMBOL="NetpGetLsaPrimaryDomain" />
+    <EXPORT ORDINAL="17" NAME="NetpGetMachineAccountName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NetpIsSetupInProgress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NetpJoinProvider2Initialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NetpJoinProvider3Initialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NetpJoinProviderInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NetpLogPrintHelper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NetpMachineValidToJoin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NetpManageIPCConnect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NetpManageMachineAccountWithSid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NetpQueryService" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NetpSeparateUserAndDomain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NetpSetComputerAccountPassword" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NetpStopService" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NetpUnJoinDomain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="NetpUpdateAutoenrolConfig" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="NetpUpgradePreNT5JoinInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="NetpValidateName" PURGE="20" COMMENT="" />
+</LIBRARY>
+

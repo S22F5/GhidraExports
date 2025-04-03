@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="simpleprofiler.dll" PATH="/DLLArchive/etc/SimpleProfiler.dll" DATE="Sun Jan 26 15:51:30 PST 2014" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetGUIDAsString" PURGE="0" COMMENT="" />
+</LIBRARY>
+

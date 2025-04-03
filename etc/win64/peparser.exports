@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="peparser.dll" PATH="/DLLArchive/etc/peparser.dll" DATE="Thu Dec 21 03:22:24 PST 2023" VERSION="9.56.0.0">
+    <EXPORT ORDINAL="1" NAME="create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="package" PURGE="0" COMMENT="" />
+</LIBRARY>
+

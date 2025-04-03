@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="z_setup.dll" PATH="/DLLArchive/etc/z_setup.dll" DATE="Fri Jul 03 21:14:19 CEST 2020" VERSION="1.20.00.0110">
+    <EXPORT ORDINAL="1" NAME="Hello" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitDLLBillboard" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LocalizeCursorSchemNames" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PIP" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PostUninstallProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PreInitProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PreInstallProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PreUninstallProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="profsvc.dll" PATH="/DLLArchive/windows10LTSCX86_64/profsvc.dll" DATE="Wed Oct 06 06:51:59 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="176" NAME="UserProfileServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="177" NAME="GetExclusionListFromRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="178" NAME="GetUserChoiceForSlowLink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="179" NAME="GetUserPreferenceValue" PURGE="0" COMMENT="" />
+</LIBRARY>
+

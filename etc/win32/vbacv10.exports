@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vbacv10.dll" PATH="/DLLArchive/etc/VBACV10.DLL" DATE="Fri Jul 03 13:26:12 PDT 2020" VERSION="2.0.7411">
+    <EXPORT ORDINAL="4001" NAME="ConvertToAscii" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4002" NAME="ConvertToBinary" PURGE="12" COMMENT="" />
+</LIBRARY>
+

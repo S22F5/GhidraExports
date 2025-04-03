@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coreglobconfig.dll" PATH="/DLLArchive/windows10LTSCX86_64/coreglobconfig.dll" DATE="Wed Oct 06 06:52:27 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateUserSpecificGlobalizationSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDisplayLanguageLocalizedName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetDisplayLanguageNativeName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetSupportedDisplayLanguages" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetDisplayLanguageCore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetUserDisplayLanguageCore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SyncLanguageDataFromCloud" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SyncLanguageDataToCloud" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UpdateDefaultGlobalizationSettings" PURGE="4" COMMENT="" />
+</LIBRARY>
+

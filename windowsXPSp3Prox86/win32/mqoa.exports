@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqoa.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqoa.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.01.1110">
+    <EXPORT ORDINAL="1" NAME="DLLGetDocumentation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

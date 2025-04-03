@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpipe.dll" PATH="/DLLArchive/etc/jpipe.dll" DATE="Fri Jul 03 12:44:47 PDT 2020" VERSION="7.0.0.8764">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_com_sun_star_lib_connections_pipe_PipeConnection_closeJNI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_com_sun_star_lib_connections_pipe_PipeConnection_createJNI" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_com_sun_star_lib_connections_pipe_PipeConnection_flushJNI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_com_sun_star_lib_connections_pipe_PipeConnection_readJNI" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_com_sun_star_lib_connections_pipe_PipeConnection_writeJNI" PURGE="12" COMMENT="" />
+</LIBRARY>
+

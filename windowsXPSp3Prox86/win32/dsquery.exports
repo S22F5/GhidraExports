@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsquery.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dsquery.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="256" NAME="OpenSavedDsQuery" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="OpenSavedDsQueryW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="OpenQueryWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="512" NAME="Ordinal_512" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="513" NAME="Ordinal_513" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="514" NAME="Ordinal_514" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="515" NAME="Ordinal_515" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="516" NAME="Ordinal_516" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="517" NAME="Ordinal_517" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="518" NAME="Ordinal_518" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="519" NAME="Ordinal_519" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="520" NAME="Ordinal_520" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="521" NAME="Ordinal_521" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="execmodelclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/ExecModelClient.dll" DATE="Wed Oct 06 06:52:23 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateForegroundTaskManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TestHook_CancelShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateModernVoipPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

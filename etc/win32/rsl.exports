@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rsl.dll" PATH="/DLLArchive/etc/rsl.dll" DATE="Fri Jul 03 13:12:53 PDT 2020" VERSION="1.01.27">
+    <EXPORT ORDINAL="1" NAME="ValidateKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckActivation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CheckTrial" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GenerateKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DecodeKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DecodeOldKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Disable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitTrial" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InitPending" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InitPermanent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DecodeTSID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ReturnCodeSymbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ReturnCodeDescription" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WebVerify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Action" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="StartOfWeekDate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Bag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="UnBag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="InitKeyless" PURGE="0" COMMENT="" />
+</LIBRARY>
+

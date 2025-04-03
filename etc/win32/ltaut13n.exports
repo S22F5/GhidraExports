@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltaut13n.dll" PATH="/DLLArchive/etc/LTAUT13n.dll" DATE="Fri Jul 03 12:47:58 PDT 2020" VERSION="13.0.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="301" NAME="L_AutIsValid" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="302" NAME="L_AutInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="303" NAME="L_AutCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="304" NAME="L_AutFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="307" NAME="L_AutSetUndoLevel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="308" NAME="L_AutGetUndoLevel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="309" NAME="L_AutCanUndo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="310" NAME="L_AutCanRedo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="311" NAME="L_AutUndo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="312" NAME="L_AutRedo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="313" NAME="L_AutClipboardDataReady" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="314" NAME="L_AutCut" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="315" NAME="L_AutCopy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="316" NAME="L_AutPaste" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="317" NAME="L_AutDelete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="318" NAME="L_AutPrint" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="319" NAME="L_AutSelect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="320" NAME="L_AutSetCurrentTool" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="321" NAME="L_AutGetCurrentTool" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="401" NAME="L_AutAddContainer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="402" NAME="L_AutRemoveContainer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="403" NAME="L_AutSetActiveContainer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="404" NAME="L_AutGetActiveContainer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="405" NAME="L_AutEnumContainers" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="501" NAME="L_AutSetToolbar" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="502" NAME="L_AutGetToolbar" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="601" NAME="L_AutSetPaintProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="602" NAME="L_AutGetPaintProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="604" NAME="L_AutSetPaintBkColor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="605" NAME="L_AutGetPaintBkColor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="701" NAME="L_AutSetVectorProperty" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="702" NAME="L_AutGetVectorProperty" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="703" NAME="L_AutEditVectorObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="801" NAME="L_AutSetUndoEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="802" NAME="L_AutAddUndoNode" PURGE="8" COMMENT="" />
+</LIBRARY>
+

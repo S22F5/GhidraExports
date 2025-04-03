@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wudfx02000.dll" PATH="/DLLArchive/windows10LTSCX86_64/WUDFx02000.dll" DATE="Wed Oct 06 15:52:06 CEST 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FxFrameworkEntryUm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Microsoft_WDF_UMDF_Version" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

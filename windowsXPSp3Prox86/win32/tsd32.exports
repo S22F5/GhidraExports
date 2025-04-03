@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tsd32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/tsd32.dll" DATE="Fri Aug 17 13:36:34 PDT 2001" VERSION="1.03">
+    <EXPORT ORDINAL="10" NAME="TrueSpeech_Version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TrueSpeech_Init" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TrueSpeech_Term" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TrueSpeech_Encod" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TrueSpeech_Decod" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TrueSpeech_Reset" PURGE="4" COMMENT="" />
+</LIBRARY>
+

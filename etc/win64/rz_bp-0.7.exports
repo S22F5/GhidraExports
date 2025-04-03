@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_bp-0.7.dll" PATH="/DLLArchive/etc/rz_bp-0.7.dll" DATE="Mon Mar 04 10:49:04 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_bp_add_fault" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_bp_add_hw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_bp_add_sw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_bp_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_bp_del_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_bp_del_index" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_bp_enable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_bp_enable_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_bp_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_bp_get_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_bp_get_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_bp_get_ending_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_bp_get_in" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_bp_get_index" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_bp_get_index_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_bp_is_valid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_bp_item_set_cond" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_bp_item_set_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_bp_item_set_expr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_bp_item_set_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_bp_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_bp_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_bp_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_bp_plugin_del_byname" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_bp_plugin_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_bp_restore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_bp_restore_except" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rz_bp_restore_one" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="rz_bp_set_trace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="rz_bp_set_trace_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="rz_bp_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="rz_bp_size_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="rz_bp_stepy_continuation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="rz_bp_traptrace_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="rz_bp_traptrace_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="rz_bp_traptrace_enable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="rz_bp_traptrace_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="rz_bp_traptrace_free_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="rz_bp_traptrace_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="rz_bp_traptrace_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="rz_bp_traptrace_next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="rz_bp_traptrace_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="rz_bp_use" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="rz_bp_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="rz_bp_watch_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="rz_bp_watch_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="rz_serialize_bp_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="rz_serialize_bp_parser_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="rz_serialize_bp_save" PURGE="0" COMMENT="" />
+</LIBRARY>
+

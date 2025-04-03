@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imagelib.dll" PATH="/DLLArchive/etc/imagelib.dll" DATE="Fri Jul 03 12:41:15 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="2" NAME="IMAGE_bitmap_info" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IMAGE_get_croprect" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IMAGE_set_croprect" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IMAGE_rotate_bitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IMAGE_flip_bitmapx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IMAGE_flip_bitmapy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IMAGE_invert_bitmap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IMAGE_resize_bitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IMAGE_sharpen_bitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IMAGE_color_gray" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IMAGE_mediancut_color" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IMAGE_resize_fixed_ratio_bitmap" PURGE="12" COMMENT="" />
+</LIBRARY>
+

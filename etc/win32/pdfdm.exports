@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pdfdm.dll" PATH="/DLLArchive/etc/pdfdm.dll" DATE="Fri Jul 03 13:06:24 PDT 2020" VERSION="2.0.0.0">
+    <EXPORT ORDINAL="1" NAME="pdfdmCreateAlbumDoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="pdfdmCreateFileStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="pdfdmCreateMemoryStream" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="pdfdmCreateSlideshowDoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="pdfdmInsertMedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="pdfdmReleaseDoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="pdfdmReleaseStream" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="pdfdmSaveDoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="pdfdmSetDocOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="pdfdmSetInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="pdfdmSetPageOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="pdfdmStreamClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="pdfdmStreamWrite" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dllav32.dll" PATH="/DLLArchive/etc/dllav32.dll" DATE="Fri Jul 03 12:31:35 PDT 2020" VERSION="1, 0, 0, 40">
+    <EXPORT ORDINAL="1" NAME="_AvAuthorize@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AvDevClose@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AvDevControl@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_AvDevErase@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_AvDevGetDevInfo@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_AvDevGetDevList@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_AvDevGetDiscInfo@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_AvDevGetTrackInfo@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_AvDevOpen@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_AvDevSetAccessToken@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_AvDevSetSpeedAndMode@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_AvGetLicenseInfo@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_AvGetLicenseInfoDirect@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_AvRegisterMsgCbFunc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_AvRegisterStatCbFunc@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_AvSetLicenseInfo@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_AvSetLicenseInfoDirect@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_AvSetUidPath@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_AvVolAddCdiApplication@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_AvVolCreate@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_AvVolDestroy@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_AvVolGetUsedSpace@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_AvVolMenuAddFile@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_AvVolMenuCreateNavigationObject@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_AvVolMenuCreatePlayList@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_AvVolMountDev@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_AvVolSetTitleAttribute@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_AvVolSetTmpPath@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_AvVolSetVolAttribute@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_AvVolTitleAddFile@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_AvVolTitleAddFileByHandle@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_AvVolTitleDefineEntries@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_AvVolUnmountDev@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_AvVolWriteToDisc@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

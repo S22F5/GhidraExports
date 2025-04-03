@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="npkcrypt.dll" PATH="/DLLArchive/etc/npkcrypt.dll" DATE="Fri Jul 03 13:01:56 PDT 2020" VERSION="2004, 9, 13, 1">
+    <EXPORT ORDINAL="1" NAME="NPKOpenDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NPKCloseDriver" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NPKRegisterCryptWindowMsg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NPKRegisterCryptWindowFunc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NPKUnregisterCryptWindow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NPKRegisterCryptProgram" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NPKUnregisterCryptProgram" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NPKSetKeyMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NPKSetKbdLock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NPKSetHook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NPKSetHookPause" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NPKSetHookPlc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NPKRegisterCryptWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NPKSetUseKeyMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NPKOpenDriverEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NPKRegCryptMsg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NPKRegCryptFunc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NPKUnregCrypt" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NPKUnregisterCryptProgramAll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NPKSetInfoWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NPKEnumHookedProcess" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NPKRegisterCryptProgramEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NPKSetCryptProgramUseAlert" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NPKSetDrvPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NPKLoadAtStartup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NPKGetSecOpt" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NPKSetSecOpt" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="NPKGetEngineVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NPKRegisterNotifyWindow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="NPKSetTargetWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="NPKGetCryptKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="NPKUnregisterCryptWindowAll" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="NPKGetWindowText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="NPKGetHookPause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="NPKGetAppCompatFlag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="NPKSetAppCompatFlag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="NPKRegNotifyWindow" PURGE="8" COMMENT="" />
+</LIBRARY>
+

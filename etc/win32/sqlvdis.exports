@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqlvdis.dll" PATH="/DLLArchive/etc/SQLVDIS.DLL" DATE="Fri Jul 03 13:19:46 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="2" NAME="BuildSecurityAttributes" PURGE="0" COMMENT="" />
+</LIBRARY>
+

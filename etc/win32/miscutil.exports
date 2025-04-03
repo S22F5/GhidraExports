@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="miscutil.dll" PATH="/DLLArchive/etc/Miscutil.dll" DATE="Fri Jul 03 12:51:28 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="InitMiscutil" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExitMiscutil" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IdbUniMonitor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GaugeControlProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PurgeGaugeDialogProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SHORT_CheckDomain" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SHORT_EnterFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SHORT_EnterPaid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SHORT_CheckPlusGroup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SHORT_SendSelectionCodeByIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="FILER_RegisterType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="FILER_GetFileType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="FILER_GetPrintStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DATA_ExtractRaw" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DATA_FreeRawData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DATA_ExtractGetData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DATA_ExtractEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Db_GetDodGid" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SHORT_SendSelectionCode" PURGE="4" COMMENT="" />
+</LIBRARY>
+

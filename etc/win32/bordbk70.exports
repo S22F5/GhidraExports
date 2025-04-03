@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bordbk70.dll" PATH="/DLLArchive/etc/bordbk70.dll" DATE="Fri Jul 03 12:25:25 PDT 2020" VERSION="70.08.08.1442">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="@isDbkLoggingOn$qv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SENTHOOKPROC" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="POSTEDHOOKPROC" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

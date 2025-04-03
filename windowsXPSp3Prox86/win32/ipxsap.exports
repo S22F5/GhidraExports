@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ipxsap.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ipxsap.dll" DATE="Fri Aug 17 13:36:18 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RegisterProtocol" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

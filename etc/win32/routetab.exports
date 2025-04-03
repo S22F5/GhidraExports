@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="routetab.dll" PATH="/DLLArchive/etc/routetab.dll" DATE="Fri Jul 03 22:12:27 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="AddRoute" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeleteRoute" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FreeIPAddressTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeRouteTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetIPAddressTable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetIfEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetRouteTable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RefreshAddresses" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReloadIPAddressTable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetAddrChangeNotifyEvent" PURGE="4" COMMENT="" />
+</LIBRARY>
+

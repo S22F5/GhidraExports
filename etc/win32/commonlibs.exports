@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="commonlibs.dll" PATH="/DLLArchive/etc/commonlibs.dll" DATE="Fri Jul 03 12:27:23 PDT 2020" VERSION="1.2.4.1150 ">
+    <EXPORT ORDINAL="1" NAME="??0CFreeTypeLibrary@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0PrimitiveGroup@NvTriStrip@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1PrimitiveGroup@NvTriStrip@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CFreeTypeLibrary@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4PrimitiveGroup@NvTriStrip@@QAEAAU01@ABU01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AllocIndices@PrimitiveGroup@NvTriStrip@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CalcJPGFileSize@@YAHHHHPAEH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Clean@CFreeTypeLibrary@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Cleanup@NvTriStrip@@YAXAAV?$vector@PAVNvStripInfo@NvTriStrip@@V?$allocator@PAVNvStripInfo@NvTriStrip@@@std@@@std@@AAV?$vector@PAVNvFaceInfo@NvTriStrip@@V?$allocator@PAVNvFaceInfo@NvTriStrip@@@std@@@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Delete@PrimitiveGroup@NvTriStrip@@SAXPAU12@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?DisableRestart@NvTriStrip@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?EnableRestart@NvTriStrip@@YAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GenerateStrips@NvTriStrip@@YA_NPBGIPAPAUPrimitiveGroup@1@PAG_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetOutlineSize@CFreeTypeLibrary@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ImageReadJPG@@YAPAEPADPAH11@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ImageWriteJPG@@YAHPADHHHPAEH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?Parse@CFreeTypeLibrary@@QAE_NPBEHMPB_NHHH_N@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?RemapIndices@NvTriStrip@@YAXPBUPrimitiveGroup@1@GGPAPAU21@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SetCacheSize@NvTriStrip@@YAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetListsOnly@NvTriStrip@@YAX_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?SetMinStripSize@NvTriStrip@@YAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?SetStitchStrips@NvTriStrip@@YAX_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?ZlibCompress2@@YAHPAEPAKPBEKH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?ZlibDeflate@@YAHPAVZlibStream@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?ZlibDeflateEnd@@YAHPAVZlibStream@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?ZlibDeflateInit@@YAHPAVZlibStream@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?ZlibDeflateReset@@YAHPAVZlibStream@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?ZlibInflate@@YAHPAVZlibStream@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?ZlibInflateEnd@@YAHPAVZlibStream@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?ZlibInflateInit@@YAHPAVZlibStream@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?ZlibInflateReset@@YAHPAVZlibStream@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?ZlibUncompress@@YAHPAEPAKPBEK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?nCommonLibs@@3HA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

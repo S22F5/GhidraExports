@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ibrowse.dll" PATH="/DLLArchive/etc/ibrowse.dll" DATE="Fri Jul 03 12:38:39 PDT 2020" VERSION="2, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="ibrowse_EnableRender" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ibrowse_GetColor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ibrowse_GetCookieBufferData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ibrowse_GetCookieBufferSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ibrowse_GetCookieValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ibrowse_GetInvalidRect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ibrowse_GetMetaValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ibrowse_GetTitle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ibrowse_GetTitleEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ibrowse_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ibrowse_InitEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ibrowse_InitEx2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ibrowse_Invalidate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ibrowse_Invalidate2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ibrowse_Next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ibrowse_OnCancel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ibrowse_OnChar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ibrowse_OnKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ibrowse_OnKeyDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ibrowse_OnKeyUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ibrowse_OnLMouseDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ibrowse_OnLMouseDrag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ibrowse_OnLMouseUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ibrowse_OnMouse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ibrowse_OnMouseMove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ibrowse_OnRMouseDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ibrowse_OnRMouseDrag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ibrowse_OnRMouseUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ibrowse_OnSysKeyDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ibrowse_OnSysKeyUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ibrowse_OpenURL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ibrowse_Prev" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ibrowse_Render" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ibrowse_RenderEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ibrowse_RenderEx2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ibrowse_SetCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ibrowse_SetColor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ibrowse_SetPrefValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ibrowse_SetSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ibrowse_ShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ibrowse_Sleep" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ibrowse_Stop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ibrowse_Wake" PURGE="0" COMMENT="" />
+</LIBRARY>
+

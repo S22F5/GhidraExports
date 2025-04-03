@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="trdr3260.dll" PATH="/DLLArchive/etc/trdr3260.dll" DATE="Fri Jul 03 13:23:27 PDT 2020" VERSION="6.0.7.1258">
+    <EXPORT ORDINAL="1" NAME="IsWin9x" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsWinNT" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OnUninstall" PURGE="4" COMMENT="" />
+</LIBRARY>
+

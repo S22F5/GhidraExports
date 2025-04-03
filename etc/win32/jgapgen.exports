@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgapgen.dll" PATH="/DLLArchive/etc/jgapgen.dll" DATE="Fri Jul 03 12:44:14 PDT 2020" VERSION="5021">
+    <EXPORT ORDINAL="3001" NAME="JgpAPlayStartUp" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3002" NAME="JgpAPlayShutDown" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3003" NAME="JgpAPlayOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3004" NAME="JgpAPlayClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3005" NAME="JgpAPlayInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3006" NAME="JgpAPlayHeartBeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3007" NAME="JgpAPlaySetEOF" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3008" NAME="JgpAPlayQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3009" NAME="JgpAPlayGetImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3010" NAME="JgpAPlayGetMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3011" NAME="JgpAPlayGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3012" NAME="JgpAPlayGetPalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3013" NAME="JgpAPlayPlayControl" PURGE="0" COMMENT="" />
+</LIBRARY>
+

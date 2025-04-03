@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msjtes40.dll" PATH="/DLLArchive/etc/MSJTES40.DLL" DATE="Fri Jun 19 12:18:00 PDT 1998" VERSION="4.00.1718.11">
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

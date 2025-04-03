@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cygmhash-2.dll" PATH="/DLLArchive/etc/cygmhash-2.dll" DATE="Fri Dec 22 08:27:16 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_mhash_get_deinit_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_mhash_get_final_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_mhash_get_hash_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_mhash_get_init_func" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_mhash_get_state_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="mhash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="mhash_bzero" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="mhash_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="mhash_cp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="mhash_deinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="mhash_end" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="mhash_end_m" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="mhash_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="mhash_get_block_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="mhash_get_hash_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="mhash_get_hash_name_static" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="mhash_get_hash_pblock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="mhash_get_keygen_max_key_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="mhash_get_keygen_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="mhash_get_keygen_name_static" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="mhash_get_keygen_salt_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="mhash_get_mhash_algo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="mhash_hmac_deinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="mhash_hmac_end" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="mhash_hmac_end_m" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="mhash_hmac_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="mhash_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="mhash_init_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="mhash_keygen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="mhash_keygen_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="mhash_keygen_ext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="mhash_keygen_uses_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="mhash_keygen_uses_hash_algorithm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="mhash_keygen_uses_salt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="mhash_restore_state_mem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="mhash_save_state_mem" PURGE="0" COMMENT="" />
+</LIBRARY>
+

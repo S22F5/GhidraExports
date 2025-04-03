@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="slcoinst.dll" PATH="/DLLArchive/etc/slcoinst.dll" DATE="Fri Jul 03 22:16:46 CEST 2020" VERSION="3.80.01MC15">
+    <EXPORT ORDINAL="1" NAME="_MyCoInst@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

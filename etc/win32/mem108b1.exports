@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mem108b1.dll" PATH="/DLLArchive/etc/MEM108B1.dll" DATE="Mon Apr 21 20:21:34 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+</LIBRARY>
+

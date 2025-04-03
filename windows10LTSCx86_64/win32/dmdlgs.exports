@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmdlgs.dll" PATH="/DLLArchive/windows10LTSCX86_64/dmdlgs.dll" DATE="Sat Dec 07 10:09:13 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="?AddLDMObjMapEntry@CDataCache@@QAEXPAU_LDM_OBJ_MAP_ENTRY@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetDiskCount@CDataCache@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetLdmObjectId@CDMNodeObj@@QAE_JXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetNumMembers@CDMNodeObj@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetServerName@CDataCache@@QAE?AVCString@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetVolumeCount@CDataCache@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aacplus.dll" PATH="/DLLArchive/etc/aacplus.dll" DATE="Fri Jul 03 12:14:37 PDT 2020" VERSION="1, 0, 0, 0">
+    <EXPORT ORDINAL="1" NAME="AUDIODEC_Create" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AUDIODEC_Destroy" PURGE="4" COMMENT="" />
+</LIBRARY>
+

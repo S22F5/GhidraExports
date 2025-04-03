@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bibutils.dll" PATH="/DLLArchive/etc/BIBUtils.dll" DATE="Fri Jul 03 12:25:15 PDT 2020" VERSION="1.00.0">
+    <EXPORT ORDINAL="2" NAME="BIBUtilsGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BIBUtilsInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BIBUtilsTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

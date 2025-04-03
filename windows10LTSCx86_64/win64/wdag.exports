@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wdag.dll" PATH="/DLLArchive/windows10LTSCX86_64/wdag.dll" DATE="Wed Aug 04 23:44:50 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="?WdagCreateContainerProxy@@YAPEAVContainer@internals@wdag@@PEAUErrorHandler@23@PEB_W1_N111@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?WdagDestroyContainerProxy@@YAXPEAVContainer@internals@wdag@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?WdagFileHasMarkOfTheContainer@@YA_NPEB_W@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?WdagGetHvSocketCapability@@YAPEB_WXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?WdagGetHvSocketGuid@@YA?AU_GUID@@W4Channel@internals@wdag@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?WdagRevokeNamedPipe@@YA_NPEBDPEB_W@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?WdagSuppressHvsiSplashDialog@@YAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WdagCreateContainerProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WdagDestroyContainerProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WdagFileHasMarkOfTheContainer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WdagGetHvSocketCapability" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WdagGetHvSocketGuid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WdagRevokeNamedPipe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WdagShareNamedPipe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WdagSuppressHvsiSplashDialog" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

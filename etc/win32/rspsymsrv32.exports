@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rspsymsrv32.dll" PATH="/DLLArchive/etc/rspSymSrv32.dll" DATE="Sun Aug 15 10:04:00 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rspGUID2WCHAR" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rspGetSymbolInformationFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rspGetSymbolInformationFromFileDBH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rspGetSymbolInformationFromFileIMH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rspGetSymbolPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rspGetSystemPathH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rspGetSystemPathN" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rspHello" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rspSymbolsGetDBEntryForCurrentNt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rspSymbolsIdentifiedH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rspSymbolsIdentifiedN" PURGE="0" COMMENT="" />
+</LIBRARY>
+

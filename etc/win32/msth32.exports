@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msth32.dll" PATH="/DLLArchive/etc/MSTH32.DLL" DATE="Fri Jul 03 13:00:01 PDT 2020" VERSION="6.0">
+    <EXPORT ORDINAL="2" NAME="ThesVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ThesInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ThesTerminate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ThesCheck" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ThesOpenMdt" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ThesCloseMdt" PURGE="4" COMMENT="" />
+</LIBRARY>
+

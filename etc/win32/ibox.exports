@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ibox.dll" PATH="/DLLArchive/etc/iBox.dll" DATE="Wed Feb 13 00:23:42 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadProject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOptions" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetBundleData" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

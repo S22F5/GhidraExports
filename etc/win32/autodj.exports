@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="autodj.dll" PATH="/DLLArchive/etc/AutoDJ.dll" DATE="Fri Jul 03 12:24:19 PDT 2020" VERSION="10.00.4033">
+    <EXPORT ORDINAL="1" NAME="??0mcDoAutoDJ@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0mcDoAutoDJ@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1mcDoAutoDJ@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4mcDoAutoDJ@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7mcDoAutoDJ@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AutoDJClassicDeleted@mcDoAutoDJ@@SAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?AutoDJExpanderDeleted@mcDoAutoDJ@@SAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?ChainAutoDJMfcExtDll@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?DoAutoDJ@mcDoAutoDJ@@SAXV?$_com_ptr_t@V?$_com_IIID@UIShellBrowser@@$1?_GUID_000214e2_0000_0000_c000_000000000046@@3U__s_GUID@@B@@@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?DoAutoDJ@mcDoAutoDJ@@SAXV?$_com_ptr_t@V?$_com_IIID@UIShellBrowser@@$1?_GUID_000214e2_0000_0000_c000_000000000046@@3U__s_GUID@@B@@@@ABV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?DoAutoDJClassic@mcDoAutoDJ@@SAXV?$_com_ptr_t@V?$_com_IIID@UIShellBrowser@@$1?_GUID_000214e2_0000_0000_c000_000000000046@@3U__s_GUID@@B@@@@PAVCWnd@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?m_pAutoDJSheet@mcDoAutoDJ@@1PAVmcSkinnedPropertySheet@@A" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

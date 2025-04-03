@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hidcfu.dll" PATH="/DLLArchive/windows10LTSCX86_64/HidCfu.dll" DATE="Sat Dec 07 01:07:56 PST 2019" VERSION="1.0.0.0 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FxDriverEntryUm" PURGE="0" COMMENT="" />
+</LIBRARY>
+

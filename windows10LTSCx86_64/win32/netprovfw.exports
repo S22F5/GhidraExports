@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netprovfw.dll" PATH="/DLLArchive/windows10LTSCX86_64/netprovfw.dll" DATE="Sat Dec 07 01:09:30 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NetCaptureProvisioningPackage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetCreateProvisioningPackage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetRequestProvisioningPackageInstall" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetpAnalyzeProvisioningPackage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetpCreateProvisioningPackage" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetpProvCheckOfflineLsaPolicyUpdate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetpProvContinueProvisioningPackageInstall" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetpProvDomainJoinLicensingCheck" PURGE="0" COMMENT="" FOWARDLIBRARY="JOINUTIL.DLL" FOWARDSYMBOL="NetpDoDomainJoinLicensingCheck" />
+    <EXPORT ORDINAL="9" NAME="NetpProvFreeLdapLsaDomainInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetpRequestProvisioningPackageInstall" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetpRequestProvisioningPackageInstallForIMC" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetpRequestProvisioningPackageInstallForOfflineServicing" PURGE="20" COMMENT="" />
+</LIBRARY>
+

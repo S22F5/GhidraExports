@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="olesvr32.dll" PATH="/DLLArchive/etc/olesvr32.dll" DATE="Fri Jul 03 22:05:08 CEST 2020" VERSION="1.09 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OleRegisterServer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OleRevokeServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OleBlockServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OleUnblockServer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OleRegisterServerDoc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OleRevokeServerDoc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OleRenameServerDoc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OleRevertServerDoc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OleSavedServerDoc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OleRevokeObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OleQueryServerVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SrvrWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DocWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ItemWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SendDataMsg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="FindItemWnd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ItemCallBack" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TerminateClients" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TerminateDocClients" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DeleteClientInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SendRenameMsg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="EnumForTerminate" PURGE="12" COMMENT="" />
+</LIBRARY>
+

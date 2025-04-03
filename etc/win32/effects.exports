@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="effects.dll" PATH="/DLLArchive/etc/Effects.dll" DATE="Wed Jan 30 08:15:56 PST 2019" VERSION="4, 53, 0, 0">
+    <EXPORT ORDINAL="1" NAME="AutoCrop" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AutoCrop_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CanvasSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CanvasSize_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ClosePlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateTiledImage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateTiledImage_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FrameEffect" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FrameEffect_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Hexagon_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="QuantizeDIB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="QuantizeDIB_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ReplaceColor" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ReplaceColor_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RotateByAngle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RotateByAngle_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RoundRect_Shadow_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShowHistogram" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShowHistogram_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Start8BF_Filter" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Start8BF_Filter_W" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="StartEffects2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="StartEffects2_W" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

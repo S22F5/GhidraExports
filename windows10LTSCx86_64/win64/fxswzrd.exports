@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxswzrd.dll" PATH="/DLLArchive/windows10LTSCX86_64/FXSWZRD.dll" DATE="Wed Oct 06 06:51:03 PDT 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FaxFreeSendWizardData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxSendWizard" PURGE="0" COMMENT="" />
+</LIBRARY>
+

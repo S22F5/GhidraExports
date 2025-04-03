@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cintime.dll" PATH="/DLLArchive/etc/cintime.dll" DATE="Fri Jul 03 12:26:57 PDT 2020" VERSION="4.4.4615">
+    <EXPORT ORDINAL="1" NAME="UniCreateInstLInstance" PURGE="16" COMMENT="" />
+</LIBRARY>
+

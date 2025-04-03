@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mstscax.dll" PATH="/DLLArchive/windows10LTSCX86_64/mstscax.dll" DATE="Wed Oct 06 06:53:05 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCancelAuthentication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllDeleteSavedCreds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClaimsToken" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetTscCtlVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllLogoffClaimsToken" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllSetAuthProperties" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllSetClaimsToken" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

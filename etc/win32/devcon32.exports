@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="devcon32.dll" PATH="/DLLArchive/etc/devcon32.dll" DATE="Fri Jul 03 12:30:56 PDT 2020" VERSION="4.06.651">
+    <EXPORT ORDINAL="1" NAME="CreateDevCon32Instance" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AddDevice@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_GetRegistryNode@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_RemoveDevice@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_VxdCallback@20" PURGE="20" COMMENT="" />
+</LIBRARY>
+

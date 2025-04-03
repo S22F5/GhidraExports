@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libatrac9.dll" PATH="/DLLArchive/etc/libatrac9.dll" DATE="Mon Feb 03 04:49:22 PST 2020" VERSION="3, 5, 0, 1">
+    <EXPORT ORDINAL="1" NAME="sceAt9DecDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="sceAt9DecInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="sceAt9EncEncode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="sceAt9EncFlush" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="sceAt9EncInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="sceAt9EncSetEncParam" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="sceAt9GetCodecInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="sceAt9GetDefaultExtParam" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="sceAt9GetHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="sceAt9GetInternalErrorInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="sceAt9GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="sceAt9ReleaseHandle" PURGE="0" COMMENT="" />
+</LIBRARY>
+

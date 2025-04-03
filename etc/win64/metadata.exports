@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="metadata.dll" PATH="/DLLArchive/etc/Metadata.dll" DATE="Fri Apr 05 09:14:22 PDT 2024" VERSION="4.67.0.0">
+    <EXPORT ORDINAL="1" NAME="ClosePlugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Create_EXIF_Data_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetExifInfos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Get_EXIF_Window" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LoadData_EXIF_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LoadData_IPTC_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LoadTag_EXIF_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LoadTag_IPTC_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Show_EXIF_Info_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Show_IPTC_Info_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Show_JPG_Comment_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

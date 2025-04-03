@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="policymanagerprecheck.dll" PATH="/DLLArchive/windows10LTSCX86_64/policymanagerprecheck.dll" DATE="Wed Oct 06 06:51:45 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PolicyManagerTranslationProxy_GetPolicyValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PolicyManagerTranslationProxy_SetPolicyValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PolicyManager_Apply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PolicyManager_PostApply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PolicyManager_PreCheck" PURGE="0" COMMENT="" />
+</LIBRARY>
+

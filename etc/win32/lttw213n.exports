@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lttw213n.dll" PATH="/DLLArchive/etc/lttw213n.dll" DATE="Fri Jul 03 12:48:19 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_TwainInitSession" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_TwainEndSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_TwainSetProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_TwainGetProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_TwainAcquireList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_TwainAcquire" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_TwainSelectSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_TwainGetSources" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_TwainQueryProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_TwainStartCapsNeg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_TwainEndCapsNeg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_TwainSetCapability" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_TwainGetCapability" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_TwainEnumCapabilities" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="L_TwainCreateNumericContainerOneValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="L_TwainCreateNumericContainerRange" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="L_TwainCreateNumericContainerArray" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="L_TwainCreateNumericContainerEnum" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="L_TwainGetNumericContainerValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="L_TwainFreeContainer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="L_TwainFreePropQueryStructure" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="L_TwainTemplateDlg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="L_TwainOpenTemplateFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="L_TwainAddCapabilityToFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="L_TwainGetCapabilityFromFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="L_TwainGetNumOfCapsInFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="L_TwainCloseTemplateFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="L_TwainGetExtendedImageInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="L_TwainLockContainer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="L_TwainUnlockContainer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="L_TwainGetNumericContainerItemType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="L_TwainGetNumericContainerINTValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="L_TwainGetNumericContainerUINTValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="L_TwainGetNumericContainerBOOLValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="L_TwainGetNumericContainerFIX32Value" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="L_TwainGetNumericContainerFRAMEValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="137" NAME="L_TwainGetNumericContainerSTRINGValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="138" NAME="L_TwainGetNumericContainerUNICODEValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="139" NAME="L_TwainAcquireMulti" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="140" NAME="L_IsTwainAvailable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="141" NAME="L_TwainFindFastConfig" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="142" NAME="L_TwainGetScanConfigs" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="143" NAME="L_TwainFreeScanConfig" PURGE="12" COMMENT="" />
+</LIBRARY>
+

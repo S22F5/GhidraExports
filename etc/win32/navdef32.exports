@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navdef32.dll" PATH="/DLLArchive/etc/NAVDEF32.DLL" DATE="Fri Jul 03 13:01:09 PDT 2020" VERSION="3.1.0.8">
+    <EXPORT ORDINAL="1" NAME="VirusDefAreNewest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VirusDefClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VirusDefGetCurrent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VirusDefGetCurrentDate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VirusDefGetNewestDate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VirusDefGetUniqueAppID" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VirusDefInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VirusDefInitInstallApp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VirusDefInitWindowsApp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VirusDefInstall" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="VirusDefPostUpdate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="VirusDefPreUpdate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="VirusDefSetCurrent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="VirusDefStopUsingDefs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="VirusDefUninstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="VirusDefUseNewest" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgpl500.dll" PATH="/DLLArchive/etc/jgpl500.dll" DATE="Fri Jul 03 21:44:32 CEST 2020" VERSION="5027">
+    <EXPORT ORDINAL="1" NAME="JgpAlloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgpClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpDoTest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpGetARTNote" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpGetImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpGetMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpGetPalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpGetPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpGetUiHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpGetUiInputHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpGetUiLong" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpGetUiReportHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpHeartBeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpInputStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpLosslessBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpLosslessCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpLosslessDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgpLosslessPartitionReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgpLosslessQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgpLosslessReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgpOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgpPausePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgpQueryStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgpReAlloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JgpReleaseSound" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JgpResumePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="JgpResumeSound" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="JgpSetEOFMark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="JgpSetPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="JgpSetUiHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="JgpSetUiInputHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="JgpSetUiLong" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="JgpSetUiReportHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="JgpShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="JgpStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="JgpStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="JgpStopPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="JgpGetPerformance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="JgpSetTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="JgpGetDropPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="JgpSetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="JgpGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="JgpQueryClickPoint" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="taxmny.dll" PATH="/DLLArchive/etc/taxmny.dll" DATE="Fri Jul 03 13:22:18 PDT 2020" VERSION="11.00.0716">
+    <EXPORT ORDINAL="1" NAME="AddTaxLineTransaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseMoneyFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConfirmLinkedMoneyFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateTaxPaymentBill" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetAccountCheckedStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetCategoryLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetCategoryTaxLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetLinkedTaxPartnerFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetTaxLineCheckedStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetTaxPaymentBillCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ImportMoneyFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InitializeOFD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IsMoneyFileOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IsMoneyValueEditable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="LaunchMoneyBillsPlace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LaunchMoneyPayments" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LaunchMoneyReconcile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="LaunchMoneyTaxExportReview" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="LaunchMoneyTaxLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="LaunchMoneyTaxSetup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="LaunchMoneyTaxlineDetails" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="LaunchMoneyTaxlineManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ModifyTaxPaymentBill" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="OpenMoneyFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PollForNotifications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ReadMoneyAccounts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ReadMoneyCategories" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ReadTaxLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ReadTaxPaymentBill" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RegisterListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetAccountCheckedStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetAdvisorFYI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SetCategoryTaxLine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SetLinkedTaxPartnerFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SetMoneyValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SetRequiredTxfTags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SetTaxLineCheckedStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SetTaxUserName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SetTaxYear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SetTxfFormDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SetUsedTaxlines" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="UnInitializeOFD" PURGE="0" COMMENT="" />
+</LIBRARY>
+

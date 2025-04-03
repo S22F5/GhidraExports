@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msidle.dll" PATH="/DLLArchive/windows10LTSCX86_64/msidle.dll" DATE="Sat Dec 07 01:09:29 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="8" COMMENT="" />
+</LIBRARY>
+

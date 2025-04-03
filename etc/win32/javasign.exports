@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="javasign.dll" PATH="/DLLArchive/etc/javasign.dll" DATE="Fri Jul 03 12:44:00 PDT 2020" VERSION="5.00.2752">
+    <EXPORT ORDINAL="1" NAME="ExitAttr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAttr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InitAttr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ReleaseAttr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

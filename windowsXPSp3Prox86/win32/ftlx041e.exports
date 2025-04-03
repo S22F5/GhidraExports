@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ftlx041e.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ftlx041e.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="10" NAME="FindThaiWordBreak" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FindThaiWordBreakW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FTSWordBreakA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FTSWordBreakW" PURGE="32" COMMENT="" />
+</LIBRARY>
+

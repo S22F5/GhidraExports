@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lprmon.dll" PATH="/DLLArchive/windowsXPSp3Prox86/lprmon.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="InitializePrintMonitor2" PURGE="8" COMMENT="" />
+</LIBRARY>
+

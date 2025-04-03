@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ir32_32original.dll" PATH="/DLLArchive/windows10LTSCX86_64/ir32_32original.dll" DATE="Sat Dec 07 01:10:05 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AboutDialogProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DriverDialogProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

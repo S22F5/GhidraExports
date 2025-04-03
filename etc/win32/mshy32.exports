@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mshy32.dll" PATH="/DLLArchive/etc/MSHY32.DLL" DATE="Fri Jul 03 12:56:05 PDT 2020" VERSION="1.30.3119">
+    <EXPORT ORDINAL="200" NAME="HyphVer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="HyphInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="HyphTerminate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="HyphOpenLang" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="204" NAME="HyphCloseLang" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="205" NAME="HyphCheck" PURGE="12" COMMENT="" />
+</LIBRARY>
+

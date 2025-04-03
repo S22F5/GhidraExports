@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lvcoinst.dll" PATH="/DLLArchive/etc/lvcoinst.dll" DATE="Fri Jul 03 21:48:26 CEST 2020" VERSION="8.2.0.1189">
+    <EXPORT ORDINAL="1" NAME="LvCoInstaller" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetupEntryPoint" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfdisk.dll" PATH="/DLLArchive/windowsXPSp3Prox86/perfdisk.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="CloseDiskObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectDiskObjectData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenDiskObject" PURGE="4" COMMENT="" />
+</LIBRARY>
+

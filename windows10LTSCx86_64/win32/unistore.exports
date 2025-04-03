@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unistore.dll" PATH="/DLLArchive/windows10LTSCX86_64/Unistore.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AppRevisionBlobToUSBlob" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDeviceStoreDefaultName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetUSDataFolderPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetUSDeviceStoreFolderPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="USBlobToAppRevisionBlob" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="USIsObjectHidden" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="USIsSameObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AddDWORDPropertyRestrictions" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ClearUSCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateStoreManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateStoreManagerWithToken" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DetectExistingCorruption" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DisableLocalUnistore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EnableLocalUnistore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EndUnifiedStoreWorkForClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FindMaxSeenRevisionForAppInBlob" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetCurrentProcessRundownProtectionIdentifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetRealStoreManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetUSDeviceStoreCorruptedVolumeFolderPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetUSDeviceStoreVolumePath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetUSFileStreamPath" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetUnistoreJetInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IsCEPropValPresent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IsUSPropValPresent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IsUnistoreInProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IsUnistoreLocal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="LowerRPCPriority" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RegisterRundownProtectionForProcess" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ReleaseUnistoreJetInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RemoveStaleChangeTrackingDataOnStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetMaxRevisionBlobSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SetUnistoreProcessEventFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SetUnistoreVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="StartUnifiedStoreWorkForClient" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="USComparePropVals" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="USCopyPropVals" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="USDeleteFileEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="USEventMaskToObjectType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="USGetPropValsAncillaryBufferSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="USObjectTypeToEventMask" PURGE="4" COMMENT="" />
+</LIBRARY>
+

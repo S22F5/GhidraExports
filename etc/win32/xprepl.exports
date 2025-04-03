@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xprepl.dll" PATH="/DLLArchive/etc/XPREPL.DLL" DATE="Fri Jul 03 13:41:34 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="__GetXpVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="xp_displayparamstmt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="xp_execresultset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="xp_initcolvs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="xp_intersectbitmaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="xp_mergexpusage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="xp_oledbinfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="xp_printstatements" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="xp_proxiedmetadata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="xp_repl_encrypt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="xp_showcolv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="xp_showlineage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="xp_updatecolvbm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="xp_updatelineage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="xp_varbintohexstr" PURGE="0" COMMENT="" />
+</LIBRARY>
+

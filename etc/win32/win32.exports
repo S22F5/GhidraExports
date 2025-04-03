@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="win32.dll" PATH="/DLLArchive/etc/Win32.dll" DATE="Wed Aug 29 01:55:32 PDT 2018" VERSION="5.10.1">
+    <EXPORT ORDINAL="1" NAME="_boot_Win32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="boot_Win32" PURGE="0" COMMENT="" />
+</LIBRARY>
+

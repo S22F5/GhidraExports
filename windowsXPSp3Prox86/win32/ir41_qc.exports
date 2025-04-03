@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ir41_qc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ir41_qc.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="4.30.62.02">
+    <EXPORT ORDINAL="1" NAME="AllocInstanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Compress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CompressBegin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CompressEnd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CompressFramesInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FreeInstanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetScalability" PURGE="12" COMMENT="" />
+</LIBRARY>
+

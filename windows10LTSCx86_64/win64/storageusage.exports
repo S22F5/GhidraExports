@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="storageusage.dll" PATH="/DLLArchive/windows10LTSCX86_64/StorageUsage.dll" DATE="Wed Oct 06 06:52:45 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetStorageUsageInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CloseFindStorage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CloseFindStorageSearch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DismountVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FinalizeVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FindNextStorageType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FindNextStorageTypeEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FindNextStorageTypeExAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FormatVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetAppSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetLastFailedSaveLocationPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetStorageDebugInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetStorageDeviceInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetStorageExecutionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetStorageInstanceCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetStorageInstanceCountForMaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetStoragePolicySettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetStorageSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetStorageStateName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetTopFolders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MIDL_user_allocate" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MIDL_user_free" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MountVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MoveFileInheritSecurityW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="OpenStorageTypeSearch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PredictStorageHealth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ProcessStorageCardChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ProvisionForAppInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RebootToFlashingMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RebootToUosFlashing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ResetPhoneEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ResetStoragePolicySettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ScanVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SelectStorageVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SelectStorageVolumeEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SetStoragePolicySettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SetStorageSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="TriggerBlinkCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="TriggerDownloadsCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="TriggerLowStorageNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="TriggerStorageCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="TriggerStoragePolicies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="TriggerStorageTypeRefresh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="TriggerTempFileCleanup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

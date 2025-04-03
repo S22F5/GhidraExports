@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpzids01.dll" PATH="/DLLArchive/etc/hpzids01.dll" DATE="Fri Jul 03 21:37:03 CEST 2020" VERSION="8,5,0,71">
+    <EXPORT ORDINAL="1" NAME="COINSTALLER_PROC" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CoInstall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CoInstaller" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VendorSetup" PURGE="16" COMMENT="" />
+</LIBRARY>
+

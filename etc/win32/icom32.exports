@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icom32.dll" PATH="/DLLArchive/etc/ICOM32.DLL" DATE="Fri Jul 03 12:38:52 PDT 2020" VERSION="6">
+    <EXPORT ORDINAL="1" NAME="MyConvertImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VCOM32Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MyConvertStartup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

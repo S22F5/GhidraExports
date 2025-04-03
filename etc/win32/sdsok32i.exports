@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sdsok32i.dll" PATH="/DLLArchive/etc/SDSOK32I.DLL" DATE="Fri Jul 03 13:14:55 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??4SocketClientFactory@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CreateInstance@SocketClientFactory@@SAPAVSocketClient@@XZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

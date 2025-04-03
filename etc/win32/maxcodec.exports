@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="maxcodec.dll" PATH="/DLLArchive/etc/Maxcodec.dll" DATE="Fri Jul 03 12:49:28 PDT 2020" VERSION="6.1">
+    <EXPORT ORDINAL="2" NAME="UnpackStripAvanceMsg" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PAXFLT_BufferCompress" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="PAXFLT_BufferDecompress" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PAXFLT_AllocLZWTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="PAXFLT_DeAllocLZWTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="MAXCODEC_UnInitT4Comp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="PAXFLT_SetJPEGQuality" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="PAXFLT_GetJPEGQuality" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="PAXFLT_GetColorCompressionMethod" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="PAXFLT_SetColorCompressionMethod" PURGE="4" COMMENT="" />
+</LIBRARY>
+

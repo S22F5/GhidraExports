@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wlansec.dll" PATH="/DLLArchive/windows10LTSCX86_64/wlansec.dll" DATE="Wed Oct 06 15:51:16 CEST 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MSMSecConnectionHealthCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MSMSecCreateDiscoveryProfiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MSMSecDeinitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MSMSecDeinitializeAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MSMSecDisableIpAddressAllocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MSMSecEnableIpAddressAllocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MSMSecFreeIntfState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MSMSecFreeMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MSMSecFreePeerState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MSMSecFreeProfile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MSMSecGetPeerIpAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MSMSecInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MSMSecInitializeAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MSMSecIsUIRequestPending" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MSMSecPerformCapabilityMatch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MSMSecPerformPostAssociateSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MSMSecPerformPreAssociateSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MSMSecPerformPreAssociateSecurityEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MSMSecProcessSessionChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MSMSecQueryAPPeerPSKIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MSMSecQueryIntfState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MSMSecQueryPeerState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MSMSecRecvIndication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MSMSecRecvPacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MSMSecRedoSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MSMSecRemoveAPPeerKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MSMSecSendPktCompletion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MSMSecSetAPPeerKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MSMSecSetAPSecondaryPSK" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MSMSecSetRuntimeState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MSMSecSetWcnOneXEnable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MSMSecStopPostAssociateSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MSMSecStopSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="MSMSecUIResponse" PURGE="0" COMMENT="" />
+</LIBRARY>
+

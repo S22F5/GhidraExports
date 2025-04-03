@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmas.dll" PATH="/DLLArchive/etc/nmas.dll" DATE="Fri Jul 03 13:01:45 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="CreateASObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateWBObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CMS_GetStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="StartStopOldWB" PURGE="4" COMMENT="" />
+</LIBRARY>
+

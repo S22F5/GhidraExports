@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="clbcatq.dll" PATH="/DLLArchive/etc/clbcatq.dll" DATE="Fri Jul 03 21:27:01 CEST 2020" VERSION="2001.12.4414.258">
+    <EXPORT ORDINAL="1" NAME="ActivatorUpdateForIsRouterChanges" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?ClearList@@YGXPAVCStructArray@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CoRegCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?CreateComponentLibraryTS@@YGJPBGJPAPAUIComponentRecords@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?DataConvert@@YGJGGKPAKPAX1KK0EEK@Z" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeleteAllActivatorsForClsid" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?DestroyStgDatabase@@YGXPAVStgDatabase@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DowngradeAPL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetDataConversion@@YGJPAPAUIDataConvert@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetDataConvertObject@@YGPAVCGetDataConversion@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetGlobalBabyJITEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetPropValue@@YGJGPAJPAXHPAHAAUtagDBPROP@@@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetStgDatabase@@YGJPAPAVStgDatabase@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?InitErrors@@YGXPAK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?OpenComponentLibrarySharedTS@@YGJPBG0KPAU_SECURITY_ATTRIBUTES@@JPAPAUIComponentRecords@@@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?OpenComponentLibraryTS@@YGJPBGJPAPAUIComponentRecords@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?PostError@@YAJJZZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?ShutDownDataConversion@@YGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UpdateFromAppChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UpdateFromComponentChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CLSIDFromStringByBitness" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CheckMemoryGates" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ComPlusMigrate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CreateComponentLibraryEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetCatalogObject2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetCatalogObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="GetComputerObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="GetDllType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="GetSimpleTableDispenser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="InprocServer32FromString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="OpenComponentLibraryEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="OpenComponentLibraryOnMemEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="OpenComponentLibraryOnStreamEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="OpenComponentLibrarySharedEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ServerGetApplicationType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SetSetupOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SetSetupSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SetupOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SetupSave" PURGE="0" COMMENT="" />
+</LIBRARY>
+

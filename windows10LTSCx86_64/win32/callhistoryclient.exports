@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="callhistoryclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/CallHistoryClient.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DoesCallHistoryItemMatchFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StringToUdmObjectId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UdmAreCallEventsEqual" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UdmCancelAsyncTask" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UdmCreateDataSession" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UdmCreateDataSessionForUser" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UdmCreateSyncCallbackHandler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UdmDebugModifyNotifyState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UdmFreeCallFavoriteItemSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UdmFreeCallHistoryItemSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UdmObjectIdToString" PURGE="12" COMMENT="" />
+</LIBRARY>
+

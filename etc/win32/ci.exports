@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ci.dll" PATH="/DLLArchive/etc/ci.dll" DATE="Fri Jul 03 21:26:53 CEST 2020" VERSION="6.0.6002.18005 (lh_sp2rtm.090410-1830)">
+    <EXPORT ORDINAL="1" NAME="CiFindPageHashesInCatalog" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CiFindPageHashesInSignedFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CiFreePolicyInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CiGetPEInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CiInitialize" PURGE="12" COMMENT="" />
+</LIBRARY>
+

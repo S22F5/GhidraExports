@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vdsdyn.dll" PATH="/DLLArchive/windows10LTSCX86_64/vdsdyn.dll" DATE="Wed Oct 06 15:52:55 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0CPrvEnumObject@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CRtlSharedLock@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CVdsCriticalSection@@QEAA@PEAU_RTL_CRITICAL_SECTION@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0CVdsPnPNotificationBase@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0CVdsUnlockIt@@QEAA@AEAJ@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1CPrvEnumObject@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CRtlSharedLock@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1CVdsCriticalSection@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??1CVdsPnPNotificationBase@@QEAA@XZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??1CVdsUnlockIt@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_FCRtlList@@QEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??_FCRtlMap@@QEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?AcquireRead@CRtlSharedLock@@AEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?AcquireWrite@CRtlSharedLock@@AEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?AllowCancel@CVdsAsyncObjectBase@@QEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CurrentThreadIsWriter@CRtlSharedLock@@QEAAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?DisallowCancel@CVdsAsyncObjectBase@@QEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Downgrade@CRtlSharedLock@@AEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetOutputType@CVdsAsyncObjectBase@@QEAA?AW4_VDS_ASYNC_OUTPUT_TYPE@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?IsCancelRequested@CVdsAsyncObjectBase@@QEAAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Release@CRtlSharedLock@@AEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?SetOutput@CVdsAsyncObjectBase@@QEAAXU_VDS_ASYNC_OUTPUT@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?SetOutputType@CVdsAsyncObjectBase@@QEAAXW4_VDS_ASYNC_OUTPUT_TYPE@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?SetPositionToLast@CPrvEnumObject@@QEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?Upgrade@CRtlSharedLock@@AEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?ZeroAsyncOut@CVdsAsyncObjectBase@@QEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?m_ExtraLogging@CVdsTraceSettings@@QEAAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?m_NoDebuggerLogging@CVdsTraceSettings@@QEAAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

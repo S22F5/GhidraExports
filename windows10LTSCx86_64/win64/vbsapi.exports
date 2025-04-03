@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vbsapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/vbsapi.dll" DATE="Wed Oct 06 06:52:45 PDT 2021" VERSION="10.0.19041.928 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="HvciGetConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HvciGetConfigFromVBSKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HvciIncompatibilityScanCancel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HvciIncompatibilityScanFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HvciIncompatibilityScanGetResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HvciIncompatibilityScanInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HvciIncompatibilityScanOverrideDriverCompatDatabase" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HvciIncompatibilityScanOverrideServicesKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HvciIncompatibilityScanStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HvciIsActive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="VbsGetIssues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="VbsIsCapable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="VbsIsRecommended" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="VbsIsScenarioEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="VbsSetScenarioEnable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="VbsSetScenarioEnableToVBSKey" PURGE="0" COMMENT="" />
+</LIBRARY>
+

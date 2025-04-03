@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wpx.dll" PATH="/DLLArchive/windows10LTSCX86_64/wpx.dll" DATE="Wed Oct 06 06:51:13 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WpxCreateConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WpxCreateWriteOpt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WpxGetAnswerFileType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WpxGetDeplSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WpxResetDeplSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WpxSetDeplSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WpxSetLogger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WpxSetScratchDirectory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

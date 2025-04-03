@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oji.dll" PATH="/DLLArchive/etc/oji.dll" DATE="Fri Jul 03 13:04:58 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="?GetSecurityContext@@YAIPAUJNIEnv_@@PAPAVnsISecurityContext@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?SetSecurityContext@@YAXPAUJNIEnv_@@PAVnsISecurityContext@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JVM_AddToClassPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JVM_GetEndJSFrameFromParallelStack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JVM_GetJNIEnv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JVM_GetJSSecurityContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JVM_GetJVMStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JVM_GetJavaPrincipalsFromStack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JVM_GetJavaPrincipalsFromStackAsNSVector" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JVM_GetStartJSFrameFromParallelStack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JVM_HideConsole" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JVM_HidePrefsWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JVM_IsConsoleVisible" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JVM_IsLiveConnectEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JVM_IsPrefsWindowVisible" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JVM_MaybeShutdownLiveConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JVM_MaybeStartupLiveConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JVM_NSISecurityContextImplies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JVM_PrintToConsole" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JVM_ReleaseJNIEnv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JVM_ReleaseJVMMgr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JVM_ShowConsole" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JVM_ShowPrefsWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JVM_ShutdownJVM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JVM_SpendTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JVM_StartDebugger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JVM_StartupJVM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

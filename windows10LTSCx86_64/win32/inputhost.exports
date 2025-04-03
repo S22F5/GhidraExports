@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inputhost.dll" PATH="/DLLArchive/windows10LTSCX86_64/InputHost.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2601" NAME="Ordinal_2601" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2604" NAME="Ordinal_2604" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2605" NAME="Ordinal_2605" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2602" NAME="Ordinal_2602" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2603" NAME="Ordinal_2603" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2606" NAME="Ordinal_2606" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2607" NAME="Ordinal_2607" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2608" NAME="CreatePointerInputHost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2609" NAME="CreateTouchInputHost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2610" NAME="SetInputDeviceIndicatorState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2611" NAME="SetInputFocus" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2612" NAME="TouchInputHostCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2613" NAME="CreateComboButtonProxy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2614" NAME="CreateCursorClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2615" NAME="CreateCursorManager" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2616" NAME="CreateDragOperationPrivate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2617" NAME="CreateGenericInputHost" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2618" NAME="CreateHeatGripServiceClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2619" NAME="CreateInputDeviceWatcher" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2620" NAME="CreateInputHost" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2621" NAME="CreateInputHostForProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2622" NAME="CreateInputSystemClientConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2623" NAME="CreateMPCManagerClient" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2624" NAME="CreateViewHitTestRequestClient" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2625" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2626" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2627" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2628" NAME="SetInputButtonEnabledOnIdle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2629" NAME="SetInputDeviceRepeatParameters" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2630" NAME="ViewHitTestClientCreate" PURGE="8" COMMENT="" />
+</LIBRARY>
+

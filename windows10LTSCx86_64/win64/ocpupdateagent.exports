@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ocpupdateagent.dll" PATH="/DLLArchive/windows10LTSCX86_64/OcpUpdateAgent.dll" DATE="Wed Oct 06 15:51:05 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateDeploymentSessionEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

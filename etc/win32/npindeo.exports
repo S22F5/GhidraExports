@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="npindeo.dll" PATH="/DLLArchive/etc/Npindeo.dll" DATE="Fri Jul 03 13:01:53 PDT 2020" VERSION="R.5.10.15.2.49">
+    <EXPORT ORDINAL="1" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

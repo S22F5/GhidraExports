@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ds32.dll" PATH="/DLLArchive/etc/DS32.DLL" DATE="Fri Jul 03 12:32:14 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MouseHookProc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="KeyboardHookProc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JournalRecordHookProc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JournalPlayHookProc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SendKeys" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RecordMacro" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PlayMacro" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FreeMacroData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FreeEventHooks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetEventHandler" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetSpecialReset" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AllowUserInput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SetMouseHook" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SetKeyboardHook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SetCaptureHook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CaptureHookProc" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="isdnui.dll" PATH="/DLLArchive/etc/isdnui.dll" DATE="Fri Jul 03 12:43:36 PDT 2020" VERSION="4.00.1150">
+    <EXPORT ORDINAL="1" NAME="WanConfigDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WanQueryConfigData" PURGE="16" COMMENT="" />
+</LIBRARY>
+

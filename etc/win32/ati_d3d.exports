@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ati_d3d.dll" PATH="/DLLArchive/etc/ATI_D3D.DLL" DATE="Fri Jul 03 21:23:57 CEST 2020" VERSION="4.10.1612">
+    <EXPORT ORDINAL="1" NAME="??0CSurfHeap@@QAE@II@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??4CSurfHeap@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?AllocSurfMem@CSurfHeap@@QAE?AW4EC@@PAVCSurf@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?DeallocSurfMem@CSurfHeap@@QAE?AW4EC@@PAVCSurf@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?SetSurfMem@CSurfHeap@@QAE?AW4EC@@PAVCSurf@@I@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DriverInit3D" PURGE="12" COMMENT="" />
+</LIBRARY>
+

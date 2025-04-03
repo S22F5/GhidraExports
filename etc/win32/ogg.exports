@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ogg.dll" PATH="/DLLArchive/etc/ogg.dll" DATE="Fri Jul 03 13:04:51 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ogg_packet_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ogg_page_bos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ogg_page_continued" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ogg_page_eos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ogg_page_granulepos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ogg_page_packets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ogg_page_pageno" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ogg_page_serialno" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ogg_page_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ogg_stream_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ogg_stream_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ogg_stream_eos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ogg_stream_flush" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ogg_stream_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ogg_stream_packetin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ogg_stream_packetout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ogg_stream_packetpeek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ogg_stream_pagein" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ogg_stream_pageout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ogg_stream_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ogg_sync_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ogg_sync_clear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ogg_sync_destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ogg_sync_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ogg_sync_pageout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ogg_sync_pageseek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ogg_sync_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ogg_sync_wrote" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="oggpack_adv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="oggpack_adv1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="oggpack_adv_huff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="oggpack_bits" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="oggpack_bytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="oggpack_get_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="oggpack_look" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="oggpack_look1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="oggpack_look_huff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="oggpack_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="oggpack_read1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="oggpack_readinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="oggpack_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="oggpack_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="oggpack_writeclear" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="oggpack_writeinit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

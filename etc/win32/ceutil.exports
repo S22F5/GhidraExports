@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ceutil.dll" PATH="/DLLArchive/etc/ceutil.dll" DATE="Fri Jul 03 12:26:35 PDT 2020" VERSION="3.5.0.1176">
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CeGetDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CeGetSelectedDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CeSetSelectedDeviceId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CeSvcAdd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CeSvcClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CeSvcDelete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CeSvcDeleteVal" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CeSvcEnumProfiles" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CeSvcGetBinary" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="CeSvcGetDword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CeSvcGetString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CeSvcOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CeSvcOpenEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CeSvcQueryInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CeSvcRemove" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CeSvcSetBinary" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="CeSvcSetDword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="CeSvcSetString" PURGE="12" COMMENT="" />
+</LIBRARY>
+

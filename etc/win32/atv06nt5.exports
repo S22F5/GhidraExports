@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atv06nt5.dll" PATH="/DLLArchive/etc/atv06nt5.dll" DATE="Fri Jul 03 21:24:10 CEST 2020" VERSION="6.13.01.3198 ">
+    <EXPORT ORDINAL="1" NAME="DeviceGetInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="so_activex.dll" PATH="/DLLArchive/etc/so_activex.dll" DATE="Fri Jul 03 13:17:30 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServerNative" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServerDoc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServerNative" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServerDoc" PURGE="8" COMMENT="" />
+</LIBRARY>
+

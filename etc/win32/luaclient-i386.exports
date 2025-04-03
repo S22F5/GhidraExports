@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="luaclient-i386.dll" PATH="/DLLArchive/etc/luaclient-i386.dll" DATE="Sun May 30 08:18:12 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CELUA_ServerName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CELUA_ExecuteFunctionByReference" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CELUA_GetFunctionReferenceFromName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CELUA_ExecuteFunctionAsync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CELUA_ExecuteFunction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CELUA_Initialize" PURGE="4" COMMENT="" />
+</LIBRARY>
+

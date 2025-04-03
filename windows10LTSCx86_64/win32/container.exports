@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="container.dll" PATH="/DLLArchive/windows10LTSCX86_64/container.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="10.0.19041.964 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="?AddRuntimeVirtualKeysToContainer@container@@YGXPAXKPAU_WC_VKEY_INFO@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CleanupContainer@container@@YGXPAXPBG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?CreateContainer@container@@YGXPAXABUContainer@DefinitionFile@1@_N0@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetComRegistryRoot@container@@YGPAXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetContainerIdentifierString@container@@YG?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetContainerObjectRootPath@container@@YGXPAXAAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetRegistryRootPath@container@@YGXPAXABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AAV23@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?IsContainerQuiescent@container@@YGEPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?LaunchApplicationContainer@container@@YGPAXPAXPBGK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?LaunchContainer@container@@YGXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?RegisterForContainerTerminationNotification@container@@YGPAU_WC_CONTAINER_NOTIFICATION@@PAXP6GX0W4_WC_CONTAINER_TERMINATION_REASON@@PAU2@0@Z0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?ReleaseContainerTerminationNotification@container@@YGXPAU_WC_CONTAINER_NOTIFICATION@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?SetRegistryFlushState@container@@YGXPAXE@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?ShutdownAppContainer@container@@YG_NPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?WaitForContainerTerminationNotification@container@@YGXPAU_WC_CONTAINER_NOTIFICATION@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_WcAddRuntimeVirtualKeysToContainer@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_WcCleanupContainer@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_WcCreateContainer@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_WcCreateDescriptionFromXml@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_WcDestroyDescription@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_WcGetComRegistryRoot@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_WcGetContainerIdentifier@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_WcGetContainerObjectRootPath@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_WcGetContainerRegistryRootPath@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_WcIsContainerQuiescent@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_WcLaunchApplicationContainer@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_WcLaunchContainer@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_WcRegisterForContainerTerminationNotification@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_WcReleaseContainerTerminationNotification@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_WcSetRegistryFlushState@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_WcShutdownAppContainer@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_WcWaitForContainerTerminationNotification@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

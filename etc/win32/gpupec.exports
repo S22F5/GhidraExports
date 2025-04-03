@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpupec.dll" PATH="/DLLArchive/etc/gpupec.dll" DATE="Fri Jul 03 12:36:08 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GPUabout" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GPUclose" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GPUconfigure" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GPUdisplayFlags" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GPUdisplayText" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GPUdmaChain" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GPUfreeze" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GPUgetMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GPUinit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GPUmakeSnapshot" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GPUopen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GPUreadData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GPUreadDataMem" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GPUreadStatus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GPUsetMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GPUshutdown" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GPUtest" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GPUupdateLace" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GPUwriteData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GPUwriteDataMem" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GPUwriteStatus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PSEgetLibName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PSEgetLibType" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PSEgetLibVersion" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

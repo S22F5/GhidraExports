@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vmdevicehost.dll" PATH="/DLLArchive/windows10LTSCX86_64/vmdevicehost.dll" DATE="Wed Oct 06 15:52:43 CEST 2021" VERSION="10.0.19041.928 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="HdvCreateDeviceInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HdvCreateGuestMemoryAperture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HdvDeliverGuestInterrupt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HdvDestroyGuestMemoryAperture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HdvInitializeDeviceHost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HdvInitializeDeviceHostForProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HdvProxyDeviceHost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HdvReadGuestMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HdvRegisterDoorbell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HdvRegisterDoorbellPage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HdvTeardownDeviceHost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HdvUnregisterDoorbell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HdvUnregisterDoorbellPage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HdvWriteGuestMemory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wsp_sr.dll" PATH="/DLLArchive/windows10LTSCX86_64/wsp_sr.dll" DATE="Sat Dec 07 10:10:04 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetProviderClassID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MI_Main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PreShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetShutdownCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SmpUnload" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbflcnt.dll" PATH="/DLLArchive/etc/LXBFLCNT.DLL" DATE="Fri Jul 03 12:48:54 PDT 2020" VERSION="8,10,0,0">
+    <EXPORT ORDINAL="1" NAME="Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Uninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="captureDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="closePort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="deletePortW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="endDocPort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="enumAll" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="enumPortsW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="exchangeNPAData" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="fullRefresh" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="getDiscoverySubnetIpList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="lcnaEndDoc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="lcnaEnumSpecificPort" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="lcnaExchangeData" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="lcnaFlushMWOBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="lcnaGetPayload" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="lcnaQueryCache" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="lcnaRegisterApp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="lcnaSend" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="lcnaStartDoc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="lcnaUnregisterApp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="lcnaWrite" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="openPortW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="pingAdapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="prepareLcnaForUninstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="registerForEvents" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="releaseDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="resetFactoryDefaults" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="setAdapterIpAddress" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="setDiscoverySubnetIpList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="setJobCancelMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="setJobControlMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="setTrueEndOfJobMode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="startDocPortW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="unregisterForEvents" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="writePort" PURGE="16" COMMENT="" />
+</LIBRARY>
+

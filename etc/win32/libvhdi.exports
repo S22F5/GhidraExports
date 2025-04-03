@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libvhdi.dll" PATH="/DLLArchive/etc/libvhdi.dll" DATE="Tue Dec 26 14:19:40 PST 2023" VERSION="20200810">
+    <EXPORT ORDINAL="1" NAME="libvhdi_check_file_signature" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="libvhdi_check_file_signature_file_io_handle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="libvhdi_check_file_signature_wide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="libvhdi_error_backtrace_fprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="libvhdi_error_backtrace_sprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="libvhdi_error_fprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="libvhdi_error_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="libvhdi_error_sprint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="libvhdi_file_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="libvhdi_file_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="libvhdi_file_get_disk_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="libvhdi_file_get_format_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="libvhdi_file_get_identifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="libvhdi_file_get_media_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="libvhdi_file_get_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="libvhdi_file_get_parent_identifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="libvhdi_file_get_utf16_parent_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="libvhdi_file_get_utf16_parent_filename_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="libvhdi_file_get_utf8_parent_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="libvhdi_file_get_utf8_parent_filename_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="libvhdi_file_initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="libvhdi_file_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="libvhdi_file_open_file_io_handle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="libvhdi_file_open_wide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="libvhdi_file_read_buffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="libvhdi_file_read_buffer_at_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="libvhdi_file_seek_offset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="libvhdi_file_set_parent_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="libvhdi_file_signal_abort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="libvhdi_get_access_flags_read" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="libvhdi_get_access_flags_read_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="libvhdi_get_access_flags_write" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="libvhdi_get_codepage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="libvhdi_get_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="libvhdi_notify_set_stream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="libvhdi_notify_set_verbose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="libvhdi_notify_stream_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="libvhdi_notify_stream_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="libvhdi_set_codepage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

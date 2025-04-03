@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="privateexeprotector 1.8.dll" PATH="/DLLArchive/etc/PrivateExeProtector 1.8.dll" DATE="Fri Jul 07 09:27:36 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

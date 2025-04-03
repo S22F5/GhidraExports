@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pnpui.dll" PATH="/DLLArchive/windows10LTSCX86_64/pnpui.dll" DATE="Sat Dec 07 01:09:05 PST 2019" VERSION="5.2.3668.0">
+    <EXPORT ORDINAL="1" NAME="InstallSecurityPrompt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InstallSecurityPromptLUA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InstallSecurityPromptRunDllW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NotifyDevicesNeedRebootRunDllW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SimplifiedDINotificationW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

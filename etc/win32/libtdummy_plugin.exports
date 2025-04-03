@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libtdummy_plugin.dll" PATH="/DLLArchive/etc/libtdummy_plugin.dll" DATE="Sun Jun 09 00:47:48 CEST 2024" VERSION="3.0.21">
+    <EXPORT ORDINAL="1" NAME="vlc_entry__3_0_0f" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="vlc_entry_copyright__3_0_0f" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="vlc_entry_license__3_0_0f" PURGE="0" COMMENT="" />
+</LIBRARY>
+

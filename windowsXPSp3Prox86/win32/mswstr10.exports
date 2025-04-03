@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mswstr10.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mswstr10.dll" DATE="Mon Apr 02 09:21:54 PDT 2007" VERSION="4.00.9502.0">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-processtopology-obsolete-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-processtopology-obsolete-l1-1-0.dll" DATE="Sat Dec 07 01:09:10 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetActiveProcessorCount" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetActiveProcessorCount" />
+    <EXPORT ORDINAL="2" NAME="GetProcessAffinityMask" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetProcessAffinityMask" />
+    <EXPORT ORDINAL="3" NAME="GetProcessIoCounters" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetProcessIoCounters" />
+    <EXPORT ORDINAL="4" NAME="SetProcessAffinityMask" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetProcessAffinityMask" />
+    <EXPORT ORDINAL="5" NAME="SetThreadAffinityMask" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadAffinityMask" />
+</LIBRARY>
+

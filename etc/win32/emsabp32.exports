@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="emsabp32.dll" PATH="/DLLArchive/etc/EMSABP32.DLL" DATE="Fri Jul 03 12:33:01 PDT 2020" VERSION="5.5.2798.0">
+    <EXPORT ORDINAL="2" NAME="ABProviderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateOABList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DownloadOABInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

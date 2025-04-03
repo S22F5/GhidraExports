@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dir_watch.dll" PATH="/DLLArchive/etc/dir_watch.dll" DATE="Sun Oct 22 21:34:52 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CloseWatch" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartWatch" PURGE="4" COMMENT="" />
+</LIBRARY>
+

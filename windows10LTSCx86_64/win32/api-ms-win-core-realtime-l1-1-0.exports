@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-realtime-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-realtime-l1-1-0.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="QueryIdleProcessorCycleTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.QueryIdleProcessorCycleTime" />
+    <EXPORT ORDINAL="2" NAME="QueryIdleProcessorCycleTimeEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.QueryIdleProcessorCycleTimeEx" />
+    <EXPORT ORDINAL="3" NAME="QueryProcessCycleTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.QueryProcessCycleTime" />
+    <EXPORT ORDINAL="4" NAME="QueryThreadCycleTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.QueryThreadCycleTime" />
+    <EXPORT ORDINAL="5" NAME="QueryUnbiasedInterruptTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="dll.QueryUnbiasedInterruptTime" />
+</LIBRARY>
+

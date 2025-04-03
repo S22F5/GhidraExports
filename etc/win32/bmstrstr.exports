@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bmstrstr.dll" PATH="/DLLArchive/etc/bmstrstr.dll" DATE="Mon Sep 26 06:04:08 CEST 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BMBinBin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BMStrStr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BMStrStri" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="StrLen" PURGE="4" COMMENT="" />
+</LIBRARY>
+

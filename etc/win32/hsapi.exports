@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hsapi.dll" PATH="/DLLArchive/etc/HSAPI.dll" DATE="Fri Jul 03 12:37:29 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="2" NAME="HsGetApiVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="HsGetSyncStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="HsCheckApiStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="HsDisplayCustomDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="HsDisplaySetupDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="HsDisplayLog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="HsResetComm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="HsSetCommStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="HsGetCommStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="HsRefreshConduitInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="HsSetAppStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="1110" NAME="HsDisplayFileLink" PURGE="4" COMMENT="" />
+</LIBRARY>
+

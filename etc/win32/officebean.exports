@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="officebean.dll" PATH="/DLLArchive/etc/officebean.dll" DATE="Fri Jul 03 13:04:51 PDT 2020" VERSION="7.0.0.8782">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_com_sun_star_beans_LocalOfficeWindow_getNativeWindow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_com_sun_star_beans_LocalOfficeWindow_getNativeWindowSystemType" PURGE="8" COMMENT="" />
+</LIBRARY>
+

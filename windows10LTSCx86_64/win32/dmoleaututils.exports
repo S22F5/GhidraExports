@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmoleaututils.dll" PATH="/DLLArchive/windows10LTSCX86_64/dmoleaututils.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Base64StrToSafeArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ByteArrayToSafeArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MultiStringToSafeArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ReadBSTRFromStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadBSTRFromStreamEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ReadStringFromStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ReadVariantFromStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReadVariantFromStreamEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SafeArrayToBase64Str" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SafeArrayToByteArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SafeArrayToMultiString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WriteBSTRToStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WriteBSTRToStreamEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WriteStringToStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WriteVariantToStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WriteVariantToStreamEx" PURGE="12" COMMENT="" />
+</LIBRARY>
+

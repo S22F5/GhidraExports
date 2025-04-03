@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zipcontainer.dll" PATH="/DLLArchive/windows10LTSCX86_64/zipcontainer.dll" DATE="Sat Dec 07 01:09:18 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateFileStream" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZipContainerCreateArchiveOnFile" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZipContainerInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZipContainerUninitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

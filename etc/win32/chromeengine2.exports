@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="chromeengine2.dll" PATH="/DLLArchive/etc/chromeengine2.dll" DATE="Fri Jul 03 12:26:50 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?CanAddInEditor@CLightObject@@SA_NW4ELightObjectType@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?Generate@FXHeightMapGen@@QAEPAVFXHeightMap@@PAVCLevel@@HHP6A_NH@Z@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetLightTypeName@CLightObject@@SAPBDW4ELightObjectType@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetLightTypeName@CLightObject@@SAPBDW4ELightType@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?LightObjectType2LightType@CLightObject@@SA?AW4ELightType@@W4ELightObjectType@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?LightType2LightObjectType@CLightObject@@SA?AW4ELightObjectType@@W4ELightType@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Save@FXHeightMap@@QAE_NPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ChunkLoadHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ChunkSaveEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ChunkSaveStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateGame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetNextScreenshotName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Initalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InitializeGameScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NextScreenShot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SaveImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ScaleImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ScreenShotGL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TakeScreenShot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UninitializeGameScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="freadstring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="freadstring2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="freadstring2alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="freadstringstl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="freadstringstl2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="fwritestring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="fwritestring2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="fwritestringstl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="fwritestringstl2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iumcrypt.dll" PATH="/DLLArchive/windows10LTSCX86_64/iumcrypt.dll" DATE="Wed Oct 06 15:52:15 CEST 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="iumCryptEncodeObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="iumCryptEncodeObjectEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="iumCryptExportPublicKeyInfoFromBCryptKeyHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="iumCryptFindOIDInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="iumCryptMsgClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="iumCryptMsgDuplicate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="iumCryptMsgGetParam" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="iumCryptMsgOpenToEncode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="iumCryptMsgUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="iumCryptSignAndEncodeCertificate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

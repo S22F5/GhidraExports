@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxsext32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/fxsext32.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.2.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="ExchEntryPoint" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appxsip.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppxSip.dll" DATE="Wed Oct 06 06:52:28 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="5" NAME="AppxSipIsFileSupportedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AppxSipGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AppxSipPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AppxSipRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AppxSipCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AppxSipVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="P7xSipIsFileSupportedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="P7xSipGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="P7xSipPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="P7xSipRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="P7xSipCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="P7xSipVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AppxBundleSipIsFileSupportedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AppxBundleSipGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AppxBundleSipPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AppxBundleSipRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AppxBundleSipCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AppxBundleSipVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="EappxSipIsFileSupportedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="EappxSipGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="EappxSipPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="EappxSipRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="EappxSipCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="EappxSipVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="EappxBundleSipIsFileSupportedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="EappxBundleSipGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="EappxBundleSipPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="EappxBundleSipRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="EappxBundleSipCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="EappxBundleSipVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

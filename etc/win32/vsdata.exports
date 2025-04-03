@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vsdata.dll" PATH="/DLLArchive/etc/vsdata.dll" DATE="Fri Jul 03 13:28:34 PDT 2020" VERSION="6.0.631.003">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ordinal_12" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Ordinal_13" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Ordinal_14" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Ordinal_15" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Ordinal_16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Ordinal_17" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Ordinal_18" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ordinal_19" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Ordinal_20" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Ordinal_21" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AddDataClient" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ClrDataClient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AddDataClientClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ClrDataClientClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CountDataClientClass" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetProcessCmdLine" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="FirewallCtrl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="FirewallInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DriverVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DriverCtrl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="UnblockProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="UnblockMessage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Ordinal_34" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="Ordinal_35" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="GetProcessPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="Ordinal_37" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="Ordinal_38" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="Ordinal_39" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Ordinal_40" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="Ordinal_41" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="Ordinal_42" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="Ordinal_43" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="Ordinal_44" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="Ordinal_45" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="GetProcessPathW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SetWindowsFirewallStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="GetWindowsFirewallStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="Ordinal_49" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="Ordinal_51" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="Ordinal_52" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="Ordinal_53" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="DriverOpenProcess" PURGE="12" COMMENT="" />
+</LIBRARY>
+

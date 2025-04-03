@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vs98ent.dll" PATH="/DLLArchive/etc/VS98ENT.DLL" DATE="Mon May 25 09:14:50 PDT 1998" VERSION="6.00.8146">
+    <EXPORT ORDINAL="1" NAME="SzGetDatadefVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddToClassPath" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IE4Check" PURGE="20" COMMENT="" />
+</LIBRARY>
+

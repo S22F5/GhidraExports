@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unityplayer.dll" PATH="/DLLArchive/etc/UnityPlayer.dll" DATE="Tue Jul 31 03:34:44 PDT 2018" VERSION="2018.1.0.13949343">
+    <EXPORT ORDINAL="1" NAME="UnityMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="profiler.dll" PATH="/DLLArchive/etc/profiler.dll" DATE="Mon Mar 30 14:53:20 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

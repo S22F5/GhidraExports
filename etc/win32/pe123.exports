@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pe123.dll" PATH="/DLLArchive/etc/PE123.dll" DATE="Thu Jan 18 09:18:48 PST 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netoc.dll" PATH="/DLLArchive/etc/netoc.dll" DATE="Fri Jul 03 13:01:35 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="NetOcSetupProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

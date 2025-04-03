@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="magnification.dll" PATH="/DLLArchive/windows10LTSCX86_64/Magnification.dll" DATE="Sat Dec 07 01:09:21 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MagSetFullscreenUseBitmapSmoothing" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MagSetLensUseBitmapSmoothing" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MagGetColorEffect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MagGetFullscreenColorEffect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MagGetFullscreenTransform" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MagGetImageScalingCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MagGetInputTransform" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MagGetWindowFilterList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MagGetWindowSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MagGetWindowTransform" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MagInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MagSetColorEffect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MagSetFullscreenColorEffect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MagSetFullscreenTransform" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MagSetImageScalingCallback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MagSetInputTransform" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MagSetWindowFilterList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MagSetWindowSource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MagSetWindowTransform" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MagShowSystemCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MagUninitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

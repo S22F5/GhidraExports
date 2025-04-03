@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="intelnic.dll" PATH="/DLLArchive/etc/IntelNic.dll" DATE="Fri Jul 03 21:43:04 CEST 2020" VERSION="1.07">
+    <EXPORT ORDINAL="1" NAME="NicCoInstallerEntry" PURGE="16" COMMENT="" />
+</LIBRARY>
+

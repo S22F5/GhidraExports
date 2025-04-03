@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acrofx32.dll" PATH="/DLLArchive/etc/Acrofx32.dll" DATE="Fri Jul 03 12:15:44 PDT 2020" VERSION="6.0.0.0">
+    <EXPORT ORDINAL="1" NAME="Foo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetNotesNumberField" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetNotesStringField" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NotesCloseDB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NotesFriendlyInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NotesFriendlyTerm" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NotesGetDBHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NotesGetNoteHandles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NotesIntfcGetNoteshNote" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NotesReopenDB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetNotesNumberField" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetNotesStringField" PURGE="0" COMMENT="" />
+</LIBRARY>
+

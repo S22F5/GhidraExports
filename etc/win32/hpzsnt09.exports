@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpzsnt09.dll" PATH="/DLLArchive/etc/hpzsnt09.dll" DATE="Fri Jul 03 12:37:27 PDT 2020" VERSION="2.240.0.0">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializePrintMonitor" PURGE="4" COMMENT="" />
+</LIBRARY>
+

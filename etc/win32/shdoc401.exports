@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="shdoc401.dll" PATH="/DLLArchive/etc/SHDOC401.DLL" DATE="Fri Jul 03 13:15:52 PDT 2020" VERSION="5.50.4807.2300">
+    <EXPORT ORDINAL="82" NAME="DDECreatePostNotify" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="83" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="84" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="85" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="86" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="87" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="188" NAME="ShellDDEInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="SHCreateDesktop" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="SHDesktopMessageLoop" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="DDEHandleViewFolderNotify" PURGE="12" COMMENT="" />
+</LIBRARY>
+

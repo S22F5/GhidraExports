@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ocmsn.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ocmsn.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="9.0.1316.0">
+    <EXPORT ORDINAL="1" NAME="OcEntry" PURGE="20" COMMENT="" />
+</LIBRARY>
+

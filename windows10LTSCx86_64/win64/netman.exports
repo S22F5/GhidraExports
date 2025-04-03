@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netman.dll" PATH="/DLLArchive/windows10LTSCX86_64/netman.dll" DATE="Wed Oct 06 06:51:14 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HrGetPnpDeviceStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HrLanConnectionNameFromGuidOrPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HrPnpInstanceIdFromGuid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HrQueryLanMediaState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetManDiagFromCommandArgs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+</LIBRARY>
+

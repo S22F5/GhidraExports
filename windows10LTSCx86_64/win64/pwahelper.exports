@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pwahelper.dll" PATH="/DLLArchive/windows10LTSCX86_64/pwahelper.dll" DATE="Wed Aug 04 23:44:50 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="StartAppWithParameter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0PwaHelperImpl@edge_pwahelper@@QEAA@PEAVWaitableEvent@base@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1PwaHelperImpl@edge_pwahelper@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??_7PwaHelperImpl@edge_pwahelper@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AppendMojoServerBindingInfo@PwaHelperImpl@edge_pwahelper@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?BadgeNotification@PwaHelperImpl@edge_pwahelper@@UEAAXW4BadgeNotificationType@mojom@2@AEBV?$basic_string@DU?$char_traits@D@__1@std@@V?$allocator@D@23@@__1@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?InitializeAppUserModelIdForCurrentProcess@PwaHelperImpl@edge_pwahelper@@QEAA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?PinTileToStart@PwaHelperImpl@edge_pwahelper@@UEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?SetSingletonProcessId@PwaHelperImpl@edge_pwahelper@@UEAAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Shutdown@PwaHelperImpl@edge_pwahelper@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?StartAppWithPlatformChannel@PwaHelperImpl@edge_pwahelper@@QEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?StartProcessWithMojoIPC@PwaHelperImpl@edge_pwahelper@@QEAAKPEAXV?$unique_ptr@VCommandLine@base@@U?$default_delete@VCommandLine@base@@@__1@std@@@__1@std@@V?$unique_ptr@VScopedTempDir@base@@U?$default_delete@VScopedTempDir@base@@@__1@std@@@45@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?TryActivateInstance@PwaHelperImpl@edge_pwahelper@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?ValidateHandShake@PwaHelperImpl@edge_pwahelper@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+</LIBRARY>
+

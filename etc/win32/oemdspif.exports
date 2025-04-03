@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oemdspif.dll" PATH="/DLLArchive/etc/oemdspif.dll" DATE="Fri Jul 03 13:04:47 PDT 2020" VERSION="6.14.0008">
+    <EXPORT ORDINAL="1" NAME="GetDisplayDriverName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDisplayDeviceCapability" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDisplayDeviceSwitchCapability" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDisplayDeviceMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetDisplayDeviceMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetScreenExpansionStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetScreenExpansionStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetLCDRefreshRateCapability" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetLCDRefreshRate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetLCDRefreshRate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsExternalDisplayConnected" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetPowerState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetPowerState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetTVStandard" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetTVStandard" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetStaticPowerState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetStaticPowerState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetCRTCCapabilities" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetCRTCConfiguration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetCRTCConfiguration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetExtendedDesktopStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetExtendedDesktopStatus" PURGE="4" COMMENT="" />
+</LIBRARY>
+

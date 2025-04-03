@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="res645mi.dll" PATH="/DLLArchive/etc/res645mi.dll" DATE="Fri Jul 03 13:11:38 PDT 2020" VERSION="7.0.0.8777">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="component_getFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="component_getImplementationEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="component_writeInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

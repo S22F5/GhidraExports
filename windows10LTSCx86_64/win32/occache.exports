@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="occache.dll" PATH="/DLLArchive/windows10LTSCX86_64/occache.dll" DATE="Sat Dec 07 10:10:00 CET 2019" VERSION="11.00.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FindControlClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FindFirstControl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FindFirstControlArch" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FindNextControl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FindNextControlArch" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetControlDependentFile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetControlInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsModuleRemovable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReleaseControlHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RemoveControlByHandle2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RemoveControlByHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RemoveControlByName2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RemoveControlByName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RemoveExpiredControls" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SweepControlsByLastAccessDate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

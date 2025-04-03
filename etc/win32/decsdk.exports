@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="decsdk.dll" PATH="/DLLArchive/etc/DECSDK.DLL" DATE="Fri Jul 03 12:30:50 PDT 2020" VERSION="3.02.08.32">
+    <EXPORT ORDINAL="1" NAME="DAPI_NewDecomposer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DAPI_DeleteDecomposer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DAPI_NewIOService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DAPI_DeleteIOService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DAPI_NewFileSystem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DAPI_DeleteFileSystem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DAPI_NewNetService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DAPI_DeleteNetService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DAPI_GetVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DeleteUnicodeMappingObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EndUnicodeMapping" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetUnicodeMappingObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetUnicodeMappingObjectW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InitializeUnicodeMapping" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NewUnicodeMappingObject" PURGE="4" COMMENT="" />
+</LIBRARY>
+

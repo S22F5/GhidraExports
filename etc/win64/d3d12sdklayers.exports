@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3d12sdklayers.dll" PATH="/DLLArchive/etc/d3d12SDKLayers.dll" DATE="Wed Jun 26 05:51:00 PDT 2024" VERSION="1.613.1.0.240319-0900.1.1.613.117d0243d7a18fc014d3fde19863d9169ea64427">
+    <EXPORT ORDINAL="1" NAME="D3D12RegisterLayers" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D3D12SDKVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3D12TranslateCreateDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetD3DDebugLayerStartupOptions" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ww9asum.dll" PATH="/DLLArchive/etc/WW9ASUM.DLL" DATE="Fri Jul 03 22:39:00 CEST 2020" VERSION="9.0.2601">
+    <EXPORT ORDINAL="1" NAME="_FetchLocalizedAS@24" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqperf.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqperf.dll" DATE="Fri Aug 17 13:36:22 PDT 2001" VERSION="5.01.1020">
+    <EXPORT ORDINAL="1" NAME="PerfClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PerfCollect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PerfOpen" PURGE="4" COMMENT="" />
+</LIBRARY>
+

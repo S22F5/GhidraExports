@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="saext.dll" PATH="/DLLArchive/etc/SAEXT.DLL" DATE="Fri Jul 03 22:13:39 CEST 2020" VERSION="11.0.5510">
+    <EXPORT ORDINAL="100" NAME="FindWordBreak" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="ConvertVietToCP1258" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="CreateWordBreaker" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="FindWB" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="DeleteWordBreaker" PURGE="4" COMMENT="" />
+</LIBRARY>
+

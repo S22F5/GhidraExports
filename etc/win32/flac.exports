@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="flac.dll" PATH="/DLLArchive/etc/flac.dll" DATE="Fri Jul 03 12:34:01 PDT 2020" VERSION="5, 1, 0, 4">
+    <EXPORT ORDINAL="1" NAME="ACD2_Compress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ACD2_DeinitCompress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ACD2_InitCompress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ACD2_InitCompress3" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ACD2_Initialize" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

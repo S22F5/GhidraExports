@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asprapiv.dll" PATH="/DLLArchive/etc/ASPRAPIV.dll" DATE="Mon Apr 21 20:24:18 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ASProt1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ASProt2" PURGE="4" COMMENT="" />
+</LIBRARY>
+

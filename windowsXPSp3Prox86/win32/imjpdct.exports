@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imjpdct.dll" PATH="/DLLArchive/windowsXPSp3Prox86/imjpdct.dll" DATE="Sun Apr 13 20:39:46 PDT 2008" VERSION="8.1.4202.0">
+    <EXPORT ORDINAL="1" NAME="OpenDicTool" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenRegisterWord" PURGE="28" COMMENT="" />
+</LIBRARY>
+

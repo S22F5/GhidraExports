@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mib.dll" PATH="/DLLArchive/etc/mib.dll" DATE="Sat Apr 03 18:51:38 PST 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DecryptDB" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EncryptDB" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetImageBase" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OpenFileNameDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadF" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SaveFileNameDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WriteF" PURGE="12" COMMENT="" />
+</LIBRARY>
+

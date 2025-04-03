@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="chklic_libfnp.dll" PATH="/DLLArchive/etc/chklic_libFNP.dll" DATE="Mon May 11 11:42:24 PDT 2009" VERSION="11.5.0.3 build 59714">
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="0" COMMENT="" />
+</LIBRARY>
+

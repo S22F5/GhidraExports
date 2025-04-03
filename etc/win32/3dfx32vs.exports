@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dfx32vs.dll" PATH="/DLLArchive/etc/3dfx32vs.dll" DATE="Fri Jul 03 21:10:54 CEST 2020" VERSION="4.12.01.0666">
+    <EXPORT ORDINAL="1" NAME="DriverInit" PURGE="4" COMMENT="" />
+</LIBRARY>
+

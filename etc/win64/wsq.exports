@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wsq.dll" PATH="/DLLArchive/etc/Wsq.dll" DATE="Fri Feb 16 23:29:12 CET 2024" VERSION="2024.2.16.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadWSQ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ReadWSQ_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

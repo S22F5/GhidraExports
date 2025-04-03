@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gameuxinstallhelper.dll" PATH="/DLLArchive/etc/GameuxInstallHelper.dll" DATE="Fri Jul 03 12:35:33 PDT 2020" VERSION="1.00.000.0000">
+    <EXPORT ORDINAL="1" NAME="AddToGameExplorerUsingMSI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RemoveFromGameExplorerUsingMSI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetMSIGameExplorerProperties" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AddToGameExplorerA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AddToGameExplorerW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateTaskA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateTaskW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GenerateGUID" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RegisterWithMediaCenterA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RegisterWithMediaCenterW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RemoveFromGameExplorer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RemoveRichSavedGamesA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RemoveRichSavedGamesW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RemoveTasks" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RetrieveGUIDForApplicationA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RetrieveGUIDForApplicationW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetupRichSavedGamesA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetupRichSavedGamesW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UnRegisterWithMediaCenterA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UnRegisterWithMediaCenterW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ws2_helper.dll" PATH="/DLLArchive/windows10LTSCX86_64/ws2_helper.dll" DATE="Sat Dec 07 01:09:10 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MigrateWinsockConfigurationEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSCDeinstallProviderEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSCEnumProtocolsEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSCGetApplicationCategoryEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSCInstallNameSpaceEx2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSCInstallProviderEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSCSetApplicationCategoryEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSCUnInstallNameSpaceEx2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSCWriteProviderOrderEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bboard.dll" PATH="/DLLArchive/etc/BBOARD.DLL" DATE="Thu Jun 11 04:04:14 CEST 1998" VERSION="6.00.8162">
+    <EXPORT ORDINAL="1" NAME="AddBillboard" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BBoardFrameWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DelProgmanItem" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Detect95" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DetectAdminPrivileges" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DetectRegData" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DoMessageBox" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ExecutePostSetupCommand" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InstallSys16PermFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RemoveFontFiles" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RemoveHelpAuxFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SHRCCreateFrameHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SHRCGaugeCloseHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SHRCGaugeDeltaHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SHRCGaugeInitHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SHRCGaugeOpenHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SHRCGaugePosHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SHRCGaugeRangeHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SHRCGaugeTextHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SHRCGaugeTitleHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SHRCGaugeYieldHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SHRCGetPathBrowseDialogHookProc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetBillboard" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Silence16BitDSNConversion" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SzGetDatadefVer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

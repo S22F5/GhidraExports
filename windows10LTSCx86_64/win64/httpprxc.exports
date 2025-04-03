@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="httpprxc.dll" PATH="/DLLArchive/windows10LTSCX86_64/httpprxc.dll" DATE="Sat Dec 07 10:09:04 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ProxyHelperClientAllocateMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProxyHelperClientConnectToServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProxyHelperClientDisconnectFromServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ProxyHelperClientFreeMemory" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ProxyHelperClientGetAllProxiesForUrl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ProxyHelperClientGetProxyCredentials" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ProxyHelperClientGetProxyForUrl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ProxyHelperClientInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ProxyHelperClientRegisterForEventNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ProxyHelperClientUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ProxyHelperClientUnregisterEventNotification" PURGE="0" COMMENT="" />
+</LIBRARY>
+

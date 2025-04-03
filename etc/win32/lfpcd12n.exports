@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lfpcd12n.dll" PATH="/DLLArchive/etc/lfpcd12n.dll" DATE="Fri Jul 03 12:46:21 PDT 2020" VERSION="12.1.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="fltInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fltLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fltSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="fltGetRes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="fltEnumDimensions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="fltGetDimension" PURGE="4" COMMENT="" />
+</LIBRARY>
+

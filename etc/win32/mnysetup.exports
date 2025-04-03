@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mnysetup.dll" PATH="/DLLArchive/etc/mnysetup.dll" DATE="Fri Jul 03 12:51:58 PDT 2020" VERSION="11.00.0723">
+    <EXPORT ORDINAL="1" NAME="SetMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UserFirstRun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ApplyMsiPackage" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="audiosrvpolicymanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/AudioSrvPolicyManager.dll" DATE="Wed Oct 06 15:51:11 CEST 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="HHOSTEDAPPMANAGERCONTEXTRundown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TS_SessionChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ActivatePolicyManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PbmAllowMediaPlaybackForApp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PbmCastingAppStateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PbmGetSoundLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PbmIsPlaying" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PbmLaunchBackgroundTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PbmPlayToStreamStateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PbmRegisterAppClosureNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PbmRegisterAppManagerNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PbmRegisterPlaybackManagerNotifications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PbmReportAppClosing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PbmReportAppInteractivityChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PbmReportApplicationState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PbmReportHostedAppStateChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PbmSetScreenReaderState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PbmSetSmtcSubscriptionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PbmSwitchSoftNonInteractiveAppsToHardNonInteractive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PbmUnregisterAppClosureNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PbmUnregisterAppManagerNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PbmUnregisterPlaybackManagerNotifications" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TS_AudioProtocolNotifyRundown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TS_RegisterAudioProtocolNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TS_SessionGetAudioProtocol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TS_UnregisterAudioProtocolNotification" PURGE="0" COMMENT="" />
+</LIBRARY>
+

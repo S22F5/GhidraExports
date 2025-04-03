@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scandres.dll" PATH="/DLLArchive/etc/SCANDRES.DLL" DATE="Fri Jul 03 22:14:09 CEST 2020" VERSION="9.05.15">
+    <EXPORT ORDINAL="1" NAME="InitScanDeliverResources" PURGE="0" COMMENT="" />
+</LIBRARY>
+

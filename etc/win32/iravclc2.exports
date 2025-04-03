@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iravclc2.dll" PATH="/DLLArchive/etc/IraVcLc2.dll" DATE="Fri Jul 03 12:43:31 PDT 2020" VERSION="2.2.5.1678">
+    <EXPORT ORDINAL="1" NAME="?lcxAddMember@@YA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?lcxAddSubscriptionEx@@YAHPAUSubscription@@_N1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?lcxErrorBox@@YAXPBDZZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?lcxGetClientNames@@YAPAPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?lcxGetLastServer@@YA_NPADH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?lcxGetLocalESupport@@YAHAA_N0PADI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?lcxGetSubStatusUrl@@YAPBDPAUVendorList@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?lcxGetTransportConfiguration@@YA_NPAD0000@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?lcxGetTrnuid@@YA_NPAGI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?lcxIsInternetAvailable@@YA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?lcxParseServerUrl@@YA_NVCString@@AAV1@11@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?lcxSetTransportConfiguration@@YAXPBD0000@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?lcxSynchronizeEx@@YAHP6AXPAUSubscription@@@Z@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

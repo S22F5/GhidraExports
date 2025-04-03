@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="roboex32.dll" PATH="/DLLArchive/etc/roboex32.dll" DATE="Fri Jul 03 22:12:26 CEST 2020" VERSION="9.10.520">
+    <EXPORT ORDINAL="1" NAME="LDLLHandler" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JumpUrlIERefresh" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JumpUrlIEStop" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JumpUrlIEBack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JumpUrlIEForward" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JumpHtml" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JumpUrlIEPrint" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AboutWinHelp2000" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InitWinHelp2000" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JumpUrlIEBrowsePrev" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JumpUrlIEBrowseNext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RoboHelpExInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RoboHelpExAbout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RoboHelpExShowNavPane" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RoboHelpExWatermark" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RoboHelpExSeeAlso" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RoboHelpExWatermarkNonScroll" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RoboHelpExShowSeeAlso" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RoboHelpExEHelp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Wh98Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="Wh98About" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="Wh98ShowNavPane" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="Wh98Watermark" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="Wh98SeeAlso" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="Wh98WatermarkNSR" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="Wh98ShowSeeAlso" PURGE="4" COMMENT="" />
+</LIBRARY>
+

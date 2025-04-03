@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsdrv34.dll" PATH="/DLLArchive/etc/Dsdrv34.dll" DATE="Fri Jul 03 12:32:16 PDT 2020" VERSION="0, 6, 0, 0">
+    <EXPORT ORDINAL="1" NAME="DoesThisPCICardExist" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPCIConfig" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InstallNTDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LoadDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetPCIConfig" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UnInstallNTDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UnloadDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="memoryAlloc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="memoryFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="memoryReadBYTE" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="memoryReadDWORD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="memoryReadWORD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="memoryWriteBYTE" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="memoryWriteDWORD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="memoryWriteWORD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="pciGetHardwareResources" PURGE="24" COMMENT="" />
+</LIBRARY>
+

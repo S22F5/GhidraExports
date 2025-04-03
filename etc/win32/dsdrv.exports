@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsdrv.dll" PATH="/DLLArchive/etc/DSDrv.dll" DATE="Fri Jul 03 12:32:16 PDT 2020" VERSION="3, 1, 2, 0">
+    <EXPORT ORDINAL="1" NAME="isDriverOpened" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="memoryAlloc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="memoryFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="memoryMap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="memoryReadBYTE" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="memoryReadDWORD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="memoryReadWORD" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="memoryUnmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="memoryWriteBYTE" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="memoryWriteDWORD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="memoryWriteWORD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="pciGetHardwareResources" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="readPort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="readPortL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="readPortW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="writePort" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="writePortL" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="writePortW" PURGE="8" COMMENT="" />
+</LIBRARY>
+

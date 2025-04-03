@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ptpprov.dll" PATH="/DLLArchive/windows10LTSCX86_64/ptpprov.dll" DATE="Sat Dec 07 10:08:13 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="TimeProvClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TimeProvCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TimeProvOpen" PURGE="0" COMMENT="" />
+</LIBRARY>
+

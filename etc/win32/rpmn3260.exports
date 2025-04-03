@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rpmn3260.dll" PATH="/DLLArchive/etc/rpmn3260.dll" DATE="Fri Jul 03 13:12:39 PDT 2020" VERSION="6.0.9.559">
+    <EXPORT ORDINAL="1" NAME="?DdeCallback@@YGPAUHDDEDATA__@@IIPAUHCONV__@@PAUHSZ__@@1PAU1@KK@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RPCreateClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RPCreateControlInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RPCreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

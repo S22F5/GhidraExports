@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rtworkq.dll" PATH="/DLLArchive/windows10LTSCX86_64/RTWorkQ.dll" DATE="Wed Oct 06 06:52:17 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="RtwqGetPlatform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RtwqAddPeriodicCallback" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RtwqAllocateSerialWorkQueue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RtwqAllocateWorkQueue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RtwqBeginRegisterWorkQueueWithMMCSS" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RtwqBeginUnregisterWorkQueueWithMMCSS" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RtwqCancelDeadline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RtwqCancelMultipleWaitingWorkItem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RtwqCancelWorkItem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RtwqCreateAsyncResult" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RtwqEndRegisterWorkQueueWithMMCSS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RtwqEndUnregisterWorkQueueWithMMCSS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RtwqGetWorkQueueMMCSSClass" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RtwqGetWorkQueueMMCSSPriority" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RtwqGetWorkQueueMMCSSTaskId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RtwqInvokeCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RtwqJoinWorkQueue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RtwqLockPlatform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RtwqLockSharedWorkQueue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RtwqLockWorkQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RtwqPutMultipleWaitingWorkItem" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RtwqPutWaitingWorkItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RtwqPutWorkItem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RtwqRegisterPlatformEvents" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RtwqRegisterPlatformWithMMCSS" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RtwqRemovePeriodicCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RtwqScheduleWorkItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RtwqSetDeadline2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="RtwqSetDeadline" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RtwqSetLongRunning" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RtwqShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RtwqStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RtwqUnjoinWorkQueue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RtwqUnlockPlatform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RtwqUnlockWorkQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RtwqUnregisterPlatformEvents" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="RtwqUnregisterPlatformFromMMCSS" PURGE="0" COMMENT="" />
+</LIBRARY>
+

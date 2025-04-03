@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xbeformat.dll" PATH="/DLLArchive/etc/XBEFormat.dll" DATE="Fri Dec 09 10:10:46 PST 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BDASMGetDecoderInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BDASMGetFormatInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0I_CXBEReader@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0I_CXBEReader@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1I_CXBEReader@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4I_CXBEReader@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_7I_CXBEReader@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?BuildImportList@I_CXBEReader@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Close@I_CXBEReader@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CollectSymbols@I_CXBEReader@@UAEHPAVI_CSymbolCollection@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?DisplayExtendedInfo@I_CXBEReader@@UAEHPAUHWND__@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetDescription@I_CXBEReader@@UAEXPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetEPSection@I_CXBEReader@@IAEPAUXBE_Section_Header@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetEntryPoint@I_CXBEReader@@UAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GetFileExtensions@I_CXBEReader@@UAEXPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetImageBase@I_CXBEReader@@UAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetSectionByIndex@I_CXBEReader@@IAEPAUXBE_Section_Header@@K@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GetSegmentEP@I_CXBEReader@@UAEPBUBDASMSegment@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetSizeOfImage@I_CXBEReader@@UAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Init@I_CXBEReader@@UAEHPAVI_CCPUDecoder@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?InsertSegment@I_CXBEReader@@IAEHAAUBDASMSegment@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?IsValidFormat@I_CXBEReader@@UAEHPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?MakeSegments@I_CXBEReader@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?Open@I_CXBEReader@@UAEHPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?RVAToOffset@I_CXBEReader@@QAEKK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?Release@I_CXBEReader@@UAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

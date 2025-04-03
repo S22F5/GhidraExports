@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="csseqchk.dll" PATH="/DLLArchive/etc/csseqchk.dll" DATE="Fri Jul 03 12:28:24 PDT 2020" VERSION="10.0.1009">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="ISCCreateObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="ISCDestroyObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="ISCCheckSequence" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="ISCGetContext" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="ISCGetCurrentState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="ISCSetCurrentState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="ISCMacroSequenceCheck" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="ISCDecodeCommand" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="ISCDecodeCommandEx" PURGE="24" COMMENT="" />
+</LIBRARY>
+

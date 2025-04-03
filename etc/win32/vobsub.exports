@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vobsub.dll" PATH="/DLLArchive/etc/VOBSUB.DLL" DATE="Fri Jul 03 22:28:21 CEST 2020" VERSION="1, 6, 1, 0">
+    <EXPORT ORDINAL="1" NAME="Configure" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Cutter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AvisynthPluginInit@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetFilterTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VirtualdubFilterModuleDeinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VirtualdubFilterModuleInit2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

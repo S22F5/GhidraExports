@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="getcpu.dll" PATH="/DLLArchive/etc/getcpu.dll" DATE="Fri Jul 03 12:35:48 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="4" NAME="GetProcessor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetProcessorFeatures" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetProcessorNormSpeed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetProcessorRawSpeed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AboutThis" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bstrace.dll" PATH="/DLLArchive/etc/BsTrace.dll" DATE="Fri Jul 03 12:25:30 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="??0CBsTraceFunc@@QAE@KPAD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CBsTraceFunc@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?BsTrace_Data@@YAXKEKPAE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?BsTrace_Func@@YAXKPADK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?BsTrace_GetOutputFlag@@YAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?BsTrace_GetTraceLogFileName@@YAXPADK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?BsTrace_GetTraceMemberFlag@@YAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?BsTrace_GetTraceModuleFlag@@YAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?BsTrace_GetTraceSwitch@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?BsTrace_SetOutputFlag@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?BsTrace_SetTraceLogFileName@@YAXPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?BsTrace_SetTraceMemberFlag@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?BsTrace_SetTraceModuleFlag@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?BsTrace_SetTraceSwitch@@YAHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?BsTrace_UserDef@@YAXKPBDZZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

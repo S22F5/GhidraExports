@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sppobjs.dll" PATH="/DLLArchive/windows10LTSCX86_64/sppobjs.dll" DATE="Wed Oct 06 06:52:07 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SppPluginCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SppPluginCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SppPluginInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SppPluginShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SppPluginVersion" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

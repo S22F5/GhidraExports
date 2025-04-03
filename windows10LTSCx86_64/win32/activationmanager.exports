@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="activationmanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/ActivationManager.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DisableAppXDebuggingForPackage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnableAppXDebuggingForPackage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FreeAppXLaunchContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetPackageExecutionContextForAumid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPackageExecutionContextForAumidAndUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetPackageExecutionContextForDeviceFamilyName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetPackageExecutionContextForPackageByFullName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PostCreateProcessAppXActivation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PrepareAppXActivation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RegisterAppXPackageIfNecessary2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RegisterAppXPackageIfNecessary" PURGE="20" COMMENT="" />
+</LIBRARY>
+

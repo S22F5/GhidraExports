@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_main-0.7.dll" PATH="/DLLArchive/etc/rz_main-0.7.dll" DATE="Mon Mar 04 10:50:40 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_main_find" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_main_rizin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_main_rz_asm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_main_rz_ax" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_main_rz_bin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_main_rz_diff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_main_rz_find" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_main_rz_gg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_main_rz_hash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_main_rz_run" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_main_rz_sign" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_main_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_main_version_print" PURGE="0" COMMENT="" />
+</LIBRARY>
+

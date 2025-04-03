@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="updatepolicy.dll" PATH="/DLLArchive/windows10LTSCX86_64/updatepolicy.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetAutoUpdatePolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetEnterprisePolicyName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetSkuUpdateManagementGroup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetUpdatePolicyName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadPolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ReadPolicyWithFallback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ReleaseAutoUpdatePolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReleaseEnterprisePolicyValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReleaseUpdatePolicyValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="normaliz.dll" PATH="/DLLArchive/etc/normaliz.dll" DATE="Fri Jul 03 13:01:50 PDT 2020" VERSION="6.0.5243.0 (vbl_ux_partners_ie.051011-1845)">
+    <EXPORT ORDINAL="1" NAME="NormalizeString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsNormalizedString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IdnToAscii" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IdnToUnicode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IdnToNameprepUnicode" PURGE="20" COMMENT="" />
+</LIBRARY>
+

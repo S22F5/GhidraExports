@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="uxctl.dll" PATH="/DLLArchive/etc/uxctl.dll" DATE="Fri Jul 03 13:25:52 PDT 2020" VERSION="15.4.3538.0513">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UxControlsCreateObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UxControlsInitProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UxControlsUninitProcess" PURGE="0" COMMENT="" />
+</LIBRARY>
+

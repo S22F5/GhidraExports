@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="daxexec.dll" PATH="/DLLArchive/windows10LTSCX86_64/daxexec.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AddLookaside" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddProcessToHeliumContainer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CheckAppXPackageBreakaway" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CheckApplicationInCurrentPackage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CloseAppExecutionAlias" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CloseJitvSilo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CompleteAppExecutionAliasProcessCreation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateAppExecutionAlias" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateDesktopAppXActivationInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateDesktopAppXLocalCacheStructure" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateDesktopAppXTombstoneFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateJitvSilo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CurrentThreadIsInVirtualizationContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DetokenizeDesktopAppXOfflineRegistry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DisableDesktopAppXDebuggingForPackage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DoesPackageHaveElevationCapability" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DoesPackageHaveUIAccessCapability" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DoesPluginSupportCentennial" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EnableDesktopAppXDebuggingForPackage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="EnsureDesktopAppXPackageShutdown" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="EnterPackageVirtualizationContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="FreeAppExecutionAliasInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="FreeAppExecutionAliasInfoWithLicenseRundown" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="FreeDesktopAppXActivationInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="FreeDesktopAppXLaunchContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetAppExecutionAliasApplicationUserModelId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="GetAppExecutionAliasExecutable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="GetAppExecutionAliasPackageFamilyName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="GetAppExecutionAliasPackageFullName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="GetApplicationExecutableRelativePath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="GetDesktopAppXComRootHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="LeavePackageVirtualizationContext" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="LoadAppExecutionAliasInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="MigrateWritablePackageRootData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="OpenAppExecutionAlias" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="OpenAppExecutionAliasForUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="PerformAppxLicenseRundown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="PersistAppExecutionAliasToFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="PostCreateProcessDesktopAppXActivation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="PrepareDesktopAppXActivation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="RegisterDesktopAppXPackageFamily" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="RegisterDesktopAppXPackageFamilyIfNecessary" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="RemoveDesktopAppXMetadataForFolder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="RemoveLookaside" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SetDesktopAppXMetadataForFolder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="SetDesktopAppXMetadataForPackage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="TryActivateDesktopAppXApplication" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="VerifyFileIsTrustedAndInPackage" PURGE="12" COMMENT="" />
+</LIBRARY>
+

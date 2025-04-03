@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lgpllibs.dll" PATH="/DLLArchive/etc/lgpllibs.dll" DATE="Fri Jan 01 00:00:00 CET 2010" VERSION="115.18.0">
+    <EXPORT ORDINAL="1" NAME="??0SoundTouch@soundtouch@@QEAA@AEBV01@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0SoundTouch@soundtouch@@QEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1SoundTouch@soundtouch@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4SoundTouch@soundtouch@@QEAAAEAV01@AEBV01@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7SoundTouch@soundtouch@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?calcEffectiveRateAndTempo@SoundTouch@soundtouch@@AEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?clear@SoundTouch@soundtouch@@UEAAXXZ" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?createSoundTouchObj@soundtouch@@YAPEAVSoundTouch@1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?destroySoundTouchObj@soundtouch@@YAXPEAVSoundTouch@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?flush@SoundTouch@soundtouch@@QEAAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?getInputOutputSampleRatio@SoundTouch@soundtouch@@QEAANXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?getSetting@SoundTouch@soundtouch@@QEBAHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?getVersionId@SoundTouch@soundtouch@@SAIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?getVersionString@SoundTouch@soundtouch@@SAPEBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?numChannels@SoundTouch@soundtouch@@QEBAIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?numUnprocessedSamples@SoundTouch@soundtouch@@UEBAIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?putSamples@SoundTouch@soundtouch@@UEAAXPEBMI@Z" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?receiveSamples@SoundTouch@soundtouch@@UEAAII@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?receiveSamples@SoundTouch@soundtouch@@UEAAIPEAMI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?setChannels@SoundTouch@soundtouch@@QEAAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?setPitch@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?setPitchOctaves@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?setPitchSemiTones@SoundTouch@soundtouch@@QEAAXH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?setPitchSemiTones@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?setRate@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?setRateChange@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?setSampleRate@SoundTouch@soundtouch@@QEAAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?setSetting@SoundTouch@soundtouch@@QEAA_NHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?setTempo@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?setTempoChange@SoundTouch@soundtouch@@QEAAXN@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

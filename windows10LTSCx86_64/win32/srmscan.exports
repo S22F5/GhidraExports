@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="srmscan.dll" PATH="/DLLArchive/windows10LTSCX86_64/srmscan.dll" DATE="Wed Oct 06 06:53:10 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SrmIsNameInExpression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SrmCalculateCrcHash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SrmEnsureSystemVolumeInformationFolder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SrmIsInCluster" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SrmValidateNamespaceRoots" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SrmCreateOrDeleteNotificationScheduledTask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SrmUtcFileTimeToLocalFileTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SrmLocalFileTimeToUtcFileTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

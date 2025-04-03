@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsccore.dll" PATH="/DLLArchive/windows10LTSCX86_64/DscCore.dll" DATE="Sat Dec 07 10:09:45 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CATraps" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CUTraps" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateAuthenticationCertificateWrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetProviderClassID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LCMTraps" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MI_Main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NITS_PRESENCE_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NITS_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SysPrep_Cleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ValidateCertificateExpirationWrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ValidatorTraps" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

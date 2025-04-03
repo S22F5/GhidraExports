@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasmxs.dll" PATH="/DLLArchive/etc/rasmxs.dll" DATE="Fri Jul 03 13:10:45 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DeviceConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeviceDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeviceEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeviceGetInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeviceListen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeviceSetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DeviceWork" PURGE="4" COMMENT="" />
+</LIBRARY>
+

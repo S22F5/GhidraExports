@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-handle-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-handle-l1-1-0.dll" DATE="Sat Dec 07 10:09:09 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CloseHandle" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CloseHandle" />
+    <EXPORT ORDINAL="2" NAME="CompareObjectHandles" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CompareObjectHandles" />
+    <EXPORT ORDINAL="3" NAME="DuplicateHandle" PURGE="28" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="DuplicateHandle" />
+    <EXPORT ORDINAL="4" NAME="GetHandleInformation" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetHandleInformation" />
+    <EXPORT ORDINAL="5" NAME="SetHandleInformation" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetHandleInformation" />
+</LIBRARY>
+

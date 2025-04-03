@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="proximitycommonpal.dll" PATH="/DLLArchive/windows10LTSCX86_64/ProximityCommonPal.dll" DATE="Wed Oct 06 06:52:23 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PAL_AppHasPackage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PAL_FreeTransientObjectSecurityAttribute" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PAL_GetAppPlatformQualifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PAL_GetSupportedBrowseTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PAL_HoldReferenceUntilAppExit" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PAL_QueryTransientObjectSecurityAttribute" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PAL_RegisterAppSuspendResumeCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PAL_UnregisterAppSuspendResumeCallback" PURGE="4" COMMENT="" />
+</LIBRARY>
+

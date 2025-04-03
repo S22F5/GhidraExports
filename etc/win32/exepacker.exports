@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exepacker.dll" PATH="/DLLArchive/etc/EXEPacker.dll" DATE="Fri Nov 16 01:03:46 PST 2012" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetLastErrorInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PatchExecutable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Patcher_Free" PURGE="0" COMMENT="" />
+</LIBRARY>
+

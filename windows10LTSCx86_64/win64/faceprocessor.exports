@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="faceprocessor.dll" PATH="/DLLArchive/windows10LTSCX86_64/FaceProcessor.dll" DATE="Wed Oct 06 06:53:22 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateColorFaceProcessor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateFacePreprocessorOutput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FileInputManager_InitializeRuntime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FileInputManager_ReadSourceColorFrameData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FileInputManager_ReadSourceDeviceMetadata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FileInputManager_ReadSourceInfraredFrameData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FileInputManager_Reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FileInputManager_SendColorFrameData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FileInputManager_SendInfraredFrameData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

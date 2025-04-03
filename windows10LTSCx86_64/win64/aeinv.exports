@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aeinv.dll" PATH="/DLLArchive/windows10LTSCX86_64/aeinv.dll" DATE="Wed Oct 06 06:51:54 PDT 2021" VERSION="10.0.19645.1046 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateAppxPackageInventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateAppxPackageInventoryExtracted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateSoftwareInventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetAppInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetAppInventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetCachedAppInventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetDetailedAppInventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDetailedAppInventoryFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UpdateSoftwareInventoryW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

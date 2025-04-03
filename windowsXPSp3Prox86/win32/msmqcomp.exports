@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msmqcomp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/MSMQCOMP.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.01.1020">
+    <EXPORT ORDINAL="1" NAME="MsmqComp" PURGE="8" COMMENT="" />
+</LIBRARY>
+

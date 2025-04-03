@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mswdat10.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mswdat10.dll" DATE="Mon Apr 02 09:21:48 PDT 2007" VERSION="4.00.9502.0">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="12" COMMENT="" />
+</LIBRARY>
+

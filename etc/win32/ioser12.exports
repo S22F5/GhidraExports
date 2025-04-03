@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ioser12.dll" PATH="/DLLArchive/etc/ioser12.dll" DATE="Fri Jul 03 21:43:11 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_allocateNewObject@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_loadClass@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_readObject@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setBooleanField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setBooleanFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setByteField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setByteFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setCharField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setCharFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setDoubleField@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setDoubleFieldOpt@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setFloatField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setFloatFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setIntField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setIntFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setLongField@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setLongFieldOpt@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setObjectField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setObjectFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setShortField@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_setShortFieldOpt@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_Java_com_sun_corba_se_internal_io_IIOPInputStream_throwExceptionType@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getBooleanField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getBooleanFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getByteField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getByteFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getCharField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getCharFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getDoubleField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getDoubleFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getFloatField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getFloatFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getIntField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getIntFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getLongField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getLongFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getObjectField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getObjectFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getShortField@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_getShortFieldOpt@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_throwExceptionType@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="_Java_com_sun_corba_se_internal_io_IIOPOutputStream_writeObject@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="_Java_com_sun_corba_se_internal_io_LibraryManager_getMajorVersion@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="_Java_com_sun_corba_se_internal_io_LibraryManager_getMinorVersion@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="_Java_com_sun_corba_se_internal_io_LibraryManager_setEnableOverride@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="_Java_com_sun_corba_se_internal_io_ObjectStreamClass_hasStaticInitializer@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="_Java_com_sun_corba_se_internal_io_ObjectStreamField_getFieldIDNative@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="_Java_com_sun_corba_se_internal_util_JDKClassLoader_specialLoadClass@20" PURGE="20" COMMENT="" />
+</LIBRARY>
+

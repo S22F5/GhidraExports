@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="luiapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/luiapi.dll" DATE="Sat Dec 07 01:09:11 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="LuiAddProfile" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LuiCancelOperation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LuiCloseHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LuiDeleteProfile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LuiDisableProfile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LuiDiscoverProfiles" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LuiEnableProfile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LuiInstallProfile" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LuiOpenHandle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LuiProcessActivationCode" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LuiRegisterForAllEnterpriseProfileNotifications" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LuiRegisterForAllProfileNotifications" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LuiRegisterForEnterpriseEsimNotifications" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="LuiRegisterForEsimNotifications" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="LuiRegisterForLpaNotifications" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LuiReleaseProvisioningProfile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LuiRequestProvisioningProfile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="LuiSetDefaultSmdpAddress" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="LuiSetEsimPolicy" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="LuiSetProfileNickname" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="LuiSetUserAuthenticationMode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="LuiVerifyClientToken" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="LuiWipeEsim" PURGE="16" COMMENT="" />
+</LIBRARY>
+

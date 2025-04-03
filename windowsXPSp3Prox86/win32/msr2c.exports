@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msr2c.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msr2c.dll" DATE="Fri Aug 17 13:36:24 PDT 2001" VERSION="1.00.4211.0">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VDGetICursorFromIRowset" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

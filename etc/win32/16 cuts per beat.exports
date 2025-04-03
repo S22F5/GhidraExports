@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="16 cuts per beat.dll" PATH="/DLLArchive/etc/16 cuts per beat.dll" DATE="Fri Jul 03 12:09:45 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetAtomixDsp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

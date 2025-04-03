@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="auth3260.dll" PATH="/DLLArchive/etc/auth3260.dll" DATE="Fri Jul 03 12:24:16 PDT 2020" VERSION="6.0.7.1671">
+    <EXPORT ORDINAL="1" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RMAShutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

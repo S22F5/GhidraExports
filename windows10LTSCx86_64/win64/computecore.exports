@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="computecore.dll" PATH="/DLLArchive/windows10LTSCX86_64/computecore.dll" DATE="Wed Oct 06 06:52:43 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="HcsEnumerateVmWorkerProcesses" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HcsFindVmWorkerProcesses" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HcsGetWorkerProcessJob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HcsStartVmWorkerProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HcsCancelOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HcsCloseComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HcsCloseOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HcsCloseProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HcsCrashComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HcsCreateComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HcsCreateComputeSystemInNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HcsCreateEmptyGuestStateFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HcsCreateEmptyRuntimeStateFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HcsCreateOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HcsCreateProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HcsEnumerateComputeSystems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HcsEnumerateComputeSystemsInNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HcsGetComputeSystemFromOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="HcsGetComputeSystemProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HcsGetOperationContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HcsGetOperationId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HcsGetOperationResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HcsGetOperationResultAndProcessInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HcsGetOperationType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HcsGetProcessFromOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HcsGetProcessInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HcsGetProcessProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="HcsGetServiceProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="HcsGrantVmAccess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="HcsGrantVmGroupAccess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="HcsModifyComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="HcsModifyProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="HcsModifyServiceSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="HcsOpenComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="HcsOpenComputeSystemInNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="HcsOpenProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="HcsPauseComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="HcsResumeComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="HcsRevokeVmAccess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="HcsRevokeVmGroupAccess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="HcsSaveComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="HcsSetComputeSystemCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="HcsSetOperationCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="HcsSetOperationContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="HcsSetProcessCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="HcsShutDownComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="HcsSignalProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="HcsStartComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="HcsSubmitWerReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="HcsTerminateComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="HcsTerminateProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="HcsWaitForOperationResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="HcsWaitForOperationResultAndProcessInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

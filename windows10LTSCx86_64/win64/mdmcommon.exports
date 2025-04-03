@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdmcommon.dll" PATH="/DLLArchive/windows10LTSCX86_64/MdmCommon.dll" DATE="Wed Oct 06 06:51:12 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MdmClearAllHashes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MdmConnectedAccountsChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MdmEnumerateUsers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MdmGetLocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MdmGetServiceTarget" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MdmGetSidsByConnectedCids" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MdmHandlePushNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MdmIsFindMyDeviceEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MdmIsRegisteredWithService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MdmMobileNetworksChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MdmParseCommandData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MdmParseEncryptedRequest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MdmParseLocateCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MdmParseLockCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MdmParseNonEncryptedRequest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MdmProtectionStateChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MdmRegisterDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MdmRegisterUserDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MdmSendRequestToCS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MdmSendRequestToCSWithDelegation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MdmSetFindMyDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MdmShouldRegisterDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MdmUpdateStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MdmUsersAuthorizedToSeeLocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MdmUsersAuthorizedToSeeLocationAsString" PURGE="0" COMMENT="" />
+</LIBRARY>
+

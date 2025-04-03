@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="resetengonline.dll" PATH="/DLLArchive/windows10LTSCX86_64/ResetEngOnline.dll" DATE="Wed Oct 06 06:52:52 PDT 2021" VERSION="10.0.19041.1165 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetNetworkCost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsEsimPresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ResetEsim" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ResetGetEngineInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ResetInitializeEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ResetRebootSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ResetReleaseEngine" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UninstallFinalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UninstallGetInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exr.dll" PATH="/DLLArchive/etc/Exr.dll" DATE="Tue Jan 02 15:20:40 CET 2024" VERSION="4.66.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadEXR" PURGE="0" COMMENT="" />
+</LIBRARY>
+

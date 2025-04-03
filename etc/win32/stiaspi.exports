@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="stiaspi.dll" PATH="/DLLArchive/etc/STIASPI.DLL" DATE="Fri Jul 03 13:20:39 PDT 2020" VERSION="1, 8, 1, 3">
+    <EXPORT ORDINAL="1" NAME="ASPIReadData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ASPIReadPhase" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ASPIWriteCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ASPIWriteData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CloseSTIDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateSTIDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetASPI32SupportInfoEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReadData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ReadPhase" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WriteCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WriteData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetASPI32SupportInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SendASPI32Command" PURGE="0" COMMENT="" />
+</LIBRARY>
+

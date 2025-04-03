@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="visual protect3.1.6.dll" PATH="/DLLArchive/etc/visual protect3.1.6.dll" DATE="Tue May 14 15:00:28 CEST 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="0" COMMENT="" />
+</LIBRARY>
+

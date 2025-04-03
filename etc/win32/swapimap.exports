@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="swapimap.dll" PATH="/DLLArchive/etc/swapimap.dll" DATE="Fri Jul 03 22:21:24 CEST 2020" VERSION="2.0.0.4">
+    <EXPORT ORDINAL="1" NAME="SWAPI_EnumContinentIPRanges" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SWAPI_EnumContinentCountries" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SWAPI_ContinentIDToContinentName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SWAPI_ContinentIDToContinentCode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SWAPI_ContinentCodeToContinentID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SWAPI_CountryIDToContinentID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SWAPI_GetMaxContinentID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SWAPI_GetMinContinentID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SWAPI_EnumCountryIPRanges" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SWAPI_GetCountryCodeStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SWAPI_GetCountryCodeIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SWAPI_CountryIDToContinentName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SWAPI_CountryIDToContinentCode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SWAPI_CountryIDToCountryName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SWAPI_CountryIDToCountryCode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SWAPI_CountryCodeToCountryID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SWAPI_IPStringToCountryID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SWAPI_IPAddressToCountryID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SWAPI_GetMaxCountryID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SWAPI_GetMinCountryID" PURGE="0" COMMENT="" />
+</LIBRARY>
+

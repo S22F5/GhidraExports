@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="apwutil.dll" PATH="/DLLArchive/etc/APWUTIL.DLL" DATE="Fri Jul 03 12:18:56 PDT 2020" VERSION="9.05.1015">
+    <EXPORT ORDINAL="1" NAME="_ApwActivate@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ApwActivateNavw@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ApwCenterWindow@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ApwDlgSet3d@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ApwFreeNavopts@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ApwGetConfig@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ApwGetCurrentNavWindow@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ApwGetNavwExePath@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_ApwMessage@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_ApwMinimize@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_ApwNameAppendSeparator@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_ApwNameCat@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_ApwNameSkipDirectory@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_ApwNameSkipSection@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_ApwNameSkipVolume@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_ApwNameStrip@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_ApwNameToLower@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_ApwNotifyNavw@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_ApwReadNavopts@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_ApwShutdown@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_ApwUpdateUI@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_GetWindowsPlatform@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_NewShellPresent@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_ShellTrayPresent@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

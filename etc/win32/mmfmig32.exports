@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mmfmig32.dll" PATH="/DLLArchive/etc/MMFMIG32.DLL" DATE="Fri Jul 03 12:51:40 PDT 2020" VERSION="5.5.2174.0">
+    <EXPORT ORDINAL="1" NAME="MMFMIG_ProcessMMF@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HPProviderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FOutsideDateRange@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HrModifyNamesInMsg@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ScGetPABMigrationContext@52" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ScMMFMigrateToMDB@48" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ScMMFVerify@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ScMigrateMMFPAB@32" PURGE="32" COMMENT="" />
+</LIBRARY>
+

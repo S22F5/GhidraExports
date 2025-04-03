@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hapdbg.dll" PATH="/DLLArchive/etc/hapdbg.dll" DATE="Fri Jul 03 12:36:35 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?CheckForNewConnection@hapdbg@@YA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetInitVals@hapdbg@@YA_NAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetOption@hapdbg@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV23@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?HasConnection@hapdbg@@YA_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Initialize@hapdbg@@YA_NH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?OutputToDebugConsole@hapdbg@@YAXAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?OutputToErrConsole@hapdbg@@YAXAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?RunPythonScript@hapdbg@@YAHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?SetPythonArguments@hapdbg@@YAXAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Uninitialize@hapdbg@@YAXXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?WaitForConnection@hapdbg@@YA_NXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

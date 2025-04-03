@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netupgrd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/NETUPGRD.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="NetUpgradeCompatibilityCheck" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetUpgradeHandleCompatibilityHaveDisk" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Winnt32Cleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Winnt32PluginGetPages" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Winnt32PluginInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Winnt32WriteParams" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WriteNetworkInfoToAnswerFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetUpgradeAddLineToSection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NetUpgradeAddSection" PURGE="4" COMMENT="" />
+</LIBRARY>
+

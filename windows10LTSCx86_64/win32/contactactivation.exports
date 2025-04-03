@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="contactactivation.dll" PATH="/DLLArchive/windows10LTSCX86_64/ContactActivation.dll" DATE="Wed Oct 06 06:52:27 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AwaitContactPickerResults" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ContactToVCardString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeserializeContactFromString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SerializeContactToString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SerializeContactToVCard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShowContactPickerAsync" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VCardStringToContact" PURGE="8" COMMENT="" />
+</LIBRARY>
+

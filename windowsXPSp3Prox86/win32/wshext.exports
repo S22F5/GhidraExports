@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wshext.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wshext.dll" DATE="Sun Apr 13 20:42:12 PDT 2008" VERSION="5.7.0.16599">
+    <EXPORT ORDINAL="1" NAME="CreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsFileSupportedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

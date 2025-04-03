@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="webaccessutils.dll" PATH="/DLLArchive/etc/WebAccessUtils.dll" DATE="Fri Jul 03 13:30:18 PDT 2020" VERSION="3.0.0.278">
+    <EXPORT ORDINAL="1" NAME="?GetUserNameAndPassword@WebAccess@adobe@@YA_NAAUAuthenticationRec@12@ABUWebAccessUtilsUIData_Internal@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?RegistrationChoiceDialog@WebAccess@adobe@@YA?AW4UserRegistrationChoice@12@ABUWebAccessUtilsUIData_Internal@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WebAccessUtilsAddAuthentication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WebAccessUtilsClearAuthenticationCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WebAccessUtilsDefaultAuthenticationCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WebAccessUtilsFlushAuthenticationHeaderCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WebAccessUtilsForceConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WebAccessUtilsGetAuthentication_Internal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WebAccessUtilsGetRealmAndUsername" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WebAccessUtilsGoToURL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WebAccessUtilsInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WebAccessUtilsIsConnected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WebAccessUtilsIsProductRegistered_Internal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WebAccessUtilsRegisterProduct_Internal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WebAccessUtilsRemoveAuthentication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WebAccessUtilsSetInterviewClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WebAccessUtilsTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WebAccessUtilsVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

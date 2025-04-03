@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoft.uev.commonbridge.dll" PATH="/DLLArchive/windows10LTSCX86_64/Microsoft.Uev.CommonBridge.dll" DATE="Wed Oct 06 06:53:08 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="RunSyncController" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RunSyncControllerAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetAssociatedTemplateList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetTemplatePackageIds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="StartProcessWatcherDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="StopProcessWatcherDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetRepositoryPathFromTemplate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetRepositoryPathForWin8Apps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetProfileRepositoryBasePathForMachine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetProfileRepositoryBasePath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetOriginalRepositoryPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetShellTemplatePackageIds" PURGE="0" COMMENT="" />
+</LIBRARY>
+

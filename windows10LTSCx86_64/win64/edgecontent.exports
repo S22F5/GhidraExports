@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="edgecontent.dll" PATH="/DLLArchive/windows10LTSCX86_64/EdgeContent.dll" DATE="Wed Oct 06 15:51:38 CEST 2021" VERSION="11.00.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IEIsInPrivateBrowsing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IEGetWriteableFolderPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IEIsProtectedModeProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IERefreshElevationPolicy" PURGE="0" COMMENT="" />
+</LIBRARY>
+

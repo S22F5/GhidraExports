@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vmscore.dll" PATH="/DLLArchive/etc/vmscore.dll" DATE="Mon Apr 21 20:22:54 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="IconItemFixSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="vmsAddIconToBitmap2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="vmsGetBitmapHandle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="vmsAddIconToBitmap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="vmsCreateBitmap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeInitDialogs" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InitRARDialog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InitZipDialog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="vmsFreeBitmap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="vmsLoadBitmap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RARUnpack" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="vms_decompress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="vms_compress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="callvms" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

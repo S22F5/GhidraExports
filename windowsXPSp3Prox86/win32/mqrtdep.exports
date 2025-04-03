@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqrtdep.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqrtdep.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.01.1110">
+    <EXPORT ORDINAL="1" NAME="DepCreateInternalCertificate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DepDeleteInternalCert" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DepGetTmWhereabouts@@YGJKPAEPAK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?RTXactGetDTC@@YGJPAPAUIUnknown@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DepBeginTransaction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DepCloseCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DepCloseQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DepCreateCursor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DepCreateQueue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DepDeleteQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DepFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DepFreeSecurityContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DepGetInternalCert" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DepGetMachineProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DepGetOverlappedResult" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DepGetPrivateComputerInformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DepGetQueueProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DepGetQueueSecurity" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DepGetSecurityContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DepGetSecurityContextEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DepGetUserCerts" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DepHandleToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DepInstanceToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DepLocateBegin" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DepLocateEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DepLocateNext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DepMgmtAction" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DepMgmtGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DepOpenInternalCertStore" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DepOpenQueue" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DepPathNameToFormatName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DepPurgeQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DepReceiveMessage" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DepRegisterCertificate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DepRegisterUserCert" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DepRemoveUserCert" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DepSendMessage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="DepSetQueueProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="DepSetQueueSecurity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

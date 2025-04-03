@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zlibr.dll" PATH="/DLLArchive/etc/zlibr.dll" DATE="Fri Jul 03 12:13:44 PDT 2020" VERSION="1.1.3.0">
+    <EXPORT ORDINAL="1" NAME="adler32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="compress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="crc32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="deflate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="deflateCopy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="deflateEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="deflateInit2_" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="deflateInit_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="deflateParams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="deflateReset" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="deflateSetDictionary" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="gzclose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="gzdopen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="gzerror" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="gzflush" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="gzopen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="gzread" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="gzwrite" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="inflate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="inflateEnd" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="inflateInit2_" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="inflateInit_" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="inflateReset" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="inflateSetDictionary" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="inflateSync" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="uncompress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="zlibVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="gzprintf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="gzputc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="gzgetc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="gzseek" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="gzrewind" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="gztell" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="gzeof" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="gzsetparams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="zError" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="inflateSyncPoint" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="get_crc_table" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="compress2" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="gzputs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="gzgets" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winusb.dll" PATH="/DLLArchive/windows10LTSCX86_64/winusb.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WinUsb_AbortPipe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WinUsb_AbortPipeAsync" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WinUsb_ControlTransfer" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WinUsb_FlushPipe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WinUsb_Free" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WinUsb_GetAdjustedFrameNumber" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WinUsb_GetAssociatedInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WinUsb_GetCurrentAlternateSetting" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WinUsb_GetCurrentFrameNumber" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WinUsb_GetCurrentFrameNumberAndQpc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WinUsb_GetDescriptor" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WinUsb_GetOverlappedResult" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WinUsb_GetPipePolicy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WinUsb_GetPowerPolicy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WinUsb_Initialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WinUsb_ParseConfigurationDescriptor" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WinUsb_ParseDescriptors" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WinUsb_QueryDeviceInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WinUsb_QueryInterfaceSettings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WinUsb_QueryPipe" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WinUsb_QueryPipeEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WinUsb_ReadIsochPipe" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WinUsb_ReadIsochPipeAsap" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WinUsb_ReadPipe" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WinUsb_RegisterIsochBuffer" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WinUsb_ResetPipe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WinUsb_ResetPipeAsync" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WinUsb_SetCurrentAlternateSetting" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WinUsb_SetCurrentAlternateSettingAsync" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WinUsb_SetPipePolicy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WinUsb_SetPowerPolicy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="WinUsb_StartTrackingForTimeSync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="WinUsb_StopTrackingForTimeSync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="WinUsb_UnregisterIsochBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="WinUsb_WriteIsochPipe" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="WinUsb_WriteIsochPipeAsap" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="WinUsb_WritePipe" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comm.dll" PATH="/DLLArchive/etc/comm.dll" DATE="Fri Jul 03 12:27:19 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="InitXComm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExitXComm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_XCommGetACSTalkbackId@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_XCommGetDefaultInterfacesIPAddress@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_XCommInduceACSHang@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="EndProtocol" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ProtocolSend" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ProtocolSetSessionFlag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ProtocolClearSessionFlag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ProtocolGetSessionFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ProtocolGameExit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ProtocolRestart" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="GetActiveProtocol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="500" NAME="XCommStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="501" NAME="XCommGetLocalityListCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="502" NAME="XCommGetLocalityIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="503" NAME="XCommGetLocalityName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="505" NAME="XCommGetDahaAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="506" NAME="XCommGetCurrentLocalityIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="507" NAME="XCommGetCurrentLocalityName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="508" NAME="XCommGetLocalIPAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="509" NAME="XCommGlobalOrgConvNeeded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="510" NAME="XCommGetGlobalOrgPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="511" NAME="XCommSetConnectionRecoveryFlag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="512" NAME="XCommGetConnectionRecoveryFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="513" NAME="XCommIsBBReconnectActive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="515" NAME="XCommGetTFEPIPAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="516" NAME="XCommGetTerminalServerIPAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="517" NAME="XCommDoACSInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="518" NAME="XCommEnableACSDisconnectPH" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="519" NAME="XCommSetConnectionRecoveryCancelFlag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="520" NAME="XCommGetConnectionRecoveryCancelFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="521" NAME="XCommGetConnectionType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="522" NAME="XCommGetConnectionProxyInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="523" NAME="XCommTunnelIsSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="524" NAME="XCommGetSessionProxyConfigInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="525" NAME="XCommRequestProxyConfigFromHost" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="526" NAME="XCommAddModemLocality" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="527" NAME="XCommAddTCPLocality" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="528" NAME="XCommGetACSVersionString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="529" NAME="XCommSetWaolAsDemandDialer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

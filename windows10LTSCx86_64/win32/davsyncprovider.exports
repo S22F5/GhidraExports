@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="davsyncprovider.dll" PATH="/DLLArchive/windows10LTSCX86_64/DavSyncProvider.dll" DATE="Wed Oct 06 06:53:21 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ForceCalDavCollectionsListRefreshDuringNextSync" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HandleWebDavMeetingResponseForAppointment" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HandleWebDavMeetingResponseForMeetingNotification" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UpdateCalDavTrackingSchema" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UpdateGMailContactSyncPartner" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appvpolicy.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppVPolicy.dll" DATE="Wed Oct 06 15:53:08 CEST 2021" VERSION="10.0.19041.867 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreatePackageMachinePolicyDocument" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreatePackageMachinePolicyDocumentFromXML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreatePackageMachinePolicyDocumentFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreatePackageUserPolicyDocument" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreatePackageUserPolicyDocumentFromXML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreatePackageUserPolicyDocumentFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreatePackageGroupDescriptorDocumentFromXML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreatePackageGroupDescriptorDocumentFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreatePublishingDescriptorDocumentFromXML" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreatePublishingDescriptorDocumentFromFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

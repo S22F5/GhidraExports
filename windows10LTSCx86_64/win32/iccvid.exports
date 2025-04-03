@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iccvid.dll" PATH="/DLLArchive/windows10LTSCX86_64/iccvid.dll" DATE="Sat Dec 07 01:10:05 PST 2019" VERSION="1.10.0.11">
+    <EXPORT ORDINAL="1" NAME="DriverProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lexedf.dll" PATH="/DLLArchive/etc/LEXEDF.DLL" DATE="Fri Jul 03 21:46:05 CEST 2020" VERSION="7.4">
+    <EXPORT ORDINAL="1" NAME="edf_add_document_a" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="edf_add_document_file_a" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="edf_add_document_file_w" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="edf_add_document_w" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="edf_feature_supported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="edf_get_job_id" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="edf_set_file_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="edf_start_printing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="use_edf_processing" PURGE="0" COMMENT="" />
+</LIBRARY>
+

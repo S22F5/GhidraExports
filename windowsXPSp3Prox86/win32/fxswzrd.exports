@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxswzrd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/fxswzrd.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.2.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="FaxFreeSendWizardData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxSendWizard" PURGE="28" COMMENT="" />
+</LIBRARY>
+

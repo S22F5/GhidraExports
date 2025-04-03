@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wab32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wab32.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="2" NAME="WABOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WABCreateIProp" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WABOpenEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msttsloc.dll" PATH="/DLLArchive/windows10LTSCX86_64/MSTTSLoc.dll" DATE="Wed Oct 06 06:52:19 PDT 2021" VERSION="11.0.58.18">
+    <EXPORT ORDINAL="1" NAME="GetLocaleHandler" PURGE="8" COMMENT="" />
+</LIBRARY>
+

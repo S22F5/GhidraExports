@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxsetdll.dll" PATH="/DLLArchive/etc/FxSetDll.dll" DATE="Fri Jul 03 12:35:20 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="EnableDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ShowFxUtil" PURGE="0" COMMENT="" />
+</LIBRARY>
+

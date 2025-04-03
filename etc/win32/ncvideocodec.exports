@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncvideocodec.dll" PATH="/DLLArchive/etc/NcVideoCodec.dll" DATE="Thu Nov 03 18:41:36 CET 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="xvid_decore" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="xvid_encore" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="xvid_global" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="xvid_plugin_single" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

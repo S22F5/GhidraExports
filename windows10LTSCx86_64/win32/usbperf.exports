@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usbperf.dll" PATH="/DLLArchive/windows10LTSCX86_64/usbperf.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CloseUsbPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectUsbPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenUsbPerformanceData" PURGE="4" COMMENT="" />
+</LIBRARY>
+

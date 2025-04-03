@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eax.dll" PATH="/DLLArchive/etc/eax.dll" DATE="Fri Jul 03 12:32:49 PDT 2020" VERSION="3.065">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EAXDirectSoundCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EAXDirectSoundCreate8" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetCurrentVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

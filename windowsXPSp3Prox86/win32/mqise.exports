@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqise.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqise.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.01.1110">
+    <EXPORT ORDINAL="1" NAME="GetExtensionVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HttpExtensionProc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TerminateExtension" PURGE="4" COMMENT="" />
+</LIBRARY>
+

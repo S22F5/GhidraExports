@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssip32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mssip32.dll" DATE="Fri Aug 17 13:36:26 PDT 2001" VERSION="5.131.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="CryptSIPGetInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CryptSIPGetRegWorkingFlags" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CryptSIPCreateIndirectData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CryptSIPGetSignedDataMsg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CryptSIPPutSignedDataMsg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CryptSIPRemoveSignedDataMsg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CryptSIPVerifyIndirectData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

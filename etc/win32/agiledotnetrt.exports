@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="agiledotnetrt.dll" PATH="/DLLArchive/etc/AgileDotNetRT.dll" DATE="Sat Oct 19 07:36:04 PDT 2013" VERSION="6, 3, 0, 5">
+    <EXPORT ORDINAL="1" NAME="_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AtExit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

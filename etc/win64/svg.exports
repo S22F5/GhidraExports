@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="svg.dll" PATH="/DLLArchive/etc/SVG.dll" DATE="Wed Jan 03 18:02:42 CET 2024" VERSION="0.88">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadSVGW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ShowPlugInOptions_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

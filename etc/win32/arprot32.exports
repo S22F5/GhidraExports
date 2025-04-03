@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="arprot32.dll" PATH="/DLLArchive/etc/ARProt32.dll" DATE="Fri Jul 03 12:19:06 PDT 2020" VERSION="4.2.1.71">
+    <EXPORT ORDINAL="1" NAME="?CancelProtocolTest@@YAKK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?FreeProtocolResult@@YAKK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?StartProtocolTest@@YAKW4Protocol@@KPAUHWND__@@AAKKK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?StartProtocolTest@@YAKW4Protocol@@PBDPAUHWND__@@AAKKK@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

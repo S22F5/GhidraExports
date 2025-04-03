@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncsi.dll" PATH="/DLLArchive/windows10LTSCX86_64/ncsi.dll" DATE="Wed Oct 06 15:52:10 CEST 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NcsiAllocateAndGetConnectivityStatusSet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NcsiDeregisterConnectivityStatusChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NcsiFreeConnectivityStatusSet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NcsiGetCaptivePortalHosts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NcsiGetWebProbeConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NcsiIdentifyUserSpecificProxies" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NcsiNotifySessionChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NcsiPerformRefresh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NcsiPerformReprobe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NcsiRegisterConnectivityStatusChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NcsiUpdateClientPresence" PURGE="0" COMMENT="" />
+</LIBRARY>
+

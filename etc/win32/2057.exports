@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="2057.dll" PATH="/DLLArchive/etc/2057.dll" DATE="Fri Jul 03 21:09:53 CEST 2020" VERSION="6, 5, 0, 1624">
+    <EXPORT ORDINAL="1" NAME="stub" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

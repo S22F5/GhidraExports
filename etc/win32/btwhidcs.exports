@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="btwhidcs.dll" PATH="/DLLArchive/etc/btwhidcs.dll" DATE="Fri Jul 03 12:25:42 PDT 2020" VERSION="5.1.0.2500">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0CBtHidExtRoot@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0CBtHidExtRoot@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CBtHidExtRoot@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4CBtHidExtRoot@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??_7CBtHidExtRoot@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?DeviceNotification@CBtHidExtRoot@@UAEHIJPAEPAH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetDevPowerManagementCPropertyPageEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetDevPowerManagementPropPage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetFirmwareVersionFromSDP@CBtHidExtRoot@@UAEHPAEPAG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetHidCPropertyPageEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetHidPropPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ReadFirmwareVersionFromRegistry@CBtHidExtRoot@@UAEHPAEPAG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?RegisterDeviceNotificationA@CBtHidExtRoot@@UAEHKW4eDeviceType@@PAUHWND__@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShowHidPropPage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShowHidPropPageRunDll32" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?UnregisterDeviceNotification@CBtHidExtRoot@@UAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?WaitNoInstallEvents@CBtHidExtRoot@@QAEHKK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?WriteFirmwareVersionToRegistry@CBtHidExtRoot@@UAEHPAEG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?devClassToDeviceType@@YA?AW4eDeviceType@@EE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?enableTrace@CBtHidExtRoot@@SAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?findVendor@CBtHidExtRoot@@SAHG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?findVendor@CBtHidExtRoot@@SAHPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?getAllowWakeup@CBtHidExtRoot@@UAEHPAEPAH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?getBatteryStatus@CBtHidExtRoot@@QAEHPAE0PAH1@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?getManufacturerInfo@CBtHidExtRoot@@UAEHPAEPAG01@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?getPidVid@CBtHidExtRoot@@QAEHPAEPAG111K@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?getStack@@YAPAVCBtHidExtRoot@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?isDevSelSuspended@CBtHidExtRoot@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?isMsStackActive@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?manufacturers@CBtHidExtRoot@@2PAPBDA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?manufacturersNumber@CBtHidExtRoot@@2KB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?readSettings@CBtHidExtRoot@@SAXPAHPAK001111@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?registerPowerChangedNotification@CBtHidExtRoot@@QAEHPAUHWND__@@K@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?setAllowWakeup@CBtHidExtRoot@@UAEXPAEH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?unregisterPowerChangedNotification@CBtHidExtRoot@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?vendors@CBtHidExtRoot@@2QBUVENOR_ID_NAME@@B" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?vendorsNumber@CBtHidExtRoot@@2KB" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

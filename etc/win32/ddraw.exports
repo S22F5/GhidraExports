@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ddraw.dll" PATH="/DLLArchive/etc/ddraw.dll" DATE="Fri Jul 03 12:30:43 PDT 2020" VERSION="5.03.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="AcquireDDThreadLock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckFullscreen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CompleteCreateSysmemSurface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3DParseUnknownCommand" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DDGetAttachedSurfaceLcl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DDInternalLock" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DDInternalUnlock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DSoundHelp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DirectDrawCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DirectDrawCreateClipper" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DirectDrawCreateEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DirectDrawEnumerateA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DirectDrawEnumerateExA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DirectDrawEnumerateExW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DirectDrawEnumerateW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetDDSurfaceLocal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetOLEThunkData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetSurfaceFromDC" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RegisterSpecialCase" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ReleaseDDThreadLock" PURGE="0" COMMENT="" />
+</LIBRARY>
+

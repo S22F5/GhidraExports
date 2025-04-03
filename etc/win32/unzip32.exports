@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unzip32.dll" PATH="/DLLArchive/etc/unzip32.dll" DATE="Fri Jul 03 13:25:03 PDT 2020" VERSION="5.41">
+    <EXPORT ORDINAL="1" NAME="UzpFreeMemBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UzpVersion2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UzpVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Wiz_Grep" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Wiz_Init" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Wiz_NoPrinting" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Wiz_SetOpts" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Wiz_SingleEntryUnzip" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Wiz_Unzip" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Wiz_UnzipToMemory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Wiz_Validate" PURGE="8" COMMENT="" />
+</LIBRARY>
+

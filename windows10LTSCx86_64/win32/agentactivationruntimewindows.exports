@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="agentactivationruntimewindows.dll" PATH="/DLLArchive/windows10LTSCX86_64/agentactivationruntimewindows.dll" DATE="Wed Oct 06 15:52:17 CEST 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="?GetAgentActivationRuntimePalComponentFactory@@YGPAVIAgentActivationRuntimePalComponentFactory@VoiceAgentServices@Microsoft@@XZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

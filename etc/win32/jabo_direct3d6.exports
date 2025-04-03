@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jabo_direct3d6.dll" PATH="/DLLArchive/etc/jabo_direct3d6.dll" DATE="Fri Jul 03 12:43:54 PDT 2020" VERSION="1.0">
+    <EXPORT ORDINAL="1" NAME="?x86cpu_FastInverse@@YAMM@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CaptureScreen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ChangeWindow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CloseDLL" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllAbout" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllConfig" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DrawScreen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDllInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitiateGFX" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MoveScreen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ProcessDList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ProcessRDPList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RomClosed" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RomOpen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SettingsApi_GetPrivateProfileInt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SettingsApi_GetPrivateProfileString" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SettingsApi_GetPrivateProfileString2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SettingsApi_WritePrivateProfileString" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShowCFB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UpdateScreen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ViStatusChanged" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ViWidthChanged" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="x86cpu_FastConvToInt" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="x86cpu_GetFpuFlag" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="x86cpu_Is3DNowAvailable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="x86cpu_IsExtMmxAvailable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="x86cpu_IsMmxAvailable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="x86cpu_IsSseAvailable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="x86cpu_SetFpuFlag" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

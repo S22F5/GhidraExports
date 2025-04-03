@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="7z-x64.dll" PATH="/DLLArchive/etc/7z-x64.dll" DATE="Tue Jul 09 05:17:52 PDT 2024" VERSION="24.07">
+    <EXPORT ORDINAL="1" NAME="CreateDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateEncoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetHandlerProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetHandlerProperty2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetHashers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetIsArc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetMethodProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetModuleProp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetNumberOfFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetNumberOfMethods" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetCaseSensitive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetCodecs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetLargePageMode" PURGE="0" COMMENT="" />
+</LIBRARY>
+

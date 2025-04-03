@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="voicesub.dll" PATH="/DLLArchive/etc/voicesub.dll" DATE="Fri Jul 03 22:28:23 CEST 2020" VERSION="8.1.4202.0">
+    <EXPORT ORDINAL="1" NAME="StartKeyboardHook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StopKeyboardHook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

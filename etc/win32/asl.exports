@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asl.dll" PATH="/DLLArchive/etc/ASL.dll" DATE="Fri Jul 03 13:44:01 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="asl_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="asl_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="asl_log" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="asl_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="asl_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="asl_send" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="asl_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="asl_vlog" PURGE="0" COMMENT="" />
+</LIBRARY>
+

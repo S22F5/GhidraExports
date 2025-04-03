@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pcacli.dll" PATH="/DLLArchive/windows10LTSCX86_64/pcacli.dll" DATE="Wed Oct 06 06:52:32 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PcaGetFileInfoFromPath" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PcaIsPcaDisabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PcaLinkChildProcessToParent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PcaMonitorProcess" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PcaNotifyMsiInstall" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PcaNotifyStatusIcon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PcaSendToService" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PcaMonitorProcess2" PURGE="24" COMMENT="" />
+</LIBRARY>
+

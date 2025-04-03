@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="userdatalanguageutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/UserDataLanguageUtil.dll" DATE="Sat Dec 07 01:09:18 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CHSPinYinHelper_CreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CHSPinYinHelper_HasPossibleCHSPinYin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CHSPinYinHelper_HasPossiblePinYin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CHSPinYinHelper_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CanConvertStringFromUnicode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ConvertToMultiByte" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ConvertToWideStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ConvertWideStreamToMultiByte" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DecomposeHangulSyllables" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DetermineStringEALangId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DetermineStringEALangIdNLS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetCodepageName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetConvertedTextForMatching" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetCurrentLangIdForMatching" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetMultiLanguage2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetNarrowSzCodepage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetSystemDefaultCodepage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetWideSz" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetWideSzAlloc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="InitializeLanguageUtil" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IsAltChar" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IsCHNChar" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IsEAChar" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IsHangulSyllable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IsJPNChar" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IsLocalePseudoLoc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IsMatchingEAPrefix" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IsMatchingEAPrefixEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IsMatchingPrefix" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IsMatchingPrefixEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IsSkippableCharacter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IsSupportedCodepage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MapCharToBaseChar" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="MapStringToBaseCharacters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="UninitializeLanguageUtil" PURGE="0" COMMENT="" />
+</LIBRARY>
+

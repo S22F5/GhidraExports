@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.staterepository.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.StateRepository.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StateRepository_DataAccessLayer_DatabaseCache_Add" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="StateRepository_DataAccessLayer_DatabaseCache_Get" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="StateRepository_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="StateRepository_Service_UpdateStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="StateRepository_Shutdown" PURGE="4" COMMENT="" />
+</LIBRARY>
+

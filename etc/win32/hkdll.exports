@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hkdll.dll" PATH="/DLLArchive/etc/HKDll.dll" DATE="Fri Jul 03 21:36:41 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ForceHookOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HookOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HookOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MouseHookOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MouseHookOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SysMenuHookOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SysMenuHookOn" PURGE="0" COMMENT="" />
+</LIBRARY>
+

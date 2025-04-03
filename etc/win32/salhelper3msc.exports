@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="salhelper3msc.dll" PATH="/DLLArchive/etc/salhelper3MSC.dll" DATE="Fri Jul 03 13:13:44 PDT 2020" VERSION="7.0.0.8739">
+    <EXPORT ORDINAL="1" NAME="??0ORealDynamicLoader@salhelper@@IAE@PAPAV01@ABVOUString@rtl@@1PAX2@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1ORealDynamicLoader@salhelper@@MAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1SimpleReferenceObject@salhelper@@MAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??2SimpleReferenceObject@salhelper@@SAPAXI@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??2SimpleReferenceObject@salhelper@@SAPAXIABUnothrow_t@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??3SimpleReferenceObject@salhelper@@SAXPAX@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??3SimpleReferenceObject@salhelper@@SAXPAXABUnothrow_t@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7ORealDynamicLoader@salhelper@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?acquire@ORealDynamicLoader@salhelper@@QAAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?getApi@ORealDynamicLoader@salhelper@@QBAPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?newInstance@ORealDynamicLoader@salhelper@@SAPAV12@PAPAV12@ABVOUString@rtl@@1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?release@ORealDynamicLoader@salhelper@@QAAKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

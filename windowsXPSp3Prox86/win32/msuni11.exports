@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msuni11.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msuni11.dll" DATE="Fri Aug 17 13:36:26 PDT 2001" VERSION="4.00.3428.0">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="24" COMMENT="" />
+</LIBRARY>
+

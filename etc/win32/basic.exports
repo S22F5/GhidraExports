@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="basic.dll" PATH="/DLLArchive/etc/Basic.dll" DATE="Sun Dec 02 19:14:40 CET 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="PackPE32File" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

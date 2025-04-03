@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvmctray.dll" PATH="/DLLArchive/etc/nvmctray.dll" DATE="Fri Jul 03 13:02:36 PDT 2020" VERSION="6.14.10.5216">
+    <EXPORT ORDINAL="1" NAME="NvMCRegisterApp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NvMCUnRegisterApp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NvMCUpdateStartSettings" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NvTaskbarDelete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NvTaskbarInit" PURGE="16" COMMENT="" />
+</LIBRARY>
+

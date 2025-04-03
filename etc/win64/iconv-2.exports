@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iconv-2.dll" PATH="/DLLArchive/etc/iconv-2.dll" DATE="Wed Nov 15 20:02:58 CET 2023" VERSION="1.17">
+    <EXPORT ORDINAL="1" NAME="?_OptionsStorage@?1??__local_stdio_printf_options@@9@9" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_libiconv_version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="iconv_canonicalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="libiconv" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="libiconv_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="libiconv_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="libiconv_open_into" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="libiconv_relocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="libiconv_relocate2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="libiconv_set_relocation_prefix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="libiconvctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="libiconvlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="locale_charset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

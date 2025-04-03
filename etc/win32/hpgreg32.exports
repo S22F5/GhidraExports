@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpgreg32.dll" PATH="/DLLArchive/etc/hpgreg32.dll" DATE="Fri Jul 03 12:36:50 PDT 2020" VERSION="6.0">
+    <EXPORT ORDINAL="2" NAME="InstallLaunchApp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PushLaunchPending" PURGE="4" COMMENT="" />
+</LIBRARY>
+

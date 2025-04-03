@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msi9xmig.dll" PATH="/DLLArchive/windowsXPSp3Prox86/MSI9XMIG.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="2.0.2600.0">
+    <EXPORT ORDINAL="1" NAME="MigrateSystem9x" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MigrateUser9x" PURGE="24" COMMENT="" />
+</LIBRARY>
+

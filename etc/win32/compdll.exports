@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="compdll.dll" PATH="/DLLArchive/etc/compdll.dll" DATE="Fri Jul 03 12:27:25 PDT 2020" VERSION="11.00.0716">
+    <EXPORT ORDINAL="1" NAME="CompressFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FDIEDecompressFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsCabinetFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

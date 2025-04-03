@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wearasr.dll" PATH="/DLLArchive/etc/wearasr.dll" DATE="Fri Jul 03 13:30:16 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0Dialup@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1Dialup@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4Dialup@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Connect@Dialup@@QAEHHP6GXHPAX@ZPAG20@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Disconnect@Dialup@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?FreeResources@Dialup@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetDefaultEntryIndex@Dialup@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetDialupProperties@Dialup@@QAEHHPAUDIALUP_PROPERTIES@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetInfoString@Dialup@@QAEPADHH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetNoConnected@Dialup@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetNoDialUpConnections@Dialup@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Initialise@Dialup@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Release@Dialup@@QAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.staterepositorycore.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.StateRepositoryCore.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SRCacheContext_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SRCacheContext_Create" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SRCacheContext_CreateSubContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SRCacheContext_Delete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SRCacheContext_DeleteField" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SRCacheContext_DeleteIfEmpty" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SRCacheContext_EnumerateData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SRCacheContext_EnumerateIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SRCacheContext_GetField_MultiString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SRCacheContext_GetField_String" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SRCacheContext_GetField_UInt32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SRCacheContext_GetField_UInt64" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SRCacheContext_HasSubKeys" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SRCacheContext_IsEmpty" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SRCacheContext_Open" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SRCacheContext_OpenSubContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SRCacheContext_SetField_MultiString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SRCacheContext_SetField_String" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SRCacheContext_SetField_UInt32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SRCacheContext_SetField_UInt64" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SRCacheManager_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SRCacheManager_DeleteContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SRCacheManager_GetProperty_UInt32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SRCacheManager_GetProperty_UInt64" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SRCacheManager_Open" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SRCacheManager_SetProperty_UInt32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SRCacheManager_SetProperty_UInt64" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SRCache_AllocStringBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SRCache_DuplicateString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SRCache_Free" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SRCache_GetDefaultAccountSid" PURGE="4" COMMENT="" />
+</LIBRARY>
+

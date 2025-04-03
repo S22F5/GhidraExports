@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mscorsvr.dll" PATH="/DLLArchive/etc/mscorsvr.dll" DATE="Fri Jul 03 12:54:52 PDT 2020" VERSION="1.0.3705.6018">
+    <EXPORT ORDINAL="17" NAME="Ordinal_17" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Ordinal_18" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ordinal_19" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Ordinal_20" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CoLogCurrentStack" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Ordinal_22" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Ordinal_23" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetGlobalContextsPerfCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetPrivateContextsPerfCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SetLoadedByMscoree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ClrCreateManagedInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="CoEEShutDownCOM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CoInitializeCor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CoInitializeEE" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="CoUninitializeCor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="CoUninitializeEE" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="CorCreateMiniDump" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="CorExitProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="CorMarkThreadInThreadPool" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DllCanUnloadNowInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DllGetClassObjectInternal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="DllRegisterServerInternal" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="DllUnregisterServerInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="EEDllRegisterServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="EEDllUnregisterServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="GetAssemblyMDImport" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="GetCompileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="GetMetaDataInternalInterface" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="GetMetaDataInternalInterfaceFromPublic" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="GetMetaDataPublicInterfaceFromInternal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="GetPermissionRequests" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="LogHelp_LogAssert" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="LogHelp_NoGuiOnAssert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="LogHelp_TerminateOnAssert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="MetaDataGetDispenser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="ND_CopyObjDst" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="ND_CopyObjSrc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="ND_RI2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="ND_RI4" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="ND_RI8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="ND_RU1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="ND_WI2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="59" NAME="ND_WI4" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="ND_WI8" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="ND_WU1" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="ReleaseFusionInterfaces" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="TranslateSecurityAttributes" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="64" NAME="_CorDllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="65" NAME="_CorExeMain2" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="66" NAME="_CorExeMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="80" NAME="Ordinal_80" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

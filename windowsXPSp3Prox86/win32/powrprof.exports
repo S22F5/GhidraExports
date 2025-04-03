@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="powrprof.dll" PATH="/DLLArchive/windowsXPSp3Prox86/powrprof.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="CallNtPowerInformation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CanUserWritePwrScheme" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DebugPrintA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeletePwrScheme" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnumPwrSchemes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetActivePwrScheme" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetCurrentPowerPolicies" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPwrCapabilities" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetPwrDiskSpindownRange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IsAdminOverrideActive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsPwrHibernateAllowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IsPwrShutdownAllowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IsPwrSuspendAllowed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="LoadCurrentPwrScheme" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MergeLegacyPwrScheme" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ReadGlobalPwrPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ReadProcessorPwrScheme" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ReadPwrScheme" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetActivePwrScheme" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetSuspendState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ValidatePowerPolicies" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WriteGlobalPwrPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WriteProcessorPwrScheme" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WritePwrScheme" PURGE="16" COMMENT="" />
+</LIBRARY>
+

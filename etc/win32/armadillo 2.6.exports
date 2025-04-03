@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="armadillo 2.6.dll" PATH="/DLLArchive/etc/Armadillo 2.6.dll" DATE="Fri Nov 08 20:55:40 CET 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="4" COMMENT="" />
+</LIBRARY>
+

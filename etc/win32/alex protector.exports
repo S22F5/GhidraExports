@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="alex protector.dll" PATH="/DLLArchive/etc/Alex Protector.dll" DATE="Thu Jan 18 18:22:24 CET 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

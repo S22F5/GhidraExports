@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cbl_gui.dll" PATH="/DLLArchive/etc/cbl_gui.dll" DATE="Tue Jun 12 14:08:46 PDT 2007" VERSION="0.9.0.43">
+    <EXPORT ORDINAL="1" NAME="CloseOutputLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ResetOutputLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FlushOutputLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WriteStringToLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenOutputLog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetSerializedSettings" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetSerializedSettings" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetCurrentRawSettingsPtr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCurrentRawSettingsPtr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RemoveRange" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AddRange" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShowPluginSettingsModal" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HideWaitMessageDialog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ShowWaitMessageDialog" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

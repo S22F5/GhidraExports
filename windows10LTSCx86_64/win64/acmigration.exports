@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acmigration.dll" PATH="/DLLArchive/windows10LTSCX86_64/acmigration.dll" DATE="Wed Oct 06 15:51:54 CEST 2021" VERSION="10.0.19645.1046 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AcmEngineApply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AcmEngineCollect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AcmEngineCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AcmEngineDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AcmEngineGenerateMigXml" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AcmEngineGetCapabilityList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AcmEngineSetBaseWorkingDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AcmMatchPluginExecute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ApplyMigrationShimsW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

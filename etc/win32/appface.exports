@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appface.dll" PATH="/DLLArchive/etc/appface.dll" DATE="Fri Jul 03 12:18:50 PDT 2020" VERSION="3, 6, 2, 3">
+    <EXPORT ORDINAL="1" NAME="SkinStart" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SkinRemove" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SkinWindowSet" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SkinThread" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SkinStartW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BkCreate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BkDraw" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BkDelete" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SkinWindowSetEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SkinWindowSetExW" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

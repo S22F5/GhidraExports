@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="semmap.dll" PATH="/DLLArchive/etc/SEMMAP.DLL" DATE="Fri Jul 03 13:15:04 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="SFMapi1CanUseMAPI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SFMapi1DeInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SFMapi1GetDefaultProfile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SFMapi1GetLastError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SFMapi1GetMapiVerInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SFMapi1GetNumProfiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SFMapi1GetProfiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SFMapi1Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SFMapi1Logoff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SFMapi1Logon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SFMapi1ResolveName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SFMapi1SendMail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SFMapi1SendMailUI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SFMapi1ShowAddressBook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SFMapi1TestProfile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SFMapi1Version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

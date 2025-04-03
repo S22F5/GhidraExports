@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acdbase.dll" PATH="/DLLArchive/etc/acdbase.dll" DATE="Fri Jul 03 13:43:52 PDT 2020" VERSION="5, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="??0CSampleRateConverter2@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CWaveReader@@QAE@PBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CWaveWriter@@QAE@PBD_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0XWaveReader@@QAE@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0XWaveWriter@@QAE@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1CSampleRateConverter2@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CWaveReader@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1CWaveWriter@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4CSampleRateConverter2@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4CWaveReader@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??4CWaveWriter@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??4XWaveReader@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??4XWaveWriter@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Close@CWaveWriter@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Convert@@YAKPAXKKGG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Deinit@CSampleRateConverter2@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?Delete@CWaveReader@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Delete@CWaveWriter@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetLength@CWaveReader@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetWaveFormat@CWaveReader@@QAEKAAPAUtWAVEFORMATEX@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Init@CSampleRateConverter2@@QAEXKKKKKKKAAPAX0@Z" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?Read@CWaveReader@@QAEXPAXI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?Resample@CSampleRateConverter2@@QAEKK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?ResampleStereo@CSampleRateConverter2@@AAEHNNPAF000HH@Z" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?WriteData@CWaveWriter@@QAEXPAXI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?WriteHeader@CWaveWriter@@QAEXPAUtWAVEFORMATEX@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?fill_buffer_downsample@CSampleRateConverter2@@AAEHNPAFH0HPAHH@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?fill_buffer_upsample@CSampleRateConverter2@@AAEHNPAFH0HPAHH@Z" PURGE="32" COMMENT="" />
+</LIBRARY>
+

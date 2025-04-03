@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpunits.dll" PATH="/DLLArchive/windows10LTSCX86_64/mpunits.dll" DATE="Sat Dec 07 10:09:45 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MI_Main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MPUnitsTraps" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NITS_PRESENCE_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NITS_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SyncBmilReader_Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SyncBmilReader_Delete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SyncBmilReader_ReadInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SyncBmilWriter_Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SyncBmilWriter_Delete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SyncBmilWriter_WriteInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_BinaryLogReader_GetNextInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_BinaryLogReader_ValidateHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="monitoring_platformFT_V1" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="monitoring_platform_reactive_extensionsFT_V1" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dinput.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dinput.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="5.03.2600.5512 (xpsp.080413-0845)">
+    <EXPORT ORDINAL="1" NAME="DirectInputCreateA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DirectInputCreateEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DirectInputCreateW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

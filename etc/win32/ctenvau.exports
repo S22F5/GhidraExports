@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctenvau.dll" PATH="/DLLArchive/etc/CTENVAU.DLL" DATE="Fri Jul 03 12:28:27 PDT 2020" VERSION="1.0.1.0">
+    <EXPORT ORDINAL="1" NAME="GetState" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetState" PURGE="24" COMMENT="" />
+</LIBRARY>
+

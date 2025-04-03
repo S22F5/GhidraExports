@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="patcher.dll" PATH="/DLLArchive/etc/Patcher.dll" DATE="Fri Jul 03 13:06:07 PDT 2020" VERSION="1,0,0,1">
+    <EXPORT ORDINAL="1" NAME="applyPatch" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DisplayProgressDialog" PURGE="0" COMMENT="" />
+</LIBRARY>
+

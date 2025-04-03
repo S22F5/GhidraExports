@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mispace.dll" PATH="/DLLArchive/windows10LTSCX86_64/mispace.dll" DATE="Wed Oct 06 06:52:59 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WspCheckMinimumSubsystemVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetProviderClassID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MI_Main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PreShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetShutdownCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SmpUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WspCompleteMethod" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WspCreateJob" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WspEnumerateRemoteInstances" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WspFreeString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WspGetClassName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WspGetRemoteInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WspGetSubsystemFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WspGuidToString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WspInvokeRemoteMethod" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WspIsAutomaticClusteringEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WspIsRemoteInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WspIsRemoteRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WspPackObjectId" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WspPostAssociation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WspPostSubsystemAssociationReferenceObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WspProviderEnter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WspProviderExit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WspReferencesOfRemoteInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WspRunMethodAsJob" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WspSendIndication" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="WspUnpackObjectId" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="WspUpdateMethod" PURGE="8" COMMENT="" />
+</LIBRARY>
+

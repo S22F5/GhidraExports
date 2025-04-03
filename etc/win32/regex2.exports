@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="regex2.dll" PATH="/DLLArchive/etc/regex2.dll" DATE="Sat Feb 05 16:29:40 PST 2022" VERSION="2.7.2853.21853">
+    <EXPORT ORDINAL="1" NAME="DllGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="re_comp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="re_compile_fastmap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="re_compile_pattern" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="re_exec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="re_match" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="re_match_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="re_search" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="re_search_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="re_set_registers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="re_set_syntax" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="re_syntax_options" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="regcomp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="regerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="regexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="regfree" PURGE="0" COMMENT="" />
+</LIBRARY>
+

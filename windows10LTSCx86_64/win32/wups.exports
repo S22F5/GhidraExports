@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wups.dll" PATH="/DLLArchive/windows10LTSCX86_64/wups.dll" DATE="Wed Oct 06 06:52:32 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

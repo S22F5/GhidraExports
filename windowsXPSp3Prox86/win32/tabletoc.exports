@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tabletoc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/tabletoc.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="1.7.2600.5512">
+    <EXPORT ORDINAL="1" NAME="CreateTutShortcut" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TabletSetupProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmaglide.dll" PATH="/DLLArchive/etc/DMAGlide.dll" DATE="Fri Jul 03 21:31:36 CEST 2020" VERSION="1.8.0">
+    <EXPORT ORDINAL="1" NAME="Vid_CheckMode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Vid_ClearScreen" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Vid_CloseScreen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Vid_DisableWrites" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Vid_EnableWrites" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Vid_FindDevice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Vid_FindFirstMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Vid_FindMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Vid_FindNextMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Vid_FlipBuffers" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Vid_FreeSurface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Vid_GetSurface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Vid_GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Vid_GrabSurface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Vid_InitDLL" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Vid_Init_SYS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Vid_ReleaseSurface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Vid_SetDevice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Vid_SetGamma" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Vid_SetMode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Vid_ShutDown_SYS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Vid_WindowProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

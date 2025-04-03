@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="shfusion.dll" PATH="/DLLArchive/etc/shfusion.dll" DATE="Fri Jul 03 22:16:11 CEST 2020" VERSION="1.1.4322.573">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObjectInternal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Initialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PolicyManager" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="djvu.dll" PATH="/DLLArchive/etc/DjVu.dll" DATE="Thu Oct 15 02:29:06 CEST 2020" VERSION="4.56.0.0">
+    <EXPORT ORDINAL="1" NAME="ReadDJVU_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ScanDJVU_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

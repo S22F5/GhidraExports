@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="videoexport.dll" PATH="/DLLArchive/etc/VideoExport.dll" DATE="Fri Apr 05 09:14:22 PDT 2024" VERSION="4.61.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VideoExportFrameProgress_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VideoExportSettings_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VideoExport_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.ui.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.UI.dll" DATE="Wed Oct 06 06:52:22 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1700" NAME="Ordinal_1700" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="1500" NAME="Ordinal_1500" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="1600" NAME="Ordinal_1600" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="1602" NAME="Ordinal_1602" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="1604" NAME="Ordinal_1604" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1501" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1502" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="1503" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="1504" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1505" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1601" NAME="CreateControlInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1603" NAME="CreateControlInputEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

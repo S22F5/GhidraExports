@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfupd.dll" PATH="/DLLArchive/etc/LXBFUPD.DLL" DATE="Fri Jul 03 12:49:08 PDT 2020" VERSION="1.0.12.0">
+    <EXPORT ORDINAL="1" NAME="UpdDisplayDialog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UpdInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UpdUpdateProgress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UpdTerminateProgress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UpdTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UpdGetStringSize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UpdLoadString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UpdFilterDllMsg" PURGE="4" COMMENT="" />
+</LIBRARY>
+

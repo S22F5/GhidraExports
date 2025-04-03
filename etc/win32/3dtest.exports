@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dtest.dll" PATH="/DLLArchive/etc/3dtest.dll" DATE="Fri Jul 03 12:11:48 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllGetBmarkVer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllSetLanguage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllTestConfig" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllTestGetData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllTestGetSystemInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllTestRun" PURGE="32" COMMENT="" />
+</LIBRARY>
+

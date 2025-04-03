@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msuilstf.dll" PATH="/DLLArchive/etc/MSUILSTF.DLL" DATE="Wed May 13 09:04:20 PDT 1998" VERSION="2.2">
+    <EXPORT ORDINAL="1" NAME="FCloseHelp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FDoDialog2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FDoDialog" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FDoDialogExt" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FGstGenericDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FGstGenericHelpDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FKillNDialogs2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FKillNDialogs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HdlgHelpTop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HdlgShowHelp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HdlgStackTop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ReactivateSetupScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetScriptFile" PURGE="4" COMMENT="" />
+</LIBRARY>
+

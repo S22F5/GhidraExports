@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iumdll.dll" PATH="/DLLArchive/windows10LTSCX86_64/iumdll.dll" DATE="Sat Dec 07 10:09:33 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IumAssignMemoryToSocDomain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IumAwaitSmc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IumCreateSecureDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IumCreateSecureSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IumCreateSecureSectionSpecifyPages" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IumCrypto" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IumDmaMapMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IumEmitSmc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IumFlushSecureSectionBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IumGetDmaEnabler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IumGetExposedSecureSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IumGetIdk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IumMapSecureIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IumOpenCurrentExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IumOpenSecureSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IumPostMailbox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IumProtectSecureIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IumQuerySecureDeviceInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IumSecureStorageGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IumSecureStoragePut" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IumSetDmaTargetProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IumSetPolicyExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IumUnmapSecureIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IumUpdateSecureDeviceState" PURGE="0" COMMENT="" />
+</LIBRARY>
+

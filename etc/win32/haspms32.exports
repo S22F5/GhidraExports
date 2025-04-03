@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="haspms32.dll" PATH="/DLLArchive/etc/HASPMS32.DLL" DATE="Sun Sep 08 13:00:46 PDT 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="hasp" PURGE="36" COMMENT="" />
+</LIBRARY>
+

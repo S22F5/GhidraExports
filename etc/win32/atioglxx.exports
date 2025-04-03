@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atioglxx.dll" PATH="/DLLArchive/etc/atioglxx.dll" DATE="Fri Jul 03 12:23:59 PDT 2020" VERSION="6.14.10.3966">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrvCopyContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrvCreateContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DrvCreateLayerContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DrvDeleteContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DrvDescribeLayerPlane" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DrvDescribePixelFormat" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DrvGetLayerPaletteEntries" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DrvGetProcAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DrvRealizeLayerPalette" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DrvReleaseContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DrvSetContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DrvSetLayerPaletteEntries" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DrvSetPixelFormat" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DrvShareLists" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DrvSwapBuffers" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DrvSwapLayerBuffers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DrvValidateVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="atiPPHSN" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="atiPS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="atiQD" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="atiQDS" PURGE="8" COMMENT="" />
+</LIBRARY>
+

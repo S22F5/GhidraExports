@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="physxcooking.dll" PATH="/DLLArchive/etc/physxcooking.dll" DATE="Fri Jul 03 13:06:52 PDT 2020" VERSION="2, 8, 4, 4">
+    <EXPORT ORDINAL="1" NAME="NxCloseCooking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NxCookClothMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NxCookConvexMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NxCookSoftBodyMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NxCookTriangleMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NxCreatePMap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NxGetCookingInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NxGetCookingParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NxInitCooking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NxPlatformMismatch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NxReleasePMap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NxReportCooking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NxScaleCookedConvexMesh" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NxSetCookingParams" PURGE="0" COMMENT="" />
+</LIBRARY>
+

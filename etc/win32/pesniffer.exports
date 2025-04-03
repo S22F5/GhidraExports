@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pesniffer.dll" PATH="/DLLArchive/etc/PESniffer.dll" DATE="Tue Apr 22 05:23:22 CEST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AnalyzeFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetTotalSignatures" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsDataBaseLoaded" PURGE="0" COMMENT="" />
+</LIBRARY>
+

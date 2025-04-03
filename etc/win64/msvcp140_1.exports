@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msvcp140_1.dll" PATH="/DLLArchive/etc/msvcp140_1.dll" DATE="Thu Jun 20 14:42:34 CEST 2024" VERSION="14.38.33135.0">
+    <EXPORT ORDINAL="1" NAME="_Aligned_get_default_resource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Aligned_new_delete_resource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Aligned_set_default_resource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Unaligned_get_default_resource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Unaligned_new_delete_resource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Unaligned_set_default_resource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="null_memory_resource" PURGE="0" COMMENT="" />
+</LIBRARY>
+

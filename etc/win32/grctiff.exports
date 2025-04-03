@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="grctiff.dll" PATH="/DLLArchive/etc/GrCTiff.dll" DATE="Fri Jul 03 21:36:14 CEST 2020" VERSION="1, 1, 0, 0">
+    <EXPORT ORDINAL="2" NAME="DecodeTiff" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EncodeTiff" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FileInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

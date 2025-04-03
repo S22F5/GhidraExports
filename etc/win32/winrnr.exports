@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winrnr.dll" PATH="/DLLArchive/etc/winrnr.dll" DATE="Fri Jul 03 13:32:44 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="InstallNTDSProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NSPStartup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RemoveNTDSProvider" PURGE="4" COMMENT="" />
+</LIBRARY>
+

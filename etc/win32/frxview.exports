@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="frxview.dll" PATH="/DLLArchive/etc/FRXView.dll" DATE="Thu Mar 26 15:35:12 CET 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VBDecompilerPluginLoad" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VBDecompilerPluginName" PURGE="16" COMMENT="" />
+</LIBRARY>
+

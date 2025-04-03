@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="codedoctor.dll" PATH="/DLLArchive/etc/CodeDoctor.dll" DATE="Tue Nov 10 22:09:50 PST 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Plugindata" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugininit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Pluginmenu" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ODBG_Pluginshortcut" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

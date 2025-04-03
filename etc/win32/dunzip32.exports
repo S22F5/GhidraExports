@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dunzip32.dll" PATH="/DLLArchive/etc/dunzip32.dll" DATE="Fri Jul 03 12:32:34 PDT 2020" VERSION="5.00.03">
+    <EXPORT ORDINAL="1" NAME="dunzip" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="dunzipVB" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="getUnzipExternalCancel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getUnzipProgTitle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="registerExternUnzipProg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="resetUnzipProgTitle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="setUnzipExternalCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="setUnzipProgTitle" PURGE="4" COMMENT="" />
+</LIBRARY>
+

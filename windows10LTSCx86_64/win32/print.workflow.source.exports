@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="print.workflow.source.dll" PATH="/DLLArchive/windows10LTSCX86_64/Print.Workflow.Source.dll" DATE="Wed Oct 06 06:52:38 PDT 2021" VERSION="10.0.19041.388 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WfpAbortSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WfpCloseSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WfpCreateWorkflowSession" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WfpGetOutputFileName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WfpGetWorkFlowStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WfpSetJobInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WfpSetOutputFileName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WfpSetPrintTicket" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WfpSetXpsDataType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WfpWaitforJobCompletion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

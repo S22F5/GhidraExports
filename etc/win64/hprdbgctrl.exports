@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hprdbgctrl.dll" PATH="/DLLArchive/etc/HPRDBGCTRL.dll" DATE="Tue Oct 24 23:54:06 CEST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??4Chprdbgctrl@@QEAAAEAV0@$$QEAV0@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??4Chprdbgctrl@@QEAAAEAV0@AEBV0@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HyperDbgCheckMultilineCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HyperDbgContinuePreviousCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HyperDbgInstallVmmDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HyperDbgInterpreter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HyperDbgLoadVmm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HyperDbgReadVendorString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HyperDbgScriptReadFileAndExecuteCommandline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HyperDbgSetTextMessageCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HyperDbgShowSignature" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HyperDbgStopVmmDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HyperDbgUninstallVmmDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HyperDbgUnloadVmm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HyperDbgVmxSupportDetection" PURGE="0" COMMENT="" />
+</LIBRARY>
+

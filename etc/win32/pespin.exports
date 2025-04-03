@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pespin.dll" PATH="/DLLArchive/etc/pespin.dll" DATE="Thu Sep 04 09:12:00 CEST 2008" VERSION="0.1">
+    <EXPORT ORDINAL="1" NAME="AboutPlugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitPlugin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StartUnpack" PURGE="24" COMMENT="" />
+</LIBRARY>
+

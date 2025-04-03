@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="x3daudio1_0.dll" PATH="/DLLArchive/etc/x3daudio1_0.dll" DATE="Fri Jul 03 13:40:01 PDT 2020" VERSION="9.11.519.0000 built by: mmbuild">
+    <EXPORT ORDINAL="1" NAME="_X3DAudioCalculate@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_X3DAudioInitialize@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

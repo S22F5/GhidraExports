@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="strmdll.dll" PATH="/DLLArchive/windowsXPSp3Prox86/strmdll.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="4.1.00.3936">
+    <EXPORT ORDINAL="1" NAME="CreateAsfFormatSet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NSSecurityLibraryInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SelectCrabis" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SelectHelper" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SelectMediaStream" PURGE="16" COMMENT="" />
+</LIBRARY>
+

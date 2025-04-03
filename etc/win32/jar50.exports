@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jar50.dll" PATH="/DLLArchive/etc/jar50.dll" DATE="Fri Jul 03 12:43:55 PDT 2020" VERSION="1.7: 2004070722">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

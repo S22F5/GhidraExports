@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qconres.dll" PATH="/DLLArchive/etc/QCONRES.DLL" DATE="Fri Jul 03 22:08:59 CEST 2020" VERSION="9.05.1015">
+    <EXPORT ORDINAL="1" NAME="?InitQConsoleResources@@YAHXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

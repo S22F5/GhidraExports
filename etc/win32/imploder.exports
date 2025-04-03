@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imploder.dll" PATH="/DLLArchive/etc/Imploder.dll" DATE="Tue Apr 27 11:08:04 PDT 2010" VERSION="v1.04.0010">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadDll" PURGE="0" COMMENT="" />
+</LIBRARY>
+

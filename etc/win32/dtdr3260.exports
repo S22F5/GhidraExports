@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dtdr3260.dll" PATH="/DLLArchive/etc/dtdr3260.dll" DATE="Fri Jul 03 12:32:27 PDT 2020" VERSION="6.0.10.1231">
+    <EXPORT ORDINAL="1" NAME="?AsyncNotifyProc@CThreadCBMgr@@SGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usrcoina.dll" PATH="/DLLArchive/etc/usrcoina.dll" DATE="Fri Jul 03 13:25:30 PDT 2020" VERSION="4. 11. 21">
+    <EXPORT ORDINAL="1" NAME="CoDeviceInstall" PURGE="16" COMMENT="" />
+</LIBRARY>
+

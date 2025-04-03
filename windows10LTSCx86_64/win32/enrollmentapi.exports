@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="enrollmentapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/enrollmentapi.dll" DATE="Wed Oct 06 15:52:34 CEST 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IsDeviceEnrolled" PURGE="4" COMMENT="" />
+</LIBRARY>
+

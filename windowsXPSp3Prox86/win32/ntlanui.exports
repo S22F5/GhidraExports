@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntlanui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntlanui.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="ShareAsDialogA0" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StopShareDialogA0" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="I_SystemFocusDialog" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NPGetPropertyText" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NPPropertyDialog" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ServerBrowseDialogA0" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ShareCreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShareManage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShareStop" PURGE="4" COMMENT="" />
+</LIBRARY>
+

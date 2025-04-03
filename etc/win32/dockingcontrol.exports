@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dockingcontrol.dll" PATH="/DLLArchive/etc/DockingControl.dll" DATE="Fri Jul 12 13:28:26 PDT 2024" VERSION="1.6.2.1">
+    <EXPORT ORDINAL="1" NAME="_CreateDockingControlObject@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_DestroyDockingControlObject@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

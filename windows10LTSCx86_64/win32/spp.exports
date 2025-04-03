@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spp.dll" PATH="/DLLArchive/windows10LTSCX86_64/spp.dll" DATE="Wed Oct 06 06:53:06 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SppFreeBadWritersArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SppFreeClientPropArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SppFreeExternalGroupPropArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SppFreeGroupPropArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SppFreeMetadataProp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SxTracerDebuggerBreak" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SxTracerGetThreadContextDebug" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SxTracerGetThreadContextRetail" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SxTracerShouldTrackFailure" PURGE="4" COMMENT="" />
+</LIBRARY>
+

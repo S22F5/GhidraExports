@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="thk3216.dll" PATH="/DLLArchive/etc/THK3216.dll" DATE="Fri Jul 03 13:22:54 PDT 2020" VERSION="0.80.00.0260-0.80.2600">
+    <EXPORT ORDINAL="1" NAME="DoInstall3216" PURGE="7700" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoRemoveDevice3216" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DoRemoveList3216" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DoRefresh3216" PURGE="4" COMMENT="" />
+</LIBRARY>
+

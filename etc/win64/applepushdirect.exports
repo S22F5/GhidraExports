@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="applepushdirect.dll" PATH="/DLLArchive/etc/ApplePushDirect.dll" DATE="Thu Sep 12 06:01:06 PDT 2019" VERSION="2.14.0.43">
+    <EXPORT ORDINAL="1" NAME="APSCloseConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="APSCloseConnectionC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="APSCopyPublicToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="APSCopyPublicTokenC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="APSCreateConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="APSCreateConnectionC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="APSInitializeApplePushDirect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="APSRegisterEventHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="APSRegisterEventHandlerC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="APSRemoveEnabledTopics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="APSRemoveEnabledTopicsC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="APSSetEnabledTopics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="APSSetEnabledTopicsC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="APSUninitializeApplePushDirect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="APSUnregisterEventHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="kAPSDevelopmentEnvironment" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="kAPSDevelopmentEnvironmentC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="kAPSProductionEnvironment" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="kAPSProductionEnvironmentC" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

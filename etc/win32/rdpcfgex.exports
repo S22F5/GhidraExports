@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rdpcfgex.dll" PATH="/DLLArchive/etc/rdpcfgex.dll" DATE="Fri Jul 03 22:10:55 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="ExGetCfgVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ExtEncryptionLevels" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ExtEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ExtGetCapabilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ExtGetEncryptionLevelDescr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ExtStart" PURGE="4" COMMENT="" />
+</LIBRARY>
+

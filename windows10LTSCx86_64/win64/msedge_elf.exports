@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msedge_elf.dll" PATH="/DLLArchive/windows10LTSCX86_64/msedge_elf.dll" DATE="Wed Aug 04 23:44:50 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="ClearReportsBetween_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CrashForException_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DisableHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DrainLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DumpHungProcessWithPtype_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DumpProcessWithoutCrash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetApplyHookResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetBlockedModulesCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCrashReports_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetCrashpadDatabasePath_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetInstallDetailsPayload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetUniqueBlockedModulesCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetUserDataDirectoryThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InjectDumpForHungInput_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsBrowserProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IsThirdPartyInitialized" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RegisterLogNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RequestSingleCrashUpload_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetMetricsClientId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SetTelemetryLevel_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetUploadConsent_ExportThunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SignalChromeElf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SignalInitializeCrashReporting" PURGE="0" COMMENT="" />
+</LIBRARY>
+

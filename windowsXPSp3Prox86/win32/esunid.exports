@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="esunid.dll" PATH="/DLLArchive/windowsXPSp3Prox86/esunid.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="1.00">
+    <EXPORT ORDINAL="1" NAME="DliHook" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_DllEntryPoint@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

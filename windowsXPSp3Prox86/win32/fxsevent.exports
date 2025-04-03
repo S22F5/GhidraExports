@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxsevent.dll" PATH="/DLLArchive/windowsXPSp3Prox86/fxsevent.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.2.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="FXSEVENTFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FXSEVENTInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FaxLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetEventsCounters" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetLoggingCategories" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitializeEventLog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RefreshEventLog" PURGE="4" COMMENT="" />
+</LIBRARY>
+

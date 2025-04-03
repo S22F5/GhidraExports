@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="masteringsuite.dll" PATH="/DLLArchive/etc/MasteringSuite.dll" DATE="Sat Nov 16 21:10:49 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="g_pAKPluginList" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

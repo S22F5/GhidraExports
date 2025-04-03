@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="steamclient.dll" PATH="/DLLArchive/etc/steamclient.dll" DATE="Fri Jul 03 13:20:32 PDT 2020" VERSION="3, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="CreateInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Steam_BConnected" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Steam_BGetCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Steam_BLoggedOn" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Steam_BReleaseSteamPipe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Steam_ConnectToGlobalUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Steam_CreateGlobalUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Steam_CreateLocalUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Steam_CreateSteamPipe" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Steam_FreeLastCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Steam_GSBLoggedOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Steam_GSBSecure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Steam_GSGetSteam2GetEncryptionKeyToSendToNewClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Steam_GSGetSteamID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Steam_GSLogOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Steam_GSLogOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Steam_GSRemoveUserConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Steam_GSSendSteam2UserConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Steam_GSSendSteam3UserConnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Steam_GSSendUserDisconnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Steam_GSSendUserStatusResponse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Steam_GSSetServerType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Steam_GSSetSpawnCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Steam_GSUpdateStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Steam_GetGSHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Steam_InitiateGameConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Steam_LogOff" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Steam_LogOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Steam_ReleaseUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Steam_SetLocalIPBinding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Steam_TerminateGameConnection" PURGE="0" COMMENT="" />
+</LIBRARY>
+

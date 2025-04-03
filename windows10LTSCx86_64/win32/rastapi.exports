@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rastapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/rastapi.dll" DATE="Wed Oct 06 15:52:39 CEST 2021" VERSION="10.0.19041.1110 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AddPorts" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckRasmanDependency" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeviceConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeviceDone" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeviceEnum" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeviceGetDevConfig" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DeviceGetDevConfigEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DeviceGetInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DeviceListen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DeviceSetDevConfig" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DeviceSetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DeviceWork" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EnableDeviceForDialIn" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetConnectInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetZeroDeviceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="InitializeDriverIoControl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PortChangeCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PortClearStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PortClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PortCompressionSetInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PortConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PortDisconnect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PortEnum" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PortGetIOHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PortGetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="PortGetPortState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PortGetStatistics" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="PortInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="PortOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PortOpenExternal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="PortReceive" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PortReceiveComplete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="PortSend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PortSetFraming" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="PortSetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="PortSetIoCompletionPort" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="PortTestSignalState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="RasTapiIsPulseDial" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="RastapiGetCalledID" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="RastapiSetCalledID" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="RefreshDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="RemovePort" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SetCommSettings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="UnloadRastapiDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="UpdateTapiService" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libpsl-5.dll" PATH="/DLLArchive/etc/libpsl-5.dll" DATE="Sat May 20 23:55:10 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetUtfMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LookupStringInFixedSet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="psl_builtin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="psl_builtin_file_time" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="psl_builtin_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="psl_builtin_outdated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="psl_builtin_sha1sum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="psl_check_version_number" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="psl_dist_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="psl_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="psl_free_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="psl_get_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="psl_is_cookie_domain_acceptable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="psl_is_public_suffix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="psl_is_public_suffix2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="psl_latest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="psl_load_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="psl_load_fp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="psl_registrable_domain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="psl_str_to_utf8lower" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="psl_suffix_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="psl_suffix_exception_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="psl_suffix_wildcard_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="psl_unregistrable_domain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

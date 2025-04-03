@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-timezone-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-core-timezone-l1-1-0.dll" DATE="Sun Jul 30 02:16:46 PDT 2023" VERSION="10.0.19041.685 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EnumDynamicTimeZoneInformation" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="dll.EnumDynamicTimeZoneInformation" />
+    <EXPORT ORDINAL="2" NAME="FileTimeToSystemTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="FileTimeToSystemTime" />
+    <EXPORT ORDINAL="3" NAME="GetDynamicTimeZoneInformation" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetDynamicTimeZoneInformation" />
+    <EXPORT ORDINAL="4" NAME="GetDynamicTimeZoneInformationEffectiveYears" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="dll.GetDynamicTimeZoneInformationEffectiveYears" />
+    <EXPORT ORDINAL="5" NAME="GetTimeZoneInformation" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetTimeZoneInformation" />
+    <EXPORT ORDINAL="6" NAME="GetTimeZoneInformationForYear" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetTimeZoneInformationForYear" />
+    <EXPORT ORDINAL="7" NAME="SetDynamicTimeZoneInformation" PURGE="0" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetDynamicTimeZoneInformation" />
+    <EXPORT ORDINAL="8" NAME="SetTimeZoneInformation" PURGE="0" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetTimeZoneInformation" />
+    <EXPORT ORDINAL="9" NAME="SystemTimeToFileTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SystemTimeToFileTime" />
+    <EXPORT ORDINAL="10" NAME="SystemTimeToTzSpecificLocalTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SystemTimeToTzSpecificLocalTime" />
+    <EXPORT ORDINAL="11" NAME="SystemTimeToTzSpecificLocalTimeEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SystemTimeToTzSpecificLocalTimeEx" />
+    <EXPORT ORDINAL="12" NAME="TzSpecificLocalTimeToSystemTime" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="TzSpecificLocalTimeToSystemTime" />
+    <EXPORT ORDINAL="13" NAME="TzSpecificLocalTimeToSystemTimeEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="TzSpecificLocalTimeToSystemTimeEx" />
+</LIBRARY>
+

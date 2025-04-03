@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="faceprocessorcore.dll" PATH="/DLLArchive/windows10LTSCX86_64/FaceProcessorCore.dll" DATE="Wed Oct 06 06:53:22 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateFaceCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateInfraredFaceProcessor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

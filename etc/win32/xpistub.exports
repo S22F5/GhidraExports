@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xpistub.dll" PATH="/DLLArchive/etc/xpistub.dll" DATE="Fri Jul 03 13:41:30 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="XPI_Exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XPI_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="XPI_Install" PURGE="0" COMMENT="" />
+</LIBRARY>
+

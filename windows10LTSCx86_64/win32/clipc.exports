@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="clipc.dll" PATH="/DLLArchive/windows10LTSCX86_64/Clipc.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetExchangeDeviceUniqueID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetOfflineDeviceUniqueID" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ClipCallServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ClipCleanUpState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ClipClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ClipGatherDiagnostics" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ClipGenerateClientChallengeData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ClipGenerateDeviceLicenseRequest" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ClipGetAssociatedResults" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ClipGetDeviceHardwareData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ClipGetFileIdFromAssociateId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ClipGetLicenseAndPolicyForPfn" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ClipGetLicenseData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ClipGetQueryResults" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ClipGetSubscriptionStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ClipInstallLicense" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ClipOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ClipQueryAssociateId" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ClipRefreshLicense" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ClipUninstallLicense" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SLQueryLicenseValueFromApp2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SLQueryLicenseValueFromApp" PURGE="20" COMMENT="" />
+</LIBRARY>
+

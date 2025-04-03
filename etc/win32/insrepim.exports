@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="insrepim.dll" PATH="/DLLArchive/etc/INSREPIM.DLL" DATE="Wed Jun 10 12:08:38 PDT 1998" VERSION="6.0.8161.0">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="calloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="realloc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

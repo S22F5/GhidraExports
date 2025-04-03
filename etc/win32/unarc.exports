@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unarc.dll" PATH="/DLLArchive/etc/unarc.dll" DATE="Sat Jul 21 00:46:24 PDT 2007" VERSION="1.2.5">
+    <EXPORT ORDINAL="1" NAME="LoadComponent" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

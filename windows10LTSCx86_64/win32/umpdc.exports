@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="umpdc.dll" PATH="/DLLArchive/windows10LTSCX86_64/umpdc.dll" DATE="Wed Oct 06 15:52:29 CEST 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="PdcAcquireRwLockExclusive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PdcActivationClientActivityRequest" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PdcActivationClientRegister" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PdcActivationClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PdcAllocate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PdcFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PdcNotificationClientAcknowledge" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PdcNotificationClientRegister" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PdcNotificationClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PdcPortClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PdcPortOpen" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PdcPortSendMessage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PdcPortSendMessageSynchronously" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PdcPpmProfileClientRegister" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PdcPpmProfileClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PdcPpmProfileDisable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PdcPpmProfileEnable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PdcReleaseRwLockExclusive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PdcResiliencyClientAcknowledge" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PdcResiliencyClientRegister" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PdcResiliencyClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PdcRwLockInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PdcSignalClientPulse" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PdcSignalClientRegister" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PdcSignalClientSetActive" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="PdcSignalClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PdcSleep" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="PdcTaskClientRegister" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="PdcTaskClientRequest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PdcTaskClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Pdcv2ActivationClientActivate" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Pdcv2ActivationClientDeactivate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Pdcv2ActivationClientRegister" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Pdcv2ActivationClientRenewActivation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="Pdcv2ActivationClientSetBrokeredProcessId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="Pdcv2ActivationClientUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SleepstudyHelperBlockerActiveDereference" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SleepstudyHelperBlockerActiveReference" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SleepstudyHelperBuildBlocker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SleepstudyHelperCreateBlockerFromGuid" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SleepstudyHelperCreateLibrary" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SleepstudyHelperDestroyBlocker" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SleepstudyHelperDestroyBlockerBuilder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SleepstudyHelperDestroyLibrary" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SleepstudyHelperGetBlockerGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SleepstudyHelperSetBlockerFriendlyName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SleepstudyHelperSetBlockerParentHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SleepstudyHelperSetBlockerVisible" PURGE="8" COMMENT="" />
+</LIBRARY>
+

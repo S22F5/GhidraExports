@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rdvgogl64.dll" PATH="/DLLArchive/windows10LTSCX86_64/rdvgogl64.dll" DATE="Wed Oct 06 06:51:05 PDT 2021" VERSION="10.0.10011.16384">
+    <EXPORT ORDINAL="1" NAME="DrvCopyContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrvCreateContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrvCreateLayerContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DrvDeleteContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DrvDescribeLayerPlane" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DrvDescribePixelFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DrvGetLayerPaletteEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DrvGetProcAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DrvPresentBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DrvRealizeLayerPalette" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DrvReleaseContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DrvSetCallbackProcs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DrvSetContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DrvSetLayerPaletteEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DrvSetPixelFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DrvShareLists" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DrvSwapBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DrvSwapLayerBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DrvSwapMultipleBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DrvValidateVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DllMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

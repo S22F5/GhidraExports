@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="test.dll" PATH="/DLLArchive/etc/Test.dll" DATE="Mon Mar 14 06:50:38 PST 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="MainFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RegisterFunction" PURGE="0" COMMENT="" />
+</LIBRARY>
+

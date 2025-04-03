@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iepeers.dll" PATH="/DLLArchive/windows10LTSCX86_64/iepeers.dll" DATE="Wed Oct 06 06:53:01 PDT 2021" VERSION="11.00.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="5" NAME="DllEnumClassObjects" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

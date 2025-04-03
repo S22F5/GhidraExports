@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rput3260.dll" PATH="/DLLArchive/etc/rput3260.dll" DATE="Fri Jul 03 13:12:45 PDT 2020" VERSION="6.0.9.704">
+    <EXPORT ORDINAL="1" NAME="?DdeCallback@@YGPAUHDDEDATA__@@IIPAUHCONV__@@PAUHSZ__@@1PAU1@KK@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RPCreateClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

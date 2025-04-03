@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scriptui.dll" PATH="/DLLArchive/etc/SCRIPTUI.DLL" DATE="Fri Jul 03 13:14:36 PDT 2020" VERSION="9.00.02">
+    <EXPORT ORDINAL="1" NAME="RegisterWithScriptBlocking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WarChildCallback" PURGE="16" COMMENT="" />
+</LIBRARY>
+

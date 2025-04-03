@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ndump.dll" PATH="/DLLArchive/etc/NDump.dll" DATE="Sat Jul 09 09:50:50 PDT 2005" VERSION="1.5.10.2005">
+    <EXPORT ORDINAL="1" NAME="DumpProcess" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_egg-0.7.dll" PATH="/DLLArchive/etc/rz_egg-0.7.dll" DATE="Mon Mar 04 10:50:18 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_egg_Cfile_parser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_egg_alloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_egg_append" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_egg_assemble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_egg_assemble_asm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_egg_compile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_egg_encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_egg_fill" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_egg_finalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_egg_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_egg_get_assembly" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_egg_get_bin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_egg_get_source" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_egg_if" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_egg_include" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_egg_label" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_egg_lang_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_egg_lang_include_init" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_egg_lang_include_path" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_egg_lang_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_egg_lang_parsechar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_egg_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_egg_load_file" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_egg_math" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_egg_mkvar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_egg_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_egg_option_get" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rz_egg_option_set" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="rz_egg_os_as_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="rz_egg_padding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="rz_egg_patch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="rz_egg_patch_num" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="rz_egg_pattern" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="rz_egg_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="rz_egg_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="rz_egg_printf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="rz_egg_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="rz_egg_reset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="rz_egg_run" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="rz_egg_run_rop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="rz_egg_setup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="rz_egg_shellcode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="rz_egg_syscall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="rz_egg_to_string" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="rz_egg_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

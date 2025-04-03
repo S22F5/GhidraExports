@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ndfapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/ndfapi.dll" DATE="Wed Oct 06 06:53:05 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NdfRunDllDiagnoseIncident" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NdfRunDllDiagnoseNetConnectionIncident" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NdfRunDllDiagnoseWithAnswerFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NdfRunDllDuplicateIPDefendingSystem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NdfRunDllDuplicateIPOffendingSystem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NdfRunDllHelpTopic" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NdfCancelIncident" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NdfCloseIncident" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NdfCreateConnectivityIncident" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NdfCreateDNSIncident" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NdfCreateGroupingIncident" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NdfCreateInboundIncident" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NdfCreateIncident" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NdfCreateNetConnectionIncident" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NdfCreatePnrpIncident" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NdfCreateSharingIncident" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NdfCreateWebIncident" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NdfCreateWebIncidentEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NdfCreateWinSockIncident" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NdfDiagnoseIncident" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="NdfExecuteDiagnosis" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="NdfGetTraceFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NdfRepairIncident" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NdfRepairIncidentEx" PURGE="16" COMMENT="" />
+</LIBRARY>
+

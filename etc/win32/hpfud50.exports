@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpfud50.dll" PATH="/DLLArchive/etc/hpfud50.dll" DATE="Fri Jul 03 12:36:50 PDT 2020" VERSION="5.1.2600.2032">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HTCBGetHPRaster" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HTCBGetIndexColor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HTCBGetInputRaster24" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HTCBGetInputRaster32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HTCBGetInputRasterBGR24" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HTCBGetInputRasterChunkyRow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HTCBGetInputRasterIndex8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HTCBGetInputRasterKCMY" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HTCBRestoreData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HTCBSaveData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HTCBSendHPRaster" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HTCBSendRasterMayYield" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="uwfservicingapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/uwfservicingapi.dll" DATE="Wed Oct 06 06:53:11 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetServicingModeState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetServicingModeState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UwfServicingCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UwfServicingInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UwfServicingWinUpdateApply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UwfServicingWinupdateCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UwfServicingWinupdateInitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mf3216.dll" PATH="/DLLArchive/windows10LTSCX86_64/mf3216.dll" DATE="Wed Oct 06 15:52:34 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ConvertEmfToWmf" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Mf3216DllInitialize" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cmintegrator.dll" PATH="/DLLArchive/windows10LTSCX86_64/cmintegrator.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="VpnCmOracleCheckVpnAvailability" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VpnCmOracleInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VpnCmOracleShutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

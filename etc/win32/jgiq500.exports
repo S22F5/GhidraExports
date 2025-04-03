@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgiq500.dll" PATH="/DLLArchive/etc/jgiq500.dll" DATE="Fri Jul 03 12:44:24 PDT 2020" VERSION="014">
+    <EXPORT ORDINAL="1" NAME="JgiqCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgiqDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgiqDiscardRows" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgiqGetImageInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgiqGetPaletteInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgiqGetRowInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgiqPutCompRows" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgiqPutImageInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgiqPutPaletteInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgiqReset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

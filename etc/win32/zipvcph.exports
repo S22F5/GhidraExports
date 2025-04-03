@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zipvcph.dll" PATH="/DLLArchive/etc/zipvcph.dll" DATE="Fri Jul 03 12:13:30 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0TZippedFileInfo@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0TZippedFileInfo@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0TZipper@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0TZipper@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1TZippedFileInfo@@QAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1TZipper@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4TZippedFileInfo@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4TZipper@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??_7TZipper@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?AddFile@TZipper@@QAE?AW4EZipError@@ABVTFileName@@0H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CancelError@TZipper@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Close@TZipper@@QAEXPAVTFileName@@PAV?$TString@D@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CollectUsedPartitions@TZipper@@QBEXAAV?$TArray@V?$TString@G@@@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?CreateArchive@TZipper@@QAE?AW4EZipError@@ABVTFileName@@JW4EPathMode@@PBV3@PBV?$TString@G@@PBDP6A_NKHPBGPAX@ZP6A_NKH_J856@Z6@Z" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ExtractFile@TZipper@@QAE?AW4EZipError@@KABVTFileName@@P6A_NKH_J1PBGPAX@Z3_N5@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetFileInfo@TZipper@@QBEXHPAVTZippedFileInfo@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetNumFiles@TZipper@@QBEJ_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GetOriginalIndex@TZipper@@QBEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetTotalFileSize@TZipper@@QBE_J_NPA_J@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetWrittenSize@TZipper@@QBE_JXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?HasAbsolutePaths@TZipper@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?InitZipLib@@YAXH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?IsClosed@TZipper@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?IsEntrySelected@TZipper@@QBE_NH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?OpenArchive@TZipper@@QAE?AW4EZipError@@ABVTFileName@@_NPBDP6A_NKHPBGPAX@Z4@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?PrepareSortTable@TZipper@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?SelectEntry@TZipper@@QAE_NH_N0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?SetPassword@TZipper@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?SortFileList@TZipper@@QAEXW4EZipFileSort@@_N@Z" PURGE="8" COMMENT="" />
+</LIBRARY>
+

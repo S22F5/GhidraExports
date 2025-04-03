@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libmplayer.dll" PATH="/DLLArchive/etc/libmplayer.dll" DATE="Thu Jul 07 11:43:00 CEST 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="palette8torgb32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MP3_Done" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MP3_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="init_mplayer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="mp_noise_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="mp_noise_done" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="mp_noise_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="mp_noise_process" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="palette8tobgr15" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="palette8tobgr16" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="palette8tobgr24" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="palette8tobgr32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="palette8torgb15" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="palette8torgb16" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="palette8torgb24" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MP3_DecodeFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="pp_free_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="pp_get_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="pp_postprocess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="spp_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="spp_put_image" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="spp_uninit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="sws_freeContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="sws_freeFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="sws_freeVec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="sws_getConstVec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="sws_getContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="sws_getDefaultFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="sws_getGaussianVec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="sws_normalizeVec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="sws_scale" PURGE="0" COMMENT="" />
+</LIBRARY>
+

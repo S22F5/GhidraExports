@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdmxsdk.dll" PATH="/DLLArchive/etc/mdmxsdk.dll" DATE="Fri Jul 03 13:44:15 PDT 2020" VERSION="1.0.2.006">
+    <EXPORT ORDINAL="1" NAME="EnumCnxtModem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAPIVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ModemClearAllConfigurations" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ModemClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ModemConfigure" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ModemControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ModemDeleteConfiguration" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ModemEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ModemGetLastError" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ModemMonitor" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ModemOpen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ModemOpenByName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ModemPrivilegeOpen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ModemSetTrap" PURGE="16" COMMENT="" />
+</LIBRARY>
+

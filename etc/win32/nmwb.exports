@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmwb.dll" PATH="/DLLArchive/etc/nmwb.dll" DATE="Fri Jul 03 13:01:50 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="CreateAppletLoaderInterface" PURGE="4" COMMENT="" />
+</LIBRARY>
+

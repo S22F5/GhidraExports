@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xpsqlbot.dll" PATH="/DLLArchive/etc/XPSQLBOT.DLL" DATE="Fri Jul 03 13:41:50 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="__GetXpVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="xp_qv" PURGE="0" COMMENT="" />
+</LIBRARY>
+

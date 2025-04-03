@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdtcstp.dll" PATH="/DLLArchive/etc/msdtcstp.dll" DATE="Fri Jul 03 12:55:21 PDT 2020" VERSION="2001.12.4414.42">
+    <EXPORT ORDINAL="1" NAME="OcEntry" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetupPrintLog" PURGE="0" COMMENT="" />
+</LIBRARY>
+

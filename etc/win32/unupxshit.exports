@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unupxshit.dll" PATH="/DLLArchive/etc/UnUPXShit.dll" DATE="Tue Aug 24 23:27:10 CEST 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

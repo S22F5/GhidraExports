@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libsndfile.dll" PATH="/DLLArchive/etc/libsndfile.dll" DATE="Fri Jul 03 21:47:16 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="sf_command" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="sf_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="sf_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="sf_seek" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="sf_error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="sf_perror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="sf_error_str" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="sf_error_number" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="sf_format_check" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="sf_read_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="sf_readf_short" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="sf_readf_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="sf_readf_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="sf_readf_double" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="sf_read_short" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="sf_read_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="sf_read_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="sf_read_double" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="sf_write_raw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="sf_writef_short" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="sf_writef_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="sf_writef_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="sf_writef_double" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="sf_write_short" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="sf_write_int" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="sf_write_float" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="sf_write_double" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="sf_strerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="sf_get_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="sf_set_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="70" NAME="sf_open_fd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="80" NAME="sf_open_virtual" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="90" NAME="sf_write_sync" PURGE="0" COMMENT="" />
+</LIBRARY>
+

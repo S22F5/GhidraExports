@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="newdev.dll" PATH="/DLLArchive/etc/newdev.dll" DATE="Fri Jul 03 13:01:40 PDT 2020" VERSION="5.00.2146.1">
+    <EXPORT ORDINAL="1" NAME="DevInstallRebootPromptW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DevInstallUiOnlyW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DevInstallW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InstallCDMDriver" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InstallDevInst" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InstallDevInstEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InstallNewDevice" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InstallSelectedDevice" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InstallSelectedDriver" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InstallWindowsUpdateDriver" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UpdateDriverForPlugAndPlayDevicesA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UpdateDriverForPlugAndPlayDevicesW" PURGE="20" COMMENT="" />
+</LIBRARY>
+

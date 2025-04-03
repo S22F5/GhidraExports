@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odkob32.dll" PATH="/DLLArchive/etc/ODKOB32.DLL" DATE="Thu Jun 18 02:35:08 PDT 1998" VERSION="8169">
+    <EXPORT ORDINAL="1" NAME="OBLoadTypeLib" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OBGetDocumentation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OBGetObjectAttr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OBGetTypeInfoCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OBGetTypeInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OBOleInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OBOleUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OBGetFuncDesc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OBGetVarDesc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OBGetNames" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OBReleaseTypeLib" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OBReleaseTypeInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="OBGetProgIDFromTypeInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="OBGetDispInterfaceOfCoClass" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="OBRegSecurityDialog" PURGE="20" COMMENT="" />
+</LIBRARY>
+

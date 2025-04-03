@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appxapplicabilityblob.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppXApplicabilityBlob.dll" DATE="Wed Oct 06 06:51:50 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateSerializedBundleManifestStatement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetApplicabilityFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsAppx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsModernApp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IsPreThresholdDesktop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsPreThresholdPhone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsXAP" PURGE="0" COMMENT="" />
+</LIBRARY>
+

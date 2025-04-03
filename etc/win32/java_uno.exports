@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="java_uno.dll" PATH="/DLLArchive/etc/java_uno.dll" DATE="Fri Jul 03 12:44:02 PDT 2020" VERSION="7.0.0.8739">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_com_sun_star_bridges_jni_1uno_JNI_1info_1holder_finalize__J" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_com_sun_star_bridges_jni_1uno_JNI_1proxy_dispatch_1call" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_com_sun_star_bridges_jni_1uno_JNI_1proxy_finalize__J" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="component_canUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="uno_ext_getMapping" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="uno_initEnvironment" PURGE="0" COMMENT="" />
+</LIBRARY>
+

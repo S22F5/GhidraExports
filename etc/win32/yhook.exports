@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="yhook.dll" PATH="/DLLArchive/etc/yhook.dll" DATE="Fri Jul 03 13:43:17 PDT 2020" VERSION="1, 1, 0, 178">
+    <EXPORT ORDINAL="1" NAME="??4CYHookSettings@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?AddYHookHost@@YAXPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?FreeYHooks@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetYHookHostname@@YAXHPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?InitYHooks@@YAHPAUHWND__@@KKKPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?gBlockUserName@@3PADA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?gCmdAddBuddyMenu@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?gCmdAddChatMenu@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?gCmdAddPMMenu@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?gCmdBlockUser@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?gCmdBlockVoiceSessionID@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?gCmdInstallDebugger@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?gCmdLogChange@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?gCmdPrimaryHost@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?gCmdVoiceServerIP@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?gCmdYMConnect@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?gP2PGhostPort@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?m_ActLogger@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?m_AntiBooter@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?m_AntiVoice@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?m_BlockChatAds@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?m_BlockConnRequests@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?m_BotBlocker@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?m_EnlargeChatroomUserList@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?m_EnlargeTextEntry@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?m_FilterFade@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?m_FontSizer@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?m_IgnoreASL@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?m_IgnoreDupes@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?m_OverrideSecurity@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?m_UseUnsecureConnection@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?m_UseUnsecureConnectionTest@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?m_UseVoiceTCPStream@CYHookSettings@@2_NA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?m_VoiceRedirectPort@CYHookSettings@@2GA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?m_YahooRedirectPort@CYHookSettings@@2GA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DoTestHook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

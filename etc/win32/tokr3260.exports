@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tokr3260.dll" PATH="/DLLArchive/etc/tokr3260.dll" DATE="Fri Jul 03 13:23:09 PDT 2020" VERSION="6.0.0.500">
+    <EXPORT ORDINAL="1" NAME="CloseDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseEncoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OpenDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OpenEncoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="tkDecode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="tkEncode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="tkFreeDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="tkFreeEncoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="tkInitDecoder" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="tkInitEncoder" PURGE="24" COMMENT="" />
+</LIBRARY>
+

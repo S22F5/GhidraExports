@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cdcopdec.dll" PATH="/DLLArchive/etc/cdcopdec.dll" DATE="Tue Apr 22 05:24:30 CEST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ApiHookChain" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

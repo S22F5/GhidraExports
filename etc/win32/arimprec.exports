@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="arimprec.dll" PATH="/DLLArchive/etc/ARImpRec.dll" DATE="Sat Feb 08 19:27:22 PST 2014" VERSION="1.7.9.0">
+    <EXPORT ORDINAL="1" NAME="UnpackPdataSection@12" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetNameFileOptimized@8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RebuildSectionsFromArmadillo@12" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TryGetImportedFunction@24" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SearchAndRebuildImportsNoNewSection@28" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SearchAndRebuildImportsIATOptimized@28" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SearchAndRebuildImports@28" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetProcNameAndOrdinal@20" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetProcOrdinal@8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetProcName@16" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetAllVAddressesOfImports@16" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dot3gpclnt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dot3gpclnt.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="GenerateLANPolicy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProcessLANPolicyEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LANGPADeInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LANGPAInit" PURGE="4" COMMENT="" />
+</LIBRARY>
+

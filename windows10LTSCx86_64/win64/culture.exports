@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="culture.dll" PATH="/DLLArchive/windows10LTSCX86_64/Culture.dll" DATE="Sat Dec 07 01:10:34 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="2" NAME="LocaleNameToLCID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LCIDToLocaleName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnumSystemLocalesEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnumCalendarInfoExEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnumTimeFormatsEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnumDateFormatsExEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetLocaleInfoEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCalendarInfoEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ResolveLocaleName" PURGE="0" COMMENT="" />
+</LIBRARY>
+

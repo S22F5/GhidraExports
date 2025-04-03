@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vista.emulation.dll" PATH="/DLLArchive/etc/Vista.Emulation.dll" DATE="Fri Jul 03 13:27:51 PDT 2020" VERSION="1, 1, 0, 1">
+    <EXPORT ORDINAL="1" NAME="SHGetFolderPathEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_localtime64_s" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_sopen_s" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_wfopen_s" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="mbstowcs_s" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="wcstombs_s" PURGE="0" COMMENT="" />
+</LIBRARY>
+

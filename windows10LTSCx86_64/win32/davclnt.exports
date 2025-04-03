@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="davclnt.dll" PATH="/DLLArchive/windows10LTSCX86_64/davclnt.dll" DATE="Wed Oct 06 06:53:06 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DavCancelConnectionsToServer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DavFreeUsedDiskSpace" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DavGetDiskSpaceUsage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DavGetTheLockOwnerOfTheFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DavInvalidateCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DavRegisterAuthCallback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DavSetCookieW" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DavUnregisterAuthCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NPAddConnection3" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NPAddConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NPCancelConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NPCloseEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NPEnumResource" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NPFormatNetworkName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NPGetCaps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NPGetConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NPGetResourceInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NPGetResourceParent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NPGetUniversalName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="NPGetUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="NPOpenEnum" PURGE="20" COMMENT="" />
+</LIBRARY>
+

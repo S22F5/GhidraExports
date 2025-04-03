@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mftranscode.dll" PATH="/DLLArchive/windows10LTSCX86_64/mftranscode.dll" DATE="Sat Dec 07 01:51:48 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetTranscodeComponentCreator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MFCreateSmartRemuxEngine" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MFCreateTranscodeEngine" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MFCreateTranscodeProfile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MFCreateTranscodeSinkActivate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MFCreateTranscodeTopology" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MFCreateTranscodeTopologyFromByteStream" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MFTranscodeGetAudioOutputAvailableTypes" PURGE="16" COMMENT="" />
+</LIBRARY>
+

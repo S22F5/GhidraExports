@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navsdr32.dll" PATH="/DLLArchive/etc/NAVSDR32.DLL" DATE="Fri Jul 03 13:01:17 PDT 2020" VERSION="3.1.0.8">
+    <EXPORT ORDINAL="1" NAME="_SymGetFreeSystemResources@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_SymSystemHeapInfo@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VirusLibraryClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VirusLibraryDeleteFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VirusLibraryGetLastVirusInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VirusLibraryInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VirusLibraryRepairFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VirusLibraryRepairSysArea" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VirusLibraryScanFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VirusLibraryScanMem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="VirusLibraryScanSysArea" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="VirusLibraryScanSysBuffer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="VirusLibrarySelfTest" PURGE="4" COMMENT="" />
+</LIBRARY>
+

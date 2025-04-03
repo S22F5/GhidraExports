@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgaugen.dll" PATH="/DLLArchive/etc/jgaugen.dll" DATE="Fri Jul 03 12:44:16 PDT 2020" VERSION="5020">
+    <EXPORT ORDINAL="1" NAME="JgpAUAuxClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgpAUAuxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgpAUAuxOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpAUCancelAbort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpAUClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpAUDeviceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpAUDeviceGetCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpAUDeviceGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpAUDeviceInputPCM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpAUDeviceOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpAUDevicePausePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpAUDeviceResumePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpAUDeviceStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpAUDeviceStopPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpAUDoTest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpAUGetDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpAUGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpAUGetStreamInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpAUGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgpAUHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgpAUInputSegment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgpAUInputStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgpAUOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgpAUPCMClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JgpAUPCMDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="JgpAUPCMOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="JgpAUReleaseDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="JgpAURequestAbort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="JgpAUSet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="JgpAUSetEOFMark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="JgpAUSetPlayParameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="JgpAUSetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="JgpAUShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="JgpAUStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="JgpAUStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="JgpAUStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="JgpAUTerminatePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="jgawDeviceCallback" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="jgawRawDeviceCallback" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="JgpAUDeviceGetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="JgpAUDeviceSetVolume" PURGE="0" COMMENT="" />
+</LIBRARY>
+

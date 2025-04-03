@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="minhook.dll" PATH="/DLLArchive/etc/MinHook.dll" DATE="Mon Sep 09 02:04:10 PDT 2024" VERSION="1.3.3.0">
+    <EXPORT ORDINAL="1" NAME="MH_ApplyQueued" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MH_CreateHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MH_CreateHookApi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MH_CreateHookApiEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MH_DisableHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MH_EnableHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MH_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MH_QueueDisableHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MH_QueueEnableHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MH_RemoveHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MH_StatusToString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MH_Uninitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

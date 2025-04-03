@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sndinst.dll" PATH="/DLLArchive/etc/sndinst.dll" DATE="Fri Jul 03 13:17:12 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="soundInstall" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="soundExists" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="soundBatchInstall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="soundUnregister" PURGE="8" COMMENT="" />
+</LIBRARY>
+

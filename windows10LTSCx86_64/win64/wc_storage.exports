@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wc_storage.dll" PATH="/DLLArchive/windows10LTSCX86_64/wc_storage.dll" DATE="Wed Oct 06 06:51:45 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WcAttachFilterEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WcCreateSandboxStubFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WcDestroyLayer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WcDetachFilterEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WcExportLayerEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WcImportLayerEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WcInitializeSandbox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WcInitializeSandboxEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WcPopulateNewLayer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

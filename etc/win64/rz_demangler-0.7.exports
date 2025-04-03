@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_demangler-0.7.dll" PATH="/DLLArchive/etc/rz_demangler-0.7.dll" DATE="Mon Mar 04 10:48:54 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="libdemangle_handler_cxx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="libdemangle_handler_java" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="libdemangle_handler_msvc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="libdemangle_handler_objc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="libdemangle_handler_pascal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="libdemangle_handler_rust" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_demangler_cxx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_demangler_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_demangler_get_flags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_demangler_java" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_demangler_msvc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_demangler_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_demangler_objc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_demangler_pascal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_demangler_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_demangler_plugin_cpp" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_demangler_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_demangler_plugin_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_demangler_plugin_iterate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_demangler_plugin_java" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_demangler_plugin_msvc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_demangler_plugin_objc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_demangler_plugin_pascal" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_demangler_plugin_rust" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_demangler_resolve" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_demangler_rust" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_demangler_set_flags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rz_demangler_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

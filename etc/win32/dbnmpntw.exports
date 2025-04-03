@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbnmpntw.dll" PATH="/DLLArchive/etc/dbnmpntw.dll" DATE="Fri Jul 03 12:30:36 PDT 2020" VERSION="2000.085.1117 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="ConnectionObjectSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConnectionRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConnectionWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConnectionClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ConnectionError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ConnectionVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ConnectionTransact" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ConnectionWriteOOB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ConnectionMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ConnectionStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ConnectionOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ConnectionServerEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ConnectionCheckForData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ConnectionOpenW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ConnectionErrorW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ConnectionServerEnumW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

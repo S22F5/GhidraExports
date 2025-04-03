@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wscsvc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wscsvc.dll" DATE="Sun Apr 13 20:42:12 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+</LIBRARY>
+

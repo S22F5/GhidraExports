@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ls3df.dll" PATH="/DLLArchive/etc/LS3DF.dll" DATE="Fri Jul 03 12:47:55 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??DS_matrix@@QBG?AU0@ABU0@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??DS_vector@@QBG?AU0@ABUS_matrix@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??XS_matrix@@QAGAAU0@ABU0@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??XS_vector@@QAGAAU0@ABUS_matrix@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AngleTo@S_vector2@@QBGMABU1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AngleTo@S_vector@@QBGMABU1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CosAngleTo@S_vector@@QBGMABU1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetDir@S_quat@@QBG?AUS_vector@@XZ" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetScale2@S_matrix@@QBG?AUS_vector@@XZ" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetScale@S_matrix@@QBG?AUS_vector@@XZ" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetUScale@S_matrix@@QBGMXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Identity@S_matrix@@QAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?IntersectionLine@S_plane@@QBG_NABU1@AAUS_vector@@1@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Inverse@S_matrix@@QAG_NABU1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Inverse@S_quat@@QBGXAAUS_vector@@AAM@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?LineLineIntersect@@YG_NABUS_vector@@000AAM1@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?Make@S_quat@@QAGXABUS_matrix@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?Make@S_quat@@QAGXABUS_vector@@M@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?Mult4X4@S_matrix@@QBG?AU1@ABU1@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Normalize@S_quat@@QAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?RotateByMatrix@S_matrix@@QBG?AU1@ABU1@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?RotateByMatrix@S_quat@@QBG?AU1@ABUS_matrix@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?RotateByMatrix@S_vector@@QBG?AU1@ABUS_matrix@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?RotateByNormMatrix@S_vector@@QBG?AU1@ABUS_matrix@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?RotateXMatrix@@YG?AUS_matrix@@M@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?RotateYMatrix@@YG?AUS_matrix@@M@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?RotateZMatrix@@YG?AUS_matrix@@M@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?RotationMatrix@S_quat@@QBG?AUS_matrix@@XZ" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?SetDir3@S_matrix@@QAGXABUS_vector@@0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SetDir@S_matrix@@QAGXABUS_vector@@0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SetDir@S_matrix@@QAGXABUS_vector@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?SetDir@S_quat@@QAGXABUS_vector@@M@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?SetRot3@S_matrix@@QAGXABUS_quat@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?SetRot@S_matrix@@QAGXABU1@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetRot@S_matrix@@QAGXABUS_quat@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?Slerp@S_quat@@QBG?AU1@ABU1@M_N@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?UpdateHRBoundVol@I3D_frame@@AAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?UpdateHRBoundVolW@I3D_frame@@AAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?UpdateWBoundProc@I3D_visual@@AAGXXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?UpdateWMatrixProc@I3D_frame@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="GetEngineVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="GetIGraph" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="I3DGetDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="I3DGetResultMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ISndGetDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="RandFloat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="TEV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="dbgPrintf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="dbgPrintf1" PURGE="0" COMMENT="" />
+</LIBRARY>
+

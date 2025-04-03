@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usbport.dll" PATH="/DLLArchive/etc/USBPort.dll" DATE="Fri Jul 03 22:25:21 CEST 2020" VERSION="7.0.1">
+    <EXPORT ORDINAL="1" NAME="PalmUsbClosePort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PalmUsbGetAttachedDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PalmUsbGetDeviceFriendlyName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PalmUsbGetFileNames" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PalmUsbGetTimeouts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PalmUsbIsPalmOSDeviceNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PalmUsbOpenPort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PalmUsbReceiveBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PalmUsbRegisterDeviceInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PalmUsbSendBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PalmUsbSetTimeouts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PalmUsbUnRegisterDeviceInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

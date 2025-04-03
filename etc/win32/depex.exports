@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="depex.dll" PATH="/DLLArchive/etc/dePeX.dll" DATE="Sat Jul 27 11:43:50 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DoUnpack" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPluginName" PURGE="0" COMMENT="" />
+</LIBRARY>
+

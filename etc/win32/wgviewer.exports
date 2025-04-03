@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wgviewer.dll" PATH="/DLLArchive/etc/WgViewer.dll" DATE="Fri Jul 03 22:31:23 CEST 2020" VERSION="2.00">
+    <EXPORT ORDINAL="1" NAME="GraphicView" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GraphicViewEx" PURGE="24" COMMENT="" />
+</LIBRARY>
+

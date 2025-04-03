@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="addon2vb.dll" PATH="/DLLArchive/etc/addon2VB.dll" DATE="Fri Jul 03 12:16:21 PDT 2020" VERSION="4, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="_CT_Draw@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_CreateAdWindow@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_DestroyAdWindow@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_LoadAdImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_MoveAdWindow@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_UnloadAdImage@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_adClick@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_getPointer@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

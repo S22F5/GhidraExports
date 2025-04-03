@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="flash.dll" PATH="/DLLArchive/etc/Flash.dll" DATE="Fri May 15 07:25:56 PDT 2009" VERSION="2, 2, 0, 1">
+    <EXPORT ORDINAL="1" NAME="CloseFlashPlayer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FlashPlayerIsPresent" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Play_Flash_File" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

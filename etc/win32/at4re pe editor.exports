@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="at4re pe editor.dll" PATH="/DLLArchive/etc/AT4RE PE Editor.dll" DATE="Thu Oct 15 13:30:50 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Action" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PluginStart" PURGE="0" COMMENT="" />
+</LIBRARY>
+

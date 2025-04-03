@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="st_protector_api.dll" PATH="/DLLArchive/etc/ST_Protector_API.dll" DATE="Fri Mar 31 05:46:04 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetRunNumber" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GenerateHWKey" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetNameCompanySerial" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDay" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CheckRegistration" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsRegistered" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ShowInfo" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

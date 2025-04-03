@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="corona.dll" PATH="/DLLArchive/etc/corona.dll" DATE="Fri Jul 03 21:27:55 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_CorCloneImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_CorConvertImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_CorConvertPalette@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_CorCreateImage@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_CorCreateImageWithPixels@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_CorCreateMemoryFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_CorCreatePalettizedImage@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_CorFlipImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_CorGetPixelSize@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_CorGetSupportedReadFormats@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_CorGetSupportedWriteFormats@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_CorGetVersion@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_CorOpenFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_CorOpenImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_CorOpenImageFromFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_CorSaveImage@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_CorSaveImageToFile@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

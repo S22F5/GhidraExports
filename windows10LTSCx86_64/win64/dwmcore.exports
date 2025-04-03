@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dwmcore.dll" PATH="/DLLArchive/windows10LTSCX86_64/dwmcore.dll" DATE="Wed Oct 06 06:51:56 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MilCompositionEngine_GetComposedEventId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MilCompositionEngine_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MilCompositionEngine_Uninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MilConnection_CreateChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MilTransport_AddRef" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MilTransport_Release" PURGE="0" COMMENT="" />
+</LIBRARY>
+

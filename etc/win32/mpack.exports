@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpack.dll" PATH="/DLLArchive/etc/mPack.dll" DATE="Fri Sep 07 16:56:28 CEST 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="UnpackFile" PURGE="8" COMMENT="" />
+</LIBRARY>
+

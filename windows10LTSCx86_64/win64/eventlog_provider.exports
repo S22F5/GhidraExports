@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eventlog_provider.dll" PATH="/DLLArchive/windows10LTSCX86_64/eventlog_provider.dll" DATE="Thu Aug 05 08:44:12 CEST 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="?fn@@YA_NXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

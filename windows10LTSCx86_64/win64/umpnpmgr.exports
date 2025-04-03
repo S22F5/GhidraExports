@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="umpnpmgr.dll" PATH="/DLLArchive/windows10LTSCX86_64/umpnpmgr.dll" DATE="Wed Oct 06 15:52:12 CEST 2021" VERSION="10.0.19041.662 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PlugPlayServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="impoutlk.dll" PATH="/DLLArchive/etc/impOutlk.dll" DATE="Fri Jul 03 12:42:43 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+</LIBRARY>
+

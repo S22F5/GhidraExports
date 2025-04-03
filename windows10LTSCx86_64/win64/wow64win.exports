@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wow64win.dll" PATH="/DLLArchive/windows10LTSCX86_64/wow64win.dll" DATE="Wed Oct 06 06:51:57 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="sdwhcon" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="sdwhwin32" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awfxrn32.dll" PATH="/DLLArchive/etc/Awfxrn32.dll" DATE="Fri Jul 03 21:24:30 CEST 2020" VERSION="4.0.950">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LibMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ICommGetSendBuf" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ICommPutRecvBuf" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ICommNextSend" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ICommSendPageAck" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ICommRecvCaps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ICommRecvParams" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ICommRawCaps" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ICommFailureCode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ICommStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FileT30Send" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FileT30Listen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FileT30Abort" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FileT30Answer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FileT30ReportRecv" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FileT30Status" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FileT30Init" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FileT30DeInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FileT30AckRecv" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FileT30ModemClasses" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FileT30ReadIniFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FileT30SetStatusWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ICommSetSendMode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ICommSetRecvMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ICommGetBC" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ICommGetRecvPageAck" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ICommGotDisconnect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ICommRecvPollReq" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ICommGotAnswer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="FileT30PollReq" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="FileT30UpdateHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_ProfileGetData@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_ProfileWriteData@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="MyAllocBuf" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="MyFreeBuf" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="MyIFDbgPrintf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="ProfileOpen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="ProfileClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="ProfileGetInt" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="ProfileGetString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="ProfileWriteString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="ProfileCopySection" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="ProfileDeleteSection" PURGE="8" COMMENT="" />
+</LIBRARY>
+

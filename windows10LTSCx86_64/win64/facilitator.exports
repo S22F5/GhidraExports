@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="facilitator.dll" PATH="/DLLArchive/windows10LTSCX86_64/Facilitator.dll" DATE="Wed Oct 06 06:51:50 PDT 2021" VERSION="10.0.19041.572 (vb_release_svc_prod1.201007-1724)">
+    <EXPORT ORDINAL="1" NAME="FC_CreateFCManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FC_CreateFCRegistrar" PURGE="0" COMMENT="" />
+</LIBRARY>
+

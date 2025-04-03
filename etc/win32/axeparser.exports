@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="axeparser.dll" PATH="/DLLArchive/etc/AXEParser.dll" DATE="Fri Jul 03 12:24:52 PDT 2020" VERSION="3.0.501">
+    <EXPORT ORDINAL="1" NAME="AXE_ParserInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AXE_ParserTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AXE_ParserGetVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

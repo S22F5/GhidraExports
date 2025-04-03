@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hostfxr.dll" PATH="/DLLArchive/etc/hostfxr.dll" DATE="Wed Oct 25 00:00:56 CEST 2023" VERSION="6,0,2123,36311 @Commit: e40b3abf1b41621d4298642a5fd300ebf7cccf6d">
+    <EXPORT ORDINAL="1" NAME="hostfxr_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="hostfxr_get_available_sdks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="hostfxr_get_dotnet_environment_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="hostfxr_get_native_search_directories" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="hostfxr_get_runtime_delegate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="hostfxr_get_runtime_properties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="hostfxr_get_runtime_property_value" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="hostfxr_initialize_for_dotnet_command_line" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="hostfxr_initialize_for_runtime_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="hostfxr_main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="hostfxr_main_bundle_startupinfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="hostfxr_main_startupinfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="hostfxr_resolve_sdk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="hostfxr_resolve_sdk2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="hostfxr_run_app" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="hostfxr_set_error_writer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="hostfxr_set_runtime_property_value" PURGE="0" COMMENT="" />
+</LIBRARY>
+

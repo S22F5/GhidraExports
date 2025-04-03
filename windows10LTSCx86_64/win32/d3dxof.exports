@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dxof.dll" PATH="/DLLArchive/windows10LTSCX86_64/d3dxof.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.10011.16384">
+    <EXPORT ORDINAL="1" NAME="DirectXFileCreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

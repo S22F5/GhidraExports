@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sqmapi.dll" PATH="/DLLArchive/etc/sqmapi.dll" DATE="Fri Jul 03 13:19:48 PDT 2020" VERSION="6.0.6001.18000 (longhorn_rtm.080118-1840)">
+    <EXPORT ORDINAL="1" NAME="SqmAddToAverage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SqmAddToStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SqmAddToStreamDWord" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SqmAddToStreamString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SqmAddToStreamV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SqmCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SqmClearFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SqmCreateNewId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SqmEndSession" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SqmFlushSession" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SqmGetEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SqmGetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SqmGetMachineId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SqmGetSession" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SqmGetSessionStartTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SqmGetUserId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SqmIncrement" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SqmIsWindowsOptedIn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SqmReadSharedMachineId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SqmReadSharedUserId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SqmSet" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SqmSetAppId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SqmSetAppVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SqmSetBits" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SqmSetBool" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SqmSetCurrentTimeAsUploadTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SqmSetEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SqmSetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SqmSetIfMax" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SqmSetIfMin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SqmSetMachineId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SqmSetString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SqmSetUserId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SqmStartSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SqmStartUpload" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SqmSysprepGeneralize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SqmSysprepSpecialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SqmTimerAccumulate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SqmTimerAddToAverage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SqmTimerRecord" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SqmTimerStart" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SqmUnattendedSetup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SqmWaitForUploadComplete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SqmWriteSharedMachineId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SqmWriteSharedUserId" PURGE="4" COMMENT="" />
+</LIBRARY>
+

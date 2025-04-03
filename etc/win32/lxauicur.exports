@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxauicur.dll" PATH="/DLLArchive/etc/LXAUICUR.DLL" DATE="Fri Jul 03 12:48:36 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="IPCcreate_printer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IPCdestroy_printer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IPCsend_rgb_image" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IPCend_job" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IPCend_page" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IPCcreate_job" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IPCstart_page" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IPCstart_cart_install" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IPCend_cart_install" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="syslookup.dll" PATH="/DLLArchive/etc/syslookup.dll" DATE="Sun Jul 30 11:16:46 CEST 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="funcs" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

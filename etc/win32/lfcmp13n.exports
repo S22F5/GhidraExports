@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lfcmp13n.dll" PATH="/DLLArchive/etc/LFCMP13N.DLL" DATE="Fri Jul 03 12:46:10 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="fltInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fltLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fltSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="fltGetStamp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="fltStartCompressBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="fltCompressBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="fltEndCompressBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="fltComment" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="fltGetTag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="fltDeletePage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="fltLoadBuffer" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="fltSaveBuffer" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="fltSetTag" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="fltSetComment" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="fltTransform" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="fltGetExtension" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="fltSetStamp" PURGE="4" COMMENT="" />
+</LIBRARY>
+

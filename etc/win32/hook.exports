@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hook.dll" PATH="/DLLArchive/etc/Hook.dll" DATE="Sun Mar 04 01:00:48 CET 2007" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RLPack_FreeModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RLPack_HookModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RLPack_SafeFreeModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RLPack_SafeHookModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RLPack_SetModuleBase" PURGE="4" COMMENT="" />
+</LIBRARY>
+

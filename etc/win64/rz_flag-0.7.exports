@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_flag-0.7.dll" PATH="/DLLArchive/etc/rz_flag-0.7.dll" DATE="Mon Mar 04 10:49:08 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_flag_all_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_flag_bind" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_flag_count" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_flag_exist_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_flag_foreach" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_flag_foreach_glob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_flag_foreach_prefix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_flag_foreach_range" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_flag_foreach_space" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_flag_foreach_space_glob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_flag_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_flag_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_flag_get_at" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_flag_get_at_by_spaces" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_flag_get_by_spaces" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_flag_get_i" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_flag_get_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_flag_get_liststr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_flag_item_clone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_flag_item_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_flag_item_set_alias" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_flag_item_set_color" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_flag_item_set_comment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_flag_item_set_realname" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_flag_move" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_flag_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_flag_relocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="rz_flag_rename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="rz_flag_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="rz_flag_set_next" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="rz_flag_tags_get" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="rz_flag_tags_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="rz_flag_tags_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="rz_flag_tags_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="rz_flag_unset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="rz_flag_unset_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="rz_flag_unset_all_in_space" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="rz_flag_unset_all_off" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="rz_flag_unset_glob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="rz_flag_unset_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="rz_flag_unset_off" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="rz_flag_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="rz_flag_zone_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="rz_flag_zone_around" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="rz_flag_zone_barlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="rz_flag_zone_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="rz_flag_zone_item_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="rz_flag_zone_reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="rz_serialize_flag_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="rz_serialize_flag_save" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="rz_serialize_flag_zones_load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="rz_serialize_flag_zones_save" PURGE="0" COMMENT="" />
+</LIBRARY>
+

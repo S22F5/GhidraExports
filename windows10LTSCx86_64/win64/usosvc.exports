@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usosvc.dll" PATH="/DLLArchive/windows10LTSCX86_64/usosvc.dll" DATE="Wed Oct 06 06:51:47 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetDefaultConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetNextAcceptableTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetNextAcceptableTimeEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetSmartActiveHours" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetSmartActiveHoursEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetSmartBusyCheckVelocityFeature" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetTimeIntervalConfidence" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetUserActivityPredictionEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jsproxy.dll" PATH="/DLLArchive/windowsXPSp3Prox86/jsproxy.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="101" NAME="InternetInitializeAutoProxyDll" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="InternetDeInitializeAutoProxyDll" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="InternetGetProxyInfo" PURGE="24" COMMENT="" />
+</LIBRARY>
+

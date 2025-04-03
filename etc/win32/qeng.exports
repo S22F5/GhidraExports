@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qeng.dll" PATH="/DLLArchive/etc/qeng.dll" DATE="Fri Jul 03 13:09:13 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="QPW32Message" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_base@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_besseli@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_besselj@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_besselk@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_bessely@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_bin2dec@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_bin2hex@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_bin2oct@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_ceiling@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_convert@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_dec2bin@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_dec2oct@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_delta@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_even@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_factdouble@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_fourier@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_gestep@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_hex2bin@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_hex2oct@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_imabs@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_imaginary@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_imargument@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_imcomplex@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_imconjugate@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_imcos@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_imdiv@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_imexp@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_imformat@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_imln@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_imlog10@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_imlog2@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_impower@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_improduct@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_imreal@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_imsin@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_imsqrt@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_imsub@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="_imsum@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="_mround@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="_multinomial@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="_myfloor@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="_oct2bin@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="_oct2dec@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="_oct2hex@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="_odd@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="_quotient@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="_randbetween@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="_seriessum@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="_sqrtpi@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

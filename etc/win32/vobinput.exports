@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vobinput.dll" PATH="/DLLArchive/etc/vobinput.dll" DATE="Fri Jul 03 13:28:19 PDT 2020" VERSION="1.2.0.2">
+    <EXPORT ORDINAL="1" NAME="Version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAVDelay" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetStreamData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetStreams" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ClearFileList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AddFile" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

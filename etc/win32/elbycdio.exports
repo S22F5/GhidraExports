@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="elbycdio.dll" PATH="/DLLArchive/etc/ElbyCDIO.dll" DATE="Fri Jul 03 12:32:58 PDT 2020" VERSION="3, 3, 4, 1">
+    <EXPORT ORDINAL="1" NAME="CloakCDR_SendCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ElbyCDIO_CloseScanTargets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ElbyCDIO_CloseTarget" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ElbyCDIO_CreateFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ElbyCDIO_DeInitScsi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ElbyCDIO_DisableAutoInsertNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ElbyCDIO_DisablePowerSaving" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ElbyCDIO_DoScsiIO" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ElbyCDIO_Eject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ElbyCDIO_EnableAutoInsertNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ElbyCDIO_EnablePowerSaving" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ElbyCDIO_EnumTargets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ElbyCDIO_ExDoScsiIO" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ElbyCDIO_ExEject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ElbyCDIO_Free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ElbyCDIO_GetDllVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ElbyCDIO_GetDriveLetter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ElbyCDIO_GetDriveName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ElbyCDIO_GetDriverVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ElbyCDIO_GetFileVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ElbyCDIO_GetOSVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ElbyCDIO_InitScsi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ElbyCDIO_InitScsiAspi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ElbyCDIO_LockBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ElbyCDIO_LockTarget" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ElbyCDIO_Malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ElbyCDIO_OpenTarget1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ElbyCDIO_OpenTarget2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ElbyCDIO_OpenTargetLetter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ElbyCDIO_PreventAllowMediumRemoval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ElbyCDIO_RegCreateKeyEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ElbyCDIO_RegOpenKeyEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ElbyCDIO_SameBus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ElbyCDIO_ScanAndOpenTargets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ElbyCDIO_UnLockTarget" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ElbyCDIO_UnlockBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ElbyCDIO_UsesNoTimedIO" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ElbyCDIO_UsesWinASPI32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="IoCreateList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="IoCreateSafeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="IoDeInitSafeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="IoDeleteList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="IoDeleteSafeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="IoEnqueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="IoInitSafeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="IoObtainSafeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="IoReleaseSafeList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="IoRemHead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="IoRemTail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="RegKill_SendCommand" PURGE="0" COMMENT="" />
+</LIBRARY>
+

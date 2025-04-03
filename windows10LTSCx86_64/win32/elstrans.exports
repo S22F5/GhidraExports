@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="elstrans.dll" PATH="/DLLArchive/windows10LTSCX86_64/elsTrans.dll" DATE="Sat Dec 07 10:09:29 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DoAction" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EnumServices" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FreePropertyBag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeService" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitService" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RecognizeText" PURGE="24" COMMENT="" />
+</LIBRARY>
+

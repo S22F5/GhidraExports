@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-processthreads-l1-1-1.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-processthreads-l1-1-1.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FlushInstructionCache" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="FlushInstructionCache" />
+    <EXPORT ORDINAL="2" NAME="GetCurrentProcessorNumber" PURGE="0" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetCurrentProcessorNumber" />
+    <EXPORT ORDINAL="3" NAME="GetCurrentProcessorNumberEx" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetCurrentProcessorNumberEx" />
+    <EXPORT ORDINAL="4" NAME="GetCurrentThreadStackLimits" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetCurrentThreadStackLimits" />
+    <EXPORT ORDINAL="5" NAME="GetProcessHandleCount" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetProcessHandleCount" />
+    <EXPORT ORDINAL="6" NAME="GetProcessMitigationPolicy" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetProcessMitigationPolicy" />
+    <EXPORT ORDINAL="7" NAME="GetThreadContext" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetThreadContext" />
+    <EXPORT ORDINAL="8" NAME="GetThreadIdealProcessorEx" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetThreadIdealProcessorEx" />
+    <EXPORT ORDINAL="9" NAME="GetThreadTimes" PURGE="20" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetThreadTimes" />
+    <EXPORT ORDINAL="10" NAME="IsProcessorFeaturePresent" PURGE="4" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="IsProcessorFeaturePresent" />
+    <EXPORT ORDINAL="11" NAME="OpenProcess" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="OpenProcess" />
+    <EXPORT ORDINAL="12" NAME="SetProcessMitigationPolicy" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetProcessMitigationPolicy" />
+    <EXPORT ORDINAL="13" NAME="SetThreadContext" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadContext" />
+    <EXPORT ORDINAL="14" NAME="SetThreadIdealProcessorEx" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetThreadIdealProcessorEx" />
+</LIBRARY>
+

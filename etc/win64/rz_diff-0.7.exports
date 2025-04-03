@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_diff-0.7.dll" PATH="/DLLArchive/etc/rz_diff-0.7.dll" DATE="Mon Mar 04 10:48:58 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_diff_bytes_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_diff_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_diff_generic_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_diff_get_a" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_diff_get_b" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_diff_hash_data" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_diff_levenshtein_distance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_diff_lines_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_diff_matches_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_diff_myers_distance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_diff_opcodes_grouped_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_diff_opcodes_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_diff_ratio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_diff_sizes_ratio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_diff_unified_json" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_diff_unified_text" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_diff_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dpapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/dpapi.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CryptProtectDataNoUI" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CryptProtectMemory" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CryptResetMachineCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CryptUnprotectDataNoUI" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CryptUnprotectMemory" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CryptUpdateProtectedState" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="iCryptIdentifyProtection" PURGE="20" COMMENT="" />
+</LIBRARY>
+

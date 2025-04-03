@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netsetupapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/NetSetupApi.dll" DATE="Wed Oct 06 06:52:15 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NetSetupClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetSetupCloseObjectQuery" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetSetupCommit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetSetupCreateObject" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetSetupCreateObjectQuery" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetSetupDeleteObject" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NetSetupFreeObjectProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NetSetupFreeObjects" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NetSetupFreeSerializedFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NetSetupGetObjectProperties" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NetSetupGetObjectPropertyKeys" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NetSetupGetObjects" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NetSetupInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NetSetupOpenAdvancedPropertyKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NetSetupRollback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NetSetupSerializeFilter" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NetSetupSetObjectProperties" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NetSetupSynchronizeDevices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NetSetupValidateTransaction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="OnMachineUILanguageInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="OnMachineUILanguageSwitch" PURGE="12" COMMENT="" />
+</LIBRARY>
+

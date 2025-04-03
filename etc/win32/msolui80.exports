@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msolui80.dll" PATH="/DLLArchive/etc/MSOLUI80.DLL" DATE="Fri Jul 03 21:59:23 CEST 2020" VERSION="8.00.0382">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

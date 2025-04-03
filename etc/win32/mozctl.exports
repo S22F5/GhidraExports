@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mozctl.dll" PATH="/DLLArchive/etc/mozctl.dll" DATE="Fri Jul 03 12:52:17 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="100" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

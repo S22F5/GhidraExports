@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="trkwks.dll" PATH="/DLLArchive/windowsXPSp3Prox86/trkwks.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2108)">
+    <EXPORT ORDINAL="1" NAME="ServiceEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

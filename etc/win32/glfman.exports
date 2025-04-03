@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="glfman.dll" PATH="/DLLArchive/etc/glfman.dll" DATE="Fri Jul 03 12:35:58 PDT 2020" VERSION="1, 0, 0, 10">
+    <EXPORT ORDINAL="1" NAME="??0CBaseResourceHandler@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CBaseResourceHandler@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CBaseResourceHandler@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CBaseResourceHandler@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7CBaseResourceHandler@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??_ECBaseResourceHandler@@QAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_GCBaseResourceHandler@@QAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?CleanMem@CBaseResourceHandler@@UAEHPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetBrowseLine@CBaseResourceHandler@@UAE?AVCString@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetQualityType@CBaseResourceHandler@@UAEXPAVCStringArray@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Glf_FreeAll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Glf_GetResource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Glf_GetTmpFileName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Glf_Load" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Glf_WasLoaded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Init@CBaseResourceHandler@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?InitResourceHandler@CBaseResourceHandler@@UAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?IsRequestedInnerFile@CBaseResourceHandler@@UAEHVCString@@000@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?Load@CBaseResourceHandler@@UAEHPAXHPAPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetResourceType@CBaseResourceHandler@@IAEXVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?View@CBaseResourceHandler@@UAE?AVCString@@PAUHDC__@@PAUHWND__@@PAX@Z" PURGE="16" COMMENT="" />
+</LIBRARY>
+

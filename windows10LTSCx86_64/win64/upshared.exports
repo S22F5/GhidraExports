@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="upshared.dll" PATH="/DLLArchive/windows10LTSCX86_64/upshared.dll" DATE="Wed Oct 06 06:51:47 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ConvertJsonValueToVariant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateQueryStringBuilder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ExpandCabFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LoadJsonFromFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MapExceptionToHResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ParseJson" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SubmitRequestForData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SubmitRequestForSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ToBase64" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VerifySelfSignedImageFile" PURGE="0" COMMENT="" />
+</LIBRARY>
+

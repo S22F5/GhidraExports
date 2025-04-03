@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spfileq.dll" PATH="/DLLArchive/windows10LTSCX86_64/spfileq.dll" DATE="Wed Oct 06 06:52:38 PDT 2021" VERSION="10.0.19041.1081 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SpFileQueueClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SpFileQueueCommit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SpFileQueueCopy" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SpFileQueueDelete" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SpFileQueueFileInUse" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SpFileQueueGetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SpFileQueueGetQueueCount" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SpFileQueueNodeGetSecurityDescriptor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SpFileQueueNodeGetSourceFilename" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SpFileQueueNodeGetSourcePath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SpFileQueueNodeGetSourceRootPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SpFileQueueNodeGetStyleFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SpFileQueueNodeGetTargetDirectory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SpFileQueueNodeGetTargetFilename" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SpFileQueueNodeRemove" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SpFileQueueOpen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SpFileQueueRename" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SpFileQueueSetFlags" PURGE="12" COMMENT="" />
+</LIBRARY>
+

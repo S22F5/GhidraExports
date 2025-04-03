@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lfbmp13n.dll" PATH="/DLLArchive/etc/LFBMP13N.DLL" DATE="Fri Jul 03 21:46:07 CEST 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="fltInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fltLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fltSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="fltDeletePage" PURGE="4" COMMENT="" />
+</LIBRARY>
+

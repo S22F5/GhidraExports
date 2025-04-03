@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exestealth275.dll" PATH="/DLLArchive/etc/EXEStealth275.dll" DATE="Sun Feb 12 18:35:16 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qcard32.dll" PATH="/DLLArchive/etc/qcard32.dll" DATE="Fri Jul 03 13:08:55 PDT 2020" VERSION="2, 0, 0, 2">
+    <EXPORT ORDINAL="1" NAME="DrawCard" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrawBack" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrawSymbol" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RemoveCard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitializeDeck" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DealCard" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetCardColor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetCardSuit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCardValue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetCardStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetCardBlocked" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IsCardDisabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetCardX" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetCardY" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetUser1" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetUser2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetUser3" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetUser4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetCardStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AdjustCardBlocked" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SetCardDisabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetCardX" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetCardY" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetUser1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SetUser2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SetUser3" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SetUser4" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="InitDrag" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="PointInFreeCard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SetActiveCard" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DoDrag" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="EndDrag" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ReturnDrag" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PointInCardTop" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SetDefaultValues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="BlockDrag" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="EndBlockDrag" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ReturnBlockDrag" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="GetFreeDestination" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="AbortDrag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SetCurrentBack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SetOffSet" PURGE="4" COMMENT="" />
+</LIBRARY>
+

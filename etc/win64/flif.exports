@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="flif.dll" PATH="/DLLArchive/etc/Flif.dll" DATE="Tue Oct 13 23:12:44 CEST 2020" VERSION="4.56.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadFLIF_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

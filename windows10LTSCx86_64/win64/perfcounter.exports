@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfcounter.dll" PATH="/DLLArchive/windows10LTSCX86_64/PerfCounter.dll" DATE="Sat Dec 07 01:10:37 PST 2019" VERSION="4.8.4084.0 built by: NET48REL1">
+    <EXPORT ORDINAL="1" NAME="OpenPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClosePerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CollectPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FormatFromRawValue" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

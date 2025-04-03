@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ttdrecordcpu.dll" PATH="/DLLArchive/windows10LTSCX86_64/ttdrecordcpu.dll" DATE="Sat Dec 07 10:09:17 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ClearClientTlsValueForThreadId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FlushCodeCaches" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetClientTlsValueForCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetInstructionCounts" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetRegisterOffsets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitializeEmulateOnlyClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InitializeGlobalState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InitializeNirvanaClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitializeRecorder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitializeSmartCpuClient" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InjectThread" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IsEmulatingCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IsSimulating" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="OpenWriter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ParametersBlock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RegisterInstrumentationCallbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RegisterRecordCallbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RequestUnhookedFunctions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ResetMaxInstructionsToEmulate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ResumeSimulation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RunCallbackWithSmartContextForCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetRuntimeOptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetThreadNative" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="StartEmulatingCurrentThread" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="StopEmulatingCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="StubDllEntry" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="StubDllEntryWow64" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TriggerOSNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TryPauseSimulation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TtdWriterAddCustomEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="TtdWriterDumpHeaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="TtdWriterDumpModuleData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="TtdWriterDumpSnapshot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="TtdWriterGetFileName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="TtdWriterGetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="TtdWriterGetThrottleState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="TtdWriterRelease" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="TtdWriterResetThrottle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="TtdWriterResumeRecording" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="TtdWriterStartRecordingCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="TtdWriterStopRecordingCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="TtdWriterTryPauseRecording" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="g_ttdConstants" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

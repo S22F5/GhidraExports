@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dchesm32.dll" PATH="/DLLArchive/etc/dchesm32.dll" DATE="Wed Oct 23 01:36:40 PDT 2024" VERSION="9.2.1 (BLD_3193)">
+    <EXPORT ORDINAL="1" NAME="DCHESM2Command" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DCHESMDriverHeartBeatInterval" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DCHESMHostControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DCHESMHostWatchDogControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DCHESMLogEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DCHESMOSShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DCHESMSetSELTime" PURGE="0" COMMENT="" />
+</LIBRARY>
+

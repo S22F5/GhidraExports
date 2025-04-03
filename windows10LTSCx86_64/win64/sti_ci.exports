@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sti_ci.dll" PATH="/DLLArchive/windows10LTSCX86_64/sti_ci.dll" DATE="Wed Oct 06 06:52:45 PDT 2021" VERSION="10.0.19041.264 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AddDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateWiaDeviceList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DestroyWiaDeviceList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DisableWiaDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnableWiaDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetWiaDeviceProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="InstallWiaDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="InstallWiaService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetWiaDeviceProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UninstallWiaDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WiaAddDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WiaCreatePortList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WiaDestroyPortList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WiaDeviceEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WiaRemoveDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ClassInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CoinstallerEntry" PURGE="0" COMMENT="" />
+</LIBRARY>
+

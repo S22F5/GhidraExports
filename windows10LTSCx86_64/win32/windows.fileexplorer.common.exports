@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.fileexplorer.common.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.FileExplorer.Common.dll" DATE="Wed Oct 06 06:52:41 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2001" NAME="Ordinal_2001" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2000" NAME="Ordinal_2000" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2002" NAME="ApplyProviderSettings" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2003" NAME="GatherProviderSettings" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2004" NAME="RegisterChangeNotifications" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2005" NAME="UnregisterChangeNotifications" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2006" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2007" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2008" NAME="FECommon_BindToFilePlaceholderHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2009" NAME="FECommon_CSyncRootManager_CreateInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2010" NAME="FECommon_CreatePlaceholderFile" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2011" NAME="FECommon_FilePlaceholder_BindToPrimaryStream" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2012" NAME="FECommon_FilePlaceholder_CreateInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2013" NAME="FECommon_GetPlaceholderStatesFromFileAttributesAndReparsePointTag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2014" NAME="FECommon_GetSkyDriveNetworkStates" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2015" NAME="FECommon_GetStorageProviderDisplayName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2016" NAME="FECommon_GetStorageProviderInfoFromItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2017" NAME="FECommon_PerformCloudFilePinAction" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2018" NAME="FECommon_SetPlaceholderReparsePointAttribute2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2019" NAME="FECommon_SetPlaceholderReparsePointAttribute" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2020" NAME="FECommon_UpdateFilePlaceholderStates" PURGE="12" COMMENT="" />
+</LIBRARY>
+

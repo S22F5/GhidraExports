@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="migrate.dll" PATH="/DLLArchive/windowsXPSp3Prox86/MIGRATE.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Initialize9x" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializeNT" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MigrateSystem9x" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MigrateSystemNT" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MigrateUser9x" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MigrateUserNT" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="QueryVersion" PURGE="20" COMMENT="" />
+</LIBRARY>
+

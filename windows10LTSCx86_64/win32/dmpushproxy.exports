@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmpushproxy.dll" PATH="/DLLArchive/windows10LTSCX86_64/dmpushproxy.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PushRouter_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PushRouter_GetMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PushRouter_Open" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PushRouter_SubmitPush" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PushRouter_FreeMessage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PushRouter_GetMessageEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PushRouter_FreeMessageEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PushRouter_FreeGetMessageEventName" PURGE="4" COMMENT="" />
+</LIBRARY>
+

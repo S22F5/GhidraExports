@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="impdn.dll" PATH="/DLLArchive/etc/ImPDN.dll" DATE="Wed Dec 11 16:20:46 PST 2013" VERSION="v1.16">
+    <EXPORT ORDINAL="1" NAME="GetPaintDotNetLayersW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ImPlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ReadPaintDotNetA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadPaintDotNetW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetPaintDotNetLayersA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

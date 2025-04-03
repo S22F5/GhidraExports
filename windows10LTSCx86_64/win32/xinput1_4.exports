@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xinput1_4.dll" PATH="/DLLArchive/windows10LTSCX86_64/XInput1_4.dll" DATE="Wed Oct 06 06:53:00 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="Ordinal_108" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="Ordinal_104" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XInputGetState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="XInputSetState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="XInputGetCapabilities" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="XInputEnable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="XInputGetBatteryInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="XInputGetKeystroke" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="XInputGetAudioDeviceIds" PURGE="20" COMMENT="" />
+</LIBRARY>
+

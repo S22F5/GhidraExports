@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="client.dll" PATH="/DLLArchive/etc/client.dll" DATE="Fri Jul 03 21:27:02 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="HUD_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HUD_Redraw" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HUD_Reset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HUD_UpdateClientData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HUD_VidInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Initialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

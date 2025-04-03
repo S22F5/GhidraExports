@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msshlstf.dll" PATH="/DLLArchive/etc/MSSHLSTF.DLL" DATE="Wed May 13 09:04:20 PDT 1998" VERSION="2.2">
+    <EXPORT ORDINAL="1" NAME="CleanupTrap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DontShowFrameInitially" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FRestoreCursor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FSetAbout" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FSetBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FSetSymbolSubst" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FSetSymbolSubsym" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FSetSymbolValue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FrameWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HSetup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HShowWaitCursor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HinstFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HwndFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InitializeFrame" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TerminateFrame" PURGE="0" COMMENT="" />
+</LIBRARY>
+

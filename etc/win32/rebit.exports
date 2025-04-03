@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rebit.dll" PATH="/DLLArchive/etc/rebIT.dll" DATE="Tue Dec 12 12:08:00 PST 2000" VERSION="[1.1] by yoda">
+    <EXPORT ORDINAL="1" NAME="RebuildITDeluxe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RebuildIT" PURGE="12" COMMENT="" />
+</LIBRARY>
+

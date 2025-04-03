@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="versioncue.dll" PATH="/DLLArchive/etc/versioncue.dll" DATE="Fri Jul 03 13:27:21 PDT 2020" VERSION="4.0.0.2837m">
+    <EXPORT ORDINAL="1" NAME="ARMGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ARMInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ARMTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WebAccessUtilsGoToURL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVAWS_CS_MultiString_Internal@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?CommonSymbolsVersion@@YAIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CommonSymbolsInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CommonSymbolsTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WebAccessFlushAuthHeaders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WebAccessFlushAuthHeadersForRealmExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WebAccessFlushAuthHeadersForServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WebAccessHttpCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WebAccessHttpInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WebAccessHttpNetPump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WebAccessHttpTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WebAccessHttpVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WebAccessUtilsAddAuthentication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WebAccessUtilsClearAuthenticationCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WebAccessUtilsFindAuthentication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WebAccessUtilsGetAuthentication_Internal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WebAccessUtilsInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WebAccessUtilsRemoveAuthentication" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WebAccessUtilsTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WebAccessUtilsUserLoginDialog_Internal" PURGE="0" COMMENT="" />
+</LIBRARY>
+

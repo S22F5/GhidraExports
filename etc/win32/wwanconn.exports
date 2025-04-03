@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wwanconn.dll" PATH="/DLLArchive/etc/wwanconn.dll" DATE="Fri Jul 03 13:39:07 PDT 2020" VERSION="08.01.7601.17514 (win7sp1_rtm.101119-1850)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atmui.dll" PATH="/DLLArchive/etc/atmui.dll" DATE="Fri Jul 03 12:24:04 PDT 2020" VERSION="4.10.2222">
+    <EXPORT ORDINAL="1" NAME="WanConfigDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WanQueryConfigData" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="createmap.dll" PATH="/DLLArchive/etc/CreateMap.dll" DATE="Tue Jan 25 21:45:54 PST 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VBDecompilerPluginAuthor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VBDecompilerPluginLoad" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VBDecompilerPluginName" PURGE="0" COMMENT="" />
+</LIBRARY>
+

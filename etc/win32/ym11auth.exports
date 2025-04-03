@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ym11auth.dll" PATH="/DLLArchive/etc/YM11AUTH.DLL" DATE="Fri Jul 03 22:43:19 CEST 2020" VERSION="1, 0, 0, 2">
+    <EXPORT ORDINAL="1" NAME="GetYahooStrings" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

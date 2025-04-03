@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="image.dll" PATH="/DLLArchive/etc/image.dll" DATE="Fri Jul 03 12:41:14 PDT 2020" VERSION="5, 5, 0, 3">
+    <EXPORT ORDINAL="1" NAME="??0CNeroError@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CNeroErrorList@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4CNeroErrorList@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??_7CNeroError@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7CNeroErrorList@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?EnableMessageTranslation@CNeroError@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CDRConnectDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CDRDisconnectDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CDRGetSupportLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CDRGetSupportLevelWithInquiry" PURGE="0" COMMENT="" />
+</LIBRARY>
+

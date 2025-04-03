@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dnsmgr.dll" PATH="/DLLArchive/etc/dnsmgr.dll" DATE="Fri Jul 03 12:31:55 PDT 2020" VERSION="5.2.3790.0 (srv03_rtm.030324-2048)">
+    <EXPORT ORDINAL="5" NAME="DnsSetup" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

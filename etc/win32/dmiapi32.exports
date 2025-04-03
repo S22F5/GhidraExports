@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmiapi32.dll" PATH="/DLLArchive/etc/dmiapi32.dll" DATE="Fri Jul 03 21:31:45 CEST 2020" VERSION="1.01">
+    <EXPORT ORDINAL="1" NAME="DmiInvoke" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DmiIndicate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DmiInstall" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DmiCiProcess" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="sDmiInvoke" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DM_Query_FileInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DM_Query_FileName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DM_Query_FileSize" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DM_Query_FileDateTime" PURGE="20" COMMENT="" />
+</LIBRARY>
+

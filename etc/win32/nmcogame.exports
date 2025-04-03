@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmcogame.dll" PATH="/DLLArchive/etc/nmcogame.dll" DATE="Fri Jul 03 13:01:46 PDT 2020" VERSION="2, 5, 24, 0">
+    <EXPORT ORDINAL="1" NAME="NMCO_CallNMFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NMCO_MemoryFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NMCO_SetLocale" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NMCO_SetLocaleAndRegion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NMCO_SetPatchOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NMCO_SetUseFriendModuleOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NMCO_SetUseNGMOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NMCO_SetVersionFileUrl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NMCO_SetVersionFileUrlA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NMCO_SetVersionFileUrlW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

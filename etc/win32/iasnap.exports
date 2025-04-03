@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iasnap.dll" PATH="/DLLArchive/etc/iasnap.dll" DATE="Fri Jul 03 12:38:31 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IASEvaluateExpression" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IASEvaluateTimeOfDay" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IASParseExpression" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IASParseExpressionEx" PURGE="8" COMMENT="" />
+</LIBRARY>
+

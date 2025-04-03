@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pluginsample.dll" PATH="/DLLArchive/etc/PluginSample.dll" DATE="Sat Jul 27 11:43:50 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DoUnpack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPluginName" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lzh.dll" PATH="/DLLArchive/etc/lzh.dll" DATE="Mon Apr 21 20:23:30 PDT 2008" VERSION="4.42">
+    <EXPORT ORDINAL="1" NAME="CreateObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetHandlerProperty" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cldapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/cldapi.dll" DATE="Wed Oct 06 06:52:32 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CfAbortOperation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CfCloseAppPolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CfCloseHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CfConnectSyncRoot" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CfConvertToPlaceholder" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CfCreatePlaceholders" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CfDehydratePlaceholder" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CfDehydratePlaceholderEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CfDisconnectSyncRoot" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CfEnumAppPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CfExecute" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CfGetCorrelationVector" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CfGetLastSyncStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CfGetPlaceholderInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CfGetPlaceholderRangeInfo" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CfGetPlaceholderStateFromAttributeTag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CfGetPlaceholderStateFromFileInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CfGetPlaceholderStateFromFindData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CfGetPlatformInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="CfGetSyncRootInfoByHandle" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CfGetSyncRootInfoByPath" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CfGetTransferKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CfGetWin32HandleFromProtectedHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CfHydratePlaceholder" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CfLockProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CfOpenAppPolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="CfOpenFileWithOplock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="CfOpenProgressEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CfQueryProgress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CfQuerySyncProviderStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="CfReferenceProtectedHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="CfRegisterSyncRoot" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="CfReleaseProtectedHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="CfReleaseTransferKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="CfReportProviderProgress2" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="CfReportProviderProgress" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="CfReportSyncStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="CfRetrieveProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="CfRevertPlaceholder" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="CfSetAppPolicy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="CfSetCorrelationVector" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="CfSetInSyncState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="CfSetPinState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="CfStoreProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="CfUnlockProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="CfUnregisterSyncRoot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="CfUpdatePlaceholder" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="CfUpdateSyncProviderStatus" PURGE="12" COMMENT="" />
+</LIBRARY>
+

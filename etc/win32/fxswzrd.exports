@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxswzrd.dll" PATH="/DLLArchive/etc/fxswzrd.dll" DATE="Fri Jul 03 12:35:26 PDT 2020" VERSION="5.2.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="FaxFreeSendWizardData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxSendWizard" PURGE="28" COMMENT="" />
+</LIBRARY>
+

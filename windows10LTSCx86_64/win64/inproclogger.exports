@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inproclogger.dll" PATH="/DLLArchive/windows10LTSCX86_64/InprocLogger.dll" DATE="Fri Dec 06 17:34:00 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EnableInProcTracingForProvider" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FlushInProcTraceSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InitializeInProcLogger" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InitializeInProcTraceFlushTrigger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitializeInProcTraceSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsInProcTraceSessionStarted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ShutdownInProcLogger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ShutdownInProcTraceFlushTrigger" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShutdownInProcTraceSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="StartInProcTraceSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="StopInProcTraceSession" PURGE="0" COMMENT="" />
+</LIBRARY>
+

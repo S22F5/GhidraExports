@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="charset-1.dll" PATH="/DLLArchive/etc/charset-1.dll" DATE="Wed Nov 15 20:02:58 CET 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?_OptionsStorage@?1??__local_stdio_printf_options@@9@9" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="libcharset_set_relocation_prefix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="locale_charset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

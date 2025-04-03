@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wminet_utils.dll" PATH="/DLLArchive/etc/WMINet_Utils.dll" DATE="Mon Mar 30 14:54:00 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="BeginEnumeration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BeginMethodEnumeration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Clone" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CompareTo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Delete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeleteMethod" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EndEnumeration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EndMethodEnumeration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Get" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetCurrentApartmentType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetMethod" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetMethodOrigin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetMethodQualifierSet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetNames" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetObjectText" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetPropertyHandle" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetPropertyInfoByHandle" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetPropertyOrigin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetPropertyQualifierSet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetQualifierSet" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="InheritsFrom" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Lock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Next" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="NextMethod" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Put" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PutMethod" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="QualifierSet_BeginEnumeration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="QualifierSet_Delete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="QualifierSet_EndEnumeration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="QualifierSet_Get" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="QualifierSet_GetNames" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="QualifierSet_Next" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="QualifierSet_Put" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ReadDWORD" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ReadPropertyValue" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ReadQWORD" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SpawnDerivedClass" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SpawnInstance" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="UFunc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="Unlock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="VerifyClientKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="WriteDWORD" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="WriteDouble" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="WritePropertyValue" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="WriteQWORD" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="WriteSingle" PURGE="16" COMMENT="" />
+</LIBRARY>
+

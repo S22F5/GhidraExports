@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aplib.dll" PATH="/DLLArchive/etc/APLIB.dll" DATE="Thu Apr 18 18:15:00 CEST 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_aP_pack@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_aP_workmem_size@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_aP_max_packed_size@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_aP_depack_asm@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_aP_depack_asm_fast@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_aPsafe_pack@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_aPsafe_check@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_aPsafe_get_orig_size@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_aPsafe_depack_asm@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_aPsafe_depack_asm_fast@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_aP_max_packed_size" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_aP_workmem_size" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_aP_pack" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_aP_depack_asm" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_aP_depack_asm_fast" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_aP_crc32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_aP_crc32@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_aPsafe_check" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_aPsafe_get_orig_size" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_aPsafe_pack" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_aPsafe_depack_asm" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_aPsafe_depack_asm_fast" PURGE="8" COMMENT="" />
+</LIBRARY>
+

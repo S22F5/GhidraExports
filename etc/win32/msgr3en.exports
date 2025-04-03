@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msgr3en.dll" PATH="/DLLArchive/etc/MSGR3EN.DLL" DATE="Fri Jul 03 12:55:50 PDT 2020" VERSION="3.1.3921">
+    <EXPORT ORDINAL="28" NAME="CheckVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CheckInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="CheckTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="CheckText" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="CheckGetError" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="CheckGetErrorInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="CheckIgnoreError" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="CheckResetError" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="CheckFreeHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="CheckEnumHandles" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="CheckUnloadDoc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="CheckOpenMdt" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="CheckCloseMdt" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="CheckAddStats" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="CheckGetStats" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="CheckInitStats" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="CheckStats" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="CheckIgnoreRule" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="CheckResetRule" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="CheckIsRuleIgnored" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="CheckUseOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="CheckOptionSettings" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="CheckResetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="CheckWriteOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="CheckLoadPersistData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="CheckSavePersistData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="CheckSubtractStats" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="CheckBatchUpdate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="CheckAddUdr" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="CheckGetNamedEntity" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="59" NAME="CheckGetNormalizedData" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

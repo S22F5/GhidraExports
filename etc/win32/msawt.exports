@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msawt.dll" PATH="/DLLArchive/etc/msawt.dll" DATE="Fri Jul 03 12:54:16 PDT 2020" VERSION="5.00.3810">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="com_ms_awt_ZMenuBarPeer_nativeCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="com_ms_awt_ZMenuComponentPeer_nativeReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="com_ms_awt_ZMenuPeer_nativeShow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RNIGetCompatibleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="com_ms_activeX_ActiveXComponent_createAXComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="com_ms_awt_WFramePeer_nativeSetMenuBar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="com_ms_awt_WToolkit_consumeAWTEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="com_ms_awt_WToolkit_consumeEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="com_ms_awt_WToolkit_copyFieldsIntoPeer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="com_ms_awt_WToolkit_createNativeComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="com_ms_awt_WToolkit_createNativeFileDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="com_ms_awt_WToolkit_createNativeFontMetrics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="com_ms_awt_WToolkit_createNativeGraphics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="com_ms_awt_WToolkit_createNativeResource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="com_ms_awt_WToolkit_createNativeToolkit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="com_ms_awt_WToolkit_getComponentColor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="com_ms_awt_WToolkit_getContainerElement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="com_ms_awt_WToolkit_getEventData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="com_ms_awt_WToolkit_getFontNativeData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="com_ms_awt_WToolkit_getMenuBarFromFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="com_ms_awt_WToolkit_getMenuComponentFont" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="com_ms_awt_WToolkit_getMonitorVerticalRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="com_ms_awt_WToolkit_isAWTEventConsumed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="com_ms_awt_WToolkit_isEventConsumed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="com_ms_awt_WToolkit_setAWTEventSource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="com_ms_awt_WToolkit_setComponentLocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="com_ms_awt_WToolkit_setComponentParent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="com_ms_awt_WToolkit_setComponentSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="com_ms_awt_WToolkit_setFontNativeData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="com_ms_awt_ZMenuBarPeer_nativeDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="com_ms_awt_ZMenuComponentPeer_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="com_ms_awt_ZMenuComponentPeer_nativeGetMenuComponentFont" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="com_ms_awt_ZMenuItemPeer_nativeCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="com_ms_awt_ZMenuItemPeer_nativeDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="com_ms_awt_ZMenuItemPeer_nativeSetEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="com_ms_awt_ZMenuItemPeer_nativeSetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="com_ms_awt_ZMenuPeer_nativeCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="com_ms_awt_ZMenuPeer_nativeCreatePopup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="com_ms_awt_image_ImageRepresentation_createNativeImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="com_ms_awt_image_ImageRepresentation_getDirectColorModelToolkitData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="com_ms_awt_image_ImageRepresentation_getIndexColorModelOpaque" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="com_ms_awt_image_ImageRepresentation_getIndexColorModelToolkitData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="com_ms_fx_RegionConverter_computeJavaRegion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="com_ms_fx_RegionConverter_computeNativeRegion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="com_ms_fx_RegionConverter_computeScaledNativeRegion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="com_ms_lang_SystemX_createNativeServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="com_ms_util_InputMethod_SystemIME_createNativeSystemIME" PURGE="0" COMMENT="" />
+</LIBRARY>
+

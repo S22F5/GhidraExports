@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pxgr3260.dll" PATH="/DLLArchive/etc/pxgr3260.dll" DATE="Fri Jul 03 13:08:19 PDT 2020" VERSION="6.0.7.1607">
+    <EXPORT ORDINAL="1" NAME="CanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

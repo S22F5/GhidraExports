@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coreaudiopolicymanagerext.dll" PATH="/DLLArchive/windows10LTSCX86_64/coreaudiopolicymanagerext.dll" DATE="Sat Dec 07 01:08:07 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsApmDuckingGainForIdSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsApmLayoutGainForIdSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsApmRegisterProxyAudioProcessSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IsDataRangeForEndpointSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsHHostEdappManagerContextRundownSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsHdAudioProtocolNotifyRundownSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsPbmAllowMediaPlaybackForAppSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsPbmCastingAppStateChangedSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IsPbmLaunchBackgroundTaskSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsPbmPlayToStreamStateChangedSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IsPbmPlayingSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IsPbmRegisterAppClosureNotificationSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IsPbmRegisterAppManagerNotificationSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IsPbmRegisterPlaybackManagerNotificationsSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsPbmReportAppClosingSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IsPbmReportAppInteractivityChangeSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IsPbmReportApplicationStateSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IsPbmReportHostedAppStateChangeSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IsPbmSessionPlayingSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IsPbmSmtcSubscriptionStateSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IsPbmSoundLevelSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IsPbmSwitchSoftNonToHardNonInteractiveSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IsPbmUnregisterAppClosureNotificationSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IsPbmUnregisterAppManagerNotificationSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IsPbmUnregisterPlaybackManagerNotificationsSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IsScreenReaderStateSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IsTSRegisterAudioProtocolNotificationSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IsTSServiceSessionChangeSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IsTSSessionGetAudioProtocolSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IsTSSessionIdAudioProtocolSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IsTSSessionIdRegisterVolumeTrackerForSessionSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IsTSSessionIdStreamStartedSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="IsTSSessionIdStreamStoppedSupported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="IsTSUnregisterAudioProtocolNotificationSupported" PURGE="0" COMMENT="" />
+</LIBRARY>
+

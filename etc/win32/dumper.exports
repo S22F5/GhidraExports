@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dumper.dll" PATH="/DLLArchive/etc/Dumper.dll" DATE="Sun Dec 14 12:22:14 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AddNewSection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddOverlay" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConvertFileOffsetToVA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConvertVAtoFileOffset" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CopyOverlay" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DeleteLastSection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DumpMemory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DumpProcess" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DumpProcessEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ExtractOverlay" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FindOverlay" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetModuleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetPE32Data" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetPE32DataEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetPE32DataFromMappedFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetPE32DataFromMappedFileEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetSharedOverlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IsFileDLL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MakeAllSectionsRWE" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PastePEHeader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PastePEHeaderEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetSharedOverlay" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="StaticLengthDisassemble" PURGE="4" COMMENT="" />
+</LIBRARY>
+

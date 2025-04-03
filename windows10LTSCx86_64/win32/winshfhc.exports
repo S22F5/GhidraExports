@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winshfhc.dll" PATH="/DLLArchive/windows10LTSCX86_64/winshfhc.dll" DATE="Wed Oct 06 06:52:19 PDT 2021" VERSION="10.0.19041.662 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="MRTComponent_Generalize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

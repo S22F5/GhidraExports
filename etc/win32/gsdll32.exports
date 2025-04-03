@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gsdll32.dll" PATH="/DLLArchive/etc/gsdll32.dll" DATE="Fri Jul 03 12:36:23 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="gsdll_revision" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="gsdll_init" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="gsdll_execute_begin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="gsdll_execute_cont" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="gsdll_execute_end" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="gsdll_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="gsdll_lock_device" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="gsdll_copy_dib" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="gsdll_copy_palette" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="gsdll_draw" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="gsdll_get_bitmap_row" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllEntryPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

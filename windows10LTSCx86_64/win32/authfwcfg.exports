@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="authfwcfg.dll" PATH="/DLLArchive/windows10LTSCX86_64/authfwcfg.dll" DATE="Wed Oct 06 15:53:04 CEST 2021" VERSION="10.0.19041.964 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetResourceString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitHelperDll" PURGE="8" COMMENT="" />
+</LIBRARY>
+

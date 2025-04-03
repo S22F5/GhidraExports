@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="irisservice.dll" PATH="/DLLArchive/windows10LTSCX86_64/IrisService.dll" DATE="Wed Oct 06 06:53:25 PDT 2021" VERSION="2001.22012.0.3920">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

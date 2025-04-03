@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zlibcodec.dll" PATH="/DLLArchive/etc/ZLibCodec.dll" DATE="Wed Dec 28 09:41:24 CET 2016" VERSION="1.1.0.0">
+    <EXPORT ORDINAL="1" NAME="DecodeIStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EncodeIStream" PURGE="8" COMMENT="" />
+</LIBRARY>
+

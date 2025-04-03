@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dfdll.dll" PATH="/DLLArchive/windows10LTSCX86_64/dfdll.dll" DATE="Wed Oct 06 06:44:38 PDT 2021" VERSION="4.8.4270.0 built by: NET48REL1LAST_C">
+    <EXPORT ORDINAL="1" NAME="ActivateDeploymentA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ActivateDeploymentExW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ActivateDeploymentW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ActivateFileAssociationA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ActivateFileAssociationW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CleanOnlineAppCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetApplicationExtensionIcon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDefinitionAppIdKeyForm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetDeploymentDataFromManifest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetEntryPointPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetIconFileNameA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetIconFileNameW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="KillService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RegisterDeploymentServiceCom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ShArpMaintain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ShArpMaintainW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UnregisterDeploymentServiceCom" PURGE="0" COMMENT="" />
+</LIBRARY>
+

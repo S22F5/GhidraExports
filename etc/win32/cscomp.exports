@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cscomp.dll" PATH="/DLLArchive/etc/cscomp.dll" DATE="Fri Jul 03 12:28:21 PDT 2020" VERSION="7.00.9951">
+    <EXPORT ORDINAL="1" NAME="InMemoryCompile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateCompilerFactory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_GetMessageDll@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VSDllRegisterServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VSDllUnregisterServer" PURGE="4" COMMENT="" />
+</LIBRARY>
+

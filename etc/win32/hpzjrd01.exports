@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpzjrd01.dll" PATH="/DLLArchive/etc/hpzjrd01.dll" DATE="Fri Jul 03 12:37:05 PDT 2020" VERSION="1, 0, 0, 5">
+    <EXPORT ORDINAL="1" NAME="??0Address@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0Address@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0IPDiscoveryDLL@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0IPDiscoveryDLL@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0Snmp@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0SnmpSyntax@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??0SnmpSyntax@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??0SnmpTarget@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??0SnmpTarget@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??1Counter32@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??1IPDiscoveryDLL@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??1SnmpSyntax@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??4Address@@QAEAAV0@AAV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??4IPDiscoveryDLL@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??4Snmp@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??4SnmpSyntax@@UAEAAV0@AAV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??4SnmpTarget@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??_7Address@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="??_7IPDiscoveryDLL@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="??_7Snmp@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="??_7SnmpSyntax@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="??_7SnmpTarget@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?DiscoverIP@IPDiscoveryDLL@@QAGPBDPBD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?DiscoverIP@IPDiscoveryDLL@@QAGPBGPBG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?GetJetdirectHandle@IPDiscoveryDLL@@QAG_NPADPBD@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetJetdirectHandle@IPDiscoveryDLL@@QAG_NPAGPBG@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?GetJetdirectHandleSize@IPDiscoveryDLL@@QAGHXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?GetLastError@IPDiscoveryDLL@@QAGHXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?VerifyIPMatchesJetdirect@IPDiscoveryDLL@@QAG_NPBD0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?VerifyIPMatchesJetdirect@IPDiscoveryDLL@@QAG_NPBG0@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?hashFunction@Address@@UBEIXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

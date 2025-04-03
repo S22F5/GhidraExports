@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sechealthuidatamodel.dll" PATH="/DLLArchive/windows10LTSCX86_64/SecHealthUIDataModel.dll" DATE="Wed Oct 06 06:51:51 PDT 2021" VERSION="10.0.19041.964 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

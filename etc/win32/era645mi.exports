@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="era645mi.dll" PATH="/DLLArchive/etc/era645mi.dll" DATE="Fri Jul 03 12:33:26 PDT 2020" VERSION="7.0.0.8739">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GraphicExport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

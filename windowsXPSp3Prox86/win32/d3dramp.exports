@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dramp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/d3dramp.dll" DATE="Fri Aug 17 22:34:02 CEST 2001" VERSION="5.1.2600.0">
+    <EXPORT ORDINAL="1" NAME="RampOldTri" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="g_RampOld_BeadTbl" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

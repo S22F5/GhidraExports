@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="purchasedialog.dll" PATH="/DLLArchive/etc/PurchaseDialog.dll" DATE="Mon Sep 26 06:04:10 CEST 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?InvokePurchaseDialog@@YAHPAD00@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

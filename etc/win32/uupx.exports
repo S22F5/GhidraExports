@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="uupx.dll" PATH="/DLLArchive/etc/uupx.dll" DATE="Tue Dec 09 02:27:12 PST 2003" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetPTPluginName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartPTPlugin" PURGE="4" COMMENT="" />
+</LIBRARY>
+

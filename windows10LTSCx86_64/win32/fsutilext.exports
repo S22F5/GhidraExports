@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fsutilext.dll" PATH="/DLLArchive/windows10LTSCX86_64/fsutilext.dll" DATE="Sat Dec 07 10:09:22 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CheckSonyMSWorker" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeviceInstIsRemovableWorker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FindFirstVolumeMountPointWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FindNextVolumeMountPointWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FindVolumeMountPointCloseStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetDeviceIDDiskFromDeviceIDVolumeWorker" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetDeviceInstanceWorker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetRemovableDeviceInstRecursWorker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetWidgetWorker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InvalidateFveWorker" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SendWithSenseParseWorker" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetThreadUILanguageStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SystemParametersInfoWStub" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WaitForUnitAndReportProgressWorker" PURGE="8" COMMENT="" />
+</LIBRARY>
+

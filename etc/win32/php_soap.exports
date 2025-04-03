@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="php_soap.dll" PATH="/DLLArchive/etc/php_soap.dll" DATE="Fri Jul 03 13:06:50 PDT 2020" VERSION="5.1.2.2">
+    <EXPORT ORDINAL="1" NAME="get_module" PURGE="0" COMMENT="" />
+</LIBRARY>
+

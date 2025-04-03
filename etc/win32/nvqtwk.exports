@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvqtwk.dll" PATH="/DLLArchive/etc/NvQTwk.dll" DATE="Fri Jul 03 13:02:37 PDT 2020" VERSION="6.13.10.2841">
+    <EXPORT ORDINAL="1" NAME="AppAssocInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AppAssocUninit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsDesktopManagerRunning" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NvCplDaemon" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NvCycleDisplayDevice" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NvTaskbarDelete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NvTaskbarInit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NvTaskbarUpdateIcon" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UpdateDesktopManagerRegistry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ValidateNVDesk32Environment" PURGE="16" COMMENT="" />
+</LIBRARY>
+

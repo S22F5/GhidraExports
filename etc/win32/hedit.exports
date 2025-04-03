@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hedit.dll" PATH="/DLLArchive/etc/HEdit.dll" DATE="Mon Mar 05 08:14:28 PST 2018" VERSION="1.4.2018.0">
+    <EXPORT ORDINAL="1" NAME="HESetInternalOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HEShowWindow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

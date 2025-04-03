@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netfxocm.dll" PATH="/DLLArchive/etc/netfxocm.dll" DATE="Fri Jul 03 13:01:32 PDT 2020" VERSION="1.0.3705.288">
+    <EXPORT ORDINAL="1" NAME="UrtOcmProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

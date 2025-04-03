@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="feclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/feclient.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EfsUtilGetCurrentKey" PURGE="-1" COMMENT="" FOWARDLIBRARY="EFSUTIL.DLL" FOWARDSYMBOL="_EfsUtilGetCurrentKey_Deprecated@16" />
+    <EXPORT ORDINAL="2" NAME="DpQueryUserProtectorDescriptor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DpQueryUserProtectorDescriptorInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EdpAllowFileAccessForProcess" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EdpContainerizeFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EdpCredentialCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EdpCredentialDelete" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EdpCredentialExists" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EdpCredentialQuery" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EdpDecontainerizeFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EdpDplPolicyEnabledForUser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EdpDplStartCredServiceIfDplEnabledForUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EdpDplUpgradePinInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EdpDplUpgradeVerifyUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EdpDplUserCredentialsSet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="EdpDplUserUnlockComplete" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="EdpDplUserUnlockStart" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="EdpFree" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="EdpGetContainerIdentity" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="EdpGetCredServiceState" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="EdpIsConsumerDataProtectionEnforced" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EdpIsConsumerDataProtectionSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="EdpPurgeAppLearningEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="EdpQueryCredServiceInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="EdpQueryDplEnforcedPolicyOwnerIds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="EdpQueryRevokedPolicyOwnerIds" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="EdpRmsClearKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="EdpSetCredServiceInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="EdpUnprotectFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="EdpWriteLogSiteLearningEvents" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="EfsClientCloseFileRaw" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="EfsClientCopyFileRaw" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="EfsClientDecryptFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="EfsClientDuplicateEncryptionInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="EfsClientEncryptFileEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="EfsClientFileEncryptionStatus" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="EfsClientFreeKeyInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="EfsClientFreeProtectorList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="EfsClientGetEncryptedFileVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="EfsClientGetKeyInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="EfsClientOpenFileRaw" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="EfsClientQueryProtectors" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="EfsClientReadFileRaw" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="EfsClientWriteFileRaw" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="EfsClientWriteFileWithHeaderRaw" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="EfsReprotectFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="EfsValidateTokenForConsumer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="EfsValidateUserForConsumer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="FeClClearCaches" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="FeClQueryInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="FeClientInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="GetLockSessionUnwrappedKey" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="GetLockSessionWrappedKey" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="OefsCheckSupport" PURGE="8" COMMENT="" />
+</LIBRARY>
+

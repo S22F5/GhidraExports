@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfcounter.dll" PATH="/DLLArchive/etc/perfcounter.dll" DATE="Mon Mar 30 14:54:06 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="OpenPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClosePerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CollectPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FormatFromRawValue" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dpserial.dll" PATH="/DLLArchive/etc/dpserial.dll" DATE="Fri Jul 03 21:32:03 CEST 2020" VERSION="5.00.2134.1">
+    <EXPORT ORDINAL="1" NAME="CreateNewDirectPlay" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msjint35.dll" PATH="/DLLArchive/etc/MSJINT35.DLL" DATE="Fri Apr 24 10:40:24 PDT 1998" VERSION="3.51.0623.0">
+    <EXPORT ORDINAL="2" NAME="CchLszOfId2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_WEP@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

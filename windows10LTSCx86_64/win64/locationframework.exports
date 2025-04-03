@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="locationframework.dll" PATH="/DLLArchive/windows10LTSCX86_64/LocationFramework.dll" DATE="Wed Oct 06 06:52:05 PDT 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="LocationObjectManagerInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LocationServiceHostShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LocationServiceHostStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RegisterLocationCOMServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SvcLocationAddRef" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SvcLocationInitServerLock" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SvcLocationReleaseRef" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SvcOnConsoleSessionNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SvcOnUserLogOnStateNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UnregisterLocationCOMServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

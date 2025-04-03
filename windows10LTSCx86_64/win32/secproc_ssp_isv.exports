@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="secproc_ssp_isv.dll" PATH="/DLLArchive/windows10LTSCX86_64/secproc_ssp_isv.dll" DATE="Sat Dec 07 01:09:13 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SPAttest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SPBindLicense" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SPCheckEnvironmentSecurity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SPCommit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SPCreateDecryptor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SPCreateEnablingPrincipal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SPCreateEncryptor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SPCreatePCE" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SPCreateSecurityProcessor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SPDecrypt" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SPDecryptFinal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SPDecryptUpdate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SPEnableAndEncrypt" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SPEnablePublishingLicense" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SPEncrypt" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SPEncryptFinal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SPEncryptUpdate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SPGetBoundRightKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SPGetCurrentTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SPGetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SPGetLicenseAttribute" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SPGetLicenseAttributeCount" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SPGetLicenseObject" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SPGetLicenseObjectCount" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SPGetProcAddress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SPIsActivated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SPLoadLibrary" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SPRegisterRevocationList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SPSign" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SPCloseHandle" PURGE="4" COMMENT="" />
+</LIBRARY>
+

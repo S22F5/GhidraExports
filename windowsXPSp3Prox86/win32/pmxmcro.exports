@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pmxmcro.dll" PATH="/DLLArchive/windowsXPSp3Prox86/pmxmcro.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="MicroEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Scan" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetPixelWindow" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="custom_uninstall.dll" PATH="/DLLArchive/etc/Custom_Uninstall.dll" DATE="Fri Jul 03 12:28:34 PDT 2020" VERSION="5.1.2600.1525 (xpsp2.040410-0905)">
+    <EXPORT ORDINAL="1" NAME="ConfirmUnInstallation" PURGE="4" COMMENT="" />
+</LIBRARY>
+

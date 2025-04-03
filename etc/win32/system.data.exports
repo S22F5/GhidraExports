@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="system.data.dll" PATH="/DLLArchive/etc/System.Data.dll" DATE="Mon Mar 30 14:53:52 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="_DllBidAssert@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_DllBidCtlProc@24" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_DllBidEnabledW@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_DllBidEntryPoint@36" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_DllBidFinalize@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_DllBidIndent@8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_DllBidInitialize@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_DllBidPutStrW@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllBidScopeEnterCW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_DllBidScopeLeave@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_DllBidSnap@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_DllBidTouch@20" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllBidTraceCW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

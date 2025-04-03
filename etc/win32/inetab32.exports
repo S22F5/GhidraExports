@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inetab32.dll" PATH="/DLLArchive/etc/INETAB32.DLL" DATE="Fri Jul 03 12:42:49 PDT 2020" VERSION="4.40.46000">
+    <EXPORT ORDINAL="100" NAME="ABProviderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="ServiceEntry" PURGE="40" COMMENT="" />
+</LIBRARY>
+

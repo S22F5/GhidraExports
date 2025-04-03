@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oeimport.dll" PATH="/DLLArchive/windowsXPSp3Prox86/oeimport.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="2" NAME="PerformImport" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ExportMessages" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PerformMigration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

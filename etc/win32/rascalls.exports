@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rascalls.dll" PATH="/DLLArchive/etc/rascalls.dll" DATE="Fri Jul 03 13:10:38 PDT 2020" VERSION="8.00.000">
+    <EXPORT ORDINAL="1" NAME="AOL_IsTCPIPAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AOL_IsRasAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AOL_RasValidateEntryName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AOL_RasCreatePhonebookEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AOL_RasDeleteEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AOL_RasDial" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AOL_RasDialFunc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AOL_RasEditPhonebookEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AOL_RasEnumConnections" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AOL_RasEnumDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AOL_RasEnumEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AOL_RasGetConnectStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AOL_RasGetCountryInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AOL_RasGetEntryDialParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AOL_RasGetEntryProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AOL_RasGetErrorString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AOL_RasGetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="AOL_RasHangUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="AOL_RasIsConnectionActive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="AOL_RasRenameEntry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AOL_SetCredentials" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="AOL_RasSetEntryDialParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="AOL_RasSetEntryProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="AOL_RasSetLastError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="AOL_RasSetEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="AOL_RasSetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="AOL_IsRasConnectionOnlyOneActive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="AOL_GetIpAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="AOL_GetServerIpAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="AOL_GetMTU" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="AOL_SetMTU" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="AOL_GetRasEntryStruct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="AOL_RasHangupConnection" PURGE="0" COMMENT="" />
+</LIBRARY>
+

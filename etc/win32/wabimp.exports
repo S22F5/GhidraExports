@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wabimp.dll" PATH="/DLLArchive/etc/wabimp.dll" DATE="Fri Jul 03 13:29:19 PDT 2020" VERSION="6.00.2900.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="2" NAME="NetscapeImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetscapeExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EudoraImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EudoraExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Athena16Import" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Athena16Export" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PABImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PABExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CSVImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CSVExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LDIFImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MessengerImport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

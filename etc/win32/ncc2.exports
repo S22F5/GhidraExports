@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncc2.dll" PATH="/DLLArchive/etc/NCC2.dll" DATE="Fri Sep 17 14:31:01 PDT 2010" VERSION="">
+    <EXPORT ORDINAL="1" NAME="NCC1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NCC2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

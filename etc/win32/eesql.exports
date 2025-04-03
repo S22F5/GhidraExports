@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eesql.dll" PATH="/DLLArchive/etc/EESQL.DLL" DATE="Wed Jun 17 12:20:00 PDT 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="OSDebug4VersionCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EEInitializeExpr" PURGE="8" COMMENT="" />
+</LIBRARY>
+

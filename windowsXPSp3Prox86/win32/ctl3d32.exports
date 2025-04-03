@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctl3d32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ctl3d32.dll" DATE="Fri Aug 17 13:36:12 PDT 2001" VERSION="2.31.000">
+    <EXPORT ORDINAL="1" NAME="Ctl3dGetVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ctl3dSubclassDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ctl3dSubclassCtl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ctl3dCtlColor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ctl3dEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ctl3dColorChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BtnWndProc3d" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EditWndProc3d" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ListWndProc3d" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ComboWndProc3d" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="StaticWndProc3d" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ctl3dRegister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Ctl3dUnregister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Ctl3dAutoSubclass" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Ctl3dDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Ctl3dCtlColorEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Ctl3dSetStyle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Ctl3dDlgFramePaint" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Ctl3dSubclassDlgEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Ctl3dWinIniChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Ctl3dIsAutoSubclass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Ctl3dUnAutoSubclass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Ctl3dSubclassCtlEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Ctl3dUnsubclassCtl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Ctl3dAutoSubclassEx" PURGE="8" COMMENT="" />
+</LIBRARY>
+

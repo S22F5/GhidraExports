@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libwimp.dll" PATH="/DLLArchive/etc/libwimp.dll" DATE="Fri Jul 03 12:47:21 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_g_module_check_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_theme_create_rc_style" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_theme_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_theme_init" PURGE="0" COMMENT="" />
+</LIBRARY>
+

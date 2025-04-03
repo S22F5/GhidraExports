@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="idaficator.dll" PATH="/DLLArchive/etc/IDAFicator.dll" DATE="Sat Oct 10 03:29:56 CEST 2009" VERSION="1.2.12.5">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Pluginclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ODBG_Pluginshortcut" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_SNDG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_SNDG_Pluginclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_SNDG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_SNDG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_SNDG_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_SNDG_Pluginshortcut" PURGE="0" COMMENT="" />
+</LIBRARY>
+

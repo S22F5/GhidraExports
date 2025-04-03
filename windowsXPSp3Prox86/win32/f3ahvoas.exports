@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="f3ahvoas.dll" PATH="/DLLArchive/windowsXPSp3Prox86/f3ahvoas.dll" DATE="Mon Apr 14 05:39:32 CEST 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KbdNlsLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FujitsuOyayubiControl" PURGE="8" COMMENT="" />
+</LIBRARY>
+

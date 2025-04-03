@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ccevt.dll" PATH="/DLLArchive/etc/CCEVT.DLL" DATE="Fri Jul 03 12:26:14 PDT 2020" VERSION="1.03.15">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetObjectCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetLVPluginObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ccInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ccPrepareUnInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ccUnInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ccevt_CreateEventFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ccevt_CreateProviderProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ccevt_CreateSubscriberProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ccevt_DeleteEventFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ccevt_DeleteProviderProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ccevt_DeleteSubscriberProxy" PURGE="0" COMMENT="" />
+</LIBRARY>
+

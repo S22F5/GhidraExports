@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ipcfgdll.dll" PATH="/DLLArchive/etc/ipcfgdll.dll" DATE="Fri Jul 03 12:43:13 PDT 2020" VERSION="5.00.1717.2">
+    <EXPORT ORDINAL="1" NAME="GetAdapterInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAdapterInfoEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDhcpAndWinsInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDhcpInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetFixedInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetFixedInfoEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetWinsInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsPPPAdapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MapAdapterAddress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MapAdapterType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MapAdapterTypeEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MapNodeType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MapNodeTypeEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MapScopeId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MapTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MapTimeEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RefreshAdapterInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ReleaseAdapterIpAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RenewAdapterIpAddress" PURGE="4" COMMENT="" />
+</LIBRARY>
+

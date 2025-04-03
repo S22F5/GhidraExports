@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gmpxx-4.dll" PATH="/DLLArchive/etc/gmpxx-4.dll" DATE="Sun Aug 21 23:02:20 CEST 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@PEAU__mpf_struct@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@PEAU__mpq_struct@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@PEAU__mpz_struct@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@PEBU__mpf_struct@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@PEBU__mpq_struct@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@PEBU__mpz_struct@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_7?$numpunct@D@std@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7bad_alloc@std@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??_7bad_array_new_length@std@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_7bad_cast@std@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_7exception@std@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?__gmp_asprintf_funs_noformat@@3Udoprnt_funs_t@@B" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?__gmp_doprnt_integer_ostream@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV12@PEAUdoprnt_params_t@@PEAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?__gmp_doprnt_params_from_ios@@YAXPEAUdoprnt_params_t@@AEAV?$basic_ios@DU?$char_traits@D@std@@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?__gmp_istream_set_base@@YAHAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEADAEA_N2@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?__gmp_istream_set_digits@@YAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV?$basic_istream@DU?$char_traits@D@std@@@2@AEADAEA_NH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?__gmpz_operator_in_nowhite@@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV12@PEAU__mpz_struct@@D@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

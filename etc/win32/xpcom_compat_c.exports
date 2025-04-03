@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xpcom_compat_c.dll" PATH="/DLLArchive/etc/xpcom_compat_c.dll" DATE="Fri Jul 03 13:41:27 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NS_RegistryGetFactory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

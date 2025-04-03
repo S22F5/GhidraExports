@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nmft.dll" PATH="/DLLArchive/etc/nmft.dll" DATE="Fri Jul 03 13:01:47 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="CreateAppletLoaderInterface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FT_CreateInterface" PURGE="8" COMMENT="" />
+</LIBRARY>
+

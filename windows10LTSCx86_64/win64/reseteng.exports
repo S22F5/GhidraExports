@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="reseteng.dll" PATH="/DLLArchive/windows10LTSCX86_64/reseteng.dll" DATE="Wed Oct 06 06:52:52 PDT 2021" VERSION="10.0.19041.964 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="RjvApplyData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RjvApplyDataEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RjvBareMetalResetAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RjvBasicReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RjvBasicResetChecks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RjvCheckBattery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RjvCheckBitLocker" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RjvCheckDiskSpace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RjvCheckOsHealth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RjvCheckWinRE" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RjvCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RjvCommitReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RjvCreateSuccessTaskEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RjvDelayedCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RjvDelayedCleanupEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RjvFactoryImageAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RjvFactoryReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RjvFactoryResetChecks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RjvFinalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RjvGenerateImageBasedBMRConfigData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RjvGenerateReconstructionBMRConfigData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RjvGetCloudRecInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RjvGetVolumeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RjvInitializeEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RjvInitializeSystemPartitionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RjvIsCloudRec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RjvLoadState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RjvLogFailureEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="RjvLogSuccessEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RjvOfflineCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RjvPDeleteFilesFromVolumeBeforeWimApply" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RjvPEraseVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RjvPolicyAllowsReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RjvPostApplyDataEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RjvPreApplyDataEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RjvPrepareForReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="RjvReInitializeEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="RjvRePartitionSystemDisk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="RjvRePartitionSystemDiskEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="RjvRollBack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="RjvSaveState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="RjvSendCancelEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="RjvSetCloudRecInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="RjvStageBasicReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="RjvStartLogging" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="RjvStopLogging" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="RjvSysResetErrBasicEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="RjvSysResetErrFactoryEntryPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="RjvTestFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="RjvUndoPrepareForReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="RjvUninitializeEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="RjvVerifySystemDiskInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

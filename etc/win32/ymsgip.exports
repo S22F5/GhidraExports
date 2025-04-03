@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ymsgip.dll" PATH="/DLLArchive/etc/ymsgip.dll" DATE="Fri Jul 03 13:43:30 PDT 2020" VERSION="3, 0, 0, 5">
+    <EXPORT ORDINAL="1" NAME="_DisplayPersonalization@28" PURGE="28" COMMENT="" />
+</LIBRARY>
+

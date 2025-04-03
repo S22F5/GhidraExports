@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="82557ndi.dll" PATH="/DLLArchive/etc/82557ndi.dll" DATE="Fri Jul 03 21:12:19 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="I557NDIPROC" PURGE="10" COMMENT="" />
+</LIBRARY>
+

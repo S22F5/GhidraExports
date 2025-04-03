@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usrvoica.dll" PATH="/DLLArchive/etc/usrvoica.dll" DATE="Fri Jul 03 13:25:38 PDT 2020" VERSION="4. 11. 21">
+    <EXPORT ORDINAL="1" NAME="Data_TaskInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Data_TaskExit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

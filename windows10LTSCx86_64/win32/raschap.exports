@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="raschap.dll" PATH="/DLLArchive/windows10LTSCX86_64/raschap.dll" DATE="Wed Oct 06 06:52:39 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="RasEapCreateConnectionProperties2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RasEapCreateConnectionPropertiesXml" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RasEapCreateUserProperties2" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RasCpEnumProtocolIds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RasCpGetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RasEapCreateConnectionProperties" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RasEapCreateMethodConfiguration" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RasEapCreateUserProperties" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RasEapFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RasEapGetConfigBlobAndUserBlob" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RasEapGetCredentials" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RasEapGetIdentity" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RasEapGetIdentityPageGuid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RasEapGetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RasEapGetMethodProperties" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RasEapGetNextPageGuid" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RasEapInvokeConfigUI" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RasEapInvokeInteractiveUI" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RasEapQueryCredentialInputFields" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RasEapQueryInteractiveUIInputFields" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RasEapQueryUIBlobFromInteractiveUIInputFields" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RasEapQueryUserBlobFromCredentialInputFields" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RasEapSetRetryFlag" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bamsettingsclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/BamSettingsClient.dll" DATE="Sat Dec 07 10:09:15 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BamCreateSettingsClientLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BamDestroySettingsClientLib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BamFreeQueriedApplications" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BamQueryKnownApplications" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BamSetUserManagementState" PURGE="12" COMMENT="" />
+</LIBRARY>
+

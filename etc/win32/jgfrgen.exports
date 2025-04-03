@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgfrgen.dll" PATH="/DLLArchive/etc/jgfrgen.dll" DATE="Fri Jul 03 21:44:22 CEST 2020" VERSION="042">
+    <EXPORT ORDINAL="1" NAME="JgSetEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgfirCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgfirDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgfirGetInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgfirGetReaderCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgfirInput" PURGE="0" COMMENT="" />
+</LIBRARY>
+

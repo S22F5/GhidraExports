@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="altalux.dll" PATH="/DLLArchive/etc/AltaLux.dll" DATE="Mon Nov 02 11:47:16 PST 2015" VERSION="1.7.0.89">
+    <EXPORT ORDINAL="1" NAME="AltaLux_Effects" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StartEffects2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

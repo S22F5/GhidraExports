@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iacenc.dll" PATH="/DLLArchive/etc/Iacenc.dll" DATE="Fri Jul 03 21:38:21 CEST 2020" VERSION="2.05.53">
+    <EXPORT ORDINAL="1" NAME="encod" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="encod_Init" PURGE="32" COMMENT="" />
+</LIBRARY>
+

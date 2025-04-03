@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="privilege.dll" PATH="/DLLArchive/etc/Privilege.dll" DATE="Mon Aug 23 10:27:38 PDT 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

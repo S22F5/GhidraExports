@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nanolib.dll" PATH="/DLLArchive/etc/Nanolib.dll" DATE="Thu Apr 17 06:08:18 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?DoLogNanomites@@YGXJPAUUpdateLog@@PADJJJ@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?DoNanomites@@YGXJPAUUpdateReport@@PADJJJ@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?Populate@@YGXPAUVBNano@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?PopulateLog@@YGXPAULogNano@@@Z" PURGE="4" COMMENT="" />
+</LIBRARY>
+

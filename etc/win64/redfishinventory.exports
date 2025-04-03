@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="redfishinventory.dll" PATH="/DLLArchive/etc/redfishinventory.dll" DATE="Wed Oct 23 01:36:40 PDT 2024" VERSION="22.01.001 (BLD_337)">
+    <EXPORT ORDINAL="1" NAME="GetInventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetSelectiveInventory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

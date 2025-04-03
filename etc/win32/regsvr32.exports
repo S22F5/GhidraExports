@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="regsvr32.dll" PATH="/DLLArchive/etc/REGSVR32.DLL" DATE="Fri Jul 03 13:11:17 PDT 2020" VERSION="4.00.2422">
+    <EXPORT ORDINAL="1" NAME="SyncShell" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DLLSelfRegister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AllocUnit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetTime" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DISKSPACEFREE" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetWinPlatform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="lmemcpy" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="fNTWithShell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AbortAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AddActionNote" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ChangeActionKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CommitAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="fWithinAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="LogError" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="LogWarning" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="NewAction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="EnableLogging" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DisableLogging" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="LogNote" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="LogConfig" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="fCreateShellFolder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="fCreateShellLink" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="fRemoveShellLink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="GetLongPathName" PURGE="12" COMMENT="" />
+</LIBRARY>
+

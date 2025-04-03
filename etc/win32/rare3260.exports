@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rare3260.dll" PATH="/DLLArchive/etc/rare3260.dll" DATE="Fri Jul 03 22:10:34 CEST 2020" VERSION="6.0.8.1617">
+    <EXPORT ORDINAL="1" NAME="CanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

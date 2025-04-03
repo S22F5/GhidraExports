@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="w2k_lsa_auth.dll" PATH="/DLLArchive/etc/w2k_lsa_auth.dll" DATE="Fri Jul 03 13:29:01 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_JNI_OnLoad@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_JNI_OnUnload@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_sun_security_krb5_Credentials_acquireDefaultNativeCreds@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

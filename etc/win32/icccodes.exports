@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icccodes.dll" PATH="/DLLArchive/etc/icccodes.dll" DATE="Fri Jul 03 12:38:43 PDT 2020" VERSION="1.2.2">
+    <EXPORT ORDINAL="201" NAME="KpIccGetStringFromErrNum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="KpIccGetMfgListSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="KpIccGetMfgList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="204" NAME="KpIccGetMfgFromDesc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="205" NAME="KpIccGetDescFromMfg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="206" NAME="KpIccGetMdlListSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="207" NAME="KpIccGetMdlList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="208" NAME="KpIccGetMdlFromDesc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="209" NAME="KpIccGetDescFromMdl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="210" NAME="KpIccGetLibInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="211" NAME="KpIccInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="212" NAME="KpIccTerm" PURGE="0" COMMENT="" />
+</LIBRARY>
+

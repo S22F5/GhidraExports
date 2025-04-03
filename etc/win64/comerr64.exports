@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comerr64.dll" PATH="/DLLArchive/etc/comerr64.dll" DATE="Wed Nov 15 11:02:58 PST 2023" VERSION="4.1-prerelease">
+    <EXPORT ORDINAL="1" NAME="add_error_table" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="com_err" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="com_err_va" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="error_message" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="remove_error_table" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="set_com_err_hook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="reset_com_err_hook" PURGE="0" COMMENT="" />
+</LIBRARY>
+

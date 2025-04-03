@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zendoptimizer.dll" PATH="/DLLArchive/etc/zendoptimizer.dll" DATE="Fri Jul 03 12:12:37 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="extension_version_info" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="zend_extension_entry" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="zend_optimizer_set_oe_ex" PURGE="0" COMMENT="" />
+</LIBRARY>
+

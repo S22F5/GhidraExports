@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wzzpmail.dll" PATH="/DLLArchive/etc/WZZPMAIL.DLL" DATE="Fri Jul 03 13:39:58 PDT 2020" VERSION="18.0 (32-bit)">
+    <EXPORT ORDINAL="1" NAME="ZAMEntryPoint1" PURGE="16" COMMENT="" />
+</LIBRARY>
+

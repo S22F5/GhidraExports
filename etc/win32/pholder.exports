@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pholder.dll" PATH="/DLLArchive/etc/PHOLDER.DLL" DATE="Mon May 25 09:13:56 PDT 1998" VERSION="6.00.8146">
+    <EXPORT ORDINAL="1" NAME="SPPlaceHolderCAH" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SzGetDatadefVer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

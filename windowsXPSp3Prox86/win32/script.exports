@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="script.dll" PATH="/DLLArchive/windowsXPSp3Prox86/SCRIPT.dll" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DestinationModule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ModuleInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ModuleTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SourceModule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TypeModule" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VirtualComputerModule" PURGE="8" COMMENT="" />
+</LIBRARY>
+

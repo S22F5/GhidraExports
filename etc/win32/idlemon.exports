@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="idlemon.dll" PATH="/DLLArchive/etc/idlemon.dll" DATE="Fri Jul 03 12:40:06 PDT 2020" VERSION="5.5.3595">
+    <EXPORT ORDINAL="1" NAME="IdleKeybdHook" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IdleMouseHook" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IdleSetEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IdleShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IdleStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IdleTimeSinceLastInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IdleTimeSinceNextToLastInput" PURGE="0" COMMENT="" />
+</LIBRARY>
+

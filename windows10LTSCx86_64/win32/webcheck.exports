@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="webcheck.dll" PATH="/DLLArchive/windows10LTSCX86_64/webcheck.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="11.00.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

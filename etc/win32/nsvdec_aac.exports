@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nsvdec_aac.dll" PATH="/DLLArchive/etc/nsvdec_aac.dll" DATE="Fri Jul 03 13:02:13 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateAudioDecoder" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qtuninst.dll" PATH="/DLLArchive/etc/QTUninst.dll" DATE="Fri Jul 03 22:10:02 CEST 2020" VERSION="6.5.1">
+    <EXPORT ORDINAL="1" NAME="UninstInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UninstUnInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ViseEntry" PURGE="12" COMMENT="" />
+</LIBRARY>
+

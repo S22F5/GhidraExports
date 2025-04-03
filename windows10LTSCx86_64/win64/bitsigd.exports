@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bitsigd.dll" PATH="/DLLArchive/windows10LTSCX86_64/bitsigd.dll" DATE="Sat Dec 07 10:08:46 CET 2019" VERSION="7.8.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="InitializeEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UninitializeEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

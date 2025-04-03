@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpsvc.dll" PATH="/DLLArchive/etc/gpsvc.dll" DATE="Fri Jul 03 12:36:08 PDT 2020" VERSION="6.1.7601.17514 (win7sp1_rtm.101119-1850)">
+    <EXPORT ORDINAL="106" NAME="Ordinal_106" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="GroupPolicyClientServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="GenerateRsopPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="ProcessGroupPolicyCompletedExInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="ProcessGroupPolicyCompletedInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="RsopAccessCheckByTypeInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="RsopFileAccessCheckInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="RsopResetPolicySettingStatusInternal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="RsopSetPolicySettingStatusInternal" PURGE="0" COMMENT="" />
+</LIBRARY>
+

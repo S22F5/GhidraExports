@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gmodule-2.0-0.dll" PATH="/DLLArchive/etc/gmodule-2.0-0.dll" DATE="Wed Nov 15 20:02:58 CET 2023" VERSION="2.78.0.0">
+    <EXPORT ORDINAL="1" NAME="g_module_build_path" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="g_module_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="g_module_error" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="g_module_error_quark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="g_module_make_resident" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="g_module_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="g_module_name_utf8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="g_module_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="g_module_open_full" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="g_module_open_utf8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="g_module_supported" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="g_module_symbol" PURGE="0" COMMENT="" />
+</LIBRARY>
+

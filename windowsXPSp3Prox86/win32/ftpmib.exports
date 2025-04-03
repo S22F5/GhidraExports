@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ftpmib.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ftpmib.dll" DATE="Sun Apr 13 20:41:54 PDT 2008" VERSION="6.0.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="SnmpExtensionInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SnmpExtensionQuery" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SnmpExtensionTrap" PURGE="20" COMMENT="" />
+</LIBRARY>
+

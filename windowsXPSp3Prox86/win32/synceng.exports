@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="synceng.dll" PATH="/DLLArchive/windowsXPSp3Prox86/synceng.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="AddAllTwinsToTwinList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddFolderTwin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AddObjectTwin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AddTwinToTwinList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AnyTwins" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BeginReconciliation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ClearBriefcaseCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CloseBriefcase" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CompareFileStamps" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CountSourceFolderTwins" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateFolderTwinList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateRecList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateTwinList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DeleteBriefcase" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DeleteTwin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DestroyFolderTwinList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DestroyRecList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DestroyTwinList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="EndReconciliation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FindBriefcaseClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FindFirstBriefcase" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FindNextBriefcase" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetFileStamp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetFolderTwinStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetObjectTwinHandle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetOpenBriefcaseInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetVolumeDescription" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IsFolderTwin" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IsOrphanObjectTwin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IsPathOnVolume" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="OpenBriefcase" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ReconcileItem" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ReleaseTwinHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RemoveAllTwinsFromTwinList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RemoveTwinFromTwinList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SaveBriefcase" PURGE="4" COMMENT="" />
+</LIBRARY>
+

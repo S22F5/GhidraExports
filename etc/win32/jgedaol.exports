@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgedaol.dll" PATH="/DLLArchive/etc/jgedaol.dll" DATE="Fri Jul 03 21:44:19 CEST 2020" VERSION="035">
+    <EXPORT ORDINAL="1" NAME="JgedCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgedDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgedDisableComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgedDuplicate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgedEnableComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgedProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgedSetOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgedStart" PURGE="0" COMMENT="" />
+</LIBRARY>
+

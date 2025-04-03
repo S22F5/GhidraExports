@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmvcore.dll" PATH="/DLLArchive/etc/WMVCORE.dll" DATE="Wed Sep 30 11:00:04 PDT 2020" VERSION="12.0.18362.1049 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WMCheckURLExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WMCheckURLScheme" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WMCreateBackupRestorerPrivate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WMCreateLicenseRevocationAgentPrivate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WMCreateSyncReaderPriv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WMIsAvailableOffline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WMValidateData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WMCreateBackupRestorer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WMCreateEditor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WMCreateIndexer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WMCreateProfileManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WMCreateReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WMCreateReaderPriv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WMCreateSyncReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WMCreateWriter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WMCreateWriterFileSink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WMCreateWriterNetworkSink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WMCreateWriterPriv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WMCreateWriterPushSink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WMIsContentProtected" PURGE="0" COMMENT="" />
+</LIBRARY>
+

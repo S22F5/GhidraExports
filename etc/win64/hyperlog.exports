@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hyperlog.dll" PATH="/DLLArchive/etc/hyperlog.dll" DATE="Tue Oct 24 23:54:06 CEST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LogCallbackPrepareAndSendMessageToQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LogCallbackPrepareAndSendMessageToQueueWrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LogCallbackSendBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LogCallbackSendMessageToQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LogInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LogMarkAllAsRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LogRegisterEventBasedNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LogRegisterIrpBasedNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LogUnInitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

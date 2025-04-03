@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rascustom.dll" PATH="/DLLArchive/windows10LTSCX86_64/rascustom.dll" DATE="Wed Oct 06 15:52:13 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="InitializeProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SendMessageToProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UninitializeProtocolEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VpnBrokerPluginIsInstalled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VpnBrokerRegisterForPluginInstallations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VpnSmCommsPluginsNotifyLogOff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VpnSmCommsPluginsRoamToBestCostInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

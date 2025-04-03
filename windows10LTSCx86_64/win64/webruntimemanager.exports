@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="webruntimemanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/WebRuntimeManager.dll" DATE="Wed Oct 06 15:52:03 CEST 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateMessagePortEventDispatcher" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateServiceWorkerClientMessageDispatcher" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateWebRuntimeFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateWebRuntimeNotificationFromEventArg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnsureServiceWorkerManagerComponent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

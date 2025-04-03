@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="2g_dll_bflusb.dll" PATH="/DLLArchive/etc/2G_Dll_bflusb.dll" DATE="Fri Jul 03 12:10:18 PDT 2020" VERSION="USB_RTG_2.2.6">
+    <EXPORT ORDINAL="1" NAME="BFLOADER_ComAbortDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BFLOADER_ComChangeConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BFLOADER_ComCloseDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BFLOADER_ComConfigInitDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BFLOADER_ComRegisterApplicationFilePath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BFLOADER_ComRegisterProgressCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BFLOADER_ComSendCmd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BFLOADER_ComSetFileName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BFLOADER_GetDllVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xinput1_3.dll" PATH="/DLLArchive/etc/xinput1_3.dll" DATE="Wed Aug 10 10:38:16 CEST 2016" VERSION="9.18.944.0000">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XInputGetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="XInputSetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="XInputGetCapabilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="XInputEnable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="XInputGetDSoundAudioDeviceGuids" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="XInputGetBatteryInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="XInputGetKeystroke" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netclose.dll" PATH="/DLLArchive/etc/NetClose.dll" DATE="Fri Jul 03 13:01:30 PDT 2020" VERSION="1, 0, 0, 16">
+    <EXPORT ORDINAL="1" NAME="DoAfter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoBefore" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ichat.dll" PATH="/DLLArchive/etc/iChat.dll" DATE="Fri Jul 03 12:38:47 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?ChatProcess@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetGameID@@YAXPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GoHomeAnyway@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?LeaveGSCRoom@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Process_GSC_ChatWindow@@YAH_NPAURoomInfo@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?ReportAliveState@@YAXHPAH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?ReportGSCGame@@YAXHHPAUOnePlayerReport@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?SendPrivateMessage@@YAXPAD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?SendVictoryState@@YAXHE@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?SetChatWState@@YAXHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?SetGameID@@YAXPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?StartGSCGame@@YAXPAD0HPAHPAPAD11@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

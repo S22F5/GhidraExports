@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zerox_sc.dll" PATH="/DLLArchive/etc/zerox_sc.dll" DATE="Fri Jul 03 12:13:17 PDT 2020" VERSION="1, 0, 0, 8">
+    <EXPORT ORDINAL="2" NAME="ZXDS" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZXLC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZXSC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZXSC2" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aafcoapi.dll" PATH="/DLLArchive/etc/aafcoapi.dll" DATE="Fri Jul 03 12:14:39 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AAFFileOpenExistingModify" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AAFFileOpenExistingRead" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AAFFileOpenNewModify" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AAFFileOpenTransient" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AAFGetPluginManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

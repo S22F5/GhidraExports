@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appraiser.dll" PATH="/DLLArchive/windows10LTSCX86_64/appraiser.dll" DATE="Wed Oct 06 06:51:54 PDT 2021" VERSION="10.0.19645.1046 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ContainerSetupFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ContainerSetupWrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DoScheduledTelemetryRun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DoScheduledTelemetryRunTC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetCtacProvider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetProvider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetTargetVersionList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RunTest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RunXml" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Sgd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UpdateAvStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UpdateCacheCompatStatuses" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UpdateExperienceIndicators" PURGE="0" COMMENT="" />
+</LIBRARY>
+

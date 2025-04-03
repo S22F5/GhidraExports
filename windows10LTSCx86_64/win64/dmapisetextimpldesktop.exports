@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmapisetextimpldesktop.dll" PATH="/DLLArchive/windows10LTSCX86_64/DmApiSetExtImplDesktop.dll" DATE="Wed Oct 06 06:51:12 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DMLegacy_UnActivateLOB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DMCSP_DevDetail_GetCommercializationOperator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DMCSP_DevDetail_GetDeviceHardwareData" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DMCSP_DevDetail_GetDeviceName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DMCSP_DevDetail_GetDeviceType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DMCSP_DevDetail_GetFwV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DMCSP_DevDetail_GetHwV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DMCSP_DevDetail_GetLocalTimeString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DMCSP_DevDetail_GetMobileID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DMCSP_DevDetail_GetOEM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DMCSP_DevDetail_GetOSPlatform" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DMCSP_DevDetail_GetProcessorArchitecture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DMCSP_DevDetail_GetProcessorType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DMCSP_DevDetail_GetRadioSwV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DMCSP_DevDetail_GetResolution" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DMCSP_DevDetail_GetSwV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DMCSP_DevDetail_GetVoLTEServiceSetting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DMCSP_DevDetail_GetWLANMACAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DMCSP_DevDetail_SetDeviceName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DMCSP_DevInfo_GetDmV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DMCSP_DevInfo_GetHwDevID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DMCSP_DevInfo_GetLanguage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DMCSP_DevInfo_GetManufacturer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DMCSP_DevInfo_GetModel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DMCSP_DeviceStatus_IsBitlockerProtected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DMDiag_Export_DiagnosticsLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DMDiag_Filter_Diagnostics_Events_From_AutoLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="DMUI_DismissNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="DMUI_DisplayConfigurationResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="DMUI_GetUserEditFieldInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DMUI_GetUserPermission" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DMUI_GetUserPermissionAsync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DMUI_InformUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DMUI_IsAbortSessionRequested" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="DMUI_SyncMLAlertGetResults" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="DMUI_SyncMLAlertGetStatusCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="DMUI_SyncMLAlertShowUI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="Mmpc_Lockdown_GetManagementUrls" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="Mmpc_Lockdown_IsCertificateTrustedForMmpc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="Mmpc_Lockdown_IsLockedToMmpc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="Mmpc_Lockdown_ReleaseManagementUrl" PURGE="0" COMMENT="" />
+</LIBRARY>
+

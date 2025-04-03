@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vidp3260.dll" PATH="/DLLArchive/etc/vidp3260.dll" DATE="Fri Jul 03 13:27:48 PDT 2020" VERSION="6.0.7.1580">
+    <EXPORT ORDINAL="1" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RMAShutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

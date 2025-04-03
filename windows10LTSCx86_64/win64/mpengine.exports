@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpengine.dll" PATH="/DLLArchive/windows10LTSCX86_64/MpEngine.dll" DATE="Sat Dec 07 01:08:15 PST 2019" VERSION="1.1.16400.2 (a9146df5d7cc2ce3259d6708dc0172ce3171c1a9)">
+    <EXPORT ORDINAL="1" NAME="FreeSigFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetSigFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MpBootStrap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MpContainerAnalyze" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MpContainerClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MpContainerCloseObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MpContainerCommit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MpContainerDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MpContainerFreeObjectInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MpContainerGetNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MpContainerOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MpContainerOpenObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MpContainerRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MpContainerSetSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MpContainerWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="__rsignal" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rsignal" PURGE="0" COMMENT="" />
+</LIBRARY>
+

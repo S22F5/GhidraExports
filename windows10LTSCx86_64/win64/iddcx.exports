@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iddcx.dll" PATH="/DLLArchive/windows10LTSCX86_64/IddCx.dll" DATE="Wed Oct 06 15:51:45 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FxDriverEntryUm" PURGE="0" COMMENT="" />
+</LIBRARY>
+

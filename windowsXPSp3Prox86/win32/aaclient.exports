@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aaclient.dll" PATH="/DLLArchive/windowsXPSp3Prox86/aaclient.dll" DATE="Sun Apr 13 20:41:50 PDT 2008" VERSION="6.0.6001.18000 (longhorn_rtm.080118-1840)">
+    <EXPORT ORDINAL="1" NAME="LoadClientAdapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="g_fnStartTransport" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenKeyReader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OpenKeyReaderWriter" PURGE="8" COMMENT="" />
+</LIBRARY>
+

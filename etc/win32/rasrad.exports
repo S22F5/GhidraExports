@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasrad.dll" PATH="/DLLArchive/etc/rasrad.dll" DATE="Fri Jul 03 13:10:46 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="Open" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Collect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RasAcctConfigChangeNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RasAcctProviderFreeAttributes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RasAcctProviderInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RasAcctProviderInterimAccounting" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RasAcctProviderStartAccounting" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RasAcctProviderStopAccounting" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RasAcctProviderTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RasAuthConfigChangeNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RasAuthProviderAuthenticateUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RasAuthProviderFreeAttributes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RasAuthProviderInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RasAuthProviderTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

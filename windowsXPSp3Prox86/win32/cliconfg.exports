@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cliconfg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/cliconfg.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="2000.085.1132 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="CPlApplet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClientConfigureAddEdit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OnInitDialogMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

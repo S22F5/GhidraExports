@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvdesk32.dll" PATH="/DLLArchive/etc/nvdesk32.dll" DATE="Fri Jul 03 13:02:32 PDT 2020" VERSION="5.13.01.1520">
+    <EXPORT ORDINAL="1" NAME="NVDM_Control" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NVDM_DesktopWindowA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NVDM_DesktopWindowW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NVDM_DesktopWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NVDM_OpenAppAssocRegKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NVDM_ReadAllAppAssoc" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NVDM_ReadAppAssocEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NVDM_WriteAppAssocEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NVDM_DeleteAppAssocEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NVDM_DeleteAllAppAssoc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="NVDM_ReadGlobalsRegistry" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NVDM_WriteGlobalsRegistry" PURGE="4" COMMENT="" />
+</LIBRARY>
+

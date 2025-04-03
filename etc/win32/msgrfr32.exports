@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msgrfr32.dll" PATH="/DLLArchive/etc/msgrfr32.dll" DATE="Fri Jul 03 13:51:33 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="2" NAME="GramVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GramInit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GramTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GramCheck" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GramFreeGrb" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GramGetError" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GramIgnoreRule" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GramExplainDlg" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GramUseOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GramOptionsDlg" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GramWriteOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GramResetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GramInitStats" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GramAddStats" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GramStatsDlg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GramOpenMdt" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GramCloseMdt" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GramOpenUdr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GramCloseUdr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GramIsRuleIgnored" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GramSaveRule" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GramStats" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GramResetRule" PURGE="8" COMMENT="" />
+</LIBRARY>
+

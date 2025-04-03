@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="backdoor.dll" PATH="/DLLArchive/etc/backdoor.dll" DATE="Wed Oct 20 17:07:25 PDT 2010" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ExecuteCommand" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DataIn" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DataBack" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

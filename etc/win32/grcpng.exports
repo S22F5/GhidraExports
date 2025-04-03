@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="grcpng.dll" PATH="/DLLArchive/etc/GrCPng.dll" DATE="Fri Jul 03 12:36:14 PDT 2020" VERSION="1, 1, 0, 0">
+    <EXPORT ORDINAL="2" NAME="DecodePng" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EncodePng" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FileInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

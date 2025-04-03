@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bcmsm168.dll" PATH="/DLLArchive/etc/BCMSM168.dll" DATE="Fri Jul 03 12:25:10 PDT 2020" VERSION=" 3.5.25 08/27/2003 20:02:52">
+    <EXPORT ORDINAL="1" NAME="_IsDeviceInUse@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_IsRebootRequired@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_KillMessageDaemon@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_SoftModemCoInstaller@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_SoftModemPostInstall@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_SoftModemPreRemove@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

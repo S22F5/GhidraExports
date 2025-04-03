@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cdm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/cdm.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.5.3790.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="CancelCDMOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseCDMContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DetFilesDownloaded" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DownloadGetUpdatedFiles" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DownloadIsInternetAvailable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DownloadUpdatedFiles" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FindMatchingDriver" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LogDriverNotFound" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OpenCDMContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OpenCDMContextEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="QueryDetectionFiles" PURGE="12" COMMENT="" />
+</LIBRARY>
+

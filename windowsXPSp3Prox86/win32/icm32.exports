@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icm32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/icm32.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="CMCheckColors" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CMCheckColorsInGamut" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CMCheckRGBs" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CMCreateDeviceLinkProfile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CMCreateMultiProfileTransform" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CMCreateProfile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CMCreateProfileW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CMCreateTransform" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CMCreateTransformExt" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CMCreateTransformExtW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CMCreateTransformW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CMDeleteTransform" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CMGetInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CMIsProfileValid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CMTranslateColors" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CMTranslateRGB" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CMTranslateRGBs" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CMTranslateRGBsExt" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CMConvertColorNameToIndex" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="CMConvertIndexToColorName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CMGetNamedProfileInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

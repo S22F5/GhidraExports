@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="makeidt64.dll" PATH="/DLLArchive/etc/makeidt64.dll" DATE="Thu Sep 14 15:08:10 CEST 2017" VERSION="">
+    <EXPORT ORDINAL="1" NAME="PLUGIN" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

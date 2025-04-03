@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scyllahidetepluginx86.dll" PATH="/DLLArchive/etc/ScyllaHideTEPluginx86.dll" DATE="Fri Mar 24 05:58:14 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="TitanDebuggingCallBack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TitanRegisterPlugin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

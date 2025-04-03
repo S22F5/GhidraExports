@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpiwin32.dll" PATH="/DLLArchive/etc/mpiwin32.dll" DATE="Fri Jul 03 21:53:01 CEST 2020" VERSION="2, 6, 2, 723">
+    <EXPORT ORDINAL="1" NAME="MPI_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MPI_Decrypt" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MPI_DecryptEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MPI_Encrypt" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MPI_EncryptEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MPI_EraseEncryptionKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MPI_ErasePassword" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MPI_GenerateKeyPairRSA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MPI_GetBoxInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MPI_GetBoxType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MPI_GetDeveloperId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MPI_GetDrvVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MPI_GetHash" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MPI_GetLastError" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MPI_GetLibVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MPI_GetLicenseInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MPI_GetManufacturerId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MPI_GetNetworkParameter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MPI_GetRandomSequence" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MPI_GetSerialNr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MPI_Open" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MPI_ProcessDataObject" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MPI_ReadID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MPI_ReadMem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MPI_SearchFirst" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MPI_SearchNext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MPI_SetChannel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MPI_SetNetworkParameter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MPI_SubmitEncryptionKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MPI_SubmitPassword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MPI_SubmitPasswordEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MPI_WhatIsAvailable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MPI_WriteMem" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="penimc_cor3.dll" PATH="/DLLArchive/etc/PenImc_cor3.dll" DATE="Mon Apr 18 08:07:14 PDT 2022" VERSION="5,0,1722,21802 @Commit: d94e73ed8ef7c07cb0a7774752a4f7140c839ba8">
+    <EXPORT ORDINAL="1" NAME="CreateResetEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DestroyResetEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetLastSystemEventData" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPenEvent" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetPenEventMultiple" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LockWispObjectFromGit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RaiseResetEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RegisterDllForSxSCOM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UnlockWispObjectFromGit" PURGE="4" COMMENT="" />
+</LIBRARY>
+

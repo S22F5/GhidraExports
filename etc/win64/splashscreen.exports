@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="splashscreen.dll" PATH="/DLLArchive/etc/splashscreen.dll" DATE="Sun Jul 30 02:16:46 PDT 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="JNI_OnLoad" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_java_awt_SplashScreen__1close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_java_awt_SplashScreen__1getBounds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_java_awt_SplashScreen__1getImageFileName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_java_awt_SplashScreen__1getImageJarName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_java_awt_SplashScreen__1getInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_java_awt_SplashScreen__1getScaleFactor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_java_awt_SplashScreen__1isVisible" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Java_java_awt_SplashScreen__1setImageData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Java_java_awt_SplashScreen__1update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SplashClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SplashGetScaledImageName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SplashGetScaledImgNameMaxPstfixLen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SplashInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SplashLoadFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SplashLoadMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SplashSetFileJarName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SplashSetScaleFactor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

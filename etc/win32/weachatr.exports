@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="weachatr.dll" PATH="/DLLArchive/etc/weachatr.dll" DATE="Fri Jul 03 13:30:14 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0Chat@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1Chat@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4Chat@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AFK@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?AddBuddy@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Blackmark@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Broadcast@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Connect@Chat@@QAEHPADGP6GXHPAXAAV?$vector@VArgument@@V?$allocator@VArgument@@@std@@@std@@@Z0@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CreatePlayer@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@HH0PAX@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CreateRoom@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@00ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@HPAX@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CreateRoom@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@0HPAX@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?EarmuffsOff@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?EarmuffsOn@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?EnterRoom@Chat@@QAEKABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@3@PAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?EnumPlayers@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?EnumPlayersRoom@Chat@@QAEKABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?EnumPlayersServer@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?EnumRooms@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ExtractDataMsg@Chat@@AAEPADPADAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GameConfig@Chat@@QAEKPBDHPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetPlayerExtData@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?Goto@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?Ignore@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?LeaveRoom@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?Locate@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?LockRoom@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?MovePlayer@Chat@@QAEKHHHPAX@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?NotAFK@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?Page@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?Release@Chat@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?RemoveBuddy@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?RoomInfo@Chat@@QAEKABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?RoomShout@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_NPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?Say@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_NPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetHearingRange@Chat@@QAEKIPAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SetLanguage@Chat@@QAEKHPAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?SetPlayerData@Chat@@QAEKHPAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?SetPlayerExtData@Chat@@QAEKPBDHPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?StartGame@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?SysTell@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PBDHPAX@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?Tell@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@0_NPAX@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?UnIgnore@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PAX@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?UniverseShout@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_NPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?UnlockRoom@Chat@@QAEKPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?WorldShout@Chat@@QAEKABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_NPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?internalCallback2@Chat@@QAEXKHHPAX0K@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?internalCallback@Chat@@SGXKHHPAX0K0@Z" PURGE="28" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tsgqec.dll" PATH="/DLLArchive/windowsXPSp3Prox86/tsgqec.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="6.0.6001.18000 (longhorn_rtm.080118-1840)">
+    <EXPORT ORDINAL="1" NAME="InitializeQec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UninitializeQec" PURGE="0" COMMENT="" />
+</LIBRARY>
+

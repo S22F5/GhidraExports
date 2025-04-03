@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mtxdm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mtxdm.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="2001.12.4414.700">
+    <EXPORT ORDINAL="1" NAME="GetDispenserManager" PURGE="0" COMMENT="" />
+</LIBRARY>
+

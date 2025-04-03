@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sporder.dll" PATH="/DLLArchive/etc/sporder.dll" DATE="Fri Jul 03 13:17:45 PDT 2020" VERSION="5.00.2095.1">
+    <EXPORT ORDINAL="1" NAME="WSCWriteNameSpaceOrder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSCWriteProviderOrder" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hotplug.dll" PATH="/DLLArchive/etc/hotplug.dll" DATE="Fri Jul 03 12:36:49 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="CPlApplet" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateLocalServerW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HotPlugDeviceTree" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HotPlugDriverBlockedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HotPlugEjectDevice" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HotPlugEjectVetoedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HotPlugHibernateVetoedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HotPlugRemovalVetoedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HotPlugSafeRemovalNotificationW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HotPlugStandbyVetoedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HotPlugWarmEjectVetoedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

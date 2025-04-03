@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="athlib32.dll" PATH="/DLLArchive/etc/AthLib32.dll" DATE="Fri Jul 03 12:23:48 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="ATH_WiseDecodeKeyCode2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ATH_WiseDecodeKeyCode3" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ATH_WiseDecodeKeyCode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ATH_WiseGenerateKeyCode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ATH_WiseInstall" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ATH_WisePreinstall" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ATH_WiseSetIniFileName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ATH_WiseUninstall" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FindParentWindowProc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UsageCountDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ATH_DecodeKeyCode2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ATH_DecodeKeyCode3" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ATH_DecodeKeyCode4" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ATH_DecodeKeyCode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ATH_EncodeKeyCode2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ATH_EncodeKeyCode3" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ATH_EncodeKeyCode4" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ATH_EncodeKeyCode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ATH_FindValidKeyFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ATH_GenerateKeyCode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ATH_GetEdition" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ATH_GetLimitations2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ATH_GetLimitations" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ATH_GetNumUsersAllowed" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ATH_GetProductName2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ATH_GetProductName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ATH_GetProductNameFromCode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ATH_GetProductType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ATH_GetProductVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ATH_InitializeMemoHasp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ATH_Install2" PURGE="80" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ATH_Install" PURGE="72" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ATH_InstallationServerServerFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ATH_InstallationServerServerInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ATH_InstallationServerServerMonitor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ATH_InstallationServerServerPoll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ATH_IsStudent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ATH_IsValidVersionString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ATH_MultiCpuStateChangeWarningMsg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ATH_Preinstall2" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ATH_Preinstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ATH_RaEndRun" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ATH_RaMonitor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ATH_RaStartRun" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ATH_Run2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="ATH_Run3" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="ATH_Run" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="ATH_ServerFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="ATH_ServerInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="ATH_ServerMonitor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="ATH_ServerPoll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="ATH_SetIniFileName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="ATH_Uninstall" PURGE="4" COMMENT="" />
+</LIBRARY>
+

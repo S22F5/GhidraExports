@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/dsclient.dll" DATE="Sat Dec 07 01:09:16 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DSCopyFromSharedFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DSCreateSharedFileToken" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DSDelegateSharingToken" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DSFreeString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DSGetSharedFileName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DSGetSharingTokenInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DSOpenSharedFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DSRemoveExpiredTokens" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DSRemoveSharingToken" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="regdll.dll" PATH="/DLLArchive/etc/regdll.dll" DATE="Fri Jul 03 22:11:15 CEST 2020" VERSION="1, 70, 1, 139">
+    <EXPORT ORDINAL="1" NAME="CheckServiceName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FindLegacyPlayers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InstallFilter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RegisterInf" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RemoveDeviceForDeviceType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RemoveDeviceRegEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RemoveFilter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RemoveInstalledLegacyPlayer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RemoveLegacyPlayerDrivers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RemoveLegacyPlayerHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RemoveLegacyPlayerRemnants" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RemovePlayerRemnants" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UpdateInf" PURGE="8" COMMENT="" />
+</LIBRARY>
+

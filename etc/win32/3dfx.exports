@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dfx.dll" PATH="/DLLArchive/etc/3dfx.dll" DATE="Fri Jul 03 12:10:47 PDT 2020" VERSION="1.4">
+    <EXPORT ORDINAL="1" NAME="ConvertColourBank" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrawLine" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MakeScreenTable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetShadeTableA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="gbh_AddLight" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="gbh_AssignPalette" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="gbh_BeginLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="gbh_BeginScene" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="gbh_BlitBuffer" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="gbh_BlitImage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="gbh_CloseDLL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="gbh_CloseScreen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="gbh_Convert16BitGraphic" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="gbh_ConvertColour" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="gbh_DrawFlatRect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="gbh_DrawQuad" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="gbh_DrawQuadClipped" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="gbh_DrawTile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="gbh_DrawTilePart" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="gbh_DrawTriangle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="gbh_EndLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="gbh_EndScene" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="gbh_FreeImageTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="gbh_FreePalette" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="gbh_FreeTexture" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="gbh_GetGlobals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="gbh_GetUsedCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="gbh_Init" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="gbh_InitDLL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="gbh_InitImageTable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="gbh_LoadImage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="gbh_LockTexture" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="gbh_Plot" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="gbh_PrintBitmap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="gbh_RegisterPalette" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="gbh_RegisterTexture" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="gbh_ResetLights" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="gbh_SetAmbient" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="gbh_SetCamera" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="gbh_SetColourDepth" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="gbh_SetWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="gbh_UnlockTexture" PURGE="4" COMMENT="" />
+</LIBRARY>
+

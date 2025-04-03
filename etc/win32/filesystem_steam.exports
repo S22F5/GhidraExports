@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="filesystem_steam.dll" PATH="/DLLArchive/etc/filesystem_steam.dll" DATE="Fri Jul 03 12:33:59 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3d8.dll" PATH="/DLLArchive/etc/d3d8.dll" DATE="Wed Sep 27 03:08:00 PDT 2017" VERSION="10.0.15063.0 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Direct3D8EnableMaximizedWindowedModeShim" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ValidatePixelShader" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ValidateVertexShader" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DebugSetMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Direct3DCreate8" PURGE="4" COMMENT="" />
+</LIBRARY>
+

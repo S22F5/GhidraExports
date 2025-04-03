@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ngcrecovery.dll" PATH="/DLLArchive/windows10LTSCX86_64/ngcrecovery.dll" DATE="Wed Oct 06 06:51:26 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NgcIsPinRecoveryEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NgcProtectPinRecoverySecret" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NgcRecoverPin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NgcRecoverPinSilent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NgcVerifyPinRecoverySecret" PURGE="0" COMMENT="" />
+</LIBRARY>
+

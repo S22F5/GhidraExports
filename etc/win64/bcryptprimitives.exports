@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bcryptprimitives.dll" PATH="/DLLArchive/etc/bcryptprimitives.dll" DATE="Thu Jul 02 08:00:18 CEST 2020" VERSION="10.0.19041.264 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetAsymmetricEncryptionInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCipherInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetHashInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetKeyDerivationInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetRngInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetSecretAgreementInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetSignatureInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MSCryptConvertRsaPrivateBlobToFullRsaBlob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ProcessPrng" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ProcessPrngGuid" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpscript.dll" PATH="/DLLArchive/windows10LTSCX86_64/gpscript.dll" DATE="Wed Oct 06 15:53:14 CEST 2021" VERSION="10.0.19041.572 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GenerateScriptsGroupPolicy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProcessScriptsGroupPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProcessScriptsGroupPolicyEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ScrRegGPOListToWbem" PURGE="8" COMMENT="" />
+</LIBRARY>
+

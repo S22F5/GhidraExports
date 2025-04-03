@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ole.dll" PATH="/DLLArchive/etc/ole.dll" DATE="Fri Jul 03 13:04:59 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreatePerlObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetSVFromVariant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetSVFromVariantEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetVariantFromSV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_CreatePerlObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_SetSVFromVariant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_SetSVFromVariantEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_SetVariantFromSV" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_boot_Win32__OLE" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="boot_Win32__OLE" PURGE="0" COMMENT="" />
+</LIBRARY>
+

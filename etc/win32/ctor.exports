@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctor.dll" PATH="/DLLArchive/etc/ctor.dll" DATE="Fri Jul 03 12:28:29 PDT 2020" VERSION="6, 31, 100, 1190">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LaunchSetup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LaunchiSetup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LaunchiSetupML" PURGE="16" COMMENT="" />
+</LIBRARY>
+

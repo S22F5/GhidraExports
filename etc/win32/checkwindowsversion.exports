@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="checkwindowsversion.dll" PATH="/DLLArchive/etc/checkwindowsversion.dll" DATE="Wed Feb 22 01:16:18 CET 2012" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DUP2_EditPluginData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DUP2_ModuleDescription" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DUP2_PluginInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sysinv.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sysinv.dll" DATE="Fri Aug 17 13:36:32 PDT 2001" VERSION="4.10.2016">
+    <EXPORT ORDINAL="1" NAME="GetSystemInventoryA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetSystemInventoryW" PURGE="8" COMMENT="" />
+</LIBRARY>
+

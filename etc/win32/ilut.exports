@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ilut.dll" PATH="/DLLArchive/etc/ilut.dll" DATE="Fri Jul 03 21:41:08 CEST 2020" VERSION="1.6.5">
+    <EXPORT ORDINAL="1" NAME="ilutConvertToHBitmap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ilutD3D8LoadSurface@8" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ilutD3D8MipFunc@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ilutD3D8TexFromFile@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ilutD3D8TexFromFileHandle@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ilutD3D8TexFromFileInMemory@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ilutD3D8TexFromResource@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ilutD3D8Texture@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_ilutD3D8VolTexFromFile@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_ilutD3D8VolTexFromFileHandle@12" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_ilutD3D8VolTexFromFileInMemory@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_ilutD3D8VolTexFromResource@16" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_ilutD3D8VolumeTexture@4" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ilutDisable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ilutEnable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ilutFreePaddedData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ilutGLBindMipmaps" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ilutGLBindTexImage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ilutGLBuildMipmaps" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ilutGLLoadImage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ilutGLSaveImage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ilutGLScreen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ilutGLScreenie" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ilutGLSetTex" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ilutGLTexImage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ilutGetBmpInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ilutGetBoolean" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ilutGetBooleanv" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ilutGetHPal" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ilutGetInteger" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="ilutGetIntegerv" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="ilutGetPaddedData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ilutGetString" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ilutGetWinClipboard" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ilutInit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ilutIsDisabled" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ilutIsEnabled" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ilutLoadResource" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ilutPopAttrib" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ilutPushAttrib" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ilutRenderer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ilutSetHBitmap" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ilutSetHPal" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ilutSetInteger" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ilutSetWinClipboard" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="ilutWinLoadImage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="ilutWinLoadUrl" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="ilutWinPrint" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="ilutWinSaveImage" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

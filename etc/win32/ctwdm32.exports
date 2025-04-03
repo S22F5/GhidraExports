@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctwdm32.dll" PATH="/DLLArchive/etc/ctwdm32.dll" DATE="Fri Jul 03 12:28:32 PDT 2020" VERSION="5.0.0.2001">
+    <EXPORT ORDINAL="1" NAME="DriverProc" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="auxMessage" PURGE="20" COMMENT="" />
+</LIBRARY>
+

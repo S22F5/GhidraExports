@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpupeteopengl2.dll" PATH="/DLLArchive/etc/gpupeteopengl2.dll" DATE="Fri Jul 03 12:36:10 PDT 2020" VERSION="2, 3, 0, 0">
+    <EXPORT ORDINAL="2" NAME="PSEgetLibType" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PSEgetLibName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PSEgetLibVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GPUinit" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GPUshutdown" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GPUopen" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GPUclose" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GPUconfigure" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GPUabout" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GPUtest" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GPUwriteData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GPUwriteStatus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GPUreadData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GPUreadStatus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GPUdmaChain" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GPUgetMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GPUsetMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GPUupdateLace" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GPUmakeSnapshot" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GPUwriteDataMem" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GPUreadDataMem" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GPUdisplayFlags" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GPUfreeze" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GPUgetScreenPic" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GPUshowScreenPic" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GPUcursor" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

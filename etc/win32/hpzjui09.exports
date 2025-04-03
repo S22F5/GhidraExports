@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpzjui09.dll" PATH="/DLLArchive/etc/hpzjui09.dll" DATE="Fri Jul 03 12:37:06 PDT 2020" VERSION="2.240.0.0">
+    <EXPORT ORDINAL="1" NAME="_Create_DJJobUI@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DisplayJobUIDialog" PURGE="0" COMMENT="" />
+</LIBRARY>
+

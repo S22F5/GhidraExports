@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssp3no.dll" PATH="/DLLArchive/etc/MSSP3NO.DLL" DATE="Fri Jul 03 12:59:57 PDT 2020" VERSION="2.50.0.0">
+    <EXPORT ORDINAL="20" NAME="SpellerVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SpellerInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SpellerTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SpellerOpenLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SpellerCloseLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SpellerSetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SpellerGetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SpellerAddChangeUdr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SpellerAddUdr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SpellerBuiltinUdr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SpellerCheck" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SpellerClearUdr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SpellerDelUdr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SpellerGetListUdr" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SpellerGetSizeUdr" PURGE="12" COMMENT="" />
+</LIBRARY>
+

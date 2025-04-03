@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="extremeshot.dll" PATH="/DLLArchive/etc/ExtremeShot.dll" DATE="Fri Jul 03 12:33:48 PDT 2020" VERSION="3, 0, 15, 12">
+    <EXPORT ORDINAL="1" NAME="MTSCanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MTSCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MTSGetCreatorFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MTSRegisterComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MTSSetGlobalServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MTSUnregisterComponent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

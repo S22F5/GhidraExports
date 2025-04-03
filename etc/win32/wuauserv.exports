@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wuauserv.dll" PATH="/DLLArchive/etc/wuauserv.dll" DATE="Fri Jul 03 13:38:41 PDT 2020" VERSION="5.4.3790.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

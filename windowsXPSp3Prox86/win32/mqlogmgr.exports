@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqlogmgr.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqlogmgr.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="2001.12.4414.255">
+    <EXPORT ORDINAL="1" NAME="?CreateInstance@CLogMgr@@SGJPAPAV1@PAUIUnknown@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetDTCLOG2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?DllGetDTCLOG@@YGHABU_GUID@@0PAPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-file-l1-2-1.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-file-l1-2-1.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetCompressedFileSizeA" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetCompressedFileSizeA" />
+    <EXPORT ORDINAL="2" NAME="GetCompressedFileSizeW" PURGE="8" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetCompressedFileSizeW" />
+    <EXPORT ORDINAL="3" NAME="SetFileIoOverlappedRange" PURGE="12" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetFileIoOverlappedRange" />
+</LIBRARY>
+

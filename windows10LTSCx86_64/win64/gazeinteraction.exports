@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gazeinteraction.dll" PATH="/DLLArchive/windows10LTSCX86_64/GazeInteraction.dll" DATE="Sat Dec 07 01:08:43 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="diskcopy.dll" PATH="/DLLArchive/etc/diskcopy.dll" DATE="Fri Jul 03 12:31:23 PDT 2020" VERSION="6.00.2600.0000 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DiskCopyRunDll" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DiskCopyRunDllW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

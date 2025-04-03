@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libintl-1.dll" PATH="/DLLArchive/etc/libintl-1.dll" DATE="Fri Jul 03 12:47:00 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_bindtextdomain__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__nl_default_default_domain__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="__nl_default_dirname__" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="__nl_domain_bindings__" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="__nl_expand_alias" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="__nl_explode_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="__nl_find_domain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="__nl_find_language" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="__nl_find_msg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="__nl_free_domain_conv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="__nl_init_domain_conv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="__nl_load_domain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="__nl_make_l10nflist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="__nl_msg_cat_cntr" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="__nl_normalize_codeset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="__set_nl_default_dirname" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_bind_textdomain_codeset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_bind_textdomain_codeset__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_bindtextdomain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_nl_current_default_domain__" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_dcgettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_dcgettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_dcigettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_dcngettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_dcngettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_dgettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_dgettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_dngettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_dngettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_gettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_gettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_gettext_free_exp__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_gettextparse__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_locale_charset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_ngettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_ngettext__" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_textdomain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="_textdomain__" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="m_vmemd.dll" PATH="/DLLArchive/etc/m_vmemd.dll" DATE="Thu Jan 11 08:23:42 CET 2024" VERSION="5.8.20.140">
+    <EXPORT ORDINAL="1" NAME="InitializeVmmPlugin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

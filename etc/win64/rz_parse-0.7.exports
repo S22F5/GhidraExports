@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_parse-0.7.dll" PATH="/DLLArchive/etc/rz_parse-0.7.dll" DATE="Mon Mar 04 10:49:46 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_parse_assemble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_parse_filter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_parse_filter_dup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_parse_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_parse_immtrim" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_parse_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_parse_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_parse_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_parse_pseudocode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_parse_set_user_ptr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_parse_subvar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_parse_use" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_parse_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

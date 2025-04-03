@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="reg3.dll" PATH="/DLLArchive/etc/reg3.dll" DATE="Fri Jul 03 13:11:11 PDT 2020" VERSION="7.0.0.8739">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="initRegistryTypeReader_Api" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="initRegistryTypeWriter_Api" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="initRegistry_Api" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="reg_closeKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="reg_closeRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="reg_closeSubKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="reg_createKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="reg_createLink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="reg_createRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="reg_deleteKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="reg_deleteLink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="reg_destroyRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="reg_dumpRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="reg_freeValueList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="reg_getKeyName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="reg_getKeyType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="reg_getLinkTarget" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="reg_getLongListValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="reg_getName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="reg_getResolvedKeyName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="reg_getStringListValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="reg_getUnicodeListValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="reg_getValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="reg_getValueInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="reg_isReadOnly" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="reg_loadKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="reg_mergeKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="reg_openKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="reg_openRegistry" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="reg_openRootKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="reg_openSubKeys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="reg_saveKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="reg_setLongListValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="reg_setStringListValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="reg_setUnicodeListValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="reg_setValue" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eularegn.dll" PATH="/DLLArchive/etc/eularegn.dll" DATE="Fri Jul 03 12:33:34 PDT 2020" VERSION="7.1.555.0">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="fFirstRun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="fGetFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FRegDisplay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FDisplayEula" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FDisplayWarranty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FRunReg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FRunRegistration" PURGE="0" COMMENT="" />
+</LIBRARY>
+

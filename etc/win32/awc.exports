@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="awc.dll" PATH="/DLLArchive/etc/awc.dll" DATE="Fri Jul 03 12:24:30 PDT 2020" VERSION="3.1.0.8">
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="0" COMMENT="" />
+</LIBRARY>
+

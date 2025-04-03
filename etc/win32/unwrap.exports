@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unwrap.dll" PATH="/DLLArchive/etc/unwrap.dll" DATE="Sun Feb 11 04:15:08 PST 2001" VERSION="">
+    <EXPORT ORDINAL="1" NAME="UnwrapThunk" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mscories.dll" PATH="/DLLArchive/etc/mscories.dll" DATE="Fri Jul 03 21:54:34 CEST 2020" VERSION="1.1.4322.573">
+    <EXPORT ORDINAL="1" NAME="Install" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Uninstall" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="h323cc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/h323cc.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2600.5512">
+    <EXPORT ORDINAL="100" NAME="CreateH323CC" PURGE="12" COMMENT="" />
+</LIBRARY>
+

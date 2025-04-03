@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="frmrdrct.dll" PATH="/DLLArchive/etc/FRMRDRCT.DLL" DATE="Fri Jul 03 12:35:03 PDT 2020" VERSION="8.01">
+    <EXPORT ORDINAL="1" NAME="CreateFormRedirectExtension@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="store3.dll" PATH="/DLLArchive/etc/store3.dll" DATE="Fri Jul 03 13:20:49 PDT 2020" VERSION="7.0.0.8779">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="store_acquireHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="store_attrib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="store_closeDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="store_closeFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="store_closeStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="store_createMemoryFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="store_findFirst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="store_findNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="store_flushFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="store_flushStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="store_getFileRefererCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="store_getFileSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="store_getStreamSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="store_link" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="store_openDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="store_openFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="store_openStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="store_readStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="store_rebuildFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="store_releaseHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="store_remove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="store_rename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="store_setStreamSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="store_symlink" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="store_writeStream" PURGE="0" COMMENT="" />
+</LIBRARY>
+

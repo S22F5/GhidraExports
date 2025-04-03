@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="chgres.dll" PATH="/DLLArchive/etc/ChgRes.dll" DATE="Fri Jul 03 21:26:44 CEST 2020" VERSION="1, 0, 0, 8">
+    <EXPORT ORDINAL="1" NAME="DoAfter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoBefore" PURGE="0" COMMENT="" />
+</LIBRARY>
+

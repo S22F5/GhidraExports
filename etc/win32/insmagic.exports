@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="insmagic.dll" PATH="/DLLArchive/etc/insmagic.dll" DATE="Fri Jul 03 12:43:03 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0CInsMagic@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??4CInsMagic@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CopyInf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InstallDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UpdateDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_RemoveDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?fnInsMagic@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?nInsMagic@@3HA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

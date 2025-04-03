@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exsec32.dll" PATH="/DLLArchive/etc/EXSEC32.DLL" DATE="Fri Jul 03 12:33:45 PDT 2020" VERSION="9.0.2554.0">
+    <EXPORT ORDINAL="1" NAME="DecodeRecipientID" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EncodeRecipientID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HrAddSentFilePropertySecPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HrAddUnsentFilePropertySecPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HrCertNameFromMAPISecUserX509" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HrDisplayEncInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HrDisplayMAPISecUserX509Cert" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HrDisplaySigInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HrEditSecProfiles" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HrGetDigitalID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HrGetSecOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HrImportCertsFromFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HrIsSessionSecurityEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HrMAPISecUserX509FromCert" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HrMAPISecUserX509FromSigInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetInstalledLCID@@YGKPBD@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HrOnImportExportDigitalID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HrOnInitSecSettings" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="HrSetDefaultMAPISecUserX509Cert" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?LoadLibraryMSIExA@@YGPAUHINSTANCE__@@PBDPAXK000K@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HrUpdateSecProfileInfo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HrVerifyCertEmailAddr" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HrWrapMessageForSecurity" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HrWrapMessageForSecurityEx" PURGE="20" COMMENT="" />
+</LIBRARY>
+

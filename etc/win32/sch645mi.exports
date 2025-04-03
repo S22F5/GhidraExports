@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sch645mi.dll" PATH="/DLLArchive/etc/sch645mi.dll" DATE="Fri Jul 03 13:14:23 PDT 2020" VERSION="7.0.0.8779">
+    <EXPORT ORDINAL="1" NAME="CreateObjSchChartDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateSchChartDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeInitSchDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitSchDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SchChangeChartData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SchConvertChartRangeForCalc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SchConvertChartRangeForWriter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SchCreateDiagramAutoPilotDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SchCreateOptionsDlg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SchGetChartData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SchGetDefaultForColumnText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SchGetDefaultForRowText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SchMemChartInsertCols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SchMemChartInsertRows" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SchMemChartRemoveCols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SchMemChartRemoveRows" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SchMemChartResetTranslation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SchMemChartSwapCols" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SchMemChartSwapRows" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SchMemChartUpdateTranslation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SchNewMemChartCopy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SchNewMemChartNone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SchNewMemChartXY" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SchSetTransparent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SchUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SchUpdateAttr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="component_getFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="component_getImplementationEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="component_writeInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

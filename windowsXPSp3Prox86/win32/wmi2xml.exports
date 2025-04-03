@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wmi2xml.dll" PATH="/DLLArchive/windowsXPSp3Prox86/wmi2xml.dll" DATE="Fri Aug 17 13:36:36 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="CloseWbemTextSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenWbemTextSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TextToWbemObject" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WbemObjectToText" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

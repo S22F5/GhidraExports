@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oledb32x.dll" PATH="/DLLArchive/etc/OLEDB32X.DLL" DATE="Wed Jun 10 16:31:32 CEST 1998" VERSION="02.00.1706.00">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

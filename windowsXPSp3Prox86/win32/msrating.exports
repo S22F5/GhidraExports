@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msrating.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msrating.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="ChangeSupervisorPassword" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClickedOnPRF" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ClickedOnRAT" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RatingAccessDeniedDialog2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RatingAccessDeniedDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RatingAddPropertyPages" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RatingCheckUserAccess" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RatingCustomAddRatingHelper" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RatingCustomAddRatingSystem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RatingCustomCrackData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RatingCustomDeleteCrackedData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RatingCustomInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RatingCustomRemoveRatingHelper" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RatingCustomSetDefaultBureau" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RatingCustomSetUserOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RatingEnable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RatingEnabledQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RatingFreeDetails" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RatingInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RatingObtainCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RatingObtainQuery" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RatingSetupUI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="VerifySupervisorPassword" PURGE="4" COMMENT="" />
+</LIBRARY>
+

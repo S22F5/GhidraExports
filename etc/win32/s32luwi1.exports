@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="s32luwi1.dll" PATH="/DLLArchive/etc/S32LUWI1.DLL" DATE="Fri Jul 03 13:13:29 PDT 2020" VERSION="1.80.19.0">
+    <EXPORT ORDINAL="1" NAME="_GetWinInitLines@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ProcessWinInit@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="monodatacollector32.dll" PATH="/DLLArchive/etc/MonoDataCollector32.dll" DATE="Wed Jan 25 04:19:50 PST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="MDC_ServerPipe" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

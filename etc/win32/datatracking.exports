@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="datatracking.dll" PATH="/DLLArchive/etc/DataTracking.dll" DATE="Fri Jul 03 12:30:25 PDT 2020" VERSION="3, 0, 8, 201">
+    <EXPORT ORDINAL="1" NAME="MTSCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MTSGetCreatorFunction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MTSRegisterComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MTSSetGlobalServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MTSUnregisterComponent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

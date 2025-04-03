@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wanpacket.dll" PATH="/DLLArchive/etc/WanPacket.dll" DATE="Fri Jul 03 13:29:23 PDT 2020" VERSION="3, 1, 0, 27">
+    <EXPORT ORDINAL="1" NAME="WanPacketCloseAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WanPacketGetReadEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WanPacketGetStats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WanPacketOpenAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WanPacketReceivePacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WanPacketSetBpfFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WanPacketSetBufferSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WanPacketSetMinToCopy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WanPacketSetMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WanPacketSetReadTimeout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WanPacketTestAdapter" PURGE="0" COMMENT="" />
+</LIBRARY>
+

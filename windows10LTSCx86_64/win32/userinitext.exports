@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="userinitext.dll" PATH="/DLLArchive/windows10LTSCX86_64/userinitext.dll" DATE="Sat Dec 07 01:09:27 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateExplorerSessionKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DisplayMessageAndExitWindows" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ImmWorker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsSubDesktopSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IsTSAppCompatOn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LoadRemoteFontsAndInitMiscWorker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PerformXForestLogonCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ProcesRemoteSessionInitialCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ProcessTermSrvIniFiles" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetShellDesktopSwitchEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetupHotKeyForKeyboardLayout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UserinitExt" PURGE="0" COMMENT="" />
+</LIBRARY>
+

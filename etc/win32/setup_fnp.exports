@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="setup_fnp.dll" PATH="/DLLArchive/etc/Setup_FNP.dll" DATE="Sun Apr 26 13:53:52 PDT 2009" VERSION="11.5.0.3 build 59714">
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="0" COMMENT="" />
+</LIBRARY>
+

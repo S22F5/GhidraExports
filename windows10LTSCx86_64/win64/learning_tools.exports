@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="learning_tools.dll" PATH="/DLLArchive/windows10LTSCX86_64/learning_tools.dll" DATE="Wed Aug 04 23:44:25 PDT 2021" VERSION="92.0.902.67">
+    <EXPORT ORDINAL="1" NAME="BuildLinguisticModelResourceRequest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetAuthorProvidedLangPageHrefScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetPdfReadAloudScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetReadingViewExtractionScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetReadingViewLearningToolsScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetReadingViewThemes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetTranslateScript" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetWebReadAloudScript" PURGE="0" COMMENT="" />
+</LIBRARY>
+

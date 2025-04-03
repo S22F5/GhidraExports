@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="prototype2engine.dll" PATH="/DLLArchive/etc/prototype2engine.dll" DATE="Fri Jul 03 13:07:45 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="EngineInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EngineKeyboardService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EngineMouseService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EngineService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EngineTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EngineWindowFocus" PURGE="0" COMMENT="" />
+</LIBRARY>
+

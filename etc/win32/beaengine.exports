@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="beaengine.dll" PATH="/DLLArchive/etc/BeaEngine.dll" DATE="Sat Aug 03 04:22:12 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_BeaEngineRevision@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_BeaEngineVersion@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Disasm@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

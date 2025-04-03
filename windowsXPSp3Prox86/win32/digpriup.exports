@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="digpriup.dll" PATH="/DLLArchive/windowsXPSp3Prox86/DIGPRIUP.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="3.10">
+    <EXPORT ORDINAL="1" NAME="DoPreUpgradeProcessing" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PreUpgradeInitialize" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TestUpgradeProcessing" PURGE="16" COMMENT="" />
+</LIBRARY>
+

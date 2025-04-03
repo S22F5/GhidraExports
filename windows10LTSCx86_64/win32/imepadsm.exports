@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imepadsm.dll" PATH="/DLLArchive/windows10LTSCX86_64/IMEPADSM.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateObject2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RegClass" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UnregClass" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

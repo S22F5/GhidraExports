@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kerneltracecontrol.dll" PATH="/DLLArchive/windows10LTSCX86_64/KernelTraceControl.dll" DATE="Wed Oct 06 15:52:34 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateMergedTraceFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StartHeapTrace" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="StartKernelTrace" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UpdateHeapTrace" PURGE="24" COMMENT="" />
+</LIBRARY>
+

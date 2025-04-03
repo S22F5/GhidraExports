@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncxpnt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ncxpnt.dll" DATE="Fri Aug 17 13:36:26 PDT 2001" VERSION="6.00.2600.0000 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="EnableAutodial" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDefaultDialupConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IsAutodialEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetDefaultDialupConnection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TestRunDll" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DisableUserLevelAccessControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnumMatchingNetBindings" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnumNetAdapters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HrEnableDhcp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HrFromLastWin32Error" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HrWideCharToMultiByte" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="InstallMSClient" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="InstallSharing" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InstallTCPIP" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IsAccessControlUserLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsAdapterDisconnected" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IsClientInstalled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IsMSClientInstalled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IsProtocolInstalled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IsSharingInstalled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="NetConnAlloc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="NetConnFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RestartNetAdapter" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jit.dll" PATH="/DLLArchive/etc/jit.dll" DATE="Fri Jul 03 12:44:40 PDT 2020" VERSION="5.00.3810">
+    <EXPORT ORDINAL="1" NAME="EnumerateGcRefs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FilterException" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FixHandlerContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetSecurityObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InitCallbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsMethodGcSafe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsMethodGcSafe2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UnwindStackFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="compileMethod2native" PURGE="0" COMMENT="" />
+</LIBRARY>
+

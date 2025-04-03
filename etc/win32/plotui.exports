@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="plotui.dll" PATH="/DLLArchive/etc/plotui.dll" DATE="Fri Jul 03 22:07:06 CEST 2020" VERSION="5.2.3790.120 (srv03_qfe.031205-1652)">
+    <EXPORT ORDINAL="254" NAME="DrvSplDeviceCaps" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="255" NAME="DevQueryPrintEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="256" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="DrvAdvancedDocumentProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="DrvConvertDevMode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="DrvDeviceCapabilities" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="DrvDevicePropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="DrvDocumentProperties" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="DrvDocumentPropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="DrvPrinterEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="264" NAME="PrinterProperties" PURGE="8" COMMENT="" />
+</LIBRARY>
+

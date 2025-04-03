@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pbkres.dll" PATH="/DLLArchive/etc/PbkRes.dll" DATE="Fri Jul 03 22:06:13 CEST 2020" VERSION="3.00">
+    <EXPORT ORDINAL="1" NAME="_InitPbkRes@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

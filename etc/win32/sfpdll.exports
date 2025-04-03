@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sfpdll.dll" PATH="/DLLArchive/etc/SFPDLL.DLL" DATE="Fri Jul 03 13:44:39 PDT 2020" VERSION="4.90.0.2533">
+    <EXPORT ORDINAL="1" NAME="??0CReadWriteLock@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CScopeRWLock@@QAE@PAU_RTL_CRITICAL_SECTION@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CScopeRWLock@@QAE@PAVCReadWriteLock@@W4RWLOCK_MODE@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1CReadWriteLock@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1CScopeRWLock@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4CReadWriteLock@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4CScopeRWLock@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?FInit@CReadWriteLock@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?LockCSUnderRead@CReadWriteLock@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?LockReadMode@CReadWriteLock@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?LockReadModeEx@CReadWriteLock@@QAEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?LockWriteMode@CReadWriteLock@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?LockWriteModeEx@CReadWriteLock@@QAEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?PrwLock@CReadWriteLock@@QAEPAV1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SFPCopyCatalog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SFPInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SFPProcessFileChanges" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SfpRebootIfNecessary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SfpShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?UnlockCSUnderRead@CReadWriteLock@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?UnlockReadMode@CReadWriteLock@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?UnlockWriteMode@CReadWriteLock@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="objSfpDb" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DisableSFPS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SRUpdateMonitoredListS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SfpCleanupSfpDb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SfpCreateSfpDb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SfpDeleteCatalogS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SfpGetCorrectVersionOfFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SfpGetNextProtectedFileS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SfpInstallCatalogS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SfpIsFileProtectedS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SfpPersistSfpDb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SfpRestoreCorrectVersionOfFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SfpSyncDb" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SfpVerifyFileS" PURGE="12" COMMENT="" />
+</LIBRARY>
+

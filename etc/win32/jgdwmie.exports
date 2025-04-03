@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgdwmie.dll" PATH="/DLLArchive/etc/jgdwmie.dll" DATE="Fri Jul 03 12:44:18 PDT 2020" VERSION="4.70.0049">
+    <EXPORT ORDINAL="1" NAME="_JgCreateDecompressContext@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_JgCreateDecompressor@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_JgDecompressDone@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_JgDecompressImageBlock@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_JgDestroyDecompressContext@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_JgDestroyDecompressor@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_JgGetDecoderVersion@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_JgGetDecompressCaps@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_JgGetDecompressInfo@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_JgGetImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_JgGetImageHandleDIB@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_JgGetImageInfo@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_JgGetMask@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_JgGetMaskDIB@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_JgGetMiniatureDIB@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_JgGetMiniatureOffset@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_JgGetOptimalPalette@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_JgInitDecompress@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_JgLosslessDecompressBlock@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_JgLosslessDecompressCreate@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_JgLosslessDecompressDestroy@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_JgLosslessDecompressPartitionReset@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_JgLosslessDecompressQuery@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_JgLosslessDecompressReset@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_JgNewDIBDepth@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_JgQueryArtImage@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_JgSetDebug@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_JgSetDecompressResourceBuffer@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_JgSetMemCallbacks@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

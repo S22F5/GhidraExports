@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ccregmon.dll" PATH="/DLLArchive/etc/CCREGMON.DLL" DATE="Fri Jul 03 12:26:16 PDT 2020" VERSION="1.03.15">
+    <EXPORT ORDINAL="1" NAME="GetFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetObjectCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCCAppObjectID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0CIPwdSvc@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0CRegKeyMgr@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0CRegKeyMgr@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CIPwdSvc@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1CRegKeyMgr@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4CIPwdSvc@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4CRegKeyMgr@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_7CRegKeyMgr@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AlertPwdSvcNotConnected@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?AlertSettingsCorruptAfterRestore@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?AlertSettingsMigration@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?AlertSettingsRestoreFailed@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?AlertSettingsViolation@@YAXK@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?BackupAll@CRegKeyMgr@@QAEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?BackupKey@CRegKeyMgr@@QAEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?Connect@CIPwdSvc@@CAPAUIWinPwdSvc@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetCorruptKeyPath@CRegKeyMgr@@QAEXPADK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetLastError@CRegKeyMgr@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?IsConnected@CRegKeyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?MigrateStanleySettings@CRegKeyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?PutBackupPath@CRegKeyMgr@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?PutFileExtension@CRegKeyMgr@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?PutRootKey@CRegKeyMgr@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?Reconnect@CIPwdSvc@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?Reconnect@CRegKeyMgr@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?RestartWindows@CRegKeyMgr@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?RestoreAll@CRegKeyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?RestoreKey@CRegKeyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?SetCorruptKeyPath@CRegKeyMgr@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?VerifyAll@CRegKeyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?VerifyKey@CRegKeyMgr@@QAEHXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

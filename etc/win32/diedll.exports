@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="diedll.dll" PATH="/DLLArchive/etc/diedll.dll" DATE="Fri Jul 12 12:57:30 PDT 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_DIE_scanA@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_DIE_scanExA@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_DIE_scanExW@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_DIE_scanW@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_DIE_versionA@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_DIE_versionW@0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

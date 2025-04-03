@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptdll.dll" PATH="/DLLArchive/etc/cryptdll.dll" DATE="Fri Jul 03 21:28:16 CEST 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="CDBuildIntegrityVect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CDBuildVect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CDFindCommonCSystem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CDFindCommonCSystemWithKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CDGenerateRandomBits" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CDLocateCSystem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CDLocateCheckSum" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CDLocateRng" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CDRegisterCSystem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CDRegisterCheckSum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CDRegisterRng" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MD5Final" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MD5Init" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MD5Update" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

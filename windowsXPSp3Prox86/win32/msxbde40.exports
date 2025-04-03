@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msxbde40.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msxbde40.dll" DATE="Mon Apr 02 09:22:02 PDT 2007" VERSION="4.00.9502.0">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

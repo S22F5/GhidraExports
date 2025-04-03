@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3c589m.dll" PATH="/DLLArchive/etc/3c589m.dll" DATE="Fri Jul 03 21:10:40 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Detect3com" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DriverEntry" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Install_Driver" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

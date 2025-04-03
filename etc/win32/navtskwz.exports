@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navtskwz.dll" PATH="/DLLArchive/etc/NAVTSKWZ.DLL" DATE="Fri Jul 03 13:01:19 PDT 2020" VERSION="9.05.15">
+    <EXPORT ORDINAL="1" NAME="NAVTaskWizard" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FolderDialog" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrivesDialog" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iashlpr.dll" PATH="/DLLArchive/windows10LTSCX86_64/iashlpr.dll" DATE="Wed Oct 06 06:53:00 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AllocateAttributes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConfigureIas" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DoRequest" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DoRequestAsync" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FreeAttributes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetOptionIas" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InitializeIas" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MemAllocIas" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MemFreeIas" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MemReallocIas" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetOptionIas" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ShutdownIas" PURGE="0" COMMENT="" />
+</LIBRARY>
+

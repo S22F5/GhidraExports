@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dhcpcsvc6.dll" PATH="/DLLArchive/windows10LTSCX86_64/dhcpcsvc6.dll" DATE="Wed Oct 06 06:52:32 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Dhcpv6AcquireParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Dhcpv6CApiCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Dhcpv6CApiInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Dhcpv6CancelOperation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Dhcpv6EnableDhcp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Dhcpv6EnableTracing" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Dhcpv6FreeLeaseInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Dhcpv6FreeLeaseInfoArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Dhcpv6GetTraceArray" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Dhcpv6GetUserClasses" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Dhcpv6IsEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Dhcpv6QueryLeaseInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Dhcpv6QueryLeaseInfoArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Dhcpv6ReleaseParameters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Dhcpv6ReleasePrefix" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Dhcpv6ReleasePrefixEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Dhcpv6RenewPrefix" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Dhcpv6RenewPrefixEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Dhcpv6RequestParams" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Dhcpv6RequestPrefix" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Dhcpv6RequestPrefixEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Dhcpv6SetUserClass" PURGE="12" COMMENT="" />
+</LIBRARY>
+

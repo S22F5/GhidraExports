@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msisip.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msisip.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="3.1.4001.5512">
+    <EXPORT ORDINAL="5" NAME="MsiSIPIsMyTypeOfFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MsiSIPGetSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MsiSIPPutSignedDataMsg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MsiSIPRemoveSignedDataMsg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MsiSIPCreateIndirectData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MsiSIPVerifyIndirectData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

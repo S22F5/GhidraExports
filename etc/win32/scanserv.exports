@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scanserv.dll" PATH="/DLLArchive/etc/ScanServ.dll" DATE="Fri Jul 03 13:14:11 PDT 2020" VERSION="6.0.0">
+    <EXPORT ORDINAL="1" NAME="InitialiseScanServ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UnInitialiseScanServ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

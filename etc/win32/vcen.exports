@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vcen.dll" PATH="/DLLArchive/etc/vcen.dll" DATE="Fri Jul 03 13:27:01 PDT 2020" VERSION="3, 1, 4, 0">
+    <EXPORT ORDINAL="1" NAME="ConvertMediaToDVDMpeg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DisableLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EnableDshow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnableLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ExitPlayCurrentFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ExitPlayWnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FreeContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeStreamInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCurrentIfoInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetMediaFileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetPauseState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetPlayHwnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetVideoClock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetVideoFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InitPlayWnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PackageButtonToBackGroundToAvs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PlayMedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SeekToPos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetDshowVideoOrAudioFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetDvdInputInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="StepToNextFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TVPConvertColorSpace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TVPDecodeAudioNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TVPDecodeNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="TVPDecodeVideoNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TVPEndDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="TVPFreeFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="TVPFreeMediaInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TVPGetMediaInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TVPGetNextVideoTimeStamp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="TVPSeekToPos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="TVPStartDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="TogglePause" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="VCExit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="VCInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="VC_SetFrameInfoCallBack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ffmain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="playmain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

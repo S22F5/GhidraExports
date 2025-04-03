@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msftedit.dll" PATH="/DLLArchive/windows10LTSCX86_64/msftedit.dll" DATE="Wed Oct 06 15:52:23 CEST 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2" NAME="IID_IRichEditOle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IID_IRichEditOleCallback" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateTextServices" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IID_ITextServices" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IID_ITextHost" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IID_ITextHost2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_DisableOleinitCheck@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RichEditANSIWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RichEdit10ANSIWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetCustomTextOutHandlerEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RichEditWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MathBuildUp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MathBuildDown" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MathTranslate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetMathAlphanumericCode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetMathAlphanumeric" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IID_ITextDocument2" PURGE="29190" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IID_ITextServices2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="IID_IRicheditWindowlessAccessibility" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IID_IRicheditUiaOverrides" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ShutdownTextServices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SetTextServicesDpiCalculationOverride" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="IID_IRicheditUiaNotificationOverrides" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

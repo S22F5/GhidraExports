@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lonsint.dll" PATH="/DLLArchive/windowsXPSp3Prox86/lonsint.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="6.0.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="IISGetDefaultDomainName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IISLogon32Initialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IISLogonDigestUserA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IISLogonNetUserA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IISLogonNetUserW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IISNetUserCookieA" PURGE="16" COMMENT="" />
+</LIBRARY>
+

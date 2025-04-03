@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fruity wrapper.dll" PATH="/DLLArchive/etc/fruity wrapper.dll" DATE="Fri Jul 03 12:35:05 PDT 2020" VERSION="1.6.4.0">
+    <EXPORT ORDINAL="1" NAME="CreatePlugInstance" PURGE="8" COMMENT="" />
+</LIBRARY>
+

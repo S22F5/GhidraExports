@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="antianti.dll" PATH="/DLLArchive/etc/antiAnti.dll" DATE="Thu Dec 15 17:57:04 PST 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+</LIBRARY>
+

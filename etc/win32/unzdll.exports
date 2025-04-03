@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unzdll.dll" PATH="/DLLArchive/etc/UnzDll.dll" DATE="Tue Apr 22 05:23:06 CEST 2008" VERSION="1.78.4.3">
+    <EXPORT ORDINAL="1" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllEntryPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetUnzDllVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetUnzDllPrivVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UnzDllExec" PURGE="4" COMMENT="" />
+</LIBRARY>
+

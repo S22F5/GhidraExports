@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vspdctl.dll" PATH="/DLLArchive/etc/vspdctl.dll" DATE="Fri Sep 02 22:51:40 CEST 2005" VERSION="5.0.2.25">
+    <EXPORT ORDINAL="1" NAME="CreatePair" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeletePair" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeleteAll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SetStrictBaudrate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetBreak" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="QueryBus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetWiring" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Registation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetCertificate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetArmadilloName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetArmadilloCode" PURGE="8" COMMENT="" />
+</LIBRARY>
+

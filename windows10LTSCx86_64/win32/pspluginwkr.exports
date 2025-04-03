@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pspluginwkr.dll" PATH="/DLLArchive/windows10LTSCX86_64/pspluginwkr.dll" DATE="Sat Dec 07 01:10:32 PST 2019" VERSION="6.1.7600.16385 (win7_rtm.090713-1255)">
+    <EXPORT ORDINAL="1" NAME="InitPlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSManPluginCommand" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSManPluginReceive" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSManPluginReleaseCommandContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSManPluginReleaseShellContext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSManPluginSend" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSManPluginShell" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSManPluginSignal" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

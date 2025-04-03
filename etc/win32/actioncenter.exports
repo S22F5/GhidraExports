@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="actioncenter.dll" PATH="/DLLArchive/etc/ActionCenter.dll" DATE="Fri Jul 03 12:16:05 PDT 2020" VERSION="6.1.7601.17514 (win7sp1_rtm.101119-1850)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

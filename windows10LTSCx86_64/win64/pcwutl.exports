@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pcwutl.dll" PATH="/DLLArchive/windows10LTSCX86_64/pcwutl.dll" DATE="Wed Oct 06 06:52:54 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="LaunchApplicationW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SanitizeFullPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetAppInformationFromCloud" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetLayerFromGenome" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetMatchingInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetTempFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LogAeEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LogPCWDebugEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RetrieveFileAndProgramId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SendPcwWerReport" PURGE="0" COMMENT="" />
+</LIBRARY>
+

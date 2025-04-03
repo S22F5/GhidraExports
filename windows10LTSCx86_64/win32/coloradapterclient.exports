@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coloradapterclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/coloradapterclient.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ModernColorGetGDILutFromHDC" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ModernColorSetGDILut" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ModernColorSetGDILutFromHDC" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ModernColorSetLut" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ModernColorSetMatrix" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ModernColorSetMatrixFromHDC" PURGE="24" COMMENT="" />
+</LIBRARY>
+

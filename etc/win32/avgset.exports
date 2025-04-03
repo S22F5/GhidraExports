@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="avgset.dll" PATH="/DLLArchive/etc/avgset.dll" DATE="Fri Jul 03 12:24:25 PDT 2020" VERSION="7,0,0,142">
+    <EXPORT ORDINAL="1" NAME="AvgEditSched" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AvgGetProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AvgHasProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AvgInitProxy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AvgSchedList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AvgScheduleTest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AvgScheduleUpdate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AvgSetAdminRights" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AvgSetGetInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AvgSetPassword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AvgSetPrefs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AvgSetSelectLng" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllGetVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DoUpdSelPriority" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DoUpdateDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DoUpdateDlgDock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="QueryPassword" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="apiAvgEditSched" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="apiAvgSchedList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="apiAvgScheduleTest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="apiAvgScheduleUpdate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="apiAvgSetAdminRights" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="apiAvgSetPassword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="apiAvgSetPrefs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="apiAvgSetSelectLng" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="apiCloseUpdateDlg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="apiCreateUpdateDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="apiDoUpdSelPriority" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="apiDoUpdateDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="apiDoUpdateDlgDock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="apiQueryPassword" PURGE="4" COMMENT="" />
+</LIBRARY>
+

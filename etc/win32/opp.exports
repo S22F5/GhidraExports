@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="opp.dll" PATH="/DLLArchive/etc/OPP.dll" DATE="Fri Jul 03 13:05:21 PDT 2020" VERSION="1.02.05">
+    <EXPORT ORDINAL="2" NAME="OPPGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OPPInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OPPTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

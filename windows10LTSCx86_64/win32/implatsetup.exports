@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="implatsetup.dll" PATH="/DLLArchive/windows10LTSCX86_64/ImplatSetup.dll" DATE="Wed Oct 06 06:43:58 PDT 2021" VERSION="10.0.19041.1220 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ImplatMuxDispatch" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ImplatMuxMemberUninstall" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ImplatMuxModified" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ImplatMuxVirtualInterfaceChanged" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ImplatMuxVirtualInterfaces" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ImplatTransactionDispatch" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ImplatVmsBinding" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

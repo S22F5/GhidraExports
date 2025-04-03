@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="chkr.dll" PATH="/DLLArchive/windowsXPSp3Prox86/chkr.dll" DATE="Fri Aug 17 13:36:10 PDT 2001" VERSION="1.2.626.1">
+    <EXPORT ORDINAL="1" NAME="ZoneClientMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZoneClientExit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZoneClientGameAddKibitzer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZoneClientGameDelete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZoneClientGameNew" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZoneClientGameProcessMessage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ZoneClientGameRemoveKibitzer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ZoneClientInternalName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ZoneClientMessageHandler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ZoneClientName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ZoneClientVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ZoneGameDllDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ZoneGameDllInit" PURGE="8" COMMENT="" />
+</LIBRARY>
+

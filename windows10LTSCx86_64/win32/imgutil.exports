@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imgutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/imgutil.dll" DATE="Wed Oct 06 06:53:02 PDT 2021" VERSION="11.00.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ComputeInvCMAP" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateDDrawSurfaceOnDIB" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateMIMEMap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DecodeImage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DecodeImageEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DitherTo8" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetMaxMIMEIDBytes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IdentifyMIMEType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SniffStream" PURGE="12" COMMENT="" />
+</LIBRARY>
+

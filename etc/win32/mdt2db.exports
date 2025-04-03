@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mdt2db.dll" PATH="/DLLArchive/etc/MDT2DB.DLL" DATE="Fri Jun 19 16:45:26 PDT 1998" VERSION="2.00.00.8171">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0CBaseDlgPropPage@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??0CBaseDlgPropPage@@QAE@PAUHINSTANCE__@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1CBaseDlgPropPage@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4CBaseDlgPropPage@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_7CBaseDlgPropPage@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Activate@CBaseDlgPropPage@@UAGJPAUHWND__@@PBUtagRECT@@H@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AddRef@CBaseDlgPropPage@@UAGKXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Apply@CBaseDlgPropPage@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Deactivate@CBaseDlgPropPage@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?DlgProcSTATIC@CBaseDlgPropPage@@SGHPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?FEndOfTabList@CBaseDlgPropPage@@MAIHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?FIsDialogActive@CBaseDlgPropPage@@UAIHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?FillPageSize@CBaseDlgPropPage@@UAIJPAUtagSIZE@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetActivePane@CDaVinciPaneMgr@@UAGPAVCDavPaneSite@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Help@CBaseDlgPropPage@@UAGJPBG@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?HwndGetFirstTabCtl@CBaseDlgPropPage@@MAIPAUHWND__@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?HwndGetWindow@CDaVinciPaneMgr@@QAGPAUHWND__@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?IsPageDirty@CBaseDlgPropPage@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?Move@CBaseDlgPropPage@@UAGJPBUtagRECT@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?QueryInterface@CBaseDlgPropPage@@UAGJABU_GUID@@PAPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?Release@CBaseDlgPropPage@@UAGKXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?SetObjects@CBaseDlgPropPage@@UAGJKPAPAUIUnknown@@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?SetPageSite@CBaseDlgPropPage@@UAGJPAUIPropertyPageSite@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?Show@CBaseDlgPropPage@@UAGJI@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?TranslateAcceleratorW@CBaseDlgPropPage@@UAGJPAUtagMSG@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?VClearPageDirty@CBaseDlgPropPage@@UAIXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?VReleaseObjects@CBaseDlgPropPage@@MAIXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?VSetActiveSite@CDaVinciPaneMgr@@QAGXPAVCDavPaneSite@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?VSetPageDirty@CBaseDlgPropPage@@UAIXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?VSetPageDirtyAndApply@CBaseDlgPropPage@@UAIXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

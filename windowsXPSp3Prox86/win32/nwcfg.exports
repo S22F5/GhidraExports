@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nwcfg.dll" PATH="/DLLArchive/windowsXPSp3Prox86/nwcfg.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="AddNetwarePrinterProvidor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeleteNetwarePrinterProvidor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AppendSzToFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RemoveSzFromFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetKernelVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetEverybodyPermission" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="lodctr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="unlodctr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DeleteGatewayPassword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetFileSysChangeValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CleanupRegistryForNWCS" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetupRegistryForNWCS" PURGE="12" COMMENT="" />
+</LIBRARY>
+

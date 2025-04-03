@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="siint5.dll" PATH="/DLLArchive/etc/siint5.dll" DATE="Fri Jul 03 22:16:30 CEST 2020" VERSION="6.13.01.3198 ">
+    <EXPORT ORDINAL="1" NAME="DeviceGetInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

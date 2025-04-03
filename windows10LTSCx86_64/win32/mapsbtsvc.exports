@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mapsbtsvc.dll" PATH="/DLLArchive/windows10LTSCX86_64/MapsBtSvc.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MapsBackgroundTransferClassFactory_Register" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MapsBackgroundTransferClassFactory_Revoke" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MapsBackgroundTransferService_CreateOrFindJob" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MapsBackgroundTransferService_FreeJob" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MapsBackgroundTransferService_GetIsAnyJobWaiting" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MapsBackgroundTransferService_RegisterCallbacks" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MapsBackgroundTransferService_SetNetworkCostPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MapsBackgroundTransferService_SetPowerPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MapsBackgroundTransferService_SetPriority" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MapsBackgroundTransferService_TakeBitsSnapshot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MapsBackgroundTransferService_UnregisterCallbacks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MapsBackgroundTransferService_SetServiceCallbacks" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="facedetect.dll" PATH="/DLLArchive/etc/FaceDetect.dll" DATE="Fri Mar 22 13:57:30 PDT 2013" VERSION="1.0.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ivFaceDetectW" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

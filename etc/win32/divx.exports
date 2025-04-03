@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="divx.dll" PATH="/DLLArchive/etc/DivX.dll" DATE="Fri Jul 03 12:31:26 PDT 2020" VERSION="5.1.1.1031">
+    <EXPORT ORDINAL="1" NAME="DriverProc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NotifyAudio" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetAudioFormat" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="decore" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="decore_backdoor" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="encore" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="encore_backdoor" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="2iscmaker.dll" PATH="/DLLArchive/etc/2iscmaker.dll" DATE="Fri Jul 03 12:10:21 PDT 2020" VERSION="1.4.2.29">
+    <EXPORT ORDINAL="1" NAME="??0DiscMaker@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0DiscMaker@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1DiscMaker@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4DiscMaker@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7DiscMaker@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?AddDataFile@DiscMaker@@QAEXPBD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?AddMenu@DiscMaker@@QAEHPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?AddProgramToPlayList@DiscMaker@@QAEHPAXH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?AddVideo@DiscMaker@@QAEHPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?ClearAllDataFile@DiscMaker@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Create@DiscMaker@@QAEHW4DiscType@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?CreateImageFile@DiscMaker@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CreateMenu@DiscMaker@@QAEPAXHPAXH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?CreateMenuItem@DiscMaker@@QAEPAXPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?CreateProgramForMenu@DiscMaker@@QAEPAXPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CreateProgramForVideo@DiscMaker@@QAEPAXPAXHH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?CreateSegmentVideo@DiscMaker@@QAEPAXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?CreateVideo@DiscMaker@@QAEPAXPBD0HHHH@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetCompileProgress@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetDataFile@DiscMaker@@QAEHHPAD0HH@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetDisc@DiscMaker@@QAEPAVCartmanDiscBase@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetDiscImageFile@DiscMaker@@QAEHPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetLastError@DiscMaker@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetNumberOfDataFile@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?GetRootDir@DiscMaker@@QAEHPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?IsCompileDone@DiscMaker@@QAEHAAHK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?IsDVD@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?IsImageFileCreationOn@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?RequiresPadVideo@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SetDVDRejectLargeGOP@DiscMaker@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SetDVD_MEICompatible@DiscMaker@@UAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?SetDiscVolumeName@DiscMaker@@QAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?SetMenuDefaultPlayItem@DiscMaker@@QAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?SetMenuHighlightAlpha@DiscMaker@@QAEHPAXW4DVD_HL_STATE@@EEEE@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetMenuHighlightBitmap@DiscMaker@@QAEHPAXPBD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SetMenuHighlightColor@DiscMaker@@QAEHPAXW4DVD_HL_STATE@@KKKK@Z" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?SetMenuItemLink@DiscMaker@@QAEHPAXHHHHHHHH@Z" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?SetMenuTimeOutPlayItemWithLoopCount@DiscMaker@@QAEHPAX0H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?SetMenuTimeOutPlayItemWithTime@DiscMaker@@QAEHPAX0H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?SetPrevNextRemoteButtonSupport@DiscMaker@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?SetProgramNextTarget@DiscMaker@@QAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?SetProgramPrevTarget@DiscMaker@@QAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?SetProgramReturnTarget@DiscMaker@@QAEHPAX0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?SetProgramWaitTime@DiscMaker@@QAEHPAXH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?SetRootDir@DiscMaker@@QAEHPBDH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?StartCompile@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?StopCompile@DiscMaker@@QAEHXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

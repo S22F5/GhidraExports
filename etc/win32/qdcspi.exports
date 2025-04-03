@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qdcspi.dll" PATH="/DLLArchive/etc/QDCSPI.DLL" DATE="Fri Jul 03 22:09:06 CEST 2020" VERSION="4.51.0015">
+    <EXPORT ORDINAL="1" NAME="StartInjector" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartInjectorEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="StopInjector" PURGE="0" COMMENT="" />
+</LIBRARY>
+

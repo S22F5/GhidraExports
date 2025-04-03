@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="informer.dll" PATH="/DLLArchive/etc/informer.dll" DATE="Wed Apr 15 10:03:28 PDT 2009" VERSION="1.32.0.0">
+    <EXPORT ORDINAL="1" NAME="Informer_CloseFindMarker" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Informer_FindNextMarker" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Informer_FindFirstMarker" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Informer_CloseFindSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Informer_FindNextSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Informer_FindFirstSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Informer_GetFileVersionD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Informer_GetFileSizeD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Informer_GetFileHashD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Informer_GetFileDateD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Informer_GetFileAttibutesD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Informer_GetFileVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Informer_GetFileSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Informer_GetFileHash" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Informer_GetFileDate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Informer_GetFileAttibutes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Informer_DestroyFileInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Informer_CreateFileInformation" PURGE="0" COMMENT="" />
+</LIBRARY>
+

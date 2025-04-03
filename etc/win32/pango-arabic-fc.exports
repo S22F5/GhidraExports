@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pango-arabic-fc.dll" PATH="/DLLArchive/etc/pango-arabic-fc.dll" DATE="Fri Jul 03 13:06:04 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Arabic_Assign_Properties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_arabic" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_script_engine_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_script_engine_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_script_engine_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_script_engine_list" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="amtlib.dll" PATH="/DLLArchive/etc/amtlib.dll" DATE="Thu Oct 25 22:45:08 PDT 2018" VERSION="10.0.0.274">
+    <EXPORT ORDINAL="1" NAME="AMTGetCurrentLicenseState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AMTGetLibVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AMTGetParentLEIDLicenseStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AMTGetProductClearSerialNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AMTGetRoyaltyBearingLEIDs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AMTGetSerialExpiryDate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AMTObtainProductLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AMTObtainRunningLicenseRecord" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AMTPlugPlugRequest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AMTPreObtainProductLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AMTPreValidateProductLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AMTRecordCodecInvocation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AMTReleaseProductLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AMTRetrieveAdobeID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AMTRetrieveInfoForLEID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AMTRetrieveLibraryPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AMTRetrievePersonGUIDWithAuthSource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AMTValidateProductLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetAsnVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="asnInst_InstallerProductInfo_constructor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="asnInst_getAsnProductInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="asnInst_getAsnProductInfoInMem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="asn_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="asn_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="asn_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="asn_makePrivate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="asn_makePrivateEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nfd.dll" PATH="/DLLArchive/etc/nfd.dll" DATE="Thu Jun 27 04:08:20 PDT 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="NFD_Dummy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NFD_Free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NFD_GetError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NFD_Malloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NFD_OpenDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NFD_OpenDialogMultiple" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NFD_PathSet_Free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NFD_PathSet_GetCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NFD_PathSet_GetPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NFD_PickFolder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NFD_SaveDialog" PURGE="0" COMMENT="" />
+</LIBRARY>
+

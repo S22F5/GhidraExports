@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="direcpll.dll" PATH="/DLLArchive/etc/direcpll.dll" DATE="Fri Jul 03 12:31:18 PDT 2020" VERSION="4.10.01.40">
+    <EXPORT ORDINAL="1" NAME="GetCardInfoEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetSetTarget" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetSetClocksEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RescanBus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetCardInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetSetClocks" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetEngineClockEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetEngineClock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetEngineClockEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetEngineClock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetMemoryClockEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetMemoryClock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetMemoryClockEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetMemoryClock" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

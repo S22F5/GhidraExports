@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pespinplugin.dll" PATH="/DLLArchive/etc/PESpinPlugin.dll" DATE="Sat Jun 17 18:33:10 CEST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="0" COMMENT="" />
+</LIBRARY>
+

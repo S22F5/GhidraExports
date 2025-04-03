@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vahtp.dll" PATH="/DLLArchive/etc/VAHTP.DLL" DATE="Mon May 25 14:06:12 PDT 1998" VERSION="6.00.8146">
+    <EXPORT ORDINAL="1" NAME="GetFilterVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HttpFilterProc" PURGE="12" COMMENT="" />
+</LIBRARY>
+

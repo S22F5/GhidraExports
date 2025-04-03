@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vboxr.dll" PATH="/DLLArchive/etc/vboxr.dll" DATE="Fri Jul 03 22:26:40 CEST 2020" VERSION="4,6,1,44">
+    <EXPORT ORDINAL="1" NAME="PowerPL" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

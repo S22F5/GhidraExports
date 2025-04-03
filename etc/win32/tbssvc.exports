@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tbssvc.dll" PATH="/DLLArchive/etc/tbssvc.dll" DATE="Fri Jul 03 13:22:21 PDT 2020" VERSION="6.0.6000.16386 (vista_rtm.061101-2205)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

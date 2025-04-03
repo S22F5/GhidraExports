@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oovirghook.dll" PATH="/DLLArchive/etc/OoVirgHook.dll" DATE="Fri Jul 03 13:05:17 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_KeyboardProc@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dxerr9.dll" PATH="/DLLArchive/etc/dxerr9.dll" DATE="Fri Jul 03 21:32:42 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DXGetErrorDescription9A" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DXGetErrorDescription9W" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DXGetErrorString9A" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DXGetErrorString9W" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DXTraceA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DXTraceW" PURGE="20" COMMENT="" />
+</LIBRARY>
+

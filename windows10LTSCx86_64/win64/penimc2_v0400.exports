@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="penimc2_v0400.dll" PATH="/DLLArchive/windows10LTSCX86_64/PenIMC2_v0400.dll" DATE="Wed Oct 06 06:44:38 PDT 2021" VERSION="4.8.4390.0 built by: NET48REL1LAST_C">
+    <EXPORT ORDINAL="1" NAME="CreateResetEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DestroyResetEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetLastSystemEventData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPenEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetPenEventMultiple" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetProxyDllInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LockWispObjectFromGit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RaiseResetEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UnlockWispObjectFromGit" PURGE="0" COMMENT="" />
+</LIBRARY>
+

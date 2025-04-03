@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wzvinfo.dll" PATH="/DLLArchive/etc/WZVINFO.DLL" DATE="Fri Jul 03 22:39:57 CEST 2020" VERSION="1.1 (32-bit)">
+    <EXPORT ORDINAL="1" NAME="WZformat_cgi_versinfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WZformat_display_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WZget_dll_list_info" PURGE="0" COMMENT="" />
+</LIBRARY>
+

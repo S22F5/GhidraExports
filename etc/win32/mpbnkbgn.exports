@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpbnkbgn.dll" PATH="/DLLArchive/etc/mpbnkbgn.dll" DATE="Fri Jul 03 12:52:43 PDT 2020" VERSION="11.00.0716">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PmnyextdllGet" PURGE="0" COMMENT="" />
+</LIBRARY>
+

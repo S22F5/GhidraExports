@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltpnt13n.dll" PATH="/DLLArchive/etc/Ltpnt13n.dll" DATE="Fri Jul 03 12:48:16 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_PntIsValid" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_PntInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_PntFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_PntSetProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_PntGetProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_PntSetMetrics" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_PntSetTransformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_PntGetTransformation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_PntSetDCExtents" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_PntGetDCExtents" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_PntSetClipRgn" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_PntGetClipRgn" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_PntOffsetClipRgn" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_PntBrushMoveTo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="L_PntBrushLineTo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="L_PntDrawShapeLine" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="L_PntDrawShapeRectangle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="L_PntDrawShapeRoundRect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="L_PntDrawShapeEllipse" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="L_PntDrawShapePolygon" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="L_PntDrawShapePolyBezier" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="L_PntRegionRect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="L_PntRegionRoundRect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="L_PntRegionEllipse" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="L_PntRegionPolygon" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="L_PntRegionSurface" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="L_PntRegionBorder" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="L_PntRegionColor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="L_PntRegionTranslate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="L_PntRegionScale" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="L_PntFillSurface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="L_PntFillBorder" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="L_PntFillColorReplace" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="L_PntApplyText" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="L_PntPickColor" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="300" NAME="L_PntSetCallback" PURGE="12" COMMENT="" />
+</LIBRARY>
+

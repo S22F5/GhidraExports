@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="macdll.dll" PATH="/DLLArchive/etc/MACDll.dll" DATE="Tue Jan 22 05:15:22 PST 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetFieldTagW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RemoveTag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetFieldTagW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VerifyFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="c_APECompress_Start" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="c_APECompress_StartW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="c_APEDecompress_GetInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CompressFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CompressFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ConvertFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ConvertFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DecompressFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DecompressFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FillWaveFormatEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FillWaveHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetChecksum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetID3Tag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetInterfaceCompatibility" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetVersionNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShowFileInfoDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TagFileSimple" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="VerifyFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="c_APECompress_AddData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="c_APECompress_Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="c_APECompress_Destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="c_APECompress_Finish" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="c_APECompress_GetBufferBytesAvailable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="c_APECompress_Kill" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="c_APECompress_LockBuffer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="c_APECompress_UnlockBuffer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="c_APEDecompress_Create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="c_APEDecompress_CreateW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="c_APEDecompress_Destroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="c_APEDecompress_GetData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="c_APEDecompress_Seek" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

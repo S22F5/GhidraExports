@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="globinputhost.dll" PATH="/DLLArchive/windows10LTSCX86_64/globinputhost.dll" DATE="Wed Oct 06 06:52:28 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WGIGetCompatibleInputMethodsForLanguage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WGIGetCompatibleInputMethodsForLanguageKeyboardAndImeMixed" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WGIGetCurrentInputLanguage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WGIGetDefaultInputMethodForLanguage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WGIGetInputMethodDescription" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WGIGetInputMethodProperties" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WGIGetInputMethodTileName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WGIIsImeInputMethod" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WGIIsImeScript" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WGIIsImmersiveInputMethod" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WGIIsTouchEnabledInputMethod" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WGISetCurrentInputLanguage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WGITransformInputMethodsForLanguage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WGITransformInputMethodsForLanguageId" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WGIUpdateGlobalSpellerKey" PURGE="8" COMMENT="" />
+</LIBRARY>
+

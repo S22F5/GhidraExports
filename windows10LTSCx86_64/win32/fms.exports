@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fms.dll" PATH="/DLLArchive/windows10LTSCX86_64/fms.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FmsActivateFonts" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FmsAddFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FmsDeactivateFonts" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FmsFreeEnumerator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FmsGetBestMatchInFamily" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FmsGetCurrentFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FmsGetDirectWriteLogFont" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FmsGetFilteredFontList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FmsGetFilteredPropertyList" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FmsGetFontAutoActivationMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FmsGetFontProperty" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FmsGetGDILogFont" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FmsGetGdiLogicalFont" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FmsInitializeEnumerator" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="FmsMapGdiLogicalFont" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FmsMapLogicalFont" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="FmsResetEnumerator" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="FmsResetFontsActivationState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="FmsSetDefaultFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="FmsSetFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="FmsSetFontAutoActivationMode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="FmsSetTextFilter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="FmsToggleOnDesignAxis" PURGE="20" COMMENT="" />
+</LIBRARY>
+

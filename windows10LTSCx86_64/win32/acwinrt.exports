@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acwinrt.dll" PATH="/DLLArchive/windows10LTSCX86_64/AcWinRT.dll" DATE="Wed Oct 06 15:53:06 CEST 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetHookAPIs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NotifyShims" PURGE="8" COMMENT="" />
+</LIBRARY>
+

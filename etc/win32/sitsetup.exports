@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sitsetup.dll" PATH="/DLLArchive/etc/SITSetup.dll" DATE="Fri Sep 23 03:47:09 PDT 2005" VERSION="8.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

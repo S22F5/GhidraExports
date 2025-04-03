@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="llio_i386.dll" PATH="/DLLArchive/etc/llio_i386.dll" DATE="Tue Nov 05 17:03:56 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_close@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_ejectMedia@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_getFilePointer@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_getSectorSize@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_length@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_loadMedia@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_openNative@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_read@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_org_catacombae_hfsexplorer_win32_WindowsLowLevelIO_seek@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_org_catacombae_hfsexplorer_win32_WritableWin32File_openNative@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_org_catacombae_hfsexplorer_win32_WritableWin32File_write@24" PURGE="24" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="importer.dll" PATH="/DLLArchive/etc/Importer.dll" DATE="Thu Dec 25 19:51:04 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetModuleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ImporterAddNewAPI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ImporterAddNewDll" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ImporterAutoFixIAT" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ImporterAutoSearchIAT" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ImporterAutoSearchIATEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ImporterCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ImporterEstimatedSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ImporterExportIAT" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ImporterFindAPIWriteLocation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ImporterGetAPIName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ImporterGetAPINameEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ImporterGetAPINameFromDebugee" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ImporterGetAddedAPICount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ImporterGetAddedDllCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ImporterGetDLLIndexEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ImporterGetDLLNameFromDebugee" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ImporterGetRemoteAPIAddress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ImporterInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ImporterMoveIAT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ImporterRelocateWriteLocation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ImporterSetAutoFixOptions" PURGE="4" COMMENT="" />
+</LIBRARY>
+

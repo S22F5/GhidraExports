@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jsj3250.dll" PATH="/DLLArchive/etc/jsj3250.dll" DATE="Fri Jul 03 12:44:52 PDT 2020" VERSION="1.4: 2003062408">
+    <EXPORT ORDINAL="1" NAME="JSJ_AttachCurrentThreadToJava" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JSJ_CompareStrings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JSJ_CompareValues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JSJ_ConnectToJavaVM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JSJ_ConvertJSValueToJavaObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JSJ_ConvertJavaObjectToJSValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JSJ_DetachCurrentThreadFromJava" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JSJ_DisconnectFromJavaVM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JSJ_HashString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JSJ_HashTableAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JSJ_HashTableDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JSJ_HashTableDump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JSJ_HashTableEnumerateEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JSJ_HashTableLookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JSJ_HashTableRawAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JSJ_HashTableRawLookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JSJ_HashTableRawRemove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JSJ_HashTableRemove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JSJ_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JSJ_InitJSContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JSJ_NewHashTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JSJ_RegisterLiveConnectFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JSJ_SetDefaultJSContextForJavaThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JavaObject_finalize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="JavaObject_getPropertyById" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_Java_netscape_javascript_JSObject_call@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_Java_netscape_javascript_JSObject_equals@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_Java_netscape_javascript_JSObject_eval@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_Java_netscape_javascript_JSObject_finalize@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_Java_netscape_javascript_JSObject_getMember@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_Java_netscape_javascript_JSObject_getSlot@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_Java_netscape_javascript_JSObject_getWindow@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_Java_netscape_javascript_JSObject_initClass@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_Java_netscape_javascript_JSObject_removeMember@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_Java_netscape_javascript_JSObject_setMember@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_Java_netscape_javascript_JSObject_setSlot@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_Java_netscape_javascript_JSObject_toString@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="NSCanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="NSGetFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="jsj_JavaConstructorWrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="jsj_JavaInstanceMethodWrapper" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="jsj_JavaStaticMethodWrapper" PURGE="0" COMMENT="" />
+</LIBRARY>
+

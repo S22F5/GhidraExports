@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usrdpa.dll" PATH="/DLLArchive/etc/usrdpa.dll" DATE="Fri Jul 03 13:25:31 PDT 2020" VERSION="4. 11. 21">
+    <EXPORT ORDINAL="1" NAME="CloseR0Driver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DPGetVariable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DPSetVariable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Initialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vehdebug-x86_64.dll" PATH="/DLLArchive/etc/vehdebug-x86_64.dll" DATE="Sun Feb 05 12:23:40 PST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="UnloadVEH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializeVEH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="fm" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConfigName" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

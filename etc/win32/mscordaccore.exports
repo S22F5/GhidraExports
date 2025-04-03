@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mscordaccore.dll" PATH="/DLLArchive/etc/mscordaccore.dll" DATE="Tue Oct 24 15:01:24 PDT 2023" VERSION="6,0,2123,36311 @Commit: e40b3abf1b41621d4298642a5fd300ebf7cccf6d">
+    <EXPORT ORDINAL="1" NAME="CLRDataCreateInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DacDbiInterfaceInstance" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OutOfProcessExceptionEventCallback" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OutOfProcessExceptionEventDebuggerLaunchCallback" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OutOfProcessExceptionEventSignatureCallback" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OutOfProcessFunctionTableCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OutOfProcessFunctionTableCallbackEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

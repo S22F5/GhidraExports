@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="utilities.dll" PATH="/DLLArchive/etc/Utilities.dll" DATE="Fri Oct 18 06:46:04 PDT 2013" VERSION="6, 3, 0, 5">
+    <EXPORT ORDINAL="1" NAME="_6" PURGE="0" COMMENT="" />
+</LIBRARY>
+

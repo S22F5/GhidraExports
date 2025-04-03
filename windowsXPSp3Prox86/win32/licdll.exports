@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="licdll.dll" PATH="/DLLArchive/windowsXPSp3Prox86/licdll.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="124" NAME="Ordinal_124" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="225" NAME="Ordinal_225" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="226" NAME="Ordinal_226" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="227" NAME="Ordinal_227" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="228" NAME="Ordinal_228" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="229" NAME="Ordinal_229" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

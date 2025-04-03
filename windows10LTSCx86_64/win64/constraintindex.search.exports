@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="constraintindex.search.dll" PATH="/DLLArchive/windows10LTSCX86_64/ConstraintIndex.Search.dll" DATE="Wed Oct 06 06:51:53 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BuildConstraintIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BuildConstraintIndexInMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BuildFilterTrie" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BuildFilterTrieInMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CSGGetBestEntityScore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateCSGSuggest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateCSGSuggestInMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateConstraintIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateConstraintIndexInMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DeleteCSGSuggest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DeleteConstraintIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllGetActivationFactory" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetAttributeRank" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetEntitySuggestions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetSegmentRank" PURGE="0" COMMENT="" />
+</LIBRARY>
+

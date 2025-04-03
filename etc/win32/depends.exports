@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="depends.dll" PATH="/DLLArchive/etc/depends.dll" DATE="Fri Jul 03 12:30:52 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="8" COMMENT="" />
+</LIBRARY>
+

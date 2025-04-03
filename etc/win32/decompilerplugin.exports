@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="decompilerplugin.dll" PATH="/DLLArchive/etc/DecompilerPlugin.DLL" DATE="Sat Mar 01 15:27:02 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VBDecompilerPluginLoad" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VBDecompilerPluginName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VBDecompilerPluginAuthor" PURGE="16" COMMENT="" />
+</LIBRARY>
+

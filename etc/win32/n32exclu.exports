@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="n32exclu.dll" PATH="/DLLArchive/etc/N32EXCLU.DLL" DATE="Fri Jul 03 13:01:03 PDT 2020" VERSION="9.05.1015">
+    <EXPORT ORDINAL="1" NAME="?WEP@@YGHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ExcludeAdd@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ExcludeAddEx@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ExcludeAddSpecifyDir@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ExcludeCreateCopy@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_ExcludeDelete@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ExcludeDeleteIndex@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ExcludeEdit@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_ExcludeGet@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_ExcludeGetCount@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_ExcludeInit@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_ExcludeInitSpecifyDir@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_ExcludeInitSpecifyFile@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_ExcludeIs@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_ExcludeIsEx@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_ExcludeIsValid@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_ExcludeKillCopy@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_ExcludeLFN2SFN@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_ExcludeObjectsIdentical@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_ExcludeSFN2LFN@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_ExcludeTerminate@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_ExcludeTerminateEx@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_ExcludeTerminateSpecifyDir@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_ExcludeTerminateSpecifyDirEx@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_ExcludeTerminateSpecifyFile@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_GetExcludeBin@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_GetExcludeBinFilename@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_GetExcludeLBin@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_GetExcludeLBinFilename@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="NavExcludeCheck" PURGE="0" COMMENT="" />
+</LIBRARY>
+

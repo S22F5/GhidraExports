@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fxsroute.dll" PATH="/DLLArchive/windowsXPSp3Prox86/fxsroute.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="5.2.1776.0">
+    <EXPORT ORDINAL="1" NAME="FaxRouteConfigure" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FaxRouteEmail" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="FaxRoutePrint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FaxRouteStore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FaxExtInitializeConfig" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FaxRouteDeviceChangeNotification" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FaxRouteDeviceEnable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FaxRouteGetRoutingInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FaxRouteInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FaxRouteSetRoutingInfo" PURGE="16" COMMENT="" />
+</LIBRARY>
+

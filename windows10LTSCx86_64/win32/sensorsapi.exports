@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sensorsapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/SensorsApi.dll" DATE="Wed Oct 06 06:52:37 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SensorCloseCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SensorEnableIdleOperationCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SensorGetAccDataCOM" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SensorGetAlsDataCOM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SensorGetAlsDataWithColorCOM" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SensorGetBarDataCOM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SensorGetCapabilitiesCollectionCOM" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SensorGetDataCollectionCOM" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SensorGetDeviceIdCOM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SensorGetFusDataCOM" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SensorGetGyrDataCOM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SensorGetMagDataCOM" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SensorGetPropertiesCOM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SensorGetPrxDataCOM" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SensorGetThresholdsCOM" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SensorOpenByInterfaceCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SensorRegisterEventCOM" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SensorSetAccThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SensorSetAlsThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SensorSetAlsWithColorThresholdsCOM" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SensorSetBarThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SensorSetFusThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SensorSetGyrThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SensorSetIntervalCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SensorSetMagThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SensorSetOrientationSensorThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SensorSetThresholdsCOM" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SensorStartCollectionCOM" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SensorStopCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SensorUnregisterEventCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SensorPermissionsHandler" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SensorPermissionsHandlerA" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SensorPermissionsHandlerW" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

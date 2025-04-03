@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="holdem.dll" PATH="/DLLArchive/etc/holdem.dll" DATE="Fri Jul 03 12:36:48 PDT 2020" VERSION="2, 1, 1, 19">
+    <EXPORT ORDINAL="1" NAME="KillGame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadGame" PURGE="0" COMMENT="" />
+</LIBRARY>
+

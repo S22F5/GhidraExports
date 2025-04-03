@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="drt.dll" PATH="/DLLArchive/windows10LTSCX86_64/drt.dll" DATE="Sat Dec 07 10:10:05 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DrtFlushCache" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DrtGetCacheStatsEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DrtHandlePowerEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DrtPingPeer" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DrtStartPartitionDetection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DrtClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DrtContinueSearch" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DrtEndSearch" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DrtGetEventData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DrtGetEventDataSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DrtGetInstanceName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DrtGetInstanceNameSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DrtGetSearchPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DrtGetSearchPathSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DrtGetSearchResult" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DrtGetSearchResultSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DrtOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DrtRegisterKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DrtStartSearch" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DrtUnregisterKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DrtUpdateKey" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbenderc.dll" PATH="/DLLArchive/etc/dBenderC.dll" DATE="Fri Jul 03 12:30:32 PDT 2020" VERSION="3,0,0,5">
+    <EXPORT ORDINAL="1" NAME="GetDllVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ML_CleanTempDirectory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ML_DExpand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ML_EGetErrorString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ML_ExpandFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ML_FinishExpand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ML_GetDeltaVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ML_GetHeaderData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ML_GroupExpand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ML_ISExpand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ML_ISInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ML_ISScout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ML_IsEmonyFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ML_PreExpandFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ML_Scout2Expand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ML_Scout2ExpandFromEnv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ML_Scout2Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ML_Scout2InitFromEnv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ML_SetTerminationFlag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ML_WiseInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ML_ZExpand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RBputenv" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vcruntime140_1_app.dll" PATH="/DLLArchive/etc/vcruntime140_1_app.dll" DATE="Sun Mar 07 20:16:32 CET 2021" VERSION="14.20.27323.0 built by: vcwrkspc">
+    <EXPORT ORDINAL="1" NAME="__CxxFrameHandler4" PURGE="0" COMMENT="" />
+</LIBRARY>
+

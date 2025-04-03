@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perfnw.dll" PATH="/DLLArchive/etc/perfnw.dll" DATE="Fri Jul 03 22:06:34 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="2" NAME="OpenNetWarePerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CollectNetWarePerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CloseNetWarePerformanceData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

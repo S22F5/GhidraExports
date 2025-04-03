@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="spctl.dll" PATH="/DLLArchive/etc/spctl.dll" DATE="Fri Jul 03 13:17:33 PDT 2020" VERSION="1, 0, 0, 9">
+    <EXPORT ORDINAL="1" NAME="Checksum_CMOS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ClearSupervisorPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ClearSupervisorPasswordEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ClearUserPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ClearUserPasswordEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Get_HWSaccessRight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Get_HWSaccessRightEX" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetSupervisorPassword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetSupervisorPasswordEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Set_HWSaccessRight" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Set_HWSaccessRightEX" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SupervisorPassword_Setting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SupervisorPassword_verify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SupervisorPassword_verifyEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

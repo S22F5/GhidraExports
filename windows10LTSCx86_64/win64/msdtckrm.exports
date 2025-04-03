@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdtckrm.dll" PATH="/DLLArchive/windows10LTSCX86_64/msdtckrm.dll" DATE="Sat Dec 07 01:09:37 PST 2019" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="4" NAME="KtmRmServiceMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+</LIBRARY>
+

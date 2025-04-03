@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfpsw.dll" PATH="/DLLArchive/etc/LXBFPSW.DLL" DATE="Fri Jul 03 12:49:02 PDT 2020" VERSION="1.0.12.0">
+    <EXPORT ORDINAL="1" NAME="??0CRegistry@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0LxkToolTipCtrl@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1LxkToolTipCtrl@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1PopupDialog@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??4CRegistry@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??BCMemDC@@QAEPAV0@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??CCMemDC@@QAEPAV0@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7CRegistry@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??_7LxkToolTipCtrl@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_C@_00A@?$AA@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_FCLXFolderDialog@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??_FCWizardSheet@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??_FPopupDialog@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?AddTool@LxkToolTipCtrl@@QAEHPAVCWnd@@IPBUtagRECT@@I@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?AddTool@LxkToolTipCtrl@@QAEHPAVCWnd@@PBDPBUtagRECT@@I@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?EnableOK@CLXFolderDialog@@IAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetBI@CLXFolderDialog@@QAEAAU_browseinfoA@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GetBI@CLXFolderDialog@@QBEABU_browseinfoA@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetFolderDisplayName@CLXFolderDialog@@QBEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetFolderImageIndex@CLXFolderDialog@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetFolderPath@CLXFolderDialog@@QBEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetSelectedFolder@CLXFolderDialog@@QBEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?NoTabs@CWizardSheet@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?SetDistanceFromTop@CWizardSheet@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?SetFillTextBK@transbkstatic@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?SetFillTextBKColor@transbkstatic@@QAEXK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?SetSelectedFolder@CLXFolderDialog@@QAEHPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?SetSelection@CLXFolderDialog@@IAEXPAU_ITEMIDLIST@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?SetSelection@CLXFolderDialog@@IAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SetStatusText@CLXFolderDialog@@IAEXPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="PSWDisplayAlert" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PSWDisplayOtherError" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="PSWFilterDllMsg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PSWQueryIsAlertDisplayed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="PSWTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

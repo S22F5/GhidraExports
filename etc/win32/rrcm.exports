@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rrcm.dll" PATH="/DLLArchive/etc/rrcm.dll" DATE="Fri Jul 03 13:12:47 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="13" NAME="RTCPReportRequest" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="getRtcpSessionList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

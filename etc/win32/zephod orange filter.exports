@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zephod orange filter.dll" PATH="/DLLArchive/etc/zephod orange filter.dll" DATE="Fri Jul 03 12:12:41 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateMachine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

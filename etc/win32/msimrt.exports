@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msimrt.dll" PATH="/DLLArchive/etc/MSIMRT.DLL" DATE="Fri Jul 03 12:56:18 PDT 2020" VERSION="2, 0, 0, 114">
+    <EXPORT ORDINAL="1" NAME="_AllocAAClock@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_AllocAAMIDIOut@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_AllocAARealTime@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

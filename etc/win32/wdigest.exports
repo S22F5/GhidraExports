@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wdigest.dll" PATH="/DLLArchive/etc/wdigest.dll" DATE="Fri Jul 03 13:30:09 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="SpInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CredentialUpdateFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CredentialUpdateNotify" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CredentialUpdateRegister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SpLsaModeInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SpUserModeInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SpInstanceInit" PURGE="12" COMMENT="" />
+</LIBRARY>
+

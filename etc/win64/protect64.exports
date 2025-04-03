@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="protect64.dll" PATH="/DLLArchive/etc/Protect64.dll" DATE="Wed May 21 22:12:28 CEST 2014" VERSION="">
+    <EXPORT ORDINAL="1" NAME="P0" PURGE="0" COMMENT="" />
+</LIBRARY>
+

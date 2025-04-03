@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rnqu3260.dll" PATH="/DLLArchive/etc/rnqu3260.dll" DATE="Fri Jul 03 13:12:23 PDT 2020" VERSION="6.0.9.262">
+    <EXPORT ORDINAL="1" NAME="?AsyncNotifyProc@CAsyncNetThread@@KGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?AsyncNotifyProc@CAsyncSockN@@KGJPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCommQueue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RNCreateInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetDLLAccessPath" PURGE="4" COMMENT="" />
+</LIBRARY>
+

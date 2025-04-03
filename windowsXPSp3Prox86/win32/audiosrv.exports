@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="audiosrv.dll" PATH="/DLLArchive/windowsXPSp3Prox86/audiosrv.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0845)">
+    <EXPORT ORDINAL="1" NAME="ServiceMain" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+</LIBRARY>
+

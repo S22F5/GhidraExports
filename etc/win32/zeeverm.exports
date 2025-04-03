@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zeeverm.dll" PATH="/DLLArchive/etc/zeeverm.dll" DATE="Fri Jul 03 21:12:33 CEST 2020" VERSION="1.2.629.1">
+    <EXPORT ORDINAL="1" NAME="GetVersionPack" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartUpdate" PURGE="12" COMMENT="" />
+</LIBRARY>
+

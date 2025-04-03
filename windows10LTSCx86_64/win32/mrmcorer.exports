@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mrmcorer.dll" PATH="/DLLArchive/windows10LTSCX86_64/MrmCoreR.dll" DATE="Wed Oct 06 06:52:28 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetInternalReferenceBlobForManifestValue" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetMergedSystemPri" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetMergedSystemPriEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetStringValueForManifestField" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MergeResourcePackPri" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MergeSystemPriFiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ResourceManagerQueueGetCurrentDepth" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ResourceManagerQueueGetGlobalFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ResourceManagerQueueGetMrtCachePathForPackage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ResourceManagerQueueGetString" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ResourceManagerQueueGetStringDirect" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ResourceManagerQueueIsResourceReference" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ResourceManagerQueueReset" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ResourceManagerQueueSetGlobalFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShouldMergeInproc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

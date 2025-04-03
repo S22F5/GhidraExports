@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="websocket.dll" PATH="/DLLArchive/windows10LTSCX86_64/Websocket.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WebSocketAbortHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WebSocketBeginClientHandshake" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WebSocketBeginServerHandshake" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WebSocketCompleteAction" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WebSocketCreateClientHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WebSocketCreateServerHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WebSocketDeleteHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WebSocketEndClientHandshake" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WebSocketEndServerHandshake" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WebSocketGetAction" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WebSocketGetGlobalProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WebSocketReceive" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WebSocketSend" PURGE="16" COMMENT="" />
+</LIBRARY>
+

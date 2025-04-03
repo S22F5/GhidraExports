@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appxsysprep.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppxSysprep.dll" DATE="Wed Oct 06 15:51:50 CEST 2021" VERSION="10.0.19041.1081 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AppxSysprepSpecializeOffline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AppxSysprepSpecializeOnline" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SysprepGeneralize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SysprepGeneralizeValidate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

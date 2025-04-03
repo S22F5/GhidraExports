@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winsck.dll" PATH="/DLLArchive/etc/winsck.dll" DATE="Fri Jul 03 22:32:49 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?HashCDKey@@YGXPAK0000@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?HashPassword@@YGXPBDHPAK1111@Z" PURGE="28" COMMENT="" />
+</LIBRARY>
+

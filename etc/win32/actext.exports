@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="actext.dll" PATH="/DLLArchive/etc/actext.dll" DATE="Fri Jul 03 21:16:02 CEST 2020" VERSION="14.00.0.28">
+    <EXPORT ORDINAL="1" NAME="??0CActionObject@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CActionSet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CArchivedActionSet@@QAE@PBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0CArchivedActionSet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0CWindowsErrorException@@QAE@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1CActionObject@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1CActionSet@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1CArchivedActionSet@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??1CWindowsErrorException@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??_7CActionObject@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_7CActionSet@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??_7CArchivedActionSet@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??_7CWindowsErrorException@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??_FCWindowsErrorException@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Add@CActionSet@@QAEHPAVCObject@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CleanUp@CActionObject@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?CreateObject@CActionObject@@SGPAVCObject@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?CreateObject@CActionSet@@SGPAVCObject@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?CreateObject@CArchivedActionSet@@SGPAVCObject@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetCObArray@CActionSet@@QAEPAVCObArray@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetRuntimeClass@CActionObject@@UBEPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetRuntimeClass@CActionSet@@UBEPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetRuntimeClass@CArchivedActionSet@@UBEPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetRuntimeClass@CWindowsErrorException@@UBEPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?IgnoreExceptions@CActionObject@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?IgnoreExceptions@CActionObject@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?Invoke@CActionObject@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?Serialize@CActionObject@@UAEXAAVCArchive@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?Serialize@CActionSet@@UAEXAAVCArchive@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?Serialize@CArchivedActionSet@@UAEXAAVCArchive@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?_GetBaseClass@CActionObject@@KGPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?_GetBaseClass@CActionSet@@KGPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?_GetBaseClass@CArchivedActionSet@@KGPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?_GetBaseClass@CWindowsErrorException@@KGPAUCRuntimeClass@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?_Invoke@CActionObject@@MAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?_Invoke@CActionSet@@UAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?_Invoke@CArchivedActionSet@@UAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?classCActionObject@CActionObject@@2UCRuntimeClass@@B" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?classCActionSet@CActionSet@@2UCRuntimeClass@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?classCArchivedActionSet@CArchivedActionSet@@2UCRuntimeClass@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?classCWindowsErrorException@CWindowsErrorException@@2UCRuntimeClass@@B" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpins32.dll" PATH="/DLLArchive/etc/jpins32.dll" DATE="Fri Jul 03 12:44:46 PDT 2020" VERSION="1, 3, 1, 3">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Java_sun_awt_EmbeddedFrame_setPeer@@YGXPAUJNIEnv_@@PAV_jobject@@1@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Java_sun_plugin_navig_win32_PluginFrame_enableModeless@@YGXPAUJNIEnv_@@PAV_jobject@@HE@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Java_sun_plugin_navig_win32_PluginFrame_setEvent@@YGXPAUJNIEnv_@@PAV_jobject@@H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Java_sun_plugin_navig_win32_PluginFrame_waitEvent@@YGXPAUJNIEnv_@@PAV_jobject@@H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Java_sun_plugin_protocol_https_BrowserHttpsInputStream_bytesAvailable@@YGJPAUJNIEnv_@@PAV_jobject@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?Java_sun_plugin_protocol_https_BrowserHttpsInputStream_closeStream@@YGXPAUJNIEnv_@@PAV_jobject@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?Java_sun_plugin_protocol_https_BrowserHttpsInputStream_openStream@@YGXPAUJNIEnv_@@PAV_jobject@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?Java_sun_plugin_protocol_https_BrowserHttpsInputStream_readStream@@YGJPAUJNIEnv_@@PAV_jobject@@PAV_jbyteArray@@JJ@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_sun_plugin_ActivatorCookieHandler_findCookieForURL@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_sun_plugin_ActivatorProxyHandler_findProxyForURL@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_Java_sun_plugin_CacheHandler_getCacheFilename@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_Java_sun_plugin_cachescheme_BookmarkManager_nativeAddBookmark@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSFinalize@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSGetNativeJSObject@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSGetThreadID@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectCall@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectEval@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectGetMember@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectGetSlot@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectRemoveMember@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectSetMember@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectSetSlot@32" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_Java_sun_plugin_javascript_navig5_JSObject_JSObjectToString@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_Java_sun_plugin_javascript_navig_JSObject_evalScript@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_Java_sun_plugin_navig_win32_PluginContext_showDocument@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_Java_sun_plugin_navig_win32_PluginContext_showStatus@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_Java_sun_plugin_platform_WindowsPlatformHandler_nativeSetCookie@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_Java_sun_plugin_protocol_https_BrowserHttpsOutputStream_postHttpsURL@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_Java_sun_plugin_security_TrustDecider_isAllPermissionGranted@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_Java_sun_plugin_security_TrustDecider_isBrowserMozilla@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_Java_sun_plugin_security_TrustDecider_isRootVerifiedByIE@40" PURGE="40" COMMENT="" />
+</LIBRARY>
+

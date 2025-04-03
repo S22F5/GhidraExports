@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="twain_32.dll" PATH="/DLLArchive/etc/TWAIN_32.DLL" DATE="Fri Jul 03 22:23:47 CEST 2020" VERSION="1,7,1,1">
+    <EXPORT ORDINAL="1" NAME="DSM_Entry" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ChooseDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AboutDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WGDlgProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InfoHook" PURGE="12" COMMENT="" />
+</LIBRARY>
+

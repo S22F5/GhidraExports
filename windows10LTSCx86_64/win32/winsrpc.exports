@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winsrpc.dll" PATH="/DLLArchive/windows10LTSCX86_64/WINSRPC.dll" DATE="Sat Dec 07 01:09:30 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WinsABind" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WinsAllocMem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WinsBackup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WinsCheckAccess" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WinsDelDbRecs" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WinsDeleteWins" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WinsDoScavenging" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WinsDoScavengingNew" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WinsDoStaticInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WinsFreeMem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WinsGetBrowserNames" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WinsGetDbRecs" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WinsGetDbRecsByName" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WinsGetNameAndAdd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WinsPullRange" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WinsRecordAction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WinsResetCounters" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WinsRestore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WinsRestoreEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WinsSetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WinsSetPriorityClass" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WinsStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WinsStatusNew" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WinsStatusWHdl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WinsSyncUp" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WinsTerm" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WinsTombstoneDbRecs" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WinsTrigger" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WinsUBind" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WinsUnbind" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WinsWorkerThdUpd" PURGE="8" COMMENT="" />
+</LIBRARY>
+

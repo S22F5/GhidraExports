@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dsound44.dll" PATH="/DLLArchive/etc/3dsound44.dll" DATE="Fri Jul 03 21:11:46 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AllocateBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseInputFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseOutputFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DeleteBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Engine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OpenInputFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OpenOutputFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ReleaseListener" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetEnvParameters" PURGE="0" COMMENT="" />
+</LIBRARY>
+

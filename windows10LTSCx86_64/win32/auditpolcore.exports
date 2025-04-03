@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="auditpolcore.dll" PATH="/DLLArchive/windows10LTSCX86_64/auditpolcore.dll" DATE="Wed Oct 06 15:52:59 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AdtBackupPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AdtBackupPolicyGeneralized" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AdtClearPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AdtConstructAllCategoryGuids" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AdtConvertGuidStringToGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AdtConvertGuidToString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AdtDisableSinglePrivilege" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AdtEnableSinglePrivilege" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AdtGetOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AdtGetPerUserPolicy" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AdtGetSystemPolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AdtListCategories" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AdtListSubCategories" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AdtLoadStringEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AdtParseAuditOptionName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="AdtParseGuidOrNameArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="AdtRemoveAllUsers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="AdtRemoveBasePolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="AdtRestorePolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AdtRestorePolicyGeneralized" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AdtSetOption" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="AdtSetPerUserPolicy" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="AdtSetSystemPolicy" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="AuditPolicyData_DeleteAuditDataInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DisplayMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="DisplayMessageToSpecificConsoleHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetDisplayPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="LoadFormatStringAndPrintToConsole" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SetDisplayPolicy" PURGE="4" COMMENT="" />
+</LIBRARY>
+

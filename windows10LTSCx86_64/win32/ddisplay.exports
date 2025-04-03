@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ddisplay.dll" PATH="/DLLArchive/windows10LTSCX86_64/ddisplay.dll" DATE="Wed Oct 06 15:52:25 CEST 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

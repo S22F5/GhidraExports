@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssecuser.dll" PATH="/DLLArchive/windows10LTSCX86_64/mssecuser.dll" DATE="Wed Oct 06 06:51:07 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SecClearRegistryOperations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SecCreateSessionFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SecDeleteSessionFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SecGetCiInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SecGetDriverVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SecGetFileHashes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SecGetProcessInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SecGetUserLibVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SecIsKernelIntegrityEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SecRegisterConsumer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SecRequestOplock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SecSetConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SecSetFileMonitorOperations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SecSetRegistryOperations" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SecUnregisterConsumer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SecWriteFileDlpEA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SecWriteFileHashEA" PURGE="0" COMMENT="" />
+</LIBRARY>
+

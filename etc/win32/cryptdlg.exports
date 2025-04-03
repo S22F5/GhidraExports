@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptdlg.dll" PATH="/DLLArchive/etc/cryptdlg.dll" DATE="Fri Jul 03 12:28:16 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="CertConfigureTrustA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CertConfigureTrustW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CertTrustCertPolicy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CertTrustCleanup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CertTrustFinalPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CertTrustInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DecodeAttrSequence" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DecodeRecipientID" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EncodeAttrSequence" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EncodeRecipientID" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FormatPKIXEmailProtection" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FormatVerisignExtension" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CertModifyCertificatesToTrust" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CertSelectCertificateA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CertSelectCertificateW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CertViewPropertiesA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CertViewPropertiesW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetFriendlyNameOfCertA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetFriendlyNameOfCertW" PURGE="12" COMMENT="" />
+</LIBRARY>
+

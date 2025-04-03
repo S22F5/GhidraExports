@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="defalert.dll" PATH="/DLLArchive/etc/DEFALERT.DLL" DATE="Fri Jul 03 12:30:51 PDT 2020" VERSION="9.05.15">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetCCAppObjectID" PURGE="4" COMMENT="" />
+</LIBRARY>
+

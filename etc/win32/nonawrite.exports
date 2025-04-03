@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nonawrite.dll" PATH="/DLLArchive/etc/NonaWrite.dll" DATE="Mon Feb 06 17:01:40 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Plugindata" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Pluginmenu" PURGE="0" COMMENT="" />
+</LIBRARY>
+

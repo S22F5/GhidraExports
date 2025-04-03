@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="svkpiat.dll" PATH="/DLLArchive/etc/SvkpIAT.dll" DATE="Fri Jun 27 00:03:26 PDT 2003" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

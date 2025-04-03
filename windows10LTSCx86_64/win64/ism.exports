@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ism.dll" PATH="/DLLArchive/windows10LTSCX86_64/ISM.dll" DATE="Wed Oct 06 06:51:41 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IsSystemInputHostStandalone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NotifyInputSinkParented" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NotifyInputSinkRemoved" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Register3DCompositor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RegisterManipulationThread" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetManipulationInputTarget" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="StopAndEndInertia" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Unregister3DCompositor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateSystemInputHost" PURGE="0" COMMENT="" />
+</LIBRARY>
+

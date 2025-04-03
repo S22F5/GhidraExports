@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ativvaxx.dll" PATH="/DLLArchive/etc/ativvaxx.dll" DATE="Fri Jul 03 21:23:55 CEST 2020" VERSION="6.14.01.0009">
+    <EXPORT ORDINAL="1" NAME="vMMDLLInitFuncs" PURGE="8" COMMENT="" />
+</LIBRARY>
+

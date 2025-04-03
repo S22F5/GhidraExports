@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_hash-0.7.dll" PATH="/DLLArchive/etc/rz_hash-0.7.dll" DATE="Mon Mar 04 10:49:00 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rz_hash_cfg_calculate_small_block" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="rz_hash_cfg_calculate_small_block_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="rz_hash_cfg_configure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="rz_hash_cfg_final" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="rz_hash_cfg_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="rz_hash_cfg_get_result" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="rz_hash_cfg_get_result_string" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="rz_hash_cfg_hmac" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="rz_hash_cfg_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="rz_hash_cfg_iterate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="rz_hash_cfg_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="rz_hash_cfg_new_with_algo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="rz_hash_cfg_randomart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="rz_hash_cfg_size" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="rz_hash_cfg_update" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="rz_hash_entropy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="rz_hash_entropy_fraction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="rz_hash_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="rz_hash_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="rz_hash_plugin_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="rz_hash_plugin_by_index" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="rz_hash_plugin_by_name" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="rz_hash_plugin_del" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="rz_hash_ssdeep" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="rz_hash_ssdeep_compare" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="rz_hash_version" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="rz_hash_xxhash" PURGE="0" COMMENT="" />
+</LIBRARY>
+

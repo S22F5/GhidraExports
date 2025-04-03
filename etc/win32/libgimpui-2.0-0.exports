@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libgimpui-2.0-0.dll" PATH="/DLLArchive/etc/libgimpui-2.0-0.dll" DATE="Fri Jul 03 12:46:51 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_gimp_brush_select_widget_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_gimp_brush_select_widget_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_gimp_brush_select_widget_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_gimp_channel_menu_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_gimp_drawable_menu_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_gimp_export_image" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_gimp_font_select_widget_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_gimp_font_select_widget_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_gimp_font_select_widget_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_gimp_gradient_select_widget_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_gimp_gradient_select_widget_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_gimp_gradient_select_widget_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_gimp_image_menu_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_gimp_layer_menu_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_gimp_pattern_select_widget_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_gimp_pattern_select_widget_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_gimp_pattern_select_widget_set" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_gimp_ui_init" PURGE="0" COMMENT="" />
+</LIBRARY>
+

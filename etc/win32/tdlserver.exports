@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tdlserver.dll" PATH="/DLLArchive/etc/tdlserver.dll" DATE="Fri Jul 03 13:22:42 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="TS_ArchiveToBin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TS_CreateStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TS_DestroyStore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TS_GetBaseTDLBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TS_GetDLLBuildDate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TS_GetDefTDLBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TS_GetReleaseInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TS_GetSchemaTDLBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TS_InitializeTDLServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TS_LoadBaseTDL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TS_LoadDefaultTDL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TS_LoadTDLByFileName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TS_SetUDFValidateRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TS_TDLVersionCheck" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TS_Validate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

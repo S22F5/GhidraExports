@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgeagen.dll" PATH="/DLLArchive/etc/jgeagen.dll" DATE="Fri Jul 03 12:44:19 PDT 2020" VERSION="5018">
+    <EXPORT ORDINAL="3" NAME="JgpEAStartUp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgpEAShutDown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgpEAStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgpEADoTest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgpEAPCMOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgpEAPCMClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgpEAPCMDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgpEAAuxOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgpEAAuxClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgpEAAuxDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgpEADeviceGetCaps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgpEADeviceOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgpEADeviceClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgpEADeviceStartPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgpEADeviceStopPlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgpEADevicePausePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgpEADeviceResumePlay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgpEADeviceGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgpEADeviceInputPCM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgpEADeviceSetVolume" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgpEADeviceGetVolume" PURGE="0" COMMENT="" />
+</LIBRARY>
+

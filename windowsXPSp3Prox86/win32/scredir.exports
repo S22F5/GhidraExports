@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scredir.dll" PATH="/DLLArchive/windowsXPSp3Prox86/scredir.dll" DATE="Fri Aug 17 13:36:30 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SCardAccessStartedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SCardAddReaderToGroupA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SCardAddReaderToGroupW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SCardBeginTransaction" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SCardCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SCardConnectA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SCardConnectW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SCardControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SCardDisconnect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SCardEndTransaction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SCardEstablishContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SCardForgetReaderA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SCardForgetReaderGroupA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SCardForgetReaderGroupW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SCardForgetReaderW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SCardGetAttrib" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SCardGetStatusChangeA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SCardGetStatusChangeW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SCardIntroduceReaderA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SCardIntroduceReaderGroupA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SCardIntroduceReaderGroupW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SCardIntroduceReaderW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SCardIsValidContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SCardListReaderGroupsA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SCardListReaderGroupsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SCardListReadersA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SCardListReadersW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SCardLocateCardsA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SCardLocateCardsByATRA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SCardLocateCardsByATRW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SCardLocateCardsW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SCardReconnect" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SCardReleaseContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SCardReleaseStartedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SCardRemoveReaderFromGroupA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SCardRemoveReaderFromGroupW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SCardSetAttrib" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SCardState" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SCardStatusA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SCardStatusW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SCardTransmit" PURGE="28" COMMENT="" />
+</LIBRARY>
+

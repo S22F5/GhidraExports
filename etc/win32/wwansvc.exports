@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wwansvc.dll" PATH="/DLLArchive/etc/wwansvc.dll" DATE="Fri Jul 03 13:39:12 PDT 2020" VERSION="08.01.02.00 (win7_rtm.090713-1255)">
+    <EXPORT ORDINAL="1" NAME="SvchostPushServiceGlobals" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WwanSvcMain" PURGE="8" COMMENT="" />
+</LIBRARY>
+

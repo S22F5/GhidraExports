@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comsnap.dll" PATH="/DLLArchive/windows10LTSCX86_64/comsnap.dll" DATE="Wed Oct 06 15:52:32 CEST 2021" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="InstallDsExtension" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

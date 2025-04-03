@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="loghours.dll" PATH="/DLLArchive/windows10LTSCX86_64/loghours.dll" DATE="Sat Dec 07 01:10:04 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="LogonScheduleDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConnectionScheduleDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DialinHoursDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DirSyncScheduleDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LogonScheduleDialogEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DialinHoursDialogEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ReplicationScheduleDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ReplicationScheduleDialogEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ConnectionScheduleDialogEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DirSyncScheduleDialogEx" PURGE="16" COMMENT="" />
+</LIBRARY>
+

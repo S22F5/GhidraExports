@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqad.dll" PATH="/DLLArchive/windows10LTSCX86_64/mqad.dll" DATE="Sat Dec 07 01:10:08 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MQADBeginDeleteNotification" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MQADCreateObject" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MQADDeleteObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MQADDeleteObjectGuid" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MQADDeleteObjectGuidSid" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MQADEndDeleteNotification" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MQADEndQuery" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MQADFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MQADGetADsPathInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MQADGetComputerSites" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MQADGetComputerVersion" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MQADGetGenObjectProperties" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MQADGetObjectProperties" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MQADGetObjectPropertiesGuid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MQADGetObjectSecurity" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MQADGetObjectSecurityGuid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MQADInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MQADNotifyDelete" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MQADQMGetObjectSecurity" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MQADQueryAllLinks" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MQADQueryAllSites" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MQADQueryConnectors" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MQADQueryForeignSites" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MQADQueryLinks" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MQADQueryMachineQueues" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MQADQueryQueues" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MQADQueryResults" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MQADQuerySiteServers" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MQADQueryUserCert" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MQADSetObjectProperties" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MQADSetObjectPropertiesGuid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MQADSetObjectSecurity" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MQADSetObjectSecurityGuid" PURGE="28" COMMENT="" />
+</LIBRARY>
+

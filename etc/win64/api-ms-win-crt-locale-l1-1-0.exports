@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-crt-locale-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-crt-locale-l1-1-0.dll" DATE="Sat Nov 07 14:26:41 CET 2020" VERSION="10.0.10586.15 (th2_release.151119-1817)">
+    <EXPORT ORDINAL="1" NAME="___lc_codepage_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="___lc_codepage_func" />
+    <EXPORT ORDINAL="2" NAME="___lc_collate_cp_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="___lc_collate_cp_func" />
+    <EXPORT ORDINAL="3" NAME="___lc_locale_name_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="___lc_locale_name_func" />
+    <EXPORT ORDINAL="4" NAME="___mb_cur_max_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="___mb_cur_max_func" />
+    <EXPORT ORDINAL="5" NAME="___mb_cur_max_l_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="___mb_cur_max_l_func" />
+    <EXPORT ORDINAL="6" NAME="__initialize_lconv_for_unsigned_char" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="__initialize_lconv_for_unsigned_char" />
+    <EXPORT ORDINAL="7" NAME="__pctype_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="__pctype_func" />
+    <EXPORT ORDINAL="8" NAME="__pwctype_func" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="__pwctype_func" />
+    <EXPORT ORDINAL="9" NAME="_configthreadlocale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_configthreadlocale" />
+    <EXPORT ORDINAL="10" NAME="_create_locale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_create_locale" />
+    <EXPORT ORDINAL="11" NAME="_free_locale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_free_locale" />
+    <EXPORT ORDINAL="12" NAME="_get_current_locale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_get_current_locale" />
+    <EXPORT ORDINAL="13" NAME="_getmbcp" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_getmbcp" />
+    <EXPORT ORDINAL="14" NAME="_lock_locales" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_lock_locales" />
+    <EXPORT ORDINAL="15" NAME="_setmbcp" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_setmbcp" />
+    <EXPORT ORDINAL="16" NAME="_unlock_locales" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_unlock_locales" />
+    <EXPORT ORDINAL="17" NAME="_wcreate_locale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_wcreate_locale" />
+    <EXPORT ORDINAL="18" NAME="_wsetlocale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="_wsetlocale" />
+    <EXPORT ORDINAL="19" NAME="localeconv" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="localeconv" />
+    <EXPORT ORDINAL="20" NAME="setlocale" PURGE="-1" COMMENT="" FOWARDLIBRARY="UCRTBASE.DLL" FOWARDSYMBOL="setlocale" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xthread.dll" PATH="/DLLArchive/etc/XThread.dll" DATE="Fri Jul 03 13:42:22 PDT 2020" VERSION="1.0.0.10332   ">
+    <EXPORT ORDINAL="1" NAME="??0Job@XThread@@QAE@P6GXPAX@Z0H@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?Fork@XThread@@YGXP6GXHPAX@Z0HHI@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetInstance@Scheduler@XThread@@SGPAV12@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetJob@Scheduler@XThread@@QAEPAVJobImpl@2@H@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetOrdinal@Job@XThread@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetProcessorCount@Scheduler@XThread@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?Initialize@Scheduler@XThread@@SGPAV12@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?IsDone@Job@XThread@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?ReleaseImpl@Job@XThread@@QAEPAVJobImpl@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?RelinquishControl@Scheduler@XThread@@QAEXPBVJob@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?ScheduleJob@Scheduler@XThread@@QAEXPAVJob@2@I@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?SetEnableFork@XThread@@YGX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Shutdown@Scheduler@XThread@@SGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?WaitCompleted@Job@XThread@@QBEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

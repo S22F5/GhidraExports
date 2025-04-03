@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="plds4.dll" PATH="/DLLArchive/etc/plds4.dll" DATE="Fri Jul 03 22:07:05 CEST 2020" VERSION="4.4.1">
+    <EXPORT ORDINAL="1" NAME="PL_ArenaAllocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PL_ArenaFinish" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PL_ArenaGrow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PL_ArenaRelease" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PL_CompactArenaPool" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PL_CompareStrings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PL_CompareValues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PL_FinishArenaPool" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PL_FreeArenaPool" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PL_HashString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PL_HashTableAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PL_HashTableDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PL_HashTableDump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PL_HashTableEnumerateEntries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PL_HashTableLookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PL_HashTableLookupConst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PL_HashTableRawAdd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PL_HashTableRawLookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PL_HashTableRawLookupConst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PL_HashTableRawRemove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PL_HashTableRemove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PL_InitArenaPool" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PL_NewHashTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="libVersionPoint" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="koc.dll" PATH="/DLLArchive/windowsXPSp3Prox86/koc.dll" DATE="Sun Apr 13 20:41:58 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="KOCCleanUp" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KOCSetupProc" PURGE="20" COMMENT="" />
+</LIBRARY>
+

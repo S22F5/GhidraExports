@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="log.dll" PATH="/DLLArchive/windowsXPSp3Prox86/LOG.dll" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LogA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LogBegin" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LogDeleteOnNextInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LogDirectA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LogDirectW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LogEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LogIfA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LogIfW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LogLineA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LogLineW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LogReInitA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LogReInitW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="LogSetErrorDest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="LogSetVerboseBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LogSetVerboseLevel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LogTitleA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="LogTitleW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="LogW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SuppressAllLogPopups" PURGE="4" COMMENT="" />
+</LIBRARY>
+

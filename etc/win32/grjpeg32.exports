@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="grjpeg32.dll" PATH="/DLLArchive/etc/GrJpeg32.dll" DATE="Fri Jul 03 21:36:15 CEST 2020" VERSION="1, 1, 0, 0">
+    <EXPORT ORDINAL="1" NAME="StartCompressJpeg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CompressDataJpeg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EndCompressJpeg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="StartDecompressJpeg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DecompressDataJpeg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EndDecompressJpeg" PURGE="8" COMMENT="" />
+</LIBRARY>
+

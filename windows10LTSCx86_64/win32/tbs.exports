@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tbs.dll" PATH="/DLLArchive/windows10LTSCX86_64/tbs.dll" DATE="Wed Oct 06 06:52:19 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Tbsi_Create_Attestation_From_Log" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Tbsi_Get_TCG_Logs" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDeviceID" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDeviceIDString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetDeviceIDWithTimeout" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Tbsi_Context_Create" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Tbsi_Create_Windows_Key" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Tbsi_FilterLog" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Tbsi_GetDeviceInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Tbsi_Get_OwnerAuth" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Tbsi_Get_TCG_Log" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Tbsi_Get_TCG_Log_Ex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Tbsi_Physical_Presence_Command" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Tbsi_Revoke_Attestation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Tbsi_ShaHash" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Tbsip_Cancel_Commands" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Tbsip_Context_Close" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Tbsip_Submit_Command" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Tbsip_Submit_Command_NonBlocking" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Tbsip_TestInterruptInformation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Tbsip_TestMorBit" PURGE="4" COMMENT="" />
+</LIBRARY>
+

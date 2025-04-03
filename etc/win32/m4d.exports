@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="m4d.dll" PATH="/DLLArchive/etc/m4d.dll" DATE="Fri Jul 03 12:49:13 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="?MMT_SetNetworkCreationFunction@@YAXP6APAVNetDriver@MassiveAdClient@@XZ@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MMT_CancelRequest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MMT_DeInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MMT_FlushImpressionCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MMT_Free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MMT_GetBinaryData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MMT_GetCrex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MMT_GetCurrentCrexForInventoryElement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MMT_GetCurrentTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MMT_GetID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MMT_GetInventoryElementHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MMT_GetName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MMT_GetNextCrexForInventoryElement" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MMT_GetSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MMT_GetStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MMT_GetType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MMT_GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MMT_GetZoneHeaders" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MMT_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MMT_JoinSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MMT_LeaveSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MMT_Malloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MMT_NetUpdate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MMT_SetMemoryAllocators" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MMT_ShareSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MMT_UpdateInventoryElement" PURGE="0" COMMENT="" />
+</LIBRARY>
+

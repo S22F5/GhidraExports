@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mshwlatin.dll" PATH="/DLLArchive/windows10LTSCX86_64/mshwLatin.dll" DATE="Wed Oct 06 06:53:04 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AbortTrainer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateTrainer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DestroyTrainer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetPredictionText" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetConstraint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShapeTrain" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TextTrain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AddStroke" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AddWordsToWordList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AdviseInkChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CloneContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateRecognizer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DestroyContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DestroyRecognizer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DestroyWordList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetBestResultString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetEnabledUnicodeRanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetGuide" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetLatticePtr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetPreferredPacketDescription" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetRecoAttributes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetResultPropertyList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetUnicodeRanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IsStringSupported" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MakeWordList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Process" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ResetContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SetCACMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SetEnabledUnicodeRanges" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetFactoid" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SetGuide" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SetTextContext" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SetWordList" PURGE="8" COMMENT="" />
+</LIBRARY>
+

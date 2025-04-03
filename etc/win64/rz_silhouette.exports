@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rz_silhouette.dll" PATH="/DLLArchive/etc/rz_silhouette.dll" DATE="Mon Mar 04 10:54:38 CET 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="rizin_plugin" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

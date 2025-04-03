@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpzcon09.dll" PATH="/DLLArchive/etc/hpzcon09.dll" DATE="Fri Jul 03 21:37:02 CEST 2020" VERSION="2.240.0.0">
+    <EXPORT ORDINAL="1" NAME="VendorJettison" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VendorSetup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VendorUninstall" PURGE="4" COMMENT="" />
+</LIBRARY>
+

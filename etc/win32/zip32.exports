@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zip32.dll" PATH="/DLLArchive/etc/zip32.dll" DATE="Fri Jul 03 21:13:26 CEST 2020" VERSION="2.3">
+    <EXPORT ORDINAL="1" NAME="ZpArchive" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZpGetOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZpInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZpSetOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZpVersion" PURGE="4" COMMENT="" />
+</LIBRARY>
+

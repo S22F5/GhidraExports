@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmrcdecoder.dll" PATH="/DLLArchive/windows10LTSCX86_64/DMRCDecoder.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="1.1.2.0">
+    <EXPORT ORDINAL="1" NAME="CreateDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DeleteDecoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Detect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnableExtendedReadingDistance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnableFalsePositiveMitigation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnableInvertedReads" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetActiveBarcodeTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetBarcodeAttributesSupport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetExceptions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetMillisecsPerFrameBarcode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetMillisecsPerFrameDWCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetPayloadBarcodeType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetPayloadCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetPayloadData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetPayloadRawData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetRebarNV12BufferPtr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetSupportedBarcodeTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetActiveBarcodeTypes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetBarcodeCheckDigitAttribute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SetBarcodeDecodeLengthAttribute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SetBarcodeTransmitCheckDigitAttribute" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="checkaudio.dll" PATH="/DLLArchive/etc/checkaudio.dll" DATE="Fri Jul 03 12:26:43 PDT 2020" VERSION="1, 0, 119, 0">
+    <EXPORT ORDINAL="1" NAME="CheckAudioIn" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckAudioOut" PURGE="12" COMMENT="" />
+</LIBRARY>
+

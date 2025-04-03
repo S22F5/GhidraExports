@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mssrch.dll" PATH="/DLLArchive/windows10LTSCX86_64/mssrch.dll" DATE="Wed Oct 06 06:52:25 PDT 2021" VERSION="7.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0CSearchServiceObj@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CSearchServiceObj@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??1CSearchServiceObj@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4CSearchServiceObj@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??_7CSearchServiceObj@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?Cleanup@CSearchServiceObj@@SGXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?HandleDplKeyChange@CSearchServiceObj@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Initialize@CSearchServiceObj@@UAGJ_NKPBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?LogoffNotification@CSearchServiceObj@@UAGJK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?LogonNotification@CSearchServiceObj@@UAGJK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?PostServiceStartup@CSearchServiceObj@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?SetServiceStatusObj@CSearchServiceObj@@UAGJPAUIDCOMServiceStatus@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Shutdown@CSearchServiceObj@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?Start@CSearchServiceObj@@UAGJXZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Stop@CSearchServiceObj@@UAGJH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetCatalogManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MSSrch_SysPrep_Cleanup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

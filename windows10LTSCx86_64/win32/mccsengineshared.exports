@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mccsengineshared.dll" PATH="/DLLArchive/windows10LTSCX86_64/MCCSEngineShared.dll" DATE="Wed Oct 06 06:53:21 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BuildISO8601String" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BuildISO8601StringFromSysTime" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CopyMimeAttachmentsToMapi" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DownloadToVirtualStream" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FindMatchingNameForAddress" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetAccountDomainForAccountAccessor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetAccountManagedState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDataProtectionPropertyForStore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetDomainFromAccountName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDomainNamesForEmailSyncList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetDplPropertyForStore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetIStoreForAccountGuid" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetMimeStreamFromMMSMessage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetMimeStreamFromMessage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetProtectedDomainList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetProtectionPolicyState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetSmProviderInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetSmRecipientType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IsDPLInEffect" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IsDomainInDelimitedList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ParseISO8601String" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SearchDelimitedList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetDataProtectionPropertyForStore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SetDplPropertyForStore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SetSmProviderInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="StringCompareWithWildcard" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SyncNormalizePhoneNumber" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WriteInputStreamToNetworkStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WriteMapiBodiesFromMimeReader" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WriteMapiBodiesFromMimeStream" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WriteMapiBodiesFromMimeStreamEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="CreateTemporaryFileStream" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

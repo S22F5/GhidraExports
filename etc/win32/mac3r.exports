@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mac3r.dll" PATH="/DLLArchive/etc/mac3r.dll" DATE="Fri Jul 03 12:49:14 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE@PBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?AbortShutdown@CMassiveClientCore@MassiveAdClient3@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?ClearMediaBuffer@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?EnterZone@CMassiveClientCore@MassiveAdClient3@@SAHPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?ExitZone@CMassiveClientCore@MassiveAdClient3@@SAHPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?FlushImpressions@CMassiveClientCore@MassiveAdClient3@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetCrexAssetType@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE?AW4__MAD_MEDIATYPE@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetCrexFileName@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetCrexID@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetInvElementID@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetLastError@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE?AW4__MAD_INTERNAL_ERROR@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetLastError@CMassiveClientCore@MassiveAdClient3@@SA?BW4__MAD_INTERNAL_ERROR@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetName@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GetState@CMassiveClientCore@MassiveAdClient3@@SA?BW4__MAD_STATE@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetVersion@CMassiveClientCore@MassiveAdClient3@@SAPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetViewState@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE?AW4__MAD_VIEW_STATE@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?HasMediaDownloaded@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?Initialize@CMassiveClientCore@MassiveAdClient3@@SAPAV12@PAU__MAD_MASSIVE_INIT_STRUCT@2@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Instance@CMassiveClientCore@MassiveAdClient3@@SAPAV12@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Log@CMassiveClientCore@MassiveAdClient3@@SAXW4__MASSIVE_ENUM_LOG_LEVEL@2@PAD1ZZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?MPSessionCreate@CMassiveClientCore@MassiveAdClient3@@SAPADXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?MPSessionJoin@CMassiveClientCore@MassiveAdClient3@@SAHPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?MPSessionLeave@CMassiveClientCore@MassiveAdClient3@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?MediaDownload@CMassiveAdObjectSubscriber@MassiveAdClient3@@UAEHI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?MediaDownloadComplete@CMassiveAdObjectSubscriber@MassiveAdClient3@@UAEHPBDIII@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?ReleaseCustomMemoryBuffer@CMassiveClientCore@MassiveAdClient3@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?Resume@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?ResumeAll@CMassiveClientCore@MassiveAdClient3@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SetCustomMemoryBuffer@CMassiveClientCore@MassiveAdClient3@@SAHPACH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SetCustomMemoryFunctions@CMassiveClientCore@MassiveAdClient3@@SAXP6APAXI@ZP6AXPAX@Z@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?SetImpression@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEXPAU_MAD_Impression@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?SetInteraction@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEHW4__MASSIVE_INTERACTION@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?SetMaxReceiveKBPS@CMassiveClientCore@MassiveAdClient3@@SAXG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetMaxSendKBPS@CMassiveClientCore@MassiveAdClient3@@SAXG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?Shutdown@CMassiveClientCore@MassiveAdClient3@@SAHHI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?Suspend@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?SuspendAll@CMassiveClientCore@MassiveAdClient3@@SAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?Tick@CMassiveAdObjectSubscriber@MassiveAdClient3@@UAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?Tick@CMassiveClientCore@MassiveAdClient3@@SAHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?VerifyData@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEHIIPBD@Z" PURGE="12" COMMENT="" />
+</LIBRARY>
+

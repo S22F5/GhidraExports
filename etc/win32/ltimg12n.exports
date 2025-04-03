@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltimg12n.dll" PATH="/DLLArchive/etc/Ltimg12n.dll" DATE="Fri Jul 03 12:48:08 PDT 2020" VERSION="12.1.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_AddBitmapNoise" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_AverageFilterBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_BinaryFilterBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_ChangeBitmapContrast" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_ChangeBitmapHue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_ChangeBitmapIntensity" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_ChangeBitmapSaturation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_ColorMergeBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_ColorSeparateBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_DeskewBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_DespeckleBitmap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_EmbossBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_GammaCorrectBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_GetBitmapHistogram" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_HistoContrastBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="L_HistoEqualizeBitmap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="L_IntensityDetectBitmap" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="L_InvertBitmap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="L_MedianFilterBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="L_MosaicBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="L_PosterizeBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="L_RemapBitmapIntensity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="L_SharpenBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="L_SpatialFilterBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="L_StretchBitmapIntensity" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="L_GetBitmapColorCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="L_GetAutoTrimRect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="L_AutoTrimBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="L_SolarizeBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="L_OilifyBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="L_MinFilterBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="L_MaxFilterBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="L_WindowLevelBitmap" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="L_GetMinMaxVal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="L_GetMinMaxBits" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="L_PicturizeBitmap" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="L_ContourFilterBitmap" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="137" NAME="L_SmoothBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="138" NAME="L_LineRemoveBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="139" NAME="L_BorderRemoveBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="140" NAME="L_InvertedTextBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="141" NAME="L_DotRemoveBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="142" NAME="L_HolePunchRemoveBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="143" NAME="L_StapleRemoveBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="144" NAME="L_DespeckleN" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="145" NAME="L_DotFill" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="146" NAME="L_DeskewBitmap2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="147" NAME="L_RemapBitmapHue" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="148" NAME="L_GetBitmapHistogramGray" PURGE="12" COMMENT="" />
+</LIBRARY>
+

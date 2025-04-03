@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gamingtcui.dll" PATH="/DLLArchive/windows10LTSCX86_64/gamingtcui.dll" DATE="Wed Oct 06 06:52:23 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CheckGamingPrivilegeSilently" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CheckGamingPrivilegeSilentlyForUser" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CheckGamingPrivilegeWithUI" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CheckGamingPrivilegeWithUIForUser" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ProcessPendingGameUI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShowChangeFriendRelationshipUI" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShowChangeFriendRelationshipUIForUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ShowCustomizeUserProfileUI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShowCustomizeUserProfileUIForUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ShowFindFriendsUI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ShowFindFriendsUIForUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ShowGameInfoUI" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ShowGameInfoUIForUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ShowGameInviteUI" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShowGameInviteUIForUser" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShowGameInviteUIWithContext" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShowGameInviteUIWithContextForUser" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ShowPlayerPickerUI" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ShowPlayerPickerUIForUser" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ShowProfileCardUI" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ShowProfileCardUIForUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ShowTitleAchievementsUI" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ShowTitleAchievementsUIForUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ShowUserSettingsUI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ShowUserSettingsUIForUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TryCancelPendingGameUI" PURGE="0" COMMENT="" />
+</LIBRARY>
+

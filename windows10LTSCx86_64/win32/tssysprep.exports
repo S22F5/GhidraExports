@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tssysprep.dll" PATH="/DLLArchive/windows10LTSCX86_64/tssysprep.dll" DATE="Sat Dec 07 01:09:13 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AppsrvSysPrepGeneralize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AppsrvSysPrepSpecializeOffline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AppsrvSysPrepSpecializeOnline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CBrokerSysPrepGeneralize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CBrokerSysPrepSpecializeOffline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CBrokerSysPrepSpecializeOnline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LSMSysPrepBackup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LSMSysPrepRestoreOffline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LSMSysPrepRestoreOnline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RCMSysPrepGeneralize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RdpSysPrepGeneralize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RdpSysPrepRestoreOffline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RdpSysPrepRestoreOnline" PURGE="4" COMMENT="" />
+</LIBRARY>
+

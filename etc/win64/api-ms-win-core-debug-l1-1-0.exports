@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-debug-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-core-debug-l1-1-0.dll" DATE="Sat Nov 07 14:26:41 CET 2020" VERSION="10.0.10586.15 (th2_release.151119-1817)">
+    <EXPORT ORDINAL="1" NAME="DebugBreak" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="DebugBreak" />
+    <EXPORT ORDINAL="2" NAME="IsDebuggerPresent" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="IsDebuggerPresent" />
+    <EXPORT ORDINAL="3" NAME="OutputDebugStringA" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="OutputDebugStringA" />
+    <EXPORT ORDINAL="4" NAME="OutputDebugStringW" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="OutputDebugStringW" />
+</LIBRARY>
+

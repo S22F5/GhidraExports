@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="procs32.dll" PATH="/DLLArchive/etc/Procs32.dll" DATE="Mon Apr 21 20:24:20 PDT 2008" VERSION="1.4.11.2004">
+    <EXPORT ORDINAL="1" NAME="GetModuleFirst" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetModuleHandleEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetModuleNext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetNumberOfModules" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetNumberOfProcesses" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetProcessBaseSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetProcessFirst" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetProcessNext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetProcessPath" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetProcessPathID" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IsProcessRunning" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

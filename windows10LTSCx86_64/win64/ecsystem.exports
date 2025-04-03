@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ecsystem.dll" PATH="/DLLArchive/windows10LTSCX86_64/ecsystem.dll" DATE="Wed Oct 06 06:51:53 PDT 2021" VERSION="10.0.19041.423 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FocusEC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetHKL" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetSizeAppliedValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetTransparencyAppliedValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetWorkspaceSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PositionMouseCursor" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RegisterCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RegisterCallbackSizeApplied" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RegisterCallbackTransparency" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ScancodeToUnicode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetNoActivate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetSizeAndPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetTransparent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Show" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfcore.dll" PATH="/DLLArchive/windows10LTSCX86_64/mfcore.dll" DATE="Wed Oct 06 06:53:18 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AppendPropVariant" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConvertPropVariant" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CopyPropertyStore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateNamedPropertyStore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ExtractPropVariant" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MFCopyMFMetadata" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MFCopyPropertyStore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MFCopyStreamMetadata" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MFCreateAggregateSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MFCreateAppSourceProxy" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MFCreateAudioRenderer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MFCreateAudioRendererActivate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MFCreateDeviceSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MFCreateDeviceSourceActivate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MFCreateEncryptedMediaExtensionsStoreActivate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MFCreateExtendedCameraIntrinsicModel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MFCreateExtendedCameraIntrinsics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MFCreateFileSchemePlugin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MFCreateMFMetadataOnPropertyStore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MFCreateMediaProcessor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MFCreateMediaSession" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MFCreatePMPHost" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MFCreatePMPMediaSession" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MFCreatePMPServer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MFCreatePresentationClock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MFCreateSampleCopierMFT" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MFCreateSampleGrabberSinkActivate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="MFCreateSequencerSegmentOffset" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="MFCreateSequencerSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="MFCreateSequencerSourceRemoteStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="MFCreateSimpleTypeHandler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="MFCreateSoundEventSchemePlugin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="MFCreateStandardQualityManager" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="MFCreateTopoLoader" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="MFCreateTopology" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="MFCreateTopologyNode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="MFCreateTransformWrapper" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="MFCreateWMAEncoderActivate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="MFCreateWMVEncoderActivate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="MFEnumDeviceSources" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="MFGetMultipleServiceProviders" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="MFGetService" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="MFGetTopoNodeCurrentType" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="MFReadSequencerSegmentOffset" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="MFRequireProtectedEnvironment" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="MFShutdownObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="MergePropertyStore" PURGE="12" COMMENT="" />
+</LIBRARY>
+

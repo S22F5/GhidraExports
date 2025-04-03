@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gpuperfapicounters-x64.dll" PATH="/DLLArchive/etc/GPUPerfAPICounters-x64.dll" DATE="Wed Jun 26 12:54:46 CEST 2024" VERSION="3.16.0.25">
+    <EXPORT ORDINAL="1" NAME="GpaCounterLibCloseCounterContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GpaCounterLibComputeDerivedCounterResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GpaCounterLibGetCounterDataType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GpaCounterLibGetCounterDescription" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GpaCounterLibGetCounterGroup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GpaCounterLibGetCounterIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GpaCounterLibGetCounterInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GpaCounterLibGetCounterName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GpaCounterLibGetCounterSampleType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GpaCounterLibGetCounterUsageType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GpaCounterLibGetCounterUuid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GpaCounterLibGetCountersByPass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GpaCounterLibGetFuncTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GpaCounterLibGetNumCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GpaCounterLibGetPassCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GpaCounterLibGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GpaCounterLibOpenCounterContext" PURGE="0" COMMENT="" />
+</LIBRARY>
+

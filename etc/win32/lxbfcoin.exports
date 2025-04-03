@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfcoin.dll" PATH="/DLLArchive/etc/lxbfcoin.dll" DATE="Fri Jul 03 21:48:47 CEST 2020" VERSION="1.0.12.0">
+    <EXPORT ORDINAL="1" NAME="CoInstaller" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

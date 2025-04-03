@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-winrt-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-core-winrt-l1-1-0.dll" DATE="Thu Aug 11 00:57:34 PDT 2016" VERSION="6.3.9600.16384 (winblue_rtm.130821-1623)">
+    <EXPORT ORDINAL="1" NAME="RoActivateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RoGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RoGetApartmentIdentifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RoInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RoRegisterActivationFactories" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RoRegisterForApartmentShutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RoRevokeActivationFactories" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RoUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RoUnregisterForApartmentShutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

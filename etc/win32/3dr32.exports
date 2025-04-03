@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dr32.dll" PATH="/DLLArchive/etc/3dr32.dll" DATE="Fri Jul 03 12:11:21 PDT 2020" VERSION="3DR Version 2.2.1">
+    <EXPORT ORDINAL="1" NAME="r3dMessageV0" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="R3dMessage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="R3dCreateRC" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="R3dDeleteRC" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="R3dPrimitive" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="R3dGetState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="R3dSetState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="R3dNewTexture" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="R3dLoadTexture" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="R3dFreeTexture" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="R3dNewBitmap" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="R3dFreeBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="R3dLoadBitmap" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="R3dCachedBitmap" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="R3dBitmap" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="R3dSwapBuffers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="R3dClearBuffers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="R3dSetPaletteEntry" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="R3dApplyNewPalette" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="R3dLoadPalette" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="R3dGetBuffers" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="R3dSetBuffers" PURGE="16" COMMENT="" />
+</LIBRARY>
+

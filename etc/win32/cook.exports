@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cook.dll" PATH="/DLLArchive/etc/cook.dll" DATE="Fri Jul 03 21:27:41 CEST 2020" VERSION="10.0.0.679">
+    <EXPORT ORDINAL="1" NAME="RACloseCodec" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RACreateEncoderInstance" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RADecode" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RAEncode" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RAFlush" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RAFreeDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RAFreeEncoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_RAGetBackend@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_RAGetDecoderBackendGUID@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RAGetFlavorProperty" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_RAGetGUID@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RAGetNumberOfFlavors2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RAGetNumberOfFlavors" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RAInitDecoder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RAInitEncoder" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RAOpenCodec2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RAOpenCodec" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_RASetComMode@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RASetFlavor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_RASetPwd@8" PURGE="8" COMMENT="" />
+</LIBRARY>
+

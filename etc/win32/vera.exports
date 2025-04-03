@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vera.dll" PATH="/DLLArchive/etc/VerA.dll" DATE="Fri Jun 30 01:29:24 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DiePlugPe" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DiePlugHwnd" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DiePlugProc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DiePlugName" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="etwrundown.dll" PATH="/DLLArchive/windows10LTSCX86_64/EtwRundown.dll" DATE="Sat Dec 07 10:09:26 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EtwLogHeapRundown" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EtwLogSysConfigRundown" PURGE="8" COMMENT="" />
+</LIBRARY>
+

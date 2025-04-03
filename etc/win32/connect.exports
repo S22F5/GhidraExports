@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="connect.dll" PATH="/DLLArchive/etc/connect.dll" DATE="Fri Jul 03 12:27:37 PDT 2020" VERSION="6.0.6001.18159 (vistasp1_gdr.081020-1655)">
+    <EXPORT ORDINAL="1" NAME="AddConnectionOptionListEntries" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateVPNConnection" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetInternetConnected" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetNetworkConnected" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetVPNConnected" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsInternetConnected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsInternetConnectedGUID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IsUniqueConnectionName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RegisterPageWithPage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UnregisterPage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UnregisterPagesLink" PURGE="8" COMMENT="" />
+</LIBRARY>
+

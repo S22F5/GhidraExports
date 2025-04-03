@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspdox35.dll" PATH="/DLLArchive/etc/MSPDOX35.DLL" DATE="Fri Apr 24 10:40:20 PDT 1998" VERSION="3.51.0623.0">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

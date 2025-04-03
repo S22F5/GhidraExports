@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zx32sx.dll" PATH="/DLLArchive/etc/zx32sx.dll" DATE="Fri Jul 03 12:14:14 PDT 2020" VERSION="1.03.97.1213">
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

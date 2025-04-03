@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="verifier.dll" PATH="/DLLArchive/windows10LTSCX86_64/verifier.dll" DATE="Sat Dec 07 10:09:57 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AVrfAPILookupCallback" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VerifierAddFreeMemoryCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VerifierCheckPageHeapAllocation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VerifierCreateRpcPageHeap" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VerifierDeleteFreeMemoryCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VerifierDestroyRpcPageHeap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VerifierDisableFaultInjectionExclusionRange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VerifierDisableFaultInjectionTargetRange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VerifierEnableFaultInjectionExclusionRange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VerifierEnableFaultInjectionTargetRange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="VerifierEnumerateResource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="VerifierForceNormalHeap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="VerifierGetInfoForException" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="VerifierGetMemoryForDump" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="VerifierGetPropertyValueByName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="VerifierGetProviderHelper" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="VerifierIsAddressInAnyPageHeap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="VerifierIsCurrentThreadHoldingLocks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="VerifierIsDllEntryActive" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="VerifierIsPerUserSettingsEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="VerifierQueryRuntimeFlags" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="VerifierRedirectStopFunctions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="VerifierSetFaultInjectionProbability" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="VerifierSetFlags" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="VerifierSetRuntimeFlags" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="VerifierStopMessage" PURGE="40" COMMENT="" />
+</LIBRARY>
+

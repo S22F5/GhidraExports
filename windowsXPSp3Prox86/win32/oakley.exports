@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oakley.dll" PATH="/DLLArchive/windowsXPSp3Prox86/oakley.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="23" NAME="IKEQueryStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IKEEnumMMs" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IKEDeleteAssociation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IKEInitiateIKENegotiation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IKEQuerySpiChange" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IKERegisterNotifyClient" PURGE="348" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IKEInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IKEShutdown" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="IKEInterfaceChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="IKECloseIKENotifyHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="IKEQueryIKENegotiationStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="IKECloseIKENegotiationHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="IKENotifyPolicyChange" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="IKEAddSAs" PURGE="80" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="IKESetConfigurationVariables" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="IKEGetConfigurationVariables" PURGE="4" COMMENT="" />
+</LIBRARY>
+

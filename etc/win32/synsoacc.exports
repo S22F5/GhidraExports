@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="synsoacc.dll" PATH="/DLLArchive/etc/synsoacc.dll" DATE="Fri Jul 03 22:21:52 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_posRegisterApplicationWithPackage" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_posUnregisterApplication" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_posInstantiateObject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_posCallMethod" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_posFreeCallMethodParameter" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_posDeleteObject" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_posRegisterApplicationWithPackageName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_posRegisterApplication" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_posInstantiateObjectOnExecuter" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_posCallMethodOnExecuter" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_posGetObjectInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_posGetClassInfo" PURGE="44159" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_posGetExecuterInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_posExecuteCMD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="__DebuggerHookData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="@__lockDebuggerData$qv" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="@__unlockDebuggerData$qv" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

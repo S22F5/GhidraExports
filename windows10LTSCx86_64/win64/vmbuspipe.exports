@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vmbuspipe.dll" PATH="/DLLArchive/windows10LTSCX86_64/vmbuspipe.dll" DATE="Wed Oct 06 06:51:03 PDT 2021" VERSION="10.0.19041.1110 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="VmbusPipeClientEnumeratePipes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VmbusPipeClientOpenChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VmbusPipeClientOpenChannelEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VmbusPipeClientReadyForChannelNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VmbusPipeClientRegisterChannelNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="VmbusPipeClientUnregisterChannelNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="VmbusPipeClientWaitChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VmbusPipeServerConnectPipe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VmbusPipeServerOfferChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VmbusPipeServerOfferChannelEx" PURGE="0" COMMENT="" />
+</LIBRARY>
+

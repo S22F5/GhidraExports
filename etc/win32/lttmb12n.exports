@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lttmb12n.dll" PATH="/DLLArchive/etc/lttmb12n.dll" DATE="Fri Jul 03 12:48:18 PDT 2020" VERSION="12.1.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_BrowseDir" PURGE="72" COMMENT="" />
+</LIBRARY>
+

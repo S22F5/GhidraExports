@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctmasetp.dll" PATH="/DLLArchive/etc/ctmasetp.dll" DATE="Fri Jul 03 21:28:29 CEST 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="ClassInsProc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DevicePropPage" PURGE="12" COMMENT="" />
+</LIBRARY>
+

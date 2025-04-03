@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="secfix.dll" PATH="/DLLArchive/etc/SecFix.dll" DATE="Thu May 12 19:48:08 PDT 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="LoadDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DoMyJob" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="htmllite.dll" PATH="/DLLArchive/windowsXPSp3Prox86/HTMLLITE.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="7.00.9581">
+    <EXPORT ORDINAL="1" NAME="_CchHtmlBreakLinesA@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_CchHtmlBreakLinesW@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_CchHtmlEscapeTextA@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_CchHtmlEscapeTextW@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_FHtmlReplaceCtl@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_FRegisterHtmlLiteClass@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_FUnregisterHtmlLiteClass@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

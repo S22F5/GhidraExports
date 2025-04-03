@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iecustom.dll" PATH="/DLLArchive/etc/iecustom.dll" DATE="Fri Jul 03 12:40:15 PDT 2020" VERSION="6.00.2800.1473">
+    <EXPORT ORDINAL="1" NAME="BeginInstallation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BeginUnInstallation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConfirmInstallation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConfirmUninstallation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CustomLoadStringA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CustomLoadStringW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EndInstallation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FailedInstallation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SuccessInstallation" PURGE="4" COMMENT="" />
+</LIBRARY>
+

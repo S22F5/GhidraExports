@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cdmodem.dll" PATH="/DLLArchive/etc/cdmodem.dll" DATE="Fri Jul 03 12:26:27 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="CdClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CdIoControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CdOpen" PURGE="12" COMMENT="" />
+</LIBRARY>
+

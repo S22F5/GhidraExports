@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ksuser.dll" PATH="/DLLArchive/etc/ksuser.dll" DATE="Fri Jul 03 21:45:44 CEST 2020" VERSION="5.3.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="KsCreateAllocator" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KsCreateClock" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KsCreatePin" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="KsCreateTopologyNode" PURGE="16" COMMENT="" />
+</LIBRARY>
+

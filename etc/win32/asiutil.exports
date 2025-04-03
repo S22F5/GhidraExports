@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asiutil.dll" PATH="/DLLArchive/etc/AsiUtil.dll" DATE="Fri Jul 03 13:44:00 PDT 2020" VERSION="10.00.4033">
+    <EXPORT ORDINAL="1" NAME="??0mcSigRipper@@AAE@ABUmsTrackSigDesc@0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0msTrackSigDesc@mcSigRipper@@QAE@ABU01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0msTrackSigDesc@mcSigRipper@@QAE@ABUmsTrackSigDescCStyle@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0msTrackSigDesc@mcSigRipper@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1mcSigRipper@@AAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1msTrackSigDesc@mcSigRipper@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??4msTrackSigDesc@mcSigRipper@@QAEAAU01@ABU01@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??4msTrackSigDescCStyle@@QAEAAU0@ABU0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?AddSamples@mcSigRipper@@QAEXABV?$vector@FV?$allocator@F@std@@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?AddSamples@mcSigRipper@@QAEXQBFH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?BinaryToBase64@mcSigRipper@@CAXABV?$vector@EV?$allocator@E@std@@@std@@AAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?BinaryToHexadecimal@mcSigRipper@@CAXABV?$vector@EV?$allocator@E@std@@@std@@AAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CancelTrack@mcSigRipper@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Clear@msTrackSigDesc@mcSigRipper@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?CompareSignatures@mcSigRipper@@QAEMPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?Delete@mcSigRipper@@SAXPAV1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?EndTrack@mcSigRipper@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GetAsciiSignature@mcSigRipper@@QAEXAAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetAudioTrackSignature@@YA_NV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@0AAV12@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetCurrentTrackLength@mcSigRipper@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetExpectedTrackLength@mcSigRipper@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetMd5Crc@mcSigRipper@@CAXABV?$vector@EV?$allocator@E@std@@@std@@AAV23@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetSignature@mcSigRipper@@AAEXAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetSignature@mcSigRipper@@QAEXAAV?$vector@EV?$allocator@E@std@@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?GetSignatureObject@mcSigRipper@@QAEPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetStartOffset@mcSigRipper@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?HasSigFlag@msTrackSigDesc@mcSigRipper@@QBE_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?IsMoreDataNeeded@mcSigRipper@@QAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?IsTrackTooLong@mcSigRipper@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?IsTrackTooShort@mcSigRipper@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?NewFromSigInstructions@mcSigRipper@@SAPAV1@ABUmsTrackSigDesc@1@ABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?NewFromTrackDescription@mcSigRipper@@SAPAV1@ABUmsTrackSigDesc@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?NewFromTrackLength@mcSigRipper@@SAPAV1@HABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?ParseInstructions@mcSigRipper@@CAXABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AAV?$vector@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@3@1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?SetSigFlags@msTrackSigDesc@mcSigRipper@@QAEXABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?SetStartOffset@mcSigRipper@@QAEXH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?TStrToInt32@mcSigRipper@@CA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AAH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SigRipper_AddSamples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SigRipper_CancelTrack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SigRipper_Delete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SigRipper_EndTrack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SigRipper_NewFromSigInstructions" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SigRipper_NewFromTrackDesc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="TCharArrayCopyOrErase" PURGE="0" COMMENT="" />
+</LIBRARY>
+

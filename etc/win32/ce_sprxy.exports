@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ce_sprxy.dll" PATH="/DLLArchive/etc/CE_SPRXY.DLL" DATE="Fri Jul 03 12:26:36 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="CloseServerHandle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseTableProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConfigureClientSideQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConfigureClientSideQueueH" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ConfigureQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ConnectAndConfigureServerSideQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DeleteServerQueueDefinition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DestroyServerQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnumDatabases" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EnumOwners" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EnumQueueDefName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EnumQueueHndls" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EnumRegisteredServers" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EnumServerQueueDefinitionName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EnumTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetControlConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetObjectName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetObjectText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetProcedureText" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetServerDefAutoStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetServerHandle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetTableProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="InitializeTableProxy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IsServer70" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ListColumns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ListIndexes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ListTables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="PauseServerQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ProduceEventsFromSS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="ProduceEventsFromST" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="PromptPasswd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="QueueDefExists" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="ReadEventItemFromTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="ReleaseControlConnection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RemoveSSQInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RestartServerQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SSEventClassRequiredChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SSPrxyEventFilterChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SSPrxyIntFilterChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SSPrxyIntRangeFilterChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SSPrxyQueueDestroyed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SSPrxyQueuePaused" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SSPrxyQueueRestarted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SSPrxyStringFilterChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SaveServerQueueDefinition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SetSSProxyMessageControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SetServerDefAutoStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="StartServerQueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="StartServerQueueDefinition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="StoreSSQInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

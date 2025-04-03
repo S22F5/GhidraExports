@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="addressparser.dll" PATH="/DLLArchive/windows10LTSCX86_64/AddressParser.dll" DATE="Sat Dec 07 01:09:18 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DestroyAddressParser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCity" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCountryName" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetCountryStringFromIndex" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetFullAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetNewAddressParser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetPostalCode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetStreet" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ParseAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RebuildAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetCity" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SetCountryName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetFullAddress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetPostalCode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetStreet" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="UpdateDefCountry" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ctapi3t2.dll" PATH="/DLLArchive/etc/CTAPI3T2.DLL" DATE="Fri Jul 03 21:28:25 CEST 2020" VERSION="1.0.3522">
+    <EXPORT ORDINAL="19" NAME="ThesaurusSetDllName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ThesaurusVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ThesaurusInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ThesaurusTerminate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ThesaurusOpenLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ThesaurusCloseLex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ThesaurusSetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ThesaurusGetOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ThesaurusCheck" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ThesaurusGetString" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mlib_image.dll" PATH="/DLLArchive/etc/mlib_image.dll" DATE="Sun Jul 30 11:16:46 CEST 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="j2d_mlib_ImageAffine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="j2d_mlib_ImageConvKernelConvert" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="j2d_mlib_ImageConvMxN" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="j2d_mlib_ImageCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="j2d_mlib_ImageCreateStruct" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="j2d_mlib_ImageDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="j2d_mlib_ImageLookUp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

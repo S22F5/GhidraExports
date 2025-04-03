@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltfil70n.dll" PATH="/DLLArchive/etc/LTFIL70N.DLL" DATE="Fri Jul 03 12:48:07 PDT 2020" VERSION="7.00.0.004">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_FileInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_LoadBitmap" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_LoadFile" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_SaveBitmap" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_SaveFile" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_GetExtFileOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_SetExtFileOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_SetLoadInfoCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_GetComment" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_SetComment" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_ReadFileComment" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_FileConvert" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_SaveFileOffset" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_LoadFileOffset" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_GetPCDResolution" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="L_SetPCDResolution" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="L_SaveBitmapMemory" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="L_FileInfoMemory" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="L_LoadBitmapMemory" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="L_LoadMemory" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="L_StartFeedLoad" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="L_FeedLoad" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="L_StopFeedLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="L_CompressBitmapWithStamp" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="L_GetCompressFileStamp" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="L_DecompressBitmapMemory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="L_DecompressMemory" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="L_StartCompressBuffer" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="L_CompressBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="L_EndCompressBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="L_GetWMFResolution" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="L_SetWMFResolution" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="L_LoadBitmapList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="L_SaveBitmapList" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="L_EnumDimensions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="L_SetDimension" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="L_GetDimension" PURGE="12" COMMENT="" />
+</LIBRARY>
+

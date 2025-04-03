@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="shimeng.dll" PATH="/DLLArchive/windowsXPSp3Prox86/shimeng.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="SE_DllLoaded" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SE_DllUnloaded" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SE_DynamicShim" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SE_GetProcAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SE_InstallAfterInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SE_InstallBeforeInit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SE_IsShimDll" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SE_ProcessDying" PURGE="0" COMMENT="" />
+</LIBRARY>
+

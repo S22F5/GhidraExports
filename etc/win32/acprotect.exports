@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acprotect.dll" PATH="/DLLArchive/etc/ACProtect.dll" DATE="Sun Jun 13 03:20:46 CEST 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

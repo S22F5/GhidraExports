@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfcclwz.dll" PATH="/DLLArchive/etc/MFCCLWZ.DLL" DATE="Wed Jun 17 13:18:38 PDT 1998" VERSION="6.00.8168.0">
+    <EXPORT ORDINAL="1" NAME="??0CClsWizClass@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CClsWizClass@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CClsWizVerbList@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1CClsWizClass@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1CClsWizVerbList@@UAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4CClsWizClass@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_7CClsWizClass@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7CClsWizVerbList@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?AddHandler@CClsWizClass@@UAEHPAVCClsWizVerb@@H@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?AddToListFromMemory@CClsWizVerbList@@UAEHPBD0GH@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?AddToListFromResource@CClsWizVerbList@@UAEHPBD0DGH@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?AddToListFromTypeinfo@CClsWizVerbList@@UAEHPAUITypeInfo@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?AddVirtualFunctionsToList@CClsWizVerbList@@UAEHABVCString@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?BuildNounList@CClsWizClass@@UAEPAV?$CTypedPtrList@VCObList@@PAVCClsWizNoun@@@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?BuildVerbList@CClsWizClass@@UAEPAVCClsWizVerbList@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?EmptyBldDatabaseMap@@YAXH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?FinishChanges@CClsWizClass@@UAEHH@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GetClassFilterType@CClsWizClass@@UAEHPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetClassNameA@CClsWizClass@@UAEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetClsWizIFace@@YAPAVCClsWizIFace@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetDisplayString@CClsWizClass@@UAEPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetFunctionName@CClsWizClass@@UAEPBDPAVCClsWizVerb@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetHeaderFile@CClsWizClass@@UAEXPAVCPath@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetSourceFile@CClsWizClass@@UAEXPAVCPath@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?InitBldDatabaseMap@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?IsVerbHandled@CClsWizClass@@UAEHPAVCClsWizVerb@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?RemoveHandler@CClsWizClass@@UAEHPAVCClsWizVerb@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?SetClass@CClsWizClass@@UAEHPAVCBldDatabase@@PBD@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?SetClass@CClsWizClass@@UAEHPBD0@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SetClassFilterType@CClsWizClass@@UAEHDH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?SetNoun@CClsWizClass@@UAEXPAVCClsWizNoun@@@Z" PURGE="4" COMMENT="" />
+</LIBRARY>
+

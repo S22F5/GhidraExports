@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vb6stkit.dll" PATH="/DLLArchive/etc/VB6STKIT.DLL" DATE="Fri Jul 03 13:26:05 PDT 2020" VERSION="6.00.8169">
+    <EXPORT ORDINAL="1" NAME="AbortAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AddActionNote" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ChangeActionKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CommitAction" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DLLSelfRegister" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DisableLogging" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnableLogging" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ExtractFileFromCab" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetClsidFromActXFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LogConfig" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LogError" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LogNote" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LogWarning" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NewAction" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RegisterTLB" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_SetTime@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SyncShell" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="fCreateShellLink" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="fRemoveShellLink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="fWithinAction" PURGE="0" COMMENT="" />
+</LIBRARY>
+

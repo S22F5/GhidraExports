@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="corperfmonext.dll" PATH="/DLLArchive/etc/CORPerfMonExt.dll" DATE="Fri Jul 03 12:27:55 PDT 2020" VERSION="1.0.3705.6018">
+    <EXPORT ORDINAL="1" NAME="CloseCtrs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectCtrs" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OpenCtrs" PURGE="4" COMMENT="" />
+</LIBRARY>
+

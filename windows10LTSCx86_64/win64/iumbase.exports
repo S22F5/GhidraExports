@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iumbase.dll" PATH="/DLLArchive/windows10LTSCX86_64/iumbase.dll" DATE="Sat Dec 07 10:09:33 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AssignMemoryToSocDomain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AwaitSmc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateSecureDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateSecureSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateSecureSectionSpecifyPages" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DecryptData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DecryptISKBoundData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DmaMapMemory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EmitSmc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EncryptData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FlushSecureSectionBuffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetDmaEnabler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetExposedSecureSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetFipsModeFromIumKernelState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetSecureIdentityKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetSecureIdentitySigningKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetSeedFromIumKernelState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetSignedReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetTaggedData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetTaggedDataSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetTpmBindingInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IsSecureProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MapSecureIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="OpenCurrentExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="OpenSecureSection" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="PostMailbox" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ProtectSecureIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="QuerySecureDeviceInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SecureStorageGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SecureStoragePut" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SetDmaTargetProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetPolicyExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="UnmapSecureIo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="UpdateSecureDeviceState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="VbsVmSysCall" PURGE="0" COMMENT="" />
+</LIBRARY>
+

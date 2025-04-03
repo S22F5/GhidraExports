@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pgcntl32.dll" PATH="/DLLArchive/etc/pgcntl32.dll" DATE="Fri Jul 03 13:06:38 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="_ClosePaigeLibs@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_CreateMemoryRef@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_EmbedCallbackProc@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_GetPaigeGlobals@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_GetPaigeGlobalsPtr@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_InitPaigeLibs@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_SetPaigeGlobals@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

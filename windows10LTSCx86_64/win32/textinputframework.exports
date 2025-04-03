@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="textinputframework.dll" PATH="/DLLArchive/windows10LTSCX86_64/TextInputFramework.dll" DATE="Wed Oct 06 15:52:26 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InputFocusChanged" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NavigateFocusInfoCreate" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TextInputClientCreate2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TextInputClientCreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TextInputHostCreate2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TextInputHostCreate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TextInputHostCreateEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TextInputHostGetCurrent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TextInputHostSiteCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TextInputServerCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TsfOneCreate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="tsfGetAsyncKeyState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="tsfGetKeyState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="tsfGetKeyboardState" PURGE="4" COMMENT="" />
+</LIBRARY>
+

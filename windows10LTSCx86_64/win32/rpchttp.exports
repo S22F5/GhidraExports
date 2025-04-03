@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rpchttp.dll" PATH="/DLLArchive/windows10LTSCX86_64/rpchttp.dll" DATE="Sat Dec 07 01:09:22 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CompareHttpTransportCredentials" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConvertToUnicodeHttpTransportCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DuplicateHttpTransportCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeHttpTransportCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HTTP2GetRpcConnectionTransport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HTTP2ProcessComplexTReceive" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HTTP2ProcessComplexTSend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HTTP2ProcessRuntimePostedEvent" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HTTP2TestHook" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HttpParseNetworkOptions" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HttpSendIdentifyResponse" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="I_RpcGetRpcProxy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="I_RpcTransFreeHttpCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="I_RpcTransGetHttpCredentials" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WS_HTTP2_CONNECTION__Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WS_HTTP2_INITIAL_CONNECTION__new" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="I_RpcExtInitializeExtensionPoint" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="I_RpcProxyNewConnection" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="I_RpcReplyToClientWithStatus" PURGE="8" COMMENT="" />
+</LIBRARY>
+

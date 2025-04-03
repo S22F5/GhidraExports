@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="umpo.dll" PATH="/DLLArchive/windows10LTSCX86_64/umpo.dll" DATE="Wed Oct 06 15:51:09 CEST 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="PtrUmpoFullPowerPlanSupportDisabled" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PtrUmpoOnAcPower" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PtrUmpoProviderHandle" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PtrUmpoSchemeLock" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UmpoAllocate" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UmpoAlpcSendPowerMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UmpoFree" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UmpoGetActiveScheme" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UmpoInternalCloseUserPowerKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UmpoInternalConvertGuidToString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UmpoInternalDataAccessorToString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UmpoInternalGetKeyValueGuid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UmpoInternalOpenGUIDSubKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UmpoInternalOpenUserPowerKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UmpoMain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="UmpoNotificationHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UmpoNotifyKernelAllPowerPolicyChanged" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="UmpoSendKernelPowerPolicyNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UmpoWriteToUserPowerKey" PURGE="0" COMMENT="" />
+</LIBRARY>
+

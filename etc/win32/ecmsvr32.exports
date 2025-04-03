@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ecmsvr32.dll" PATH="/DLLArchive/etc/ECMSVR32.DLL" DATE="Fri Jul 03 12:32:51 PDT 2020" VERSION="1.2.0.13">
+    <EXPORT ORDINAL="1" NAME="ECOMInUse" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ECOMReleaseUnusedResources" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ECOMStartup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_SymGetFreeSystemResources@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_SymSystemHeapInfo@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

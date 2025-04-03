@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="snmpmib.dll" PATH="/DLLArchive/windowsXPSp3Prox86/snmpmib.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="SnmpExtensionInit" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SnmpExtensionMonitor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SnmpExtensionQuery" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SnmpExtensionTrap" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wpcwebfilter.dll" PATH="/DLLArchive/windows10LTSCX86_64/WpcWebFilter.dll" DATE="Wed Oct 06 06:52:18 PDT 2021" VERSION="10.0.19041.964 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WpcWebFilterCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WpcWebFilterDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WpcWebFilterGet" PURGE="4" COMMENT="" />
+</LIBRARY>
+

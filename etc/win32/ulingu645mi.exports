@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ulingu645mi.dll" PATH="/DLLArchive/etc/ulingu645mi.dll" DATE="Fri Jul 03 13:24:41 PDT 2020" VERSION="7.0.0.8745">
+    <EXPORT ORDINAL="1" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

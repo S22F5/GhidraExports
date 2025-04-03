@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="npwmsdrm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/npwmsdrm.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="9.00.00.4503">
+    <EXPORT ORDINAL="1" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?native_Npwmsdrm_printToStdout@@YAXPAPBUJRIEnvInterface@@PAUNpwmsdrm@@PAUjava_lang_String@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="register_Npwmsdrm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="unregister_Npwmsdrm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="unuse_Npwmsdrm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="unuse_netscape_plugin_Plugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="use_Npwmsdrm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="use_netscape_plugin_Plugin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

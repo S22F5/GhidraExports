@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mrmdeploy.dll" PATH="/DLLArchive/windows10LTSCX86_64/MrmDeploy.dll" DATE="Sat Dec 07 01:09:18 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCanonicalMergedPriFileName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCanonicalMergedPriFileNameForPackages" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetInitInfoByPackageFullName" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetOrCreatePriFileForApplicablePackages" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetOrCreatePriFileForAvailablePackages" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetOrCreatePriFileForRelatedPackages" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPriFileForPackageOnly" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MergeRelatedPriFiles" PURGE="24" COMMENT="" />
+</LIBRARY>
+

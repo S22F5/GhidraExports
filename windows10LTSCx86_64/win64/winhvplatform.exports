@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winhvplatform.dll" PATH="/DLLArchive/windows10LTSCX86_64/WinHvPlatform.dll" DATE="Wed Oct 06 15:52:43 CEST 2021" VERSION="10.0.19041.264 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WHvCancelRunVirtualProcessor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WHvCreatePartition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WHvCreateVirtualProcessor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WHvDeletePartition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WHvDeleteVirtualProcessor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WHvGetCapability" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WHvGetPartitionCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WHvGetPartitionProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WHvGetVirtualProcessorCounters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WHvGetVirtualProcessorInterruptControllerState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WHvGetVirtualProcessorInterruptControllerState2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WHvGetVirtualProcessorRegisters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WHvGetVirtualProcessorXsaveState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WHvMapGpaRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WHvQueryGpaRangeDirtyBitmap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WHvRegisterPartitionDoorbellEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WHvRequestInterrupt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WHvResumePartitionTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WHvRunVirtualProcessor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WHvSetPartitionProperty" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WHvSetVirtualProcessorInterruptControllerState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WHvSetVirtualProcessorInterruptControllerState2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WHvSetVirtualProcessorRegisters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WHvSetVirtualProcessorXsaveState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WHvSetupPartition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WHvSuspendPartitionTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WHvTranslateGva" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WHvUnmapGpaRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WHvUnregisterPartitionDoorbellEvent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

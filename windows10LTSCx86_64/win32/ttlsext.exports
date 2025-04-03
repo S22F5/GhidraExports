@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ttlsext.dll" PATH="/DLLArchive/windows10LTSCX86_64/TtlsExt.dll" DATE="Wed Oct 06 06:52:35 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="TtlsExt_EapPeerInvokeConfigUI" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TtlsExt_InvokeNonEapMethodUI" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TtlsExt_InvokeServerAuthentication" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TtlsExt_FreeMemoryExt" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TtlsExt_GetConfigCacheOnlyCertValidation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TtlsExt_GetConfigForceNotDomainJoined" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TtlsExt_GetContextData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TtlsExt_GetUserCredentials" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TtlsExt_ShowHelp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

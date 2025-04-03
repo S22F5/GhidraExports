@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="34coinstaller.dll" PATH="/DLLArchive/etc/34coinstaller.dll" DATE="Fri Jul 03 12:10:31 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CoInstallerEntry" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scylla_x86.dll" PATH="/DLLArchive/etc/Scylla_x86.dll" DATE="Sun May 03 08:59:10 PDT 2015" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ScyllaDumpCurrentProcessW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ScyllaDumpCurrentProcessA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ScyllaDumpProcessW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ScyllaDumpProcessA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ScyllaRebuildFileW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ScyllaRebuildFileA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ScyllaVersionInformationW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ScyllaVersionInformationA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ScyllaVersionInformationDword" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ScyllaStartGui" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ScyllaIatSearch" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ScyllaIatFixAutoW" PURGE="20" COMMENT="" />
+</LIBRARY>
+

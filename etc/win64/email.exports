@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="email.dll" PATH="/DLLArchive/etc/Email.dll" DATE="Thu Nov 30 09:58:34 PST 2023" VERSION="4.63.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SendImageByEmail_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

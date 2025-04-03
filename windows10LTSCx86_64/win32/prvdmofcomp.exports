@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="prvdmofcomp.dll" PATH="/DLLArchive/windows10LTSCX86_64/prvdmofcomp.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0MIFree@@QAE@PAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1MIFree@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4MIServer@@QAEAAV0@$$QAV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??4MIServer@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CompileSchemaToWMI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateRegisterParameter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetProviderSchema" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetProviderSchemaFile" PURGE="8" COMMENT="" />
+</LIBRARY>
+

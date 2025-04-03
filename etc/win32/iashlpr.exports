@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iashlpr.dll" PATH="/DLLArchive/etc/iashlpr.dll" DATE="Fri Jul 03 12:38:30 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="AllocateAttributes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConfigureIas" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DoRequest" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeAttributes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="InitializeIas" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MemAllocIas" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MemFreeIas" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MemReallocIas" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ShutdownIas" PURGE="0" COMMENT="" />
+</LIBRARY>
+

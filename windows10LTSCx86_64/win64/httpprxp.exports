@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="httpprxp.dll" PATH="/DLLArchive/windows10LTSCX86_64/httpprxp.dll" DATE="Sat Dec 07 10:09:04 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ProxyHelperGetProxyEventInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProxyHelperProviderConnectToServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProxyHelperProviderDisconnectFromServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ProxyHelperProviderFreeMemory" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ProxyHelperProviderRegisterForEventNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ProxyHelperProviderSetProxyConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ProxyHelperProviderSetProxyCredentials" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ProxyHelperProviderUnregisterEventNotification" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lfraw13n.dll" PATH="/DLLArchive/etc/lfRaw13n.dll" DATE="Fri Jul 03 12:46:27 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fltLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fltSave" PURGE="4" COMMENT="" />
+</LIBRARY>
+

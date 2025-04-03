@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ismig.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ISMIG.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="1, 0, 0, 8">
+    <EXPORT ORDINAL="110" NAME="ISUMigrate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="ISUGetAllStrings" PURGE="4" COMMENT="" />
+</LIBRARY>
+

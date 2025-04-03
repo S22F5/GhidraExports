@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perceptionsimulationmanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/PerceptionSimulationManager.dll" DATE="Wed Oct 06 06:52:42 PDT 2021" VERSION="10.0.19041.1052 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreatePerceptionSimulationManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreatePerceptionSimulationRecording" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetControlMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetIsUsingDriver" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LoadPerceptionSimulationRecording" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SetControlMode" PURGE="0" COMMENT="" />
+</LIBRARY>
+

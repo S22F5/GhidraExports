@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mscories.dll" PATH="/DLLArchive/windows10LTSCX86_64/mscories.dll" DATE="Sat Dec 07 01:10:05 PST 2019" VERSION="2.0.50727.9149 (WinRelRS6.050727-9100)">
+    <EXPORT ORDINAL="1" NAME="Install" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Uninstall" PURGE="16" COMMENT="" />
+</LIBRARY>
+

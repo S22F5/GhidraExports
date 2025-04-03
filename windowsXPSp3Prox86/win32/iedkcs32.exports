@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iedkcs32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/iedkcs32.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="BrandExternal" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseRASConnections" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GenerateGroupPolicy" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ProcessGroupPolicy" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ProcessGroupPolicyEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ProcessGroupPolicyForZoneMap" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BrandCleanInstallStubs" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BrandICW2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BrandICW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BrandIE4" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BrandInfAndOutlookExpress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BrandInternetExplorer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="BrandIntra" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="BrandMe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Clear" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="InternetInitializeAutoProxyDll" PURGE="20" COMMENT="" />
+</LIBRARY>
+

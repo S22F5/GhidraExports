@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="leechcore.dll" PATH="/DLLArchive/etc/leechcore.dll" DATE="Thu Jan 11 08:23:42 CET 2024" VERSION="2.16.9.60">
+    <EXPORT ORDINAL="1" NAME="LcAllocScatter1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LcAllocScatter2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LcAllocScatter3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LcClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LcCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="LcCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="LcCreateEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="LcDeviceParameterGet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LcDeviceParameterGetNumeric" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LcGetOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LcMemFree" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LcMemMap_AddRange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LcMemMap_GetMaxAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="LcMemMap_IsInitialized" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="LcRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LcReadScatter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LcSetOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="LcWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="LcWriteScatter" PURGE="0" COMMENT="" />
+</LIBRARY>
+

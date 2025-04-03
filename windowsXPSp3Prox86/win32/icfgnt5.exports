@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icfgnt5.dll" PATH="/DLLArchive/windowsXPSp3Prox86/icfgnt5.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="6.00.2600.0000 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="IcfgInstallModem" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IcfgNeedModem" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IcfgSetInstallSourcePath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="InetSetAutodial" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="InetSetAutodialAddress" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IcfgGetLastInstallErrorText" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IcfgInstallInetComponents" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IcfgIsFileSharingTurnedOn" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IcfgIsGlobalDNS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IcfgNeedInetComponents" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IcfgRemoveGlobalDNS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IcfgStartServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IcfgTurnOffFileSharing" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InetGetAutodial" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InetGetSupportedPlatform" PURGE="4" COMMENT="" />
+</LIBRARY>
+

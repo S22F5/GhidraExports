@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nvnt4cpl.dll" PATH="/DLLArchive/etc/nvnt4cpl.dll" DATE="Fri Jul 03 22:02:36 CEST 2020" VERSION="6.14.10.5216">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

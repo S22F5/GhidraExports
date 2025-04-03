@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wsdueng.dll" PATH="/DLLArchive/windowsXPSp3Prox86/WSDUENG.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.4.3790.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DuInitializeA" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DuDoDetection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DuBeginDownload" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DuAbortDownload" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DuUninitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetEstimatedDownloadSpeed" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DuQueryUnsupportedDriversA" PURGE="16" COMMENT="" />
+</LIBRARY>
+

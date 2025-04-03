@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scardbi.dll" PATH="/DLLArchive/windows10LTSCX86_64/SCardBi.dll" DATE="Wed Oct 06 06:52:15 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="??0SmartCardBiManager@@IEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1SmartCardBiManager@@UEAA@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??_7SmartCardBiManager@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?Initialize@SmartCardBiManager@@SAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?Instance@SmartCardBiManager@@SAPEAV1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

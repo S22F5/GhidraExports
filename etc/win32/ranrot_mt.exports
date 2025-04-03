@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ranrot_mt.dll" PATH="/DLLArchive/etc/RanRot_MT.dll" DATE="Sun Aug 28 14:57:42 CEST 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RanRot_GetI8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RanRot_Init" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MT_GetI8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MT_Init" PURGE="4" COMMENT="" />
+</LIBRARY>
+

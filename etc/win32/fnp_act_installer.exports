@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fnp_act_installer.dll" PATH="/DLLArchive/etc/FNP_Act_Installer.dll" DATE="Sun Apr 06 22:58:48 CEST 2008" VERSION="11.5.0.0 build 56285">
+    <EXPORT ORDINAL="1" NAME="CdaSysGetTrackedErrors" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="fnpActSvcFullUninstallWin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="fnpActSvcGetLastErrorWin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="fnpActSvcInstallForMSI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="fnpActSvcInstallWin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="fnpActSvcUninstallForMSI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="fnpActSvcUninstallWin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

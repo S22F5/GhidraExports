@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qmodernwindowsstyle.dll" PATH="/DLLArchive/etc/qmodernwindowsstyle.dll" DATE="Wed Jun 26 05:51:18 PDT 2024" VERSION="6.7.0.0">
+    <EXPORT ORDINAL="1" NAME="qt_plugin_instance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="qt_plugin_query_metadata_v2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

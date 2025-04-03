@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mosstorage.dll" PATH="/DLLArchive/windows10LTSCX86_64/MosStorage.dll" DATE="Sat Dec 07 01:09:17 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MosQueryAnyPackagesFromPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MosQueryCatalogExists" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MosQueryPackages" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MosQueryPackagesFromPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MosStorageDumpConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MosStorageEnsureIsAppContainerCompliant" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MosStorageEnsureMapDataDirectory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MosStorageEnsureMapDataDirectoryReturnPath" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MosStorageGetBrowseCacheSizeInMBytes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MosStorageGetCurrentLocation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MosStorageGetDataDirectory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MosStorageGetDefaultExternalStorage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MosStorageGetLocations" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MosStorageGetMapDataMaxBrowseCacheSizeInBytes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MosStorageGetMapsRepairAttempts" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MosStorageGetMigrationState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MosStorageGetResourceDirectory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MosStorageGetStorageDeviceDataFromDeviceGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MosStorageGetStorageSizesInBytes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MosStorageGetSystemDataDirectory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MosStorageGetTotalMapDataInBytes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="MosStorageGetWhetherSpaceAvailable" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MosStorageIsStorageStateValid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MosStorageResetCacheValues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="MosStorageResetPreferredLocationIfDefined" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="MosStorageResetPreferredLocationIfNotPresent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="MosStorageSetLocation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="MosStorageSetMapsRepairAttempts" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="MosStorageSetMigrationState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="MosStorageUseDefaultExternalStorage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="MosStorageValidateLocation" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="MosStorage_SetServiceCallbacks" PURGE="4" COMMENT="" />
+</LIBRARY>
+

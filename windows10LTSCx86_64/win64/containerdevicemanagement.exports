@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="containerdevicemanagement.dll" PATH="/DLLArchive/windows10LTSCX86_64/containerdevicemanagement.dll" DATE="Wed Oct 06 06:51:45 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RegisterComputeSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UnregisterComputeSystem" PURGE="0" COMMENT="" />
+</LIBRARY>
+

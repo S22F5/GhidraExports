@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hypertrm.dll" PATH="/DLLArchive/etc/hypertrm.dll" DATE="Fri Jul 03 12:38:04 PDT 2020" VERSION="5.1.2600.2180">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="InitInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MessageLoop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="sessQuerySysFileHdl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="sessQueryTranslateHdl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="sfGetSessionItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="sfPutSessionItem" PURGE="16" COMMENT="" />
+</LIBRARY>
+

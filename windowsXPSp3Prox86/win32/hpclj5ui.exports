@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpclj5ui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/hpclj5ui.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="0.0.0.1">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

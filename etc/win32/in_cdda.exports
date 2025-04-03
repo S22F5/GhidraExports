@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="in_cdda.dll" PATH="/DLLArchive/etc/in_cdda.dll" DATE="Fri Jul 03 12:43:06 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="winampGetExtendedFileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="winampGetExtendedRead_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="winampGetExtendedRead_getData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="winampGetExtendedRead_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="winampGetInModule2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="winampSetExtendedFileInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="winampWriteExtendedFileInfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

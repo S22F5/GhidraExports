@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zip_g.dll" PATH="/DLLArchive/etc/zip_g.dll" DATE="Fri Jul 03 21:13:31 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Java_java_util_zip_Adler32_update1_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Java_java_util_zip_Adler32_update_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Java_java_util_zip_CRC32_update1_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_java_util_zip_CRC32_update_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_java_util_zip_Deflater_deflate_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_java_util_zip_Deflater_end_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_java_util_zip_Deflater_getAdler_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_java_util_zip_Deflater_getTotalIn_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Java_java_util_zip_Deflater_getTotalOut_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Java_java_util_zip_Deflater_init_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Java_java_util_zip_Deflater_reset_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Java_java_util_zip_Deflater_setDictionary_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Java_java_util_zip_Inflater_end_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Java_java_util_zip_Inflater_getAdler_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Java_java_util_zip_Inflater_getTotalIn_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Java_java_util_zip_Inflater_getTotalOut_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Java_java_util_zip_Inflater_inflate_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Java_java_util_zip_Inflater_init_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Java_java_util_zip_Inflater_reset_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Java_java_util_zip_Inflater_setDictionary_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="inflateFully" PURGE="0" COMMENT="" />
+</LIBRARY>
+

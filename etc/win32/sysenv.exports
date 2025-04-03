@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sysenv.dll" PATH="/DLLArchive/etc/sysenv.dll" DATE="Fri Jul 03 13:21:54 PDT 2020" VERSION="1, 20, 0, 1">
+    <EXPORT ORDINAL="1" NAME="HT_GetLastErrorCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HT_GetUserDefaultLang" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HT_GetUserDefaultLangStringA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HT_GetUserDefaultLangStringW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HT_IsBuildinLocalAdminGroup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HT_ReadINIFileA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HT_ReadINIFileW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HT_ValidatePasswordA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HT_ValidatePasswordW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HT_WriteINIFileA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HT_WriteINIFileW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

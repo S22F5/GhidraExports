@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nppdf32.dll" PATH="/DLLArchive/etc/nppdf32.dll" DATE="Fri Jul 03 22:01:59 CEST 2020" VERSION="6.0.0.2003051500">
+    <EXPORT ORDINAL="1" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+</LIBRARY>
+

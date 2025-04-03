@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncrypt.dll" PATH="/DLLArchive/etc/ncrypt.dll" DATE="Fri Jul 03 13:01:22 PDT 2020" VERSION="6.0.6002.18005 (lh_sp2rtm.090410-1830)">
+    <EXPORT ORDINAL="1" NAME="BCryptAddContextFunction" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptAddContextFunction" />
+    <EXPORT ORDINAL="2" NAME="BCryptAddContextFunctionProvider" PURGE="24" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptAddContextFunctionProvider" />
+    <EXPORT ORDINAL="3" NAME="BCryptCloseAlgorithmProvider" PURGE="8" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptCloseAlgorithmProvider" />
+    <EXPORT ORDINAL="4" NAME="BCryptConfigureContext" PURGE="12" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptConfigureContext" />
+    <EXPORT ORDINAL="5" NAME="BCryptConfigureContextFunction" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptConfigureContextFunction" />
+    <EXPORT ORDINAL="6" NAME="BCryptCreateContext" PURGE="12" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptCreateContext" />
+    <EXPORT ORDINAL="7" NAME="BCryptCreateHash" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptCreateHash" />
+    <EXPORT ORDINAL="8" NAME="BCryptDecrypt" PURGE="40" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDecrypt" />
+    <EXPORT ORDINAL="9" NAME="BCryptDeleteContext" PURGE="8" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDeleteContext" />
+    <EXPORT ORDINAL="10" NAME="BCryptDeriveKey" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDeriveKey" />
+    <EXPORT ORDINAL="11" NAME="BCryptDestroyHash" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDestroyHash" />
+    <EXPORT ORDINAL="12" NAME="BCryptDestroyKey" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDestroyKey" />
+    <EXPORT ORDINAL="13" NAME="BCryptDestroySecret" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDestroySecret" />
+    <EXPORT ORDINAL="14" NAME="BCryptDuplicateHash" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDuplicateHash" />
+    <EXPORT ORDINAL="15" NAME="BCryptDuplicateKey" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptDuplicateKey" />
+    <EXPORT ORDINAL="16" NAME="BCryptEncrypt" PURGE="40" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEncrypt" />
+    <EXPORT ORDINAL="17" NAME="BCryptEnumAlgorithms" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEnumAlgorithms" />
+    <EXPORT ORDINAL="18" NAME="BCryptEnumContextFunctionProviders" PURGE="24" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEnumContextFunctionProviders" />
+    <EXPORT ORDINAL="19" NAME="BCryptEnumContextFunctions" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEnumContextFunctions" />
+    <EXPORT ORDINAL="20" NAME="BCryptEnumContexts" PURGE="12" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEnumContexts" />
+    <EXPORT ORDINAL="21" NAME="BCryptEnumProviders" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEnumProviders" />
+    <EXPORT ORDINAL="22" NAME="BCryptEnumRegisteredProviders" PURGE="8" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptEnumRegisteredProviders" />
+    <EXPORT ORDINAL="23" NAME="BCryptExportKey" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptExportKey" />
+    <EXPORT ORDINAL="24" NAME="BCryptFinalizeKeyPair" PURGE="8" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptFinalizeKeyPair" />
+    <EXPORT ORDINAL="25" NAME="BCryptFinishHash" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptFinishHash" />
+    <EXPORT ORDINAL="26" NAME="BCryptFreeBuffer" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptFreeBuffer" />
+    <EXPORT ORDINAL="27" NAME="BCryptGenRandom" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptGenRandom" />
+    <EXPORT ORDINAL="28" NAME="BCryptGenerateKeyPair" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptGenerateKeyPair" />
+    <EXPORT ORDINAL="29" NAME="BCryptGenerateSymmetricKey" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptGenerateSymmetricKey" />
+    <EXPORT ORDINAL="30" NAME="BCryptGetFipsAlgorithmMode" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptGetFipsAlgorithmMode" />
+    <EXPORT ORDINAL="31" NAME="BCryptGetProperty" PURGE="24" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptGetProperty" />
+    <EXPORT ORDINAL="32" NAME="BCryptHashData" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptHashData" />
+    <EXPORT ORDINAL="33" NAME="BCryptImportKey" PURGE="36" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptImportKey" />
+    <EXPORT ORDINAL="34" NAME="BCryptImportKeyPair" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptImportKeyPair" />
+    <EXPORT ORDINAL="35" NAME="BCryptOpenAlgorithmProvider" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptOpenAlgorithmProvider" />
+    <EXPORT ORDINAL="36" NAME="BCryptQueryContextConfiguration" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptQueryContextConfiguration" />
+    <EXPORT ORDINAL="37" NAME="BCryptQueryContextFunctionConfiguration" PURGE="24" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptQueryContextFunctionConfiguration" />
+    <EXPORT ORDINAL="38" NAME="BCryptQueryContextFunctionProperty" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptQueryContextFunctionProperty" />
+    <EXPORT ORDINAL="39" NAME="BCryptQueryProviderRegistration" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptQueryProviderRegistration" />
+    <EXPORT ORDINAL="40" NAME="BCryptRegisterConfigChangeNotify" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptRegisterConfigChangeNotify" />
+    <EXPORT ORDINAL="41" NAME="BCryptRegisterProvider" PURGE="12" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptRegisterProvider" />
+    <EXPORT ORDINAL="42" NAME="BCryptRemoveContextFunction" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptRemoveContextFunction" />
+    <EXPORT ORDINAL="43" NAME="BCryptRemoveContextFunctionProvider" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptRemoveContextFunctionProvider" />
+    <EXPORT ORDINAL="44" NAME="BCryptResolveProviders" PURGE="32" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptResolveProviders" />
+    <EXPORT ORDINAL="45" NAME="BCryptSecretAgreement" PURGE="16" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptSecretAgreement" />
+    <EXPORT ORDINAL="46" NAME="BCryptSetAuditingInterface" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptSetAuditingInterface" />
+    <EXPORT ORDINAL="47" NAME="BCryptSetContextFunctionProperty" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptSetContextFunctionProperty" />
+    <EXPORT ORDINAL="48" NAME="BCryptSetProperty" PURGE="20" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptSetProperty" />
+    <EXPORT ORDINAL="49" NAME="BCryptSignHash" PURGE="32" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptSignHash" />
+    <EXPORT ORDINAL="50" NAME="BCryptUnregisterConfigChangeNotify" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptUnregisterConfigChangeNotify" />
+    <EXPORT ORDINAL="51" NAME="BCryptUnregisterProvider" PURGE="4" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptUnregisterProvider" />
+    <EXPORT ORDINAL="52" NAME="BCryptVerifySignature" PURGE="28" COMMENT="" FOWARDLIBRARY="BCRYPT.DLL" FOWARDSYMBOL="BCryptVerifySignature" />
+    <EXPORT ORDINAL="53" NAME="GetIsolationServerInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="GetKeyStorageInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="GetSChannelInterface" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="NCryptCreatePersistedKey" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="NCryptDecrypt" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="NCryptDeleteKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="59" NAME="NCryptDeriveKey" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="NCryptEncrypt" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="NCryptEnumAlgorithms" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="NCryptEnumKeys" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="NCryptEnumStorageProviders" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="64" NAME="NCryptExportKey" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="65" NAME="NCryptFinalizeKey" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="66" NAME="NCryptFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="67" NAME="NCryptFreeObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="68" NAME="NCryptGetProperty" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="69" NAME="NCryptImportKey" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="70" NAME="NCryptIsAlgSupported" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="71" NAME="NCryptIsKeyHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="72" NAME="NCryptNotifyChangeKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="73" NAME="NCryptOpenKey" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="74" NAME="NCryptOpenStorageProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="75" NAME="NCryptSecretAgreement" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="76" NAME="NCryptSetAuditingInterface" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="77" NAME="NCryptSetProperty" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="78" NAME="NCryptSignHash" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="79" NAME="NCryptTranslateHandle" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="80" NAME="NCryptVerifySignature" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="81" NAME="SslChangeNotify" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="82" NAME="SslComputeClientAuthHash" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="83" NAME="SslComputeEapKeyBlock" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="84" NAME="SslComputeFinishedHash" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="85" NAME="SslCreateEphemeralKey" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="86" NAME="SslCreateHandshakeHash" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="87" NAME="SslDecrementProviderReferenceCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="88" NAME="SslDecryptPacket" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="89" NAME="SslEncryptPacket" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="90" NAME="SslEnumCipherSuites" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="91" NAME="SslEnumProtocolProviders" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="92" NAME="SslExportKey" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="93" NAME="SslFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="94" NAME="SslFreeObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="95" NAME="SslGenerateMasterKey" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="96" NAME="SslGenerateSessionKeys" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="97" NAME="SslGetKeyProperty" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="98" NAME="SslGetProviderProperty" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="99" NAME="SslHashHandshake" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="SslImportKey" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="SslImportMasterKey" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="SslIncrementProviderReferenceCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="SslLookupCipherSuiteInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="SslOpenPrivateKey" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="SslOpenProvider" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="SslSignHash" PURGE="32" COMMENT="" />
+</LIBRARY>
+

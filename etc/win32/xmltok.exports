@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xmltok.dll" PATH="/DLLArchive/etc/xmltok.dll" DATE="Fri Jul 03 22:41:18 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="XmlGetUtf16InternalEncoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XmlGetUtf16InternalEncodingNS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="XmlGetUtf8InternalEncoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="XmlGetUtf8InternalEncodingNS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="XmlInitEncoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="XmlInitEncodingNS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="XmlInitUnknownEncoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="XmlInitUnknownEncodingNS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="XmlParseXmlDecl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="XmlParseXmlDeclNS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="XmlPrologStateInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="XmlPrologStateInitExternalEntity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="XmlSizeOfUnknownEncoding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="XmlUtf16Encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="XmlUtf8Encode" PURGE="0" COMMENT="" />
+</LIBRARY>
+

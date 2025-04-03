@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpzrer09.dll" PATH="/DLLArchive/etc/hpzrer09.dll" DATE="Fri Jul 03 12:37:22 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="EditRedEye" PURGE="0" COMMENT="" />
+</LIBRARY>
+

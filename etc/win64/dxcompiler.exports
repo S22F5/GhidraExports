@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dxcompiler.dll" PATH="/DLLArchive/etc/dxcompiler.dll" DATE="Wed Jun 26 14:51:00 CEST 2024" VERSION="1.8.2403.37">
+    <EXPORT ORDINAL="1" NAME="DxcCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DxcCreateInstance2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dfdll.dll" PATH="/DLLArchive/etc/dfdll.dll" DATE="Mon Mar 30 14:53:44 PDT 2009" VERSION="2.0.50727.42 (RTM.050727-4200)">
+    <EXPORT ORDINAL="1" NAME="ActivateDeploymentA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ActivateDeploymentW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CleanOnlineAppCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDeploymentDataFromManifest" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetEntryPointPath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetIconFileNameA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetIconFileNameW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="KillService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShArpMaintain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShArpMaintainW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

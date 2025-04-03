@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="telock_0.92.dll" PATH="/DLLArchive/etc/tELock_0.92.dll" DATE="Sun Jan 20 13:53:46 CET 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="0" COMMENT="" />
+</LIBRARY>
+

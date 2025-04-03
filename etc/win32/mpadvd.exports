@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpadvd.dll" PATH="/DLLArchive/etc/mpadvd.dll" DATE="Fri Jul 03 12:52:36 PDT 2020" VERSION="11.00.0716">
+    <EXPORT ORDINAL="1" NAME="PmnyextdllGet" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nsldappr32v50.dll" PATH="/DLLArchive/etc/nsldappr32v50.dll" DATE="Fri Jul 03 13:02:09 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="2010" NAME="prldap_init" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2011" NAME="prldap_install_routines" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2012" NAME="prldap_set_session_info" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2013" NAME="prldap_get_session_info" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2014" NAME="prldap_set_socket_info" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2015" NAME="prldap_get_socket_info" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2016" NAME="prldap_set_session_option" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2017" NAME="prldap_get_session_option" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="osetup.dll" PATH="/DLLArchive/etc/osetup.dll" DATE="Fri Jul 03 13:05:34 PDT 2020" VERSION="12.0.3417.1004">
+    <EXPORT ORDINAL="1" NAME="??2@YAPAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??3@YAXPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?AddRef@BaseValue@NetUI@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?AutomateDataSource@FlexUI@@YGXPAUIDataSource@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?CreateAtom@FlexValue@FlexUI@@SG_NPB_WAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?CreateBoolean@FlexValue@FlexUI@@SG_N_NAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?CreateByte@FlexValue@FlexUI@@SG_NEAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?CreateChar@FlexValue@FlexUI@@SG_NDAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CreateDataSource@FlexValue@FlexUI@@SG_NPAUIDataSource@2@AAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?CreateDataSourceProxy@FlexUI@@YGPAUIFlexUIDataSourceProxy@@PAUIDataSource@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?CreateDecimal@FlexValue@FlexUI@@SG_NPBUtagDEC@@AAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?CreateDouble@FlexValue@FlexUI@@SG_NNAAVFlexValueSP@2@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CreateFlexEvent@FlexValue@FlexUI@@SG_NAAVFlexValueSP@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?CreateFlexListProxy@FlexUI@@YGPAUIFlexListProxy@@PAUIFlexList@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?CreateInt16@FlexValue@FlexUI@@SG_NFAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?CreateInt32@FlexValue@FlexUI@@SG_NHAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?CreateInt64@FlexValue@FlexUI@@SG_N_JAAVFlexValueSP@2@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?CreateLength@FlexValue@FlexUI@@SG_NPBUtagDEC@@W4FlexLengthType@2@AAVFlexValueSP@2@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?CreateSByte@FlexValue@FlexUI@@SG_NCAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?CreateSingle@FlexValue@FlexUI@@SG_NMAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?CreateString@FlexValue@FlexUI@@SG_NPB_WAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?CreateUInt16@FlexValue@FlexUI@@SG_NGAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?CreateUInt32@FlexValue@FlexUI@@SG_NIAAVFlexValueSP@2@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?CreateUInt64@FlexValue@FlexUI@@SG_N_KAAVFlexValueSP@2@@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?EnsureDataSourceState@@YGXPAUIDataSource@FlexUI@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetAtom@FlexValue@FlexUI@@QBEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?GetBoolean@FlexValue@FlexUI@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?GetByte@FlexValue@FlexUI@@QBEEXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?GetChar@FlexValue@FlexUI@@QBE_WXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?GetDataSource@FlexValue@FlexUI@@QBEPAUIDataSource@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?GetDecimal@FlexValue@FlexUI@@QBE?AUtagDEC@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?GetDouble@FlexValue@FlexUI@@QBENXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?GetInt16@FlexValue@FlexUI@@QBEFXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?GetInt32@FlexValue@FlexUI@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?GetInt64@FlexValue@FlexUI@@QBE_JXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?GetLength@FlexValue@FlexUI@@QBE?AUFlexLength@2@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="?GetList@FlexValue@FlexUI@@QBEPAUIFlexList@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="?GetSByte@FlexValue@FlexUI@@QBECXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?GetSingle@FlexValue@FlexUI@@QBEMXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?GetString@FlexValue@FlexUI@@QBEPB_WXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?GetType@FlexValue@FlexUI@@QBE?AW4FlexValueType@2@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?GetUInt16@FlexValue@FlexUI@@QBEGXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?GetUInt32@FlexValue@FlexUI@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?GetUInt64@FlexValue@FlexUI@@QBE_KXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?HAlloc@NetUI@@YGPAXK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?HFree@NetUI@@YGXPAX@Z" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?Release@BaseValue@NetUI@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="?ReleaseDataSource@FlexUI@@YGXPAUIFlexUIDataSourceProxy@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="?ReleaseFlexList@FlexUI@@YGXPAUIFlexListProxy@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="RunDevSetup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="RunSetup" PURGE="32" COMMENT="" />
+</LIBRARY>
+

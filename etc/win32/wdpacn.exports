@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wdpacn.dll" PATH="/DLLArchive/etc/Wdpacn.dll" DATE="Fri Jul 03 22:30:11 CEST 2020" VERSION="2.52">
+    <EXPORT ORDINAL="2" NAME="Archive" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ajoute" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ArchiveNC" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AjouteNC" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Split" PURGE="8" COMMENT="" />
+</LIBRARY>
+

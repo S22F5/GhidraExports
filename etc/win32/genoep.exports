@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="genoep.dll" PATH="/DLLArchive/etc/GenOEP.dll" DATE="Sat Sep 09 07:19:44 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadDll" PURGE="0" COMMENT="" />
+</LIBRARY>
+

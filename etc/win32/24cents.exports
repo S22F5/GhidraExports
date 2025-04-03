@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="24cents.dll" PATH="/DLLArchive/etc/24cents.dll" DATE="Fri Jul 03 21:09:55 CEST 2020" VERSION="1.0.0.2   August 9, 1999">
+    <EXPORT ORDINAL="1" NAME="ConfigureLogic" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="exts.dll" PATH="/DLLArchive/windowsXPSp3Prox86/EXTS.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="DebugExtensionInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DebugExtensionNotify" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DebugExtensionUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="acl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="analyzeexcep" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="atom" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="avrf" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="cs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="cxr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="dlls" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="exr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="gflag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="heap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="help" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="kuser" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="list" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="obja" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="peb" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="psr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="sd" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="sid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="str" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="teb" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ustr" PURGE="8" COMMENT="" />
+</LIBRARY>
+

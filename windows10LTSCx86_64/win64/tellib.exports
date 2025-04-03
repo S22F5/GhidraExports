@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tellib.dll" PATH="/DLLArchive/windows10LTSCX86_64/tellib.dll" DATE="Wed Oct 06 15:51:07 CEST 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="TelLib_Cleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TelLib_ConfigureSetting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TelLib_EventWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TelLib_ForceUpload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TelLib_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TelLib_Initialize2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TelLib_SetAgentConnectivityCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TelLib_SetBandwidthExceededChangedCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TelLib_SetBatteryState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TelLib_SetConnectedStandby" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TelLib_SetDailyUploadQuota" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TelLib_SetDiskActivityCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TelLib_SetDiskQuota" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TelLib_SetGeneralQuietMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TelLib_SetNetworkActivityCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="TelLib_SetNetworkImpersonationContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="TelLib_SetNetworkState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="TelLib_SetProxyInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="TelLib_SetTenantToken" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="TelLib_SetTimerValue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="TelLib_SetUploadFailedCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="TelLib_SetUploadUrls" PURGE="0" COMMENT="" />
+</LIBRARY>
+

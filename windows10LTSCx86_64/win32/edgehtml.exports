@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="edgehtml.dll" PATH="/DLLArchive/windows10LTSCX86_64/edgehtml.dll" DATE="Wed Oct 06 06:53:01 PDT 2021" VERSION="11.00.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="105" NAME="Ordinal_105" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="Ordinal_106" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="Ordinal_131" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="Ordinal_129" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="Ordinal_130" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="Ordinal_133" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="140" NAME="Ordinal_140" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="141" NAME="Ordinal_141" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="Ordinal_128" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="Ordinal_132" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="139" NAME="Ordinal_139" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="Ordinal_134" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="138" NAME="Ordinal_138" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="CIGTestHookLoadLibraryWorkerThread" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="ClearPhishingFilterData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="ClearTemporaryWebDataAsync" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="ConvertAndEscapePostData" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="CreateCoreWebView" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="CreateDiagnosticsToolObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="CreateHTMLPropertyPage" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="DllEnumClassObjects" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="Fetch_CreateOriginAgnosticFetch" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="GetColorValueFromString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="GetWebPlatformObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="InitializeLocalHtmlEngine" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="MatchExactGetIDsOfNames" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="PrintHTML" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="ShowHTMLDialog" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="ShowHTMLDialogEx" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="ShowModalDialog" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="ShowModelessHTMLDialog" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="Streams_CreateByteChunk" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="Streams_CreateDefaultSizedByteChunk" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="Streams_CreateDefaultSizedWideCharChunk" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="137" NAME="Streams_CreateReadableStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="142" NAME="Streams_CreateReadableStreamFromFileHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="143" NAME="Streams_CreateReadableStreamFromFilePath" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="144" NAME="Streams_CreateWideCharChunk" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="145" NAME="Streams_CreateWritableStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="146" NAME="TravelLogCreateInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="147" NAME="UninitializeLocalHtmlEngine" PURGE="0" COMMENT="" />
+</LIBRARY>
+

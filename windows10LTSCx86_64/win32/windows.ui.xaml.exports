@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.ui.xaml.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.UI.Xaml.dll" DATE="Wed Oct 06 06:52:22 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateXamlUIPresenter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DeleteString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DisableDeferredInvoke" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetActivationFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDependencyObjectAddress" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetErrorContextIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetGlobalModuleParams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetStringLen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetStringRawBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="InitializeXamlDiagnosticsEx" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="OverrideXamlMetadataProvider" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="OverrideXamlResourcePropertyBag" PURGE="4" COMMENT="" />
+</LIBRARY>
+

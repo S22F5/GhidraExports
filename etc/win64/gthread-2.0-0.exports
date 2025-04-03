@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gthread-2.0-0.dll" PATH="/DLLArchive/etc/gthread-2.0-0.dll" DATE="Wed Nov 15 20:02:58 CET 2023" VERSION="2.78.0.0">
+    <EXPORT ORDINAL="1" NAME="g_thread_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="g_thread_init_with_errorcheck_mutexes" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

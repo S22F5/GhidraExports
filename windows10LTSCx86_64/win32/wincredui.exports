@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wincredui.dll" PATH="/DLLArchive/windows10LTSCX86_64/wincredui.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CredUIInternalCmdLinePromptForCredentialsA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CredUIInternalCmdLinePromptForCredentialsW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CredUIInternalConfirmCredentialsA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CredUIInternalConfirmCredentialsW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CredUIInternalInitControls" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CredUIInternalPromptForCredentialsA" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CredUIInternalPromptForCredentialsW" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CredUIInternalPromptForWindowsCredentialsA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CredUIInternalPromptForWindowsCredentialsW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CredUIInternalPromptForWindowsCredentialsWorker" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

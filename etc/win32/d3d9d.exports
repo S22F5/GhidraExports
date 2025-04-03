@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3d9d.dll" PATH="/DLLArchive/etc/d3d9d.dll" DATE="Fri Jul 03 12:28:59 PDT 2020" VERSION="6.0.6000.16386 (vista_rtm(mmbuild).061114-1012)">
+    <EXPORT ORDINAL="1" NAME="Direct3DShaderValidatorCreate9" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PSGPError" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PSGPSampleTexture" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3DPERF_BeginEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3DPERF_EndEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3DPERF_GetStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3DPERF_QueryRepeatFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D3DPERF_SetMarker" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="D3DPERF_SetOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="D3DPERF_SetRegion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DebugSetLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DebugSetMute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Direct3DCreate9" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Direct3DCreate9Ex" PURGE="8" COMMENT="" />
+</LIBRARY>
+

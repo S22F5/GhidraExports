@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-service-management-l2-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-service-management-l2-1-0.dll" DATE="Sat Dec 07 01:09:09 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ChangeServiceConfig2W" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="ChangeServiceConfig2W" />
+    <EXPORT ORDINAL="2" NAME="ChangeServiceConfigW" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="ChangeServiceConfigW" />
+    <EXPORT ORDINAL="3" NAME="NotifyServiceStatusChangeW" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="NotifyServiceStatusChangeW" />
+    <EXPORT ORDINAL="4" NAME="QueryServiceConfig2W" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="QueryServiceConfig2W" />
+    <EXPORT ORDINAL="5" NAME="QueryServiceConfigW" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="QueryServiceConfigW" />
+    <EXPORT ORDINAL="6" NAME="QueryServiceObjectSecurity" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="QueryServiceObjectSecurity" />
+    <EXPORT ORDINAL="7" NAME="QueryServiceStatusEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="QueryServiceStatusEx" />
+    <EXPORT ORDINAL="8" NAME="SetServiceObjectSecurity" PURGE="-1" COMMENT="" FOWARDLIBRARY="ADVAPI32.DLL" FOWARDSYMBOL="SetServiceObjectSecurity" />
+</LIBRARY>
+

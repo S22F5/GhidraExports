@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="absetup.dll" PATH="/DLLArchive/etc/absetup.dll" DATE="Fri Jul 03 12:15:06 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="CCustDLLEntry" PURGE="8" COMMENT="" />
+</LIBRARY>
+

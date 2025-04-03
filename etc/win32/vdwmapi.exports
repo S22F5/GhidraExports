@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vdwmapi.dll" PATH="/DLLArchive/etc/vdwmapi.dll" DATE="Fri Jul 03 22:27:13 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="127" NAME="DwmExtendFrameIntoClientArea" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="DwmIsCompositionEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="138" NAME="DwmSetWindowAttribute" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="140" NAME="DwmUpdateThumbnailProperties" PURGE="8" COMMENT="" />
+</LIBRARY>
+

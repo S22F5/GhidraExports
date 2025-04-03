@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rdpwsx.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rdpwsx.dll" DATE="Sun Apr 13 20:43:24 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="WsxBrokenConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WsxClearContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WsxConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WsxCopyContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WsxDisconnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WsxDuplicateContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WsxEscape" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WsxIcaStackIoControl" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WsxInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WsxInitializeClientData" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WsxLogonNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WsxSendAutoReconnectStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WsxSetErrorInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WsxVirtualChannelSecurity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WsxWinStationInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WsxWinStationReInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WsxWinStationRundown" PURGE="4" COMMENT="" />
+</LIBRARY>
+

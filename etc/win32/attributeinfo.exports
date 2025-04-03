@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="attributeinfo.dll" PATH="/DLLArchive/etc/AttributeInfo.dll" DATE="Fri Jul 03 12:24:09 PDT 2020" VERSION="10.00.4033">
+    <EXPORT ORDINAL="1" NAME="?CleanupAttrInfoMap@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetAttrNamesByType@@YAIAAV?$list@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@W4meAttributeType@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetLargeAttrNames@@YAIAAV?$list@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetRequiredAttrNames@@YAPAPBGPBG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetViewableAttrNames@@YAIAAV?$list@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetWriteableAttrNames@@YAIAAV?$list@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@V?$allocator@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?mfGetAttrName@@YAPBGABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?mfGetAttrName@@YAPBGPBG_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?mfGetAttrType@@YA?AW4meAttributeType@@ABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?mfGetAttrType@@YA?AW4meAttributeType@@PBG_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?mfIsAttrLargeField@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?mfIsAttrLargeField@@YA_NPBG_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?mfIsAttrMediaOnly@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?mfIsAttrMediaOnly@@YA_NPBG_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?mfIsAttrUserViewable@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?mfIsAttrUserViewable@@YA_NPBG_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?mfIsAttrUserWriteable@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?mfIsAttrUserWriteable@@YA_NPBG_N@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msobdl.dll" PATH="/DLLArchive/etc/msobdl.dll" DATE="Fri Jul 03 12:59:06 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="6" NAME="DownLoadInit" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DownLoadCancel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DownLoadExecute" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DownLoadClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DownLoadSetStatusCallback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DownLoadProcess" PURGE="4" COMMENT="" />
+</LIBRARY>
+

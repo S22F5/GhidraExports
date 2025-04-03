@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="enterpriseresourcemanager.dll" PATH="/DLLArchive/windows10LTSCX86_64/enterpriseresourcemanager.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.423 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EnterpriseResourceManagerStore_DeleteResource" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EnterpriseResourceManagerStore_DeleteTrackedResourcesForEnrollment" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EnterpriseResourceManagerStore_GenerateWmiResourcePath" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EnterpriseResourceManagerStore_IsResourceProvisioned" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnterpriseResourceManagerStore_NormalizeURI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnterpriseResourceManagerStore_RemoveAllIgnoredUri" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnterpriseResourceManagerStore_ReplaceResourceNodePath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnterpriseResourceManagerStore_SaveIgnoredURI" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EnterpriseResourceManagerStore_WriteResourceNodePath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EnterpriseResourceManager_ScopeData_IsValid" PURGE="4" COMMENT="" />
+</LIBRARY>
+

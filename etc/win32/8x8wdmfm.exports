@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="8x8wdmfm.dll" PATH="/DLLArchive/etc/8x8wdmfm.dll" DATE="Fri Jul 03 12:12:21 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetModuleName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetModuleComment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetModuleInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HWInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HWDeInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TuneFreq" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SetMute" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TuneFreqMuted" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ScanStation" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetStereo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ConfigurationDialog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

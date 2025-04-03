@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="computenetwork.dll" PATH="/DLLArchive/windows10LTSCX86_64/computenetwork.dll" DATE="Sat Dec 07 01:09:33 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="HcnCloseGuestNetworkService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HcnCloseSdnRoute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HcnCreateGuestNetworkService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HcnCreateSdnRoute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HcnDeleteGuestNetworkService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HcnDeleteSdnRoute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HcnEnumerateGuestNetworkServices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HcnEnumerateSdnRoutes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HcnModifyGuestNetworkService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HcnModifySdnRoute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HcnOpenGuestNetworkService" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HcnOpenSdnRoute" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HcnQueryGuestNetworkServiceProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HcnQuerySdnRouteProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HcnRegisterGuestNetworkServiceCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="HcnRegisterNetworkCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="HcnUnregisterGuestNetworkServiceCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HcnUnregisterNetworkCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="HcnCloseEndpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HcnCloseLoadBalancer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HcnCloseNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HcnCloseNetwork" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HcnCreateEndpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HcnCreateLoadBalancer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HcnCreateNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HcnCreateNetwork" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HcnDeleteEndpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="HcnDeleteLoadBalancer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="HcnDeleteNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="HcnDeleteNetwork" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="HcnEnumerateEndpoints" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="HcnEnumerateLoadBalancers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="HcnEnumerateNamespaces" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="HcnEnumerateNetworks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="HcnModifyEndpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="HcnModifyLoadBalancer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="HcnModifyNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="HcnModifyNetwork" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="HcnOpenEndpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="HcnOpenLoadBalancer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="HcnOpenNamespace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="HcnOpenNetwork" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="HcnQueryEndpointProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="HcnQueryLoadBalancerProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="HcnQueryNamespaceProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="HcnQueryNetworkProperties" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="HcnRegisterServiceCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="HcnUnregisterServiceCallback" PURGE="0" COMMENT="" />
+</LIBRARY>
+

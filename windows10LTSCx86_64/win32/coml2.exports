@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coml2.dll" PATH="/DLLArchive/windows10LTSCX86_64/coml2.dll" DATE="Wed Oct 06 15:52:29 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Ordinal_5" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Ordinal_4" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Ordinal_3" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Ordinal_2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ordinal_12" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Coml2DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateILockBytesOnHGlobal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="FmtIdToPropStgName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetConvertStg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetHGlobalFromILockBytes" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PropStgNameToFmtId" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ReadClassStg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ReadClassStm" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="StgCreateDocfile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="StgCreateDocfileOnILockBytes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="StgCreatePropSetStg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="StgCreatePropStg" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="StgCreateStorageEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="StgIsStorageFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="StgIsStorageILockBytes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="StgOpenPropStg" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="StgOpenStorage" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="StgOpenStorageEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="StgOpenStorageOnILockBytes" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="StgSetTimes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="WriteClassStg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="WriteClassStm" PURGE="8" COMMENT="" />
+</LIBRARY>
+

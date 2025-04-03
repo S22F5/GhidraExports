@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tabctl32.dll" PATH="/DLLArchive/etc/Tabctl32.dll" DATE="Fri Jul 03 13:22:05 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ActivateTab" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AppendTab" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateTabCtrl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeleteTab" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DestroyTabCtrl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnableTab" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetCurrentTab" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SizeTabCtrl" PURGE="4" COMMENT="" />
+</LIBRARY>
+

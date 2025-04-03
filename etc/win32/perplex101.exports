@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="perplex101.dll" PATH="/DLLArchive/etc/Perplex101.dll" DATE="Sat Feb 11 20:06:26 PST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbnetlib.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dbnetlib.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="2000.085.1132 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="ConnectionObjectSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ConnectionRead" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ConnectionWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ConnectionTransact" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ConnectionWriteOOB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ConnectionMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ConnectionStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ConnectionOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ConnectionClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ConnectionCheckForData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ConnectionError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ConnectionVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ConnectionSqlVer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ConnectionServerEnum" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ConnectionServerEnumW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ConnectionOpenW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ConnectionErrorW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ConnectionOption" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ConnectionGetSvrUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="InitEnumServers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetNextEnumeration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CloseEnumServers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="InitSSPIPackage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="TermSSPIPackage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="InitSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="TermSession" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GenClientContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="ConnectionFlushCache" PURGE="0" COMMENT="" />
+</LIBRARY>
+

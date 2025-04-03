@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imglue.dll" PATH="/DLLArchive/etc/IMGlue.dll" DATE="Fri Jul 03 12:41:30 PDT 2020" VERSION="7.1">
+    <EXPORT ORDINAL="1" NAME="NSGetModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RegisteredAIMUserExists" PURGE="0" COMMENT="" />
+</LIBRARY>
+

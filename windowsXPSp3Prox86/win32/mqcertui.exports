@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mqcertui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/mqcertui.dll" DATE="Fri Aug 17 13:36:22 PDT 2001" VERSION="5.01.1020">
+    <EXPORT ORDINAL="1" NAME="CaConfig" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SelectPersonalCertificateForRegister" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SelectPersonalCertificateForRemoval" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ShowCertificate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ShowPersonalCertificates" PURGE="12" COMMENT="" />
+</LIBRARY>
+

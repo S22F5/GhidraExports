@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msreftl.dll" PATH="/DLLArchive/etc/MSREFTL.DLL" DATE="Fri Jul 03 12:59:45 PDT 2020" VERSION="99.0.11">
+    <EXPORT ORDINAL="1" NAME="IsLookupReferenceAvail" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LookupReference" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="LookupReferenceW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsDefineAvail" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Define" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DefineW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsCopyToAvail" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CopyTo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OnSetup" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OnRemove" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WOnSetup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WOnRemove" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_InitPowerPoint@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+

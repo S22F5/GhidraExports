@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="binformat.dll" PATH="/DLLArchive/etc/BINFormat.dll" DATE="Fri Dec 09 10:06:00 PST 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="BDASMGetDecoderInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BDASMGetFormatInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0I_CBINReader@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0I_CBINReader@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1I_CBINReader@@QAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4I_CBINReader@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_7I_CBINReader@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Close@I_CBINReader@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CollectSymbols@I_CBINReader@@UAEHPAVI_CSymbolCollection@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?DisplayExtendedInfo@I_CBINReader@@UAEHPAUHWND__@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetDescription@I_CBINReader@@UAEXPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetEntryPoint@I_CBINReader@@UAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?GetFileExtensions@I_CBINReader@@UAEXPADH@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetImageBase@I_CBINReader@@UAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GetSegmentEP@I_CBINReader@@UAEPBUBDASMSegment@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetSizeOfImage@I_CBINReader@@UAEKXZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?Init@I_CBINReader@@UAEHPAVI_CCPUDecoder@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?IsValidFormat@I_CBINReader@@UAEHPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?MakeSegments@I_CBINReader@@UAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?Open@I_CBINReader@@UAEHPAD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Release@I_CBINReader@@UAEXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

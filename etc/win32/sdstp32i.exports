@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sdstp32i.dll" PATH="/DLLArchive/etc/SDSTP32I.DLL" DATE="Fri Jul 03 13:14:56 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??4CContentStripperFactory@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?CreateInstance@CContentStripperFactory@@SAPAVCContentStripper@@XZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

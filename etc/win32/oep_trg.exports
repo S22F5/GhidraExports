@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oep_trg.dll" PATH="/DLLArchive/etc/oep_trg.dll" DATE="Tue Apr 22 05:24:00 CEST 2008" VERSION="1.0.0.19">
+    <EXPORT ORDINAL="1" NAME="___CPPdebugHook" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

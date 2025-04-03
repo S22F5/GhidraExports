@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msonsext.dll" PATH="/DLLArchive/etc/MSONSEXT.DLL" DATE="Fri Jul 03 12:59:26 PDT 2020" VERSION="11.0.5510.0">
+    <EXPORT ORDINAL="1" NAME="MsoHwndCreateHTMLWindow" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateWorkspaceRolesPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CleanupWorkspaceRolesPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateWorkspaceGeneralPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CleanupWorkspaceGeneralPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateWorkspaceIndexPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CleanupWorkspaceIndexPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CreateWorkspaceOtherPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CleanupWorkspaceOtherPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CreateWorkspaceLoggingPage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CleanupWorkspaceLoggingPage" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateAccountDlg" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CreateAccountDlgEx" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

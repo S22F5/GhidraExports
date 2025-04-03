@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltscr12n.dll" PATH="/DLLArchive/etc/LTSCR12n.DLL" DATE="Fri Jul 03 12:48:16 PDT 2020" VERSION="12.1.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_SetCaptureOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_GetCaptureOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_CaptureWindow" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_CaptureActiveWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_CaptureActiveClient" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_CaptureWallPaper" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_CaptureFullScreen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_CaptureMenuUnderCursor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_CaptureWindowUnderCursor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_CaptureSelectedObject" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_CaptureArea" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_CaptureMouseCursor" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="L_CaptureSetHotKeyCallback" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="L_SetCaptureOptionDlg" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="L_CaptureAreaOptionDlg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="L_CaptureObjectOptionDlg" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="L_GetDefaultAreaOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="L_GetDefaultObjectOption" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="L_StopCapture" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="L_CaptureFromExeDlg" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="L_CaptureFromExe" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="L_CaptureGetResCount" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="L_IsCaptureActive" PURGE="0" COMMENT="" />
+</LIBRARY>
+

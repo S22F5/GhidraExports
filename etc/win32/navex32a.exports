@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navex32a.dll" PATH="/DLLArchive/etc/NAVEX32A.DLL" DATE="Fri Jul 03 13:01:12 PDT 2020" VERSION="2004.2.1.10">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EXTQueryInterface" PURGE="8" COMMENT="" />
+</LIBRARY>
+

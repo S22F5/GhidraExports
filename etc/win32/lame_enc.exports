@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lame_enc.dll" PATH="/DLLArchive/etc/lame_enc.dll" DATE="Tue Feb 17 00:31:18 PST 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="beInitStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="beEncodeChunk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="beDeinitStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="beCloseStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="beVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="beWriteVBRHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="beEncodeChunkFloatS16NI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="beFlushNoGap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="beWriteInfoTag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="beWriteVBRHeaderW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="beWriteInfoTagW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="lame_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="lame_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="lame_init_params" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="lame_encode_buffer_interleaved" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="lame_encode_flush" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="lame_mp3_tags_fid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="id3tag_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="id3tag_add_v2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="id3tag_v1_only" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="id3tag_v2_only" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="204" NAME="id3tag_set_title" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="205" NAME="id3tag_set_artist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="206" NAME="id3tag_set_album" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="207" NAME="id3tag_set_year" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="208" NAME="id3tag_set_comment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="209" NAME="id3tag_set_track" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="210" NAME="id3tag_set_genre" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="211" NAME="lame_init_bitstream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="212" NAME="lame_set_bWriteVbrTag" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1000" NAME="lame_set_num_samples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1001" NAME="lame_get_num_samples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1002" NAME="lame_set_in_samplerate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1003" NAME="lame_get_in_samplerate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1004" NAME="lame_set_num_channels" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1005" NAME="lame_get_num_channels" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1006" NAME="lame_set_scale" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1007" NAME="lame_get_scale" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1008" NAME="lame_set_scale_left" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1009" NAME="lame_get_scale_left" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1010" NAME="lame_set_scale_right" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1011" NAME="lame_get_scale_right" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1012" NAME="lame_set_out_samplerate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1013" NAME="lame_get_out_samplerate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

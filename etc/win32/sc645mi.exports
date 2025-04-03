@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sc645mi.dll" PATH="/DLLArchive/etc/sc645mi.dll" DATE="Fri Jul 03 13:14:04 PDT 2020" VERSION="7.0.0.8779">
+    <EXPORT ORDINAL="20" NAME="CreateScDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CreateObjScDocShellDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="InitScDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DeInitScDll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="component_getImplementationEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="component_writeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="component_getFactory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

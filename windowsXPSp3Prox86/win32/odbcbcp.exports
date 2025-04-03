@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="odbcbcp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/odbcbcp.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="2000.085.1132.00 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="dbprtypeA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="bcp_batch" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="bcp_bind" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="bcp_colfmt" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="bcp_collen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="bcp_colptr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="bcp_columns" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="bcp_control" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="bcp_done" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="bcp_initA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="bcp_exec" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="bcp_moretext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="bcp_sendrow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="bcp_readfmtA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="bcp_writefmtA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="dbprtypeW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="bcp_initW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="bcp_readfmtW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="bcp_writefmtW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SQLLinkedServers" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SQLLinkedCatalogsW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SQLLinkedCatalogsA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="LibMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SQLInitEnumServers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SQLGetNextEnumeration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SQLCloseEnumServers" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="bcp_getcolfmt" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="bcp_setcolfmt" PURGE="20" COMMENT="" />
+</LIBRARY>
+

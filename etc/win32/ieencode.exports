@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ieencode.dll" PATH="/DLLArchive/etc/ieencode.dll" DATE="Fri Jul 03 12:40:18 PDT 2020" VERSION="2001072500">
+    <EXPORT ORDINAL="1" NAME="CceDetectInputCode" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CceGetAvailableEncodings" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CceIsAvailableEncoding" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CceStreamMultiByteToUnicode" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CceStreamUnicodeToMultiByte" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CceStringMultiByteToUnicode" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CceStringUnicodeToMultiByte" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="FetchMsEncodeDllVersion" PURGE="8" COMMENT="" />
+</LIBRARY>
+

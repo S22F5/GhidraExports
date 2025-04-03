@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wshnetbs.dll" PATH="/DLLArchive/etc/wshnetbs.dll" DATE="Fri Jul 03 22:37:54 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="WSHEnumProtocols" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WSHGetProviderGuid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WSHGetSockaddrType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WSHGetSocketInformation" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WSHGetWildcardSockaddr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WSHGetWinsockMapping" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSHNotify" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSHOpenSocket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSHSetSocketInformation" PURGE="32" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cygiconv-2.dll" PATH="/DLLArchive/etc/cygiconv-2.dll" DATE="Thu Dec 21 23:27:16 PST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_libiconv_version" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="aliases2_lookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="aliases_lookup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="libiconv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="libiconv_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="libiconv_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="libiconv_relocate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="libiconv_set_relocation_prefix" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="libiconvctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="libiconvlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="locale_charset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

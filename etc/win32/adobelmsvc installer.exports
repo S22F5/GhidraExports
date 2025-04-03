@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="adobelmsvc installer.dll" PATH="/DLLArchive/etc/Adobelmsvc Installer.dll" DATE="Fri Jul 03 12:16:39 PDT 2020" VERSION="2.41.000">
+    <EXPORT ORDINAL="1" NAME="CdaSysGetCurrentBranding" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CdaSysGetLastError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CdaSysGetTrackedErrors" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CdaSysInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CdaSysInstallByShell" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CdaSysInstallEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CdaSysInstallEx2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CdaSysUnInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CdaSysUnInstallEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CdaSysUnInstallLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UninstInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UninstUnInitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

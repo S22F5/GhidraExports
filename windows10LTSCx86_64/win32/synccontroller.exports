@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="synccontroller.dll" PATH="/DLLArchive/windows10LTSCX86_64/SyncController.dll" DATE="Wed Oct 06 06:53:21 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AccountsMgmtAdviseAccount" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AccountsMgmtConvertWebAccountIdFromAppSpecificId" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AccountsMgmtConvertWebAccountIdToAppSpecificId" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AccountsMgmtCreateAccount" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AccountsMgmtDeleteAccount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AccountsMgmtDiscoverExchangeServerConfig" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AccountsMgmtEnumAccounts" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AccountsMgmtGetNotifications" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="AccountsMgmtMayIgnoreInvalidServerCertificate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="AccountsMgmtQueryAccountProperties" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="AccountsMgmtSaveAccountProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="AccountsMgmtSyncAccount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="AccountsMgmtSyncAccountAndWaitForCompletion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="AccountsMgmtUnadviseAccount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="AccountsMgmtVerifyExchangeMailBoxTokenAuth" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

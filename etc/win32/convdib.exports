@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="convdib.dll" PATH="/DLLArchive/etc/ConvDIB.dll" DATE="Fri Jul 03 12:27:40 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="lxColorClipDIB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="lxColorClipRaster" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="lxColorConvertDIB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="lxColorConvertRaster" PURGE="0" COMMENT="" />
+</LIBRARY>
+

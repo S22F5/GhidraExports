@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="napipsec.dll" PATH="/DLLArchive/windowsXPSp3Prox86/napipsec.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-0852)">
+    <EXPORT ORDINAL="1" NAME="InitializeNapIpsecRp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UninitializeNapIpsecRp" PURGE="4" COMMENT="" />
+</LIBRARY>
+

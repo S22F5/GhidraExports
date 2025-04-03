@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dragman.dll" PATH="/DLLArchive/etc/dragman.dll" DATE="Fri Jul 03 12:32:05 PDT 2020" VERSION="9.00.001">
+    <EXPORT ORDINAL="1" NAME="CountDragItemFlavors" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CountDragItems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ExitDragman" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDragAttributes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetDragDataObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetDragItemBounds" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetDragItemReferenceNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetDragModifiers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetDragMouse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetDragOrigin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetFlavorData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetFlavorDataSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetFlavorFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetFlavorType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InitDragman" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="InstallReceiveHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="InstallTrackingHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RemoveReceiveHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RemoveTrackingHandler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetDragMouse" PURGE="0" COMMENT="" />
+</LIBRARY>
+

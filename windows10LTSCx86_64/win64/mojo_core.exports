@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mojo_core.dll" PATH="/DLLArchive/windows10LTSCX86_64/mojo_core.dll" DATE="Wed Aug 04 23:44:50 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetHandleVerifier" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MojoGetSystemThunks" PURGE="0" COMMENT="" />
+</LIBRARY>
+

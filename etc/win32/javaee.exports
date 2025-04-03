@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="javaee.dll" PATH="/DLLArchive/etc/javaee.dll" DATE="Fri Jul 03 12:43:57 PDT 2020" VERSION="5.00.3810">
+    <EXPORT ORDINAL="1" NAME="EEInitializeExpr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SyntaxColorizeJavaSource" PURGE="12" COMMENT="" />
+</LIBRARY>
+

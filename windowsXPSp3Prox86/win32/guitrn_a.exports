@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="guitrn_a.dll" PATH="/DLLArchive/windowsXPSp3Prox86/guitrn_a.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ModuleInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ModuleTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TransportModule" PURGE="8" COMMENT="" />
+</LIBRARY>
+

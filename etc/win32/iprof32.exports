@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iprof32.dll" PATH="/DLLArchive/etc/iprof32.dll" DATE="Fri Jul 03 12:43:18 PDT 2020" VERSION="1.34">
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="UP_RegisterProduct" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UP_SetSpecificString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UP_GetSpecificString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UP_UnRegisterProduct" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UP_GetNewestString" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UP_GetNewestDate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UP_GetNewestDouble" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UP_GetSpecificDate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UP_GetSpecificDouble" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UP_SetSpecificDate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UP_SetSpecificDouble" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="UP_TimestampIsNewer" PURGE="8" COMMENT="" />
+</LIBRARY>
+

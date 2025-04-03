@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sxs.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sxs.dll" DATE="Sun Apr 13 20:42:08 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="Ordinal_1" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SxsFindClrClassInformation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SxsFindClrSurrogateInformation" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SxsLookupClrGuid" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SxsRunDllInstallAssembly" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SxsRunDllInstallAssemblyW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SxspGenerateManifestPathOnAssemblyIdentity" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SxspGeneratePolicyPathOnAssemblyIdentity" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SxspRunDllDeleteDirectory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SxspRunDllDeleteDirectoryW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CreateAssemblyCache" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CreateAssemblyNameObject" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SxsBeginAssemblyInstall" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SxsEndAssemblyInstall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SxsGenerateActivationContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SxsInstallAssemblyW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SxsInstallW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SxsOleAut32MapConfiguredClsidToReferenceClsid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SxsOleAut32MapIIDOrCLSIDToTypeLibrary" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SxsOleAut32MapIIDToProxyStubCLSID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SxsOleAut32MapIIDToTLBPath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SxsOleAut32MapReferenceClsidToConfiguredClsid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SxsOleAut32RedirectTypeLibrary" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SxsProbeAssemblyInstallation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SxsProtectionGatherEntriesW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SxsProtectionNotifyW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SxsProtectionPerformScanNow" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SxsProtectionUserLogoffEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SxsProtectionUserLogonEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SxsQueryManifestInformation" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SxsUninstallW" PURGE="8" COMMENT="" />
+</LIBRARY>
+

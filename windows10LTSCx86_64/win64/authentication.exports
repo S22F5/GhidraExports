@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="authentication.dll" PATH="/DLLArchive/windows10LTSCX86_64/authentication.dll" DATE="Wed Oct 06 06:52:41 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetAccountType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RequestTicketWithWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RequestTicketWithoutWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AuthzGetAccountType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AuthzRequestTicketWithWindow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AuthzRequestTicketWithoutWindow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="navapw32.dll" PATH="/DLLArchive/etc/NAVAPW32.DLL" DATE="Fri Jul 03 13:01:08 PDT 2020" VERSION="9.05.1015">
+    <EXPORT ORDINAL="1" NAME="GetFactory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCCAppObjectID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ApwMainWndProc@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

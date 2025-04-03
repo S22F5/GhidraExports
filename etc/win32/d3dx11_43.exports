@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dx11_43.dll" PATH="/DLLArchive/etc/d3dx11_43.dll" DATE="Fri Jul 03 12:29:19 PDT 2020" VERSION="9.29.952.3111">
+    <EXPORT ORDINAL="1" NAME="D3DX11CheckVersion" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D3DX11CompileFromFileA" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3DX11CompileFromFileW" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3DX11CompileFromMemory" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3DX11CompileFromResourceA" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3DX11CompileFromResourceW" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3DX11ComputeNormalMap" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="D3DX11CreateAsyncCompilerProcessor" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="D3DX11CreateAsyncFileLoaderA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="D3DX11CreateAsyncFileLoaderW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="D3DX11CreateAsyncMemoryLoader" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="D3DX11CreateAsyncResourceLoaderA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="D3DX11CreateAsyncResourceLoaderW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="D3DX11CreateAsyncShaderPreprocessProcessor" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="D3DX11CreateAsyncShaderResourceViewProcessor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="D3DX11CreateAsyncTextureInfoProcessor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="D3DX11CreateAsyncTextureProcessor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="D3DX11CreateShaderResourceViewFromFileA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="D3DX11CreateShaderResourceViewFromFileW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="D3DX11CreateShaderResourceViewFromMemory" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="D3DX11CreateShaderResourceViewFromResourceA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="D3DX11CreateShaderResourceViewFromResourceW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="D3DX11CreateTextureFromFileA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="D3DX11CreateTextureFromFileW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="D3DX11CreateTextureFromMemory" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="D3DX11CreateTextureFromResourceA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="D3DX11CreateTextureFromResourceW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="D3DX11CreateThreadPump" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="D3DX11FilterTexture" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="D3DX11GetImageInfoFromFileA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="D3DX11GetImageInfoFromFileW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="D3DX11GetImageInfoFromMemory" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="D3DX11GetImageInfoFromResourceA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="D3DX11GetImageInfoFromResourceW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="D3DX11LoadTextureFromTexture" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="D3DX11PreprocessShaderFromFileA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="D3DX11PreprocessShaderFromFileW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="D3DX11PreprocessShaderFromMemory" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="D3DX11PreprocessShaderFromResourceA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="D3DX11PreprocessShaderFromResourceW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="D3DX11SHProjectCubeMap" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="D3DX11SaveTextureToFileA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="D3DX11SaveTextureToFileW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="D3DX11SaveTextureToMemory" PURGE="20" COMMENT="" />
+</LIBRARY>
+

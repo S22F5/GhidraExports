@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oscres.dll" PATH="/DLLArchive/etc/oscres.dll" DATE="Fri Jul 03 13:05:26 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ZipContainsFile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZipGetBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZipGetCountOfNamedItems" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZipGetFileList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZipGetNextNamedItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZipGetString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ConvertBufferToBitmap" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FindDIBBits" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RDBAppendToTBstr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RDBCheckRadioButton" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RDBClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RDBCreateDialog" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RDBCreateDialogParam" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RDBCreateDialogParamEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RDBDialogBox" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RDBDialogBoxParam" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RDBDialogBoxParamEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RDBGetCheckedRadioButtonIndex" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RDBGetResModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RDBGetResourceLength" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RDBGetResourceLengthEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RDBLinkMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RDBLoadAccelerators" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RDBLoadAppendMenuItem" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RDBLoadArtwork" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RDBLoadBitmap" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RDBLoadBitmapAndSize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="RDBLoadColor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="RDBLoadIcon" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="RDBLoadIconEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RDBLoadImageList" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RDBLoadMenu" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RDBLoadStatusIcon" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RDBLoadString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RDBLoadStringEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RDBLoadTBstr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="RDBLoadTemplate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="RDBLoadValue" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="RDBLockResource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="RDBOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="RDBSetCurrentUser" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="RDBUnlockResource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="ZipExtractItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="ZipGetBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="ZipGetItemSize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

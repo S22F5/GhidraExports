@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mrc.dll" PATH="/DLLArchive/etc/Mrc.dll" DATE="Fri May 15 06:25:58 PDT 2009" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadMRC" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

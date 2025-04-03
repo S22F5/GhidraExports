@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xmllite.dll" PATH="/DLLArchive/windows10LTSCX86_64/xmllite.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateXmlReader" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateXmlReaderInputWithEncodingCodePage" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateXmlReaderInputWithEncodingName" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateXmlWriter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateXmlWriterOutputWithEncodingCodePage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateXmlWriterOutputWithEncodingName" PURGE="16" COMMENT="" />
+</LIBRARY>
+

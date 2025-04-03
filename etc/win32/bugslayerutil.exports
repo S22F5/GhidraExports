@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bugslayerutil.dll" PATH="/DLLArchive/etc/bugslayerutil.dll" DATE="Fri Jul 03 12:25:44 PDT 2020" VERSION="3.0.000">
+    <EXPORT ORDINAL="1" NAME="AddClientDV" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MemStressInitializeA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MemStressInitializeW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MemStressTerminate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ValidateAllBlocks" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AddCrashHandlerLimitModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="AddDiagAssertModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="AllocAndFillProcessModuleList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BSUGetModuleBaseName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BSUGetModuleFileNameEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BSUSymInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DiagAssertA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DiagAssertVB" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DiagAssertW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DiagOutputA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DiagOutputVB" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DiagOutputW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetFaultReason" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetFaultReasonVB" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetFirstStackTraceString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetFirstStackTraceStringVB" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetLimitModuleCount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetLimitModulesArray" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetLoadedModules" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="GetNextStackTraceString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="GetNextStackTraceStringVB" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="GetRegisterString" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="GetRegisterStringVB" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="HookImportedFunctionsByName" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="HookOrdinalExport" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IsNT" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SetCrashHandlerFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SetDiagAssertFile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SetDiagAssertOptions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SetDiagOutputFile" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libssp-0.dll" PATH="/DLLArchive/etc/libssp-0.dll" DATE="Sun Aug 21 14:02:20 PDT 2022" VERSION="">
+    <EXPORT ORDINAL="1" NAME="__chk_fail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__gets_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="__memcpy_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="__memmove_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="__mempcpy_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="__memset_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="__stack_chk_fail" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="__stack_chk_fail_local" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="__stack_chk_guard" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="__stpcpy_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="__strcat_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="__strcpy_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="__strncat_chk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="__strncpy_chk" PURGE="0" COMMENT="" />
+</LIBRARY>
+

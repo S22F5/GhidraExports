@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mtfserver.dll" PATH="/DLLArchive/windows10LTSCX86_64/MTFServer.dll" DATE="Wed Oct 06 06:52:06 PDT 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MTF_Close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MTF_Deinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MTF_GetServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MTF_IOControl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MTF_Init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MTF_Open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MTF_SetPrivateMode" PURGE="0" COMMENT="" />
+</LIBRARY>
+

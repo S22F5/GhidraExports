@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rscndc22.dll" PATH="/DLLArchive/etc/RSCNDC22.DLL" DATE="Mon Feb 02 10:49:36 PST 1998" VERSION="2.25.298">
+    <EXPORT ORDINAL="10" NAME="ebCreateDebuggerA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ebCreateDebuggerW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

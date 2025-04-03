@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="outlwab.dll" PATH="/DLLArchive/etc/OUTLWAB.DLL" DATE="Fri Jul 03 13:05:43 PDT 2020" VERSION="9.0.2605">
+    <EXPORT ORDINAL="1" NAME="WABOpenStorageProvider" PURGE="28" COMMENT="" />
+</LIBRARY>
+

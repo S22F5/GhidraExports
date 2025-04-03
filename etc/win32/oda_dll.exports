@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="oda_dll.dll" PATH="/DLLArchive/etc/oda_dll.dll" DATE="Fri Jul 03 13:04:39 PDT 2020" VERSION="1.0.0.1">
+    <EXPORT ORDINAL="1" NAME="DXFtoDWG" PURGE="0" COMMENT="" />
+</LIBRARY>
+

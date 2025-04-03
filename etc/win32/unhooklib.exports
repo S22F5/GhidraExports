@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unhooklib.dll" PATH="/DLLArchive/etc/UnHookLib.dll" DATE="Fri Jul 03 22:24:47 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ClearBuff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetFunctionModuleList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetProcAddressHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetProcAddressImage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetResultUnHookFunctions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UnHookCurrentProcess" PURGE="4" COMMENT="" />
+</LIBRARY>
+

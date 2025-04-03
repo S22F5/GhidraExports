@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="packager.dll" PATH="/DLLArchive/windows10LTSCX86_64/packager.dll" DATE="Wed Oct 06 06:53:00 PDT 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="-1" COMMENT="" FOWARDLIBRARY="SHUNIMPL.DLL" FOWARDSYMBOL="#186" />
+    <EXPORT ORDINAL="102" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libgimpthumb-2.0-0.dll" PATH="/DLLArchive/etc/libgimpthumb-2.0-0.dll" DATE="Fri Jul 03 12:46:50 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_gimp_thumb_ensure_thumb_dir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_gimp_thumb_error_quark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_gimp_thumb_file_test" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_gimp_thumb_find_thumb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_gimp_thumb_get_thumb_dir" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_gimp_thumb_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_gimp_thumb_name_from_uri" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_gimp_thumb_size_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_gimp_thumb_state_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_gimp_thumbnail_get_type" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_gimp_thumbnail_load_thumb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_gimp_thumbnail_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_gimp_thumbnail_peek_image" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_gimp_thumbnail_peek_thumb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_gimp_thumbnail_save_failure" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_gimp_thumbnail_save_thumb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_gimp_thumbnail_set_filename" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_gimp_thumbnail_set_from_thumb" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_gimp_thumbnail_set_uri" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dhcpmon.dll" PATH="/DLLArchive/etc/dhcpmon.dll" DATE="Fri Jul 03 12:31:06 PDT 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="InitHelperDll" PURGE="8" COMMENT="" />
+</LIBRARY>
+

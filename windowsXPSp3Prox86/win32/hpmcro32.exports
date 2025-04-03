@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hpmcro32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/hpmcro32.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ScannerLock" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Color" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ColorDither" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ColorThreshold" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CommandInquire" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Dither" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Download" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetScanInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetScanState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GrayScale" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ResetScanner" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SCL_Scan" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetDecipointWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetPixelWindow" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetResolution" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetScale" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SetScanState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SetScanWindow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Threshold" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Upload" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="BuildCommand" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="BuildInquire" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="InquireModel" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="InquireNumber" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="InquireOldestError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="InquireString" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="ReceiveResponse" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SendCommand" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RecFromScanner" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SendToScanner" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="CheckIO" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="VerifyResponse" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="ButtonPoll" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ClearButton" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ScannerLockButton" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="DualScan" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SetDiagnosticSCL" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="InquireBufferSize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SCLRead" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SetIOHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="GetButtonPress" PURGE="4" COMMENT="" />
+</LIBRARY>
+

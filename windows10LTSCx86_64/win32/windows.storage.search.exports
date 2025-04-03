@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.storage.search.dll" PATH="/DLLArchive/windows10LTSCX86_64/Windows.Storage.Search.dll" DATE="Wed Oct 06 06:52:29 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2000" NAME="Ordinal_2000" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2001" NAME="Ordinal_2001" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2002" NAME="CreateDefaultProviderResolver" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2003" NAME="CreateResultSetFactory" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2004" NAME="CreateSingleVisibleInList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2005" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2006" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2007" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2008" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2009" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2010" NAME="GetGatherAdmin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2011" NAME="GetScopeFolderType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2012" NAME="IsMSSearchEnabled" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2013" NAME="IsShellItemInSearchIndex" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2014" NAME="SEARCH_RemoteLocationsCscStateCache_IsRemoteLocationInCsc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2015" NAME="SEARCH_WriteAutoListContents" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2016" NAME="SHCreateAutoList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2017" NAME="SHCreateAutoListWithID" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2018" NAME="SHCreateScope" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2019" NAME="SHCreateScopeFromIDListsEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2020" NAME="SHCreateScopeFromShellItemArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2021" NAME="SHCreateScopeItemFromIDList" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2022" NAME="SHCreateScopeItemFromKnownFolder" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2023" NAME="SHCreateScopeItemFromShellItem" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2024" NAME="SHCreateSearchIDListFromAutoList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2025" NAME="SHCreateTransientVFolderIDList" PURGE="12" COMMENT="" />
+</LIBRARY>
+

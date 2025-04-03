@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winstrm.dll" PATH="/DLLArchive/windowsXPSp3Prox86/winstrm.dll" DATE="Fri Aug 17 13:36:34 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="OpenStream" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="getmsg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="poll" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="putmsg" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="s_ioctl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="s_open" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="s_perror" PURGE="8" COMMENT="" />
+</LIBRARY>
+

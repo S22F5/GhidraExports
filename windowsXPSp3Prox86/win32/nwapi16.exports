@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nwapi16.dll" PATH="/DLLArchive/windowsXPSp3Prox86/nwapi16.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="Nw16Handler" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Nw16Register" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libilbc-2.dll" PATH="/DLLArchive/etc/libilbc-2.dll" DATE="Wed Nov 15 11:03:00 PST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="WebRtcIlbcfix_Decode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WebRtcIlbcfix_Decode20Ms" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WebRtcIlbcfix_Decode30Ms" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WebRtcIlbcfix_DecodeImpl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WebRtcIlbcfix_DecodePlc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WebRtcIlbcfix_DecoderAssign" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WebRtcIlbcfix_DecoderCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WebRtcIlbcfix_DecoderFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WebRtcIlbcfix_DecoderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WebRtcIlbcfix_DecoderInit20Ms" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WebRtcIlbcfix_Decoderinit30Ms" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WebRtcIlbcfix_Encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WebRtcIlbcfix_EncodeImpl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WebRtcIlbcfix_EncoderAssign" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WebRtcIlbcfix_EncoderCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WebRtcIlbcfix_EncoderFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WebRtcIlbcfix_EncoderInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WebRtcIlbcfix_InitDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WebRtcIlbcfix_InitEncode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WebRtcIlbcfix_NetEqPlc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WebRtcIlbcfix_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

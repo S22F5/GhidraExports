@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dctrl.dll" PATH="/DLLArchive/etc/3dctrl.dll" DATE="Fri Jul 03 12:10:45 PDT 2020" VERSION="2.14-1098">
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetGammaValue" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="7-zip32.dll" PATH="/DLLArchive/etc/7-zip32.dll" DATE="Fri Jul 03 21:12:11 CEST 2020" VERSION="3, 11, 00, 01">
+    <EXPORT ORDINAL="1" NAME="SevenZip" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SevenZipGetVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SevenZipGetCursorMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SevenZipSetCursorMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SevenZipGetBackGroundMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SevenZipSetBackGroundMode" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SevenZipGetCursorInterval" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SevenZipSetCursorInterval" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SevenZipGetRunning" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SevenZipConfigDialog" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SevenZipCheckArchive" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SevenZipGetArchiveType" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SevenZipGetFileCount" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SevenZipQueryFunctionList" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SevenZipOpenArchive" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SevenZipCloseArchive" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SevenZipFindFirst" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SevenZipFindNext" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SevenZipGetArcFileName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SevenZipGetArcFileSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SevenZipGetArcOriginalSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SevenZipGetArcCompressedSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SevenZipGetArcRatio" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SevenZipGetArcDate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SevenZipGetArcTime" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SevenZipGetArcOSType" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SevenZipIsSFXFile" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SevenZipGetFileName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SevenZipGetOriginalSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SevenZipGetCompressedSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SevenZipGetRatio" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SevenZipGetDate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SevenZipGetTime" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SevenZipGetCRC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SevenZipGetAttribute" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SevenZipGetOSType" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="SevenZipGetMethod" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="SevenZipGetWriteTime" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="65" NAME="SevenZipGetWriteTimeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="68" NAME="SevenZipGetArcCreateTimeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="69" NAME="SevenZipGetArcAccessTimeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="70" NAME="SevenZipGetArcWriteTimeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="90" NAME="SevenZipSetOwnerWindow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="91" NAME="SevenZipClearOwnerWindow" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="92" NAME="SevenZipSetOwnerWindowEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="93" NAME="SevenZipKillOwnerWindowEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="94" NAME="SevenZipGetSubVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="SevenZipGetArcFileSizeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="SevenZipGetArcOriginalSizeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="SevenZipGetArcCompressedSizeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="SevenZipGetOriginalSizeEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="SevenZipGetCompressedSizeEx" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

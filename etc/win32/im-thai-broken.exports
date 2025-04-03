@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="im-thai-broken.dll" PATH="/DLLArchive/etc/im-thai-broken.dll" DATE="Fri Jul 03 12:41:11 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_im_module_create" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_im_module_exit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_im_module_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_im_module_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="type_thai_broken" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

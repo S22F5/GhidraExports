@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mimgldr.dll" PATH="/DLLArchive/etc/Mimgldr.dll" DATE="Fri Jul 03 12:51:25 PDT 2020" VERSION="3.2.0.32">
+    <EXPORT ORDINAL="1" NAME="_DllGetVersion@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_GetImageDIBits@32" PURGE="32" COMMENT="" />
+</LIBRARY>
+

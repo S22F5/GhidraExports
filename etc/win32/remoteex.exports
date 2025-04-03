@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="remoteex.dll" PATH="/DLLArchive/etc/RemoteEx.dll" DATE="Thu May 30 06:17:06 CEST 2002" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ApiHookChain" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CrThread" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KiThread" PURGE="4" COMMENT="" />
+</LIBRARY>
+

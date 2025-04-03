@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="peobj.dll" PATH="/DLLArchive/etc/PEObj.dll" DATE="Fri Jul 03 13:06:33 PDT 2020" VERSION="4, 0, 0, 0">
+    <EXPORT ORDINAL="1" NAME="??0CPEObjectBase@@QAE@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0PEClassManager@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0PEClassManager@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0PEServiceManager@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0PEServiceManager@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??1CPEObjectBase@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1PEClassManager@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1PEServiceManager@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4PEClassManager@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4PEServiceManager@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??_7CPEObjectBase@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??_7CPEObjectBase@@6BCBase@@@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??_7CPEObjectBase@@6BIUnknown@@@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??_7PEClassManager@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??_7PEServiceManager@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??_8CPEObjectBase@@7B0@@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??_8CPEObjectBase@@7BCBase@@@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??_DCPEObjectBase@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?AddPeer@CPEObjectBase@@UAEJABU_GUID@@PAUIUnknown@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?AtlComPtrAssign@@YAPAUIUnknown@@PAPAU1@PAU1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?AtlComQIPtrAssign@@YAPAUIUnknown@@PAPAU1@PAU1@ABU_GUID@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?CreateInstance@PEClassManager@@SAJABU_GUID@@PAUIUnknown@@K0PAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetClassList@PEClassManager@@KAPAVCClassList@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?GetDLLRuntimeClass@@YAPAUCRuntimeClass@@PBD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?GetGlobalObject@@YAJABU_GUID@@0PAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?GetPeer@CPEObjectBase@@UAEJABU_GUID@@0PAPAX@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?GetService@PEServiceManager@@SAJABU_GUID@@PAPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?GetServiceList@PEServiceManager@@KAPAVCServiceList@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?LoadRuntimeClass@@YAPAUCRuntimeClass@@ABU_GUID@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?RegisterClassA@PEClassManager@@SAJABU_GUID@@PAUIClassFactory@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="?RegisterExeRuntimeClass@@YAHPBURuntimeClass_Entry@@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="?RegisterService@PEServiceManager@@SAJABU_GUID@@PAUIUnknown@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="?RemovePeer@CPEObjectBase@@UAEJABU_GUID@@PAUIUnknown@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="?SetExeGetRuntimeClassFunction@@YAXP6APAUCRuntimeClass@@PBD@Z@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="?m_pClassList@PEClassManager@@0PAVCClassList@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="?m_pServiceList@PEServiceManager@@0PAVCServiceList@@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="GetClassFactory" PURGE="0" COMMENT="" />
+</LIBRARY>
+

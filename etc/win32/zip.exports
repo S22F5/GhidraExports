@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zip.dll" PATH="/DLLArchive/etc/zip.dll" DATE="Fri Jul 03 12:13:25 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Java_java_util_jar_JarFile_getMetaInfEntryNames@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_Java_java_util_zip_Adler32_update@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_Java_java_util_zip_Adler32_updateBytes@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_Java_java_util_zip_CRC32_update@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_java_util_zip_CRC32_updateBytes@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_java_util_zip_Deflater_deflateBytes@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_java_util_zip_Deflater_end@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_java_util_zip_Deflater_getAdler@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_java_util_zip_Deflater_getTotalIn@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_java_util_zip_Deflater_getTotalOut@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_java_util_zip_Deflater_init@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_java_util_zip_Deflater_initIDs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_java_util_zip_Deflater_reset@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_java_util_zip_Deflater_setDictionary@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_Java_java_util_zip_Inflater_end@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_Java_java_util_zip_Inflater_getAdler@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_Java_java_util_zip_Inflater_getTotalIn@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_Java_java_util_zip_Inflater_getTotalOut@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_Java_java_util_zip_Inflater_inflateBytes@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_Java_java_util_zip_Inflater_init@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="_Java_java_util_zip_Inflater_initIDs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="_Java_java_util_zip_Inflater_reset@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="_Java_java_util_zip_Inflater_setDictionary@28" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="_Java_java_util_zip_ZipEntry_initFields@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="_Java_java_util_zip_ZipEntry_initIDs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="_Java_java_util_zip_ZipFile_close@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="_Java_java_util_zip_ZipFile_freeEntry@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="_Java_java_util_zip_ZipFile_getCSize@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="_Java_java_util_zip_ZipFile_getEntry@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="_Java_java_util_zip_ZipFile_getMethod@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="_Java_java_util_zip_ZipFile_getNextEntry@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_Java_java_util_zip_ZipFile_getSize@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="_Java_java_util_zip_ZipFile_getTotal@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="_Java_java_util_zip_ZipFile_getZipMessage@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="_Java_java_util_zip_ZipFile_initIDs@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="_Java_java_util_zip_ZipFile_open@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="_Java_java_util_zip_ZipFile_read@40" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="ZIP_CRC32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ZIP_FindEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="ZIP_GetNextEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="ZIP_Open" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="ZIP_ReadEntry" PURGE="16" COMMENT="" />
+</LIBRARY>
+

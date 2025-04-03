@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msftedit.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msftedit.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="5.41.15.1515">
+    <EXPORT ORDINAL="2" NAME="IID_IRichEditOle" PURGE="50327" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IID_IRichEditOleCallback" PURGE="50327" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateTextServices" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IID_ITextServices" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IID_ITextHost" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IID_ITextHost2" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="REExtendedRegisterClass" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RichEditANSIWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RichEdit10ANSIWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetCustomTextOutHandlerEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllGetVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RichEditWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RichListBoxWndProc" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RichComboBoxWndProc" PURGE="16" COMMENT="" />
+</LIBRARY>
+

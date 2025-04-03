@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lfmpg13n.dll" PATH="/DLLArchive/etc/lfmpg13n.dll" DATE="Fri Jul 03 12:46:21 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="fltInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="fltLoad" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="fltSave" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_EncodeSetParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_InitializeEncoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_InitBits" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_PutSeq" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_FreeEncodeParams" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xmlrw.dll" PATH="/DLLArchive/etc/XMLRW.DLL" DATE="Fri Jul 03 22:41:17 CEST 2020" VERSION="1.00.1010.0 built by: \=_(_sqlbld)">
+    <EXPORT ORDINAL="1" NAME="CreateInfoSetReader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateInfoSetReaderEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IID_IInfoSetEntityLocator" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IID_IInfoSetEntityResolver" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IID_IInfoSetReader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SetGlobalMalloc" PURGE="4" COMMENT="" />
+</LIBRARY>
+

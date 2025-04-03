@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ntshrui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/ntshrui.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="GetLocalPathFromNetResource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetLocalPathFromNetResourceA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetLocalPathFromNetResourceW" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetNetResourceFromLocalPath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetNetResourceFromLocalPathA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetNetResourceFromLocalPathW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IsPathShared" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsPathSharedA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsPathSharedW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SharingDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SharingDialogA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SharingDialogW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CanShareFolderW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IsFolderPrivateForUser" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetFolderPermissionsForSharing" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShowShareFolderUIW" PURGE="8" COMMENT="" />
+</LIBRARY>
+

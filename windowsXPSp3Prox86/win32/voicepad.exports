@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="voicepad.dll" PATH="/DLLArchive/windowsXPSp3Prox86/voicepad.dll" DATE="Sun Apr 13 20:41:06 PDT 2008" VERSION="8.1.4202.0">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?FileInfoDlgProc@@YGHPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?FileList_ReportViewCallback@@YGHJHHPAUtagPLVITEM@@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?PropBaseDlgProc@@YGHPAUHWND__@@IIJ@Z" PURGE="16" COMMENT="" />
+</LIBRARY>
+

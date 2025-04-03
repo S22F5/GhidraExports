@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imprec.dll" PATH="/DLLArchive/etc/ImpREC.dll" DATE="Mon Apr 21 20:25:14 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="RebuildImport" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

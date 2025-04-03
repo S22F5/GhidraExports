@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbdkor.dll" PATH="/DLLArchive/etc/kbdkor.dll" DATE="Fri Jul 03 21:45:15 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KbdNlsLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="KbdLayerRealDllFileNT4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="KbdLayerRealDllFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="KbdLayerMultiDescriptor" PURGE="4" COMMENT="" />
+</LIBRARY>
+

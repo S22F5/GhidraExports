@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sfttr32.dll" PATH="/DLLArchive/etc/sfttr32.dll" DATE="Fri Jul 03 13:15:47 PDT 2020" VERSION="2.07">
+    <EXPORT ORDINAL="1" NAME="CustomControlInfoA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SftTree_ProcessKeyboardMessage" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SftTree_ProcessMouseMessage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SftTree_RegisterApp2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SftTree_RegisterApp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SftTree_UnregisterApp2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SftTree_WndProc" PURGE="16" COMMENT="" />
+</LIBRARY>
+

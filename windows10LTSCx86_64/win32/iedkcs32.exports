@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iedkcs32.dll" PATH="/DLLArchive/windows10LTSCX86_64/iedkcs32.dll" DATE="Wed Oct 06 06:53:01 PDT 2021" VERSION="18.00.19041.1081 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CloseRASConnections" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ProcessGroupPolicyForActivities" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProcessGroupPolicyForActivitiesEx" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ProcessGroupPolicyForZoneMap" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BrandCleanInstallStubs" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BrandICW2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BrandICW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BrandIE4" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BrandIEActiveSetup" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BrandInternetExplorer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BrandIntra" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BrandMe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Clear" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="InternetInitializeAutoProxyDll" PURGE="20" COMMENT="" />
+</LIBRARY>
+

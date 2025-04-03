@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aes.dll" PATH="/DLLArchive/etc/AES.dll" DATE="Mon Apr 21 20:23:30 PDT 2008" VERSION="4.42">
+    <EXPORT ORDINAL="1" NAME="CreateObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetMethodProperty" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetNumberOfMethods" PURGE="4" COMMENT="" />
+</LIBRARY>
+

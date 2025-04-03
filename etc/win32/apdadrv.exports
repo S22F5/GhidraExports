@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="apdadrv.dll" PATH="/DLLArchive/etc/apdadrv.dll" DATE="Fri Jul 03 12:18:40 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0CApdadrv@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1CApdadrv@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??4CApdadrv@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?ADD4Negotiation@CApdadrv@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?ADD4ReceiveDataFromDataCh@CApdadrv@@QAEKPAEKAAK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?ADD4SendAndReceiveCtrlCh@CApdadrv@@QAEKPAEK0KAAK@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?ADD4SendDataToDataCh@CApdadrv@@QAEKPAEKAAK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?ADD4SetCommPacketSize@CApdadrv@@QAEXGGGG@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?ADD4Termination@CApdadrv@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?ADD4Termination_v@CApdadrv@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?ADGetDeviceID@CApdadrv@@QAEKPAEK@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?ADInitDevice@CApdadrv@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?ADPortClose@CApdadrv@@QAEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?ADPortOpen@CApdadrv@@QAEKPBD@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ADReceive@CApdadrv@@QAEKPAEKAAK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?ADSend@CApdadrv@@QAEKPAEKAAK@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?ADSetRWTimeOut@CApdadrv@@QAEXU_COMMTIMEOUTS@@@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?ADSetReceiveType@CApdadrv@@QAEXK@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?ioctl@CApdadrv@@QAEPAXW4apdadrvIoctl_t@@PAX@Z" PURGE="8" COMMENT="" />
+</LIBRARY>
+

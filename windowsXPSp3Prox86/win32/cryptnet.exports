@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptnet.dll" PATH="/DLLArchive/windowsXPSp3Prox86/cryptnet.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.131.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="CertDllVerifyCTLUsage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CertDllVerifyRevocation" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CryptnetWlxLogoffEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="LdapProvOpenStore" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CryptCancelAsyncRetrieval" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CryptFlushTimeValidObject" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CryptGetObjectUrl" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CryptGetTimeValidObject" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CryptInstallCancelRetrieval" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CryptRetrieveObjectByUrlA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CryptRetrieveObjectByUrlW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CryptUninstallCancelRetrieval" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="I_CryptNetEnumUrlCacheEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="I_CryptNetGetHostNameFromUrl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="I_CryptNetGetUserDsStoreUrl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="I_CryptNetIsConnected" PURGE="0" COMMENT="" />
+</LIBRARY>
+

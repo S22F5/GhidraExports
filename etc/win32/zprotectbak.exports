@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zprotectbak.dll" PATH="/DLLArchive/etc/ZProtectbak.dll" DATE="Mon Mar 23 02:42:18 PDT 2009" VERSION="1.4.8.0">
+    <EXPORT ORDINAL="1" NAME="StartWithConsole" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartZProtect" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZPPC_GetCfgIntValue" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZPPC_GetCfgStrValue" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZPPC_RegPluginDlg" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZPPC_SetCfgIntValue" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ZPPC_SetCfgStrValue" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ZPPC_UnRegPluginDlg" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

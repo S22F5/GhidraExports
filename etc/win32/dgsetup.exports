@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dgsetup.dll" PATH="/DLLArchive/etc/dgsetup.dll" DATE="Fri Jul 03 21:31:04 CEST 2020" VERSION="v3.7.3.0">
+    <EXPORT ORDINAL="1" NAME="DigiMultiPortCoInstaller" PURGE="16" COMMENT="" />
+</LIBRARY>
+

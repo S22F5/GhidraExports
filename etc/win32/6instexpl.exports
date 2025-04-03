@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="6instexpl.dll" PATH="/DLLArchive/etc/6InstExpl.dll" DATE="Mon Apr 21 20:22:48 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ClosePlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Compare" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Configure" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DeleteFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ExitFAR" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FreeFindData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetFindData" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetOpenPluginInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetPluginInfo" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OpenFilePlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OpenPlugin" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ProcessEvent" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ProcessKey" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PutFiles" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetDirectory" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SetStartupInfo" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

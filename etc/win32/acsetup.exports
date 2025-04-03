@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acsetup.dll" PATH="/DLLArchive/etc/AcSetup.dll" DATE="Fri Jul 03 12:15:55 PDT 2020" VERSION="18.0.55.0.0">
+    <EXPORT ORDINAL="1" NAME="CheckForSSE2Support" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AcDotNetCheck" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?SetShowLanguages@CLangMgr@@QAEX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?ShowLanguages@CLangMgr@@QAE_NXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

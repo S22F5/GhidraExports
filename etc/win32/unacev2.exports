@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="unacev2.dll" PATH="/DLLArchive/etc/UNACEV2.DLL" DATE="Fri Jul 03 22:24:45 CEST 2020" VERSION="2.1.1.0">
+    <EXPORT ORDINAL="1" NAME="ACEInitDll" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ACEReadArchiveData" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ACEList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ACETest" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ACEExtract" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="___DllMainCRTStartup@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wow.dll" PATH="/DLLArchive/etc/wow.dll" DATE="Fri Jul 03 13:36:51 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="getMumblePlugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="getMumblePlugin2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

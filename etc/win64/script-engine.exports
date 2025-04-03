@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="script-engine.dll" PATH="/DLLArchive/etc/script-engine.dll" DATE="Tue Oct 24 14:54:08 PDT 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="PrintSymbol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PrintSymbolBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RemoveSymbolBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ScriptEngineConvertFileToPdbFileAndGuidAndAgeDetails" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ScriptEngineConvertFileToPdbPath" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ScriptEngineConvertNameToAddress" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ScriptEngineCreateSymbolTableForDisassembler" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ScriptEngineGetDataTypeSize" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ScriptEngineGetFieldOffset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ScriptEngineLoadFileSymbol" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ScriptEngineParse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ScriptEngineSearchSymbolForMask" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ScriptEngineSetTextMessageCallback" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ScriptEngineShowDataBasedOnSymbolTypes" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ScriptEngineSymbolAbortLoading" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ScriptEngineSymbolInitLoad" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ScriptEngineUnloadAllSymbols" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ScriptEngineUnloadModuleSymbol" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

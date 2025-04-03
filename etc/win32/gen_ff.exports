@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gen_ff.dll" PATH="/DLLArchive/etc/gen_ff.dll" DATE="Fri Jul 03 12:35:47 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_DllMain@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="winampGetGeneralPurposePlugin" PURGE="0" COMMENT="" />
+</LIBRARY>
+

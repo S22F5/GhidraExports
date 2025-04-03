@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="usrcntra.dll" PATH="/DLLArchive/etc/usrcntra.dll" DATE="Fri Jul 03 13:25:30 PDT 2020" VERSION="4. 11. 21">
+    <EXPORT ORDINAL="1" NAME="CheckBlacklistMgrContents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CheckCountryTableUpdate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CheckOffHookRestricted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetBlacklistMgrContents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetCountryHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetInfoToDisplay" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetSupportedT35CountryList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetT35CountryCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="LoadCountrySpecificTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SetCountryCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SetCountryTableByT35Code" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetCountryTableVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UnLoadCountrySpecificTable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

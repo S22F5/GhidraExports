@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eventaggregation.dll" PATH="/DLLArchive/windows10LTSCX86_64/EventAggregation.dll" DATE="Wed Oct 06 15:51:44 CEST 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="BriAllocateRpcBuffer" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BriCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BriCreateBrokeredEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BriCreateBrokeredEventEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BriDeleteBrokeredEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BriFreeRpcBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BriGetBrokerAvailabilityChangeStamp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BriIsBrokerRegistered" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BriRegisterToBrokerAvailability" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BriResolveBrokerIdByEventId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BriUnregisterFromBrokerAvailability" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EACreateAggregateEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EADeleteAggregateEvent" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EAEnumerateAggregateEvents" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EAQueryAggregateEventData" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="EaCreateAggregatedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="EaCreateAggregation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="EaDecodeBrokeredEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="EaDeleteAggregatedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="EaDeleteAggregatedEventParameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="EaDeleteAggregation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="EaDisableAggregatedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="EaEnableAggregatedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="EaEncodeBrokeredEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="EaFreeAggregatedEventParameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="EaFreeBuffer" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="EaGetAggregation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="EaQueryAggregateEventConditionState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="EaQueryAggregatedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="EaQueryAggregatedEventParameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="EaSignalAggregatedEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="EaStoreAggregatedEventParameters" PURGE="0" COMMENT="" />
+</LIBRARY>
+

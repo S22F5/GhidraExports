@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgsh400.dll" PATH="/DLLArchive/windowsXPSp3Prox86/jgsh400.dll" DATE="Fri Aug 17 13:36:18 PDT 2001" VERSION="023">
+    <EXPORT ORDINAL="1" NAME="JgSClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgSGetAssetBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgSGetAssetInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgSGetAssetStallPoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgSGetAuxInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgSGetCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgSGetImage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgSGetMask" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgSGetNumberOfAssets" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgSGetNumberOfCommands" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgSGetPerformance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgSGetReport" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgSGetStreamInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgSGetTimePosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgSHeartbeat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JgSInputStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JgSOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JgSPauseShow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JgSResumeShow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="JgSSetEOFMark" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="JgSSetTimePosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="JgSSound" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="JgSStartShow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="JgSStopShow" PURGE="0" COMMENT="" />
+</LIBRARY>
+

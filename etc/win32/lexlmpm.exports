@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lexlmpm.dll" PATH="/DLLArchive/etc/lexlmpm.dll" DATE="Fri Jul 03 12:46:04 PDT 2020" VERSION="8.19">
+    <EXPORT ORDINAL="1" NAME="InitializeMonitorEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializePrintMonitor" PURGE="4" COMMENT="" />
+</LIBRARY>
+

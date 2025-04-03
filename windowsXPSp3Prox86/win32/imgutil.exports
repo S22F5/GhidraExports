@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imgutil.dll" PATH="/DLLArchive/windowsXPSp3Prox86/imgutil.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="ComputeInvCMAP" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateDDrawSurfaceOnDIB" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateMIMEMap" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DecodeImage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DitherTo8" PURGE="56" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetMaxMIMEIDBytes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IdentifyMIMEType" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SniffStream" PURGE="12" COMMENT="" />
+</LIBRARY>
+

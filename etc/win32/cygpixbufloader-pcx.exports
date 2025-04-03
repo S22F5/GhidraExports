@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cygpixbufloader-pcx.dll" PATH="/DLLArchive/etc/cygpixbufloader-pcx.dll" DATE="Fri Jul 03 21:28:39 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_fill_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_fill_vtable" PURGE="0" COMMENT="" />
+</LIBRARY>
+

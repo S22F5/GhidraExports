@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aawhelper.dll" PATH="/DLLArchive/etc/aawhelper.dll" DATE="Fri Jul 03 21:14:49 CEST 2020" VERSION="2.0.1.122">
+    <EXPORT ORDINAL="1" NAME="_isosnt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_getpcat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_getnscat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_getfiledetails" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_getroot" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_movetreeex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_ResolveEnvVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_ResolveName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_FileExistsEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="99" NAME="_obtest" PURGE="4" COMMENT="" />
+</LIBRARY>
+

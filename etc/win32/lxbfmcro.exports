@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfmcro.dll" PATH="/DLLArchive/etc/lxbfmcro.dll" DATE="Fri Jul 03 12:48:56 PDT 2020" VERSION="0.1.25.0">
+    <EXPORT ORDINAL="1" NAME="MicroEntry" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Scan" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetPixelWindow" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfcuia32.dll" PATH="/DLLArchive/etc/MFCUIA32.DLL" DATE="Fri Jul 03 12:51:02 PDT 2020" VERSION="2.31">
+    <EXPORT ORDINAL="1" NAME="OleUIAddVerbMenu" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OleUICanConvertOrActivateAs" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="OleUIInsertObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="OleUIPasteSpecial" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="OleUIEditLinks" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="OleUIChangeIcon" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="OleUIConvert" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="OleUIBusy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="OleUIUpdateLinks" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="OleUIPromptUser" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="OleUIObjectProperties" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="OleUIChangeSource" PURGE="4" COMMENT="" />
+</LIBRARY>
+

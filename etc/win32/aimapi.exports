@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aimapi.dll" PATH="/DLLArchive/etc/aimapi.dll" DATE="Fri Jul 03 12:17:59 PDT 2020" VERSION="5.5.3595">
+    <EXPORT ORDINAL="5" NAME="HideIcons" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShowIcons" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Reinstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RegisterWithSPAD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateAimApiObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

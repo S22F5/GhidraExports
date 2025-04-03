@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iedetect.dll" PATH="/DLLArchive/etc/iedetect.dll" DATE="Fri Jul 03 12:40:16 PDT 2020" VERSION="6.00.2800.1106">
+    <EXPORT ORDINAL="1" NAME="DetectAOLSupport" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DetectDCOM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DetectDirectDraw" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DetectDirectShow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DetectDirectX" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DetectGenSetup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DetectHTMLHelp" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DetectICW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DetectInternetExplorer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DetectJapaneseFontPatch" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DetectJapaneseIME" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DetectJapaneseLangPack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DetectJavaVM" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DetectKoreanIME" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DetectKoreanLangPack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DetectMDAC" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DetectMFC" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DetectMsn_Auth" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DetectOLEAutomation" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DetectOfflinePkg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="DetectSimpChineseLangPack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="DetectSimplifiedChineseIME" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="DetectTdc" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="DetectTradChineseLangPack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="DetectTraditionalChineseIME" PURGE="4" COMMENT="" />
+</LIBRARY>
+

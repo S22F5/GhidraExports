@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sx32w.dll" PATH="/DLLArchive/etc/SX32W.DLL" DATE="Fri Jul 03 13:21:38 PDT 2020" VERSION="6, 3, 1, 0">
+    <EXPORT ORDINAL="1" NAME="RNBOsproActivate" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RNBOsproDecrement" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RNBOsproEnumServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RNBOsproExtendedRead" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RNBOsproFindFirstUnit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RNBOsproFindNextUnit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RNBOsproFormatPacket" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RNBOsproGetContactServer" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RNBOsproGetFullStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RNBOsproGetHardLimit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RNBOsproGetKeyInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RNBOsproGetSubLicense" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RNBOsproGetVersion" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="RNBOsproInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="RNBOsproOverwrite" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="RNBOsproQuery" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="RNBOsproRead" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="RNBOsproReleaseLicense" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="RNBOsproSetContactServer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="RNBOsproSetHeartBeat" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RNBOsproSetProtocol" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RNBOsproWrite" PURGE="20" COMMENT="" />
+</LIBRARY>
+

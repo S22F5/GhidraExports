@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="esevss.dll" PATH="/DLLArchive/windows10LTSCX86_64/esevss.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EseShadowCreateShadow" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EseShadowCreateSimpleShadow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EseShadowInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EseShadowMountShadow" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EseShadowMountSimpleShadow" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EseShadowPurgeShadow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EseShadowTerm" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="VssIdToString" PURGE="12" COMMENT="" />
+</LIBRARY>
+

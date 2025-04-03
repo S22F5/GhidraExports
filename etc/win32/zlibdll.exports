@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zlibdll.dll" PATH="/DLLArchive/etc/zlibdll.dll" DATE="Fri Jul 03 21:13:42 CEST 2020" VERSION="5.0.0.93">
+    <EXPORT ORDINAL="1" NAME="zlibVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="gzopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="gzread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="gzwrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="gzflush" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="gzclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="gzerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="deflateInit_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="deflate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="deflateEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="deflateSetDictionary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="deflateParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="inflateInit_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="inflate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="inflateEnd" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="inflateSetDictionary" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="inflateSync" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="compress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="uncompress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="deflateInit2_" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="deflateReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="inflateReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="crc32" PURGE="0" COMMENT="" />
+</LIBRARY>
+

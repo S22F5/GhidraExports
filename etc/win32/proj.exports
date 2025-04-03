@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="proj.dll" PATH="/DLLArchive/etc/Proj.dll" DATE="Fri Jul 03 13:07:24 PDT 2020" VERSION="10.1r11">
+    <EXPORT ORDINAL="1" NAME="ProjectorMain" PURGE="20" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsccoreconfprov.dll" PATH="/DLLArchive/windows10LTSCX86_64/DscCoreConfProv.dll" DATE="Sat Dec 07 01:10:02 PST 2019" VERSION="6.2.9200.16384">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetProviderClassID" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MI_Main" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NITS_PRESENCE_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NITS_STUB" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NativeProviderTraps" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sdhcinst.dll" PATH="/DLLArchive/windowsXPSp3Prox86/sdhcinst.dll" DATE="Sun Apr 13 20:42:06 PDT 2008" VERSION="6.0.4069.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="SdClassCoInstaller" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SdClassInstall" PURGE="12" COMMENT="" />
+</LIBRARY>
+

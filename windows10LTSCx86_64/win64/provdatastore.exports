@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="provdatastore.dll" PATH="/DLLArchive/windows10LTSCX86_64/provdatastore.dll" DATE="Wed Oct 06 06:51:13 PDT 2021" VERSION="10.0.19041.844 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="MvDsGetInfoFromMcc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MvGetMccFromGeoId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ValidateMnc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="tracer.dll" PATH="/DLLArchive/etc/Tracer.dll" DATE="Mon Dec 15 16:33:08 PST 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetModuleVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HashTracerLevel1" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TracerAutoFixIAT" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TracerAutoFixImportElimination" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TracerDetectRedirection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TracerFixKnownRedirection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TracerGetAPIAdressByHashing" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TracerInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TracerLevel1" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wofutil.dll" PATH="/DLLArchive/windows10LTSCX86_64/WofUtil.dll" DATE="Sat Dec 07 10:09:22 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WofEnumEntries" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WofFileEnumFiles" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WofGetDriverVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WofIsExternalFile" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WofSetFileDataLocation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WofShouldCompressBinaries" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WofWimAddEntry" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WofWimEnumFiles" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WofWimRemoveEntry" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WofWimSuspendEntry" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WofWimUpdateEntry" PURGE="16" COMMENT="" />
+</LIBRARY>
+

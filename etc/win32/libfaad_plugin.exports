@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libfaad_plugin.dll" PATH="/DLLArchive/etc/libfaad_plugin.dll" DATE="Sat Jun 08 15:53:32 PDT 2024" VERSION="3.0.21">
+    <EXPORT ORDINAL="1" NAME="NeAACDecAudioSpecificConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NeAACDecClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NeAACDecDecode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NeAACDecDecode2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NeAACDecGetCapabilities" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NeAACDecGetCurrentConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NeAACDecGetErrorMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NeAACDecGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NeAACDecInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NeAACDecInit2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NeAACDecOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NeAACDecPostSeekReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NeAACDecSetConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="vlc_entry__3_0_0f" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="vlc_entry_copyright__3_0_0f" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="vlc_entry_license__3_0_0f" PURGE="0" COMMENT="" />
+</LIBRARY>
+

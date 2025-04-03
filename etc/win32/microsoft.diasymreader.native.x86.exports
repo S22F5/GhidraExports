@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="microsoft.diasymreader.native.x86.dll" PATH="/DLLArchive/etc/Microsoft.DiaSymReader.Native.x86.dll" DATE="Mon Dec 04 06:36:44 PST 2017" VERSION="14.12.25830.2 built by: VCTOOLSD15ULDR">
+    <EXPORT ORDINAL="1" NAME="CreateNGenPdbWriter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateSymReader" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateSymWriter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllGetClassObjectInternal" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="VSDllRegisterServer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="VSDllUnregisterServer" PURGE="4" COMMENT="" />
+</LIBRARY>
+

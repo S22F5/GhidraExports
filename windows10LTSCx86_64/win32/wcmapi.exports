@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wcmapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/wcmapi.dll" DATE="Wed Oct 06 06:52:19 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="WcmAddRoutePolicy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="WcmBeginIgnoreProfileList" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WcmCancelOnDemandRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WcmCheckCapabilityStatus" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WcmCloseHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WcmCloseOnDemandRequestHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WcmDeleteProxyInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WcmDeprovisionCapability" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WcmEndIgnoreProfileList" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WcmEnterConnectedStandby" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WcmEnterNetQuiet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WcmEnumInterfaces" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WcmExitConnectedStandby" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WcmExitNetQuiet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WcmFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WcmGetInterfaceContextTable" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WcmGetInterfaceToken" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WcmGetProfileList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WcmGetProfileListByPurpose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WcmGetRoutingHint" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WcmOpenHandle" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WcmOpenOnDemandRequestHandle" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WcmOpenOnDemandRequestHandleByWwanProfileName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WcmOrderConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WcmQueryOnDemandRequestStateInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WcmQueryParameter" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="WcmQueryProperty" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="WcmRemoveMatchingRoutePolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="WcmRemoveRoutePolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="WcmResetIgnoreProfileList" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="WcmSetOperatorConnectionCost" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="WcmSetOperatorCycleData" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="WcmSetOperatorDataplanStatus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="WcmSetParameter" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="WcmSetProfileList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="WcmSetProperty" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="WcmSetProxyInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="WcmStartOnDemandRequest" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="WcmUpdateCapabilityAccess" PURGE="16" COMMENT="" />
+</LIBRARY>
+

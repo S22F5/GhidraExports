@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-io-l1-1-0.dll" PATH="/DLLArchive/windows10LTSCX86_64/api-ms-win-core-io-l1-1-0.dll" DATE="Sat Dec 07 10:09:09 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CancelIoEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CancelIoEx" />
+    <EXPORT ORDINAL="2" NAME="CreateIoCompletionPort" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="CreateIoCompletionPort" />
+    <EXPORT ORDINAL="3" NAME="DeviceIoControl" PURGE="32" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="DeviceIoControl" />
+    <EXPORT ORDINAL="4" NAME="GetOverlappedResult" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetOverlappedResult" />
+    <EXPORT ORDINAL="5" NAME="GetQueuedCompletionStatus" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetQueuedCompletionStatus" />
+    <EXPORT ORDINAL="6" NAME="GetQueuedCompletionStatusEx" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetQueuedCompletionStatusEx" />
+    <EXPORT ORDINAL="7" NAME="PostQueuedCompletionStatus" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="PostQueuedCompletionStatus" />
+</LIBRARY>
+

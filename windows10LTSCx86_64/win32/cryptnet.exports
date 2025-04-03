@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cryptnet.dll" PATH="/DLLArchive/windows10LTSCX86_64/cryptnet.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CertDllVerifyCTLUsage" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CertDllVerifyRevocation" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="I_CryptConvertIriToAsciiOrUnicode" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="I_CryptConvertIriToAsciiOrUnicodeWithFlags" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="LdapProvOpenStore" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CryptCancelAsyncRetrieval" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CryptFlushTimeValidObject" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CryptGetObjectUrl" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CryptGetTimeValidObject" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CryptInstallCancelRetrieval" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CryptRetrieveObjectByUrlA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CryptRetrieveObjectByUrlW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CryptUninstallCancelRetrieval" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="I_CryptNetAutoFlush" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="I_CryptNetEnumUrlCacheEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="I_CryptNetFlushOfflineUrl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="I_CryptNetGetConnectivity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="I_CryptNetGetHostNameFromUrl" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="I_CryptNetGetUserDsStoreUrl" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="I_CryptNetSetUrlCacheFlushInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="I_CryptNetSetUrlCachePreFetchInfo" PURGE="20" COMMENT="" />
+</LIBRARY>
+

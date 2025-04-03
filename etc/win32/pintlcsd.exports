@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pintlcsd.dll" PATH="/DLLArchive/etc/pintlcsd.dll" DATE="Fri Jul 03 13:06:58 PDT 2020" VERSION="8.1.2327.0">
+    <EXPORT ORDINAL="1" NAME="CreateIImeSkdicInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

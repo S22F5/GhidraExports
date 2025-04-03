@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pec2ldr_reduced.dll" PATH="/DLLArchive/etc/pec2ldr_reduced.dll" DATE="Sun Sep 25 21:04:10 PDT 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetAuthorName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCompileTimeKnownPECVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetCompiledOffsetOfDecoderStub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetDecompressionStubSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetEntryPointStubSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetLoaderName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetLoaderSize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetPointerToDecompressionStub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetPointerToEntryPointStub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetPointerToLoader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetSupportedFeatureFlags" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SetUsedFeatureFlags" PURGE="8" COMMENT="" />
+</LIBRARY>
+

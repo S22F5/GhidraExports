@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mccspal.dll" PATH="/DLLArchive/windows10LTSCX86_64/MCCSPal.dll" DATE="Fri Dec 06 17:35:00 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="27" NAME="Ordinal_27" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Ordinal_25" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Ordinal_29" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Ordinal_30" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Ordinal_31" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Ordinal_32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Ordinal_9" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="Ordinal_10" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Ordinal_11" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Ordinal_12" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Ordinal_13" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Ordinal_14" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Ordinal_15" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="0" COMMENT="" />
+</LIBRARY>
+

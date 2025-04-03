@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ldmrfra.dll" PATH="/DLLArchive/etc/ldmrfra.dll" DATE="Fri Jul 03 21:45:58 CEST 2020" VERSION="1.2.9">
+    <EXPORT ORDINAL="1" NAME="?Dummy@@YAHXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

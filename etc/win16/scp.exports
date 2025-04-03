@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scp.dll" PATH="/DLLArchive/etc/Scp.dll" DATE="Fri Jul 03 22:14:27 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="FTRANSLATESCP" PURGE="10" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WEP" PURGE="2" COMMENT="" />
+</LIBRARY>
+

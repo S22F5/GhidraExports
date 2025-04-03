@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jsproxy.dll" PATH="/DLLArchive/windows10LTSCX86_64/jsproxy.dll" DATE="Wed Oct 06 15:52:36 CEST 2021" VERSION="11.00.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="101" NAME="InternetInitializeAutoProxyDll" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="InternetDeInitializeAutoProxyDll" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="InternetGetProxyInfo" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="InternetInitializeAutoProxyDllEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="InternetDeInitializeAutoProxyDllEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="InternetGetProxyInfoEx" PURGE="16" COMMENT="" />
+</LIBRARY>
+

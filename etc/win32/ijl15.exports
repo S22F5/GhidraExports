@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ijl15.dll" PATH="/DLLArchive/etc/IJL15.DLL" DATE="Fri Jul 03 21:41:03 CEST 2020" VERSION="1,5,4,36">
+    <EXPORT ORDINAL="1" NAME="ijlGetLibVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ijlInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ijlFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ijlRead" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ijlWrite" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ijlErrorStr" PURGE="4" COMMENT="" />
+</LIBRARY>
+

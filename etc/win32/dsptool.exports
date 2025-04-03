@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsptool.dll" PATH="/DLLArchive/etc/dsptool.dll" DATE="Wed Mar 13 11:45:45 PDT 2013" VERSION="">
+    <EXPORT ORDINAL="1" NAME="decode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="getBytesForAdpcmBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="getBytesForAdpcmInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="getBytesForAdpcmSamples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="getBytesForPcmBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="getBytesForPcmSamples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="getLoopContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="getNibbleAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="getNibblesForNSamples" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="getSampleForAdpcmNibble" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vbrun300.dll" PATH="/DLLArchive/etc/Vbrun300.dll" DATE="Fri Jul 03 22:26:45 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="100" NAME="THUNRTMAIN" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1" NAME="WEP" PURGE="2" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VARPTR" PURGE="4" COMMENT="" />
+</LIBRARY>
+

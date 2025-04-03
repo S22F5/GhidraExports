@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="inshlp32.dll" PATH="/DLLArchive/etc/inshlp32.dll" DATE="Fri Jul 03 21:43:02 CEST 2020" VERSION="2.0.20.1.US.1        ">
+    <EXPORT ORDINAL="1" NAME="increase_protocol_binding_limit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="get_src_file_path" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="install_adapter" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="install_tcp32" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="is_any_tcp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="remove_adapter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="set_src_file_path" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="thk_ThunkData32" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="wake_up_adapter" PURGE="4" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="textinputmethodformatter.dll" PATH="/DLLArchive/windows10LTSCX86_64/TextInputMethodFormatter.dll" DATE="Wed Oct 06 06:52:26 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0TextInputMethodFormatter@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??1TextInputMethodFormatter@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?ConnectToHost@TextInputMethodFormatter@@IAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?DataReceived@TextInputMethodFormatter@@UAEJIAAV?$vector@DV?$allocator@D@std@@@std@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetCIVMSender@TextInputMethodFormatter@@UAEJPAPAUIRemoteCoreInputViewManager@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetCIVSender@TextInputMethodFormatter@@UAEJPAPAUIRemoteCoreInputView@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?GetIsHost@TextInputMethodFormatter@@UAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?GetTICImpl@TextInputMethodFormatter@@UAEJPAPAUIRemoteTextInputClient@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?GetTISImpl@TextInputMethodFormatter@@UAEJPAPAUIRemoteTextInputServer@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?GetTVIImpl@TextInputMethodFormatter@@UAEJPAPAUITextVirtualizationInternal@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetTVKRImpl@TextInputMethodFormatter@@UAEJPAPAUITextVirtualizationKeyRouting@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetVirtTIS@TextInputMethodFormatter@@QAEJPAPAUIRemoteTextInputServer@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?Initialize@TextInputMethodFormatter@@QAEJPAUIMessagePort@@W4VirtualizationEnvironment@@PAUIVirtualizedTextDataSender@@U_GUID@@@Z" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?Initialize@TextInputMethodFormatter@@UAEJPAUIMessagePort@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?ProcessQueue@TextInputMethodFormatter@@QAEJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?SetCIVMTarget@TextInputMethodFormatter@@UAEJPAUIRemoteCoreInputViewManager@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?SetCIVTarget@TextInputMethodFormatter@@UAEJPAUIRemoteCoreInputView@@PAVVirtCoreInputViewForwarder@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?SetTICTarget@TextInputMethodFormatter@@UAEJPAUIRemoteTextInputClient@@PAVVirtTextInputClient@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?SetTISTarget@TextInputMethodFormatter@@UAEJPAUIRemoteTextInputServer@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?SetTVKRTarget@TextInputMethodFormatter@@UAEJPAUITextVirtualizationKeyRouting@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?Uninitialize@TextInputMethodFormatter@@UAEJXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

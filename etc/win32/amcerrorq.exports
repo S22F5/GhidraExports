@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="amcerrorq.dll" PATH="/DLLArchive/etc/amcerrorq.dll" DATE="Fri Jul 03 12:18:27 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="??0CError@@IAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0CErrorQueue@@AAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0CErrorQueue@@IAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??1CError@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??1CErrorQueue@@MAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??4CErrorQueue@@AAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??_7CError@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??_7CErrorQueue@@6B@" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?CreateInstance@CErrorQueue@@SAPAV1@W4EChannel@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?DestroyInstance@CErrorQueue@@SAXAAPAV1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?GetSubmitChannel@CErrorQueue@@SA?AW4EChannel@1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?GetSubmitHost@CErrorQueue@@SAPBDXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?SetSubmitChannel@CErrorQueue@@SA?AW4EChannel@1@W421@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?SetSubmitHost@CErrorQueue@@SAXPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?SubmitError@CErrorQueue@@SA_NIW4ESeverity@CError@@PBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?SubmitError@CErrorQueue@@SA_NIW4ESeverity@CError@@PBG@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?s_eSubmitChannel@CErrorQueue@@0W4EChannel@1@A" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

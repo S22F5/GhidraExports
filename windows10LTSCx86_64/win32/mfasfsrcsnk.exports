@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mfasfsrcsnk.dll" PATH="/DLLArchive/windows10LTSCX86_64/mfasfsrcsnk.dll" DATE="Wed Oct 06 06:53:18 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MFCreateASFContentInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MFCreateASFIndexer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MFCreateASFIndexerByteStream" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MFCreateASFMediaSink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MFCreateASFMediaSinkActivate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MFCreateASFMediaSinkActivateFromByteStream" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="MFCreateASFMediaSinkActivateNoInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MFCreateASFMultiplexer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MFCreateASFMutex" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MFCreateASFProfile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MFCreateASFProfileFromPresentationDescriptor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MFCreateASFSplitter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MFCreateASFStreamConfig" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="MFCreateASFStreamPrioritization" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="MFCreateASFStreamSelector" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="MFCreateASFStreamingMediaSink" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="MFCreateASFStreamingMediaSinkActivate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="MFCreateASFStreamingMediaSinkActivateNoInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="MFCreatePresentationDescriptorFromASFProfile" PURGE="8" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgstgen.dll" PATH="/DLLArchive/etc/jgstgen.dll" DATE="Fri Jul 03 21:44:39 CEST 2020" VERSION="5021">
+    <EXPORT ORDINAL="1" NAME="JgDecodeAnimatedArtInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgDecodeMultimedia2Seg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgDecodeMultimediaSeg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgEncodeAnimatedArtInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgEncodeMultimedia2Seg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgEncodeMultimediaSeg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgstmCountARTSegments" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgstmDecodeU32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JgstmDecodeU32JM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JgstmDecodeUINTX" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JgstmEncodeU32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JgstmEncodeU32JM" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JgstmEncodeUINT32" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JgstmFindARTSegment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JgstmMakeSegHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="jgARTCrackHeader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="jgARTCrackRawSeg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="jgARTCrackerAddData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="jgARTCrackerBytesUsed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="jgARTCrackerFlush" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="jgARTCrackerGetRawSeg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="jgARTCrackerGetSegment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="jgARTCrackerInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="jgARTCrackerROInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="jgARTCrackerSwitch" PURGE="0" COMMENT="" />
+</LIBRARY>
+

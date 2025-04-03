@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="packet.dll" PATH="/DLLArchive/etc/Packet.dll" DATE="Fri Jul 03 13:06:02 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="PacketAllocatePacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PacketCloseAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PacketFreePacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PacketGetAdapterNames" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PacketGetNetType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PacketGetStats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PacketInitPacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PacketOpenAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PacketReceivePacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PacketRequest" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PacketResetAdapter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PacketSendPacket" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PacketSetBpf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PacketSetBuff" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PacketSetHwFilter" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PacketSetMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PacketSetNumWrites" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PacketSetReadTimeout" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PacketWaitPacket" PURGE="0" COMMENT="" />
+</LIBRARY>
+

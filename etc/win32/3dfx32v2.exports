@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="3dfx32v2.dll" PATH="/DLLArchive/etc/3dfx32v2.dll" DATE="Fri Jul 03 12:10:48 PDT 2020" VERSION="4.10.01.0094-2.16">
+    <EXPORT ORDINAL="1" NAME="DriverInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="fxinit" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="thk1632_ThunkData32" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="thk3216_ThunkData32" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

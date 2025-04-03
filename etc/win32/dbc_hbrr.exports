@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbc_hbrr.dll" PATH="/DLLArchive/etc/Dbc_hbrr.dll" DATE="Fri Jul 03 12:30:32 PDT 2020" VERSION="1.2.26.00">
+    <EXPORT ORDINAL="1" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

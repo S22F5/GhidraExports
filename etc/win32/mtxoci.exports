@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mtxoci.dll" PATH="/DLLArchive/etc/MTXOCI.DLL" DATE="Mon Jun 01 09:36:48 PDT 1998" VERSION="1998.02.715.0">
+    <EXPORT ORDINAL="1" NAME="obndra" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="obndrn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="obndrv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="obreak" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ocan" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="oclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ocof" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ocom" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ocon" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="odefin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="odescr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="odessp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="oerhms" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="oermsg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="oexec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="oexfet" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="oexn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ofen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ofetch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="oflng" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="olog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ologof" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="oopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="oopt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="oparse" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="orol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="obindps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="odefinps" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ogetpi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="osetpi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="opinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1000" NAME="ologTransacted" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1001" NAME="Enlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1002" NAME="GetXaSwitch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1003" NAME="MTxOciInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1004" NAME="MTxolog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="1005" NAME="MTxOciGetVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

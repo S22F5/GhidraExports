@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="serialui.dll" PATH="/DLLArchive/windowsXPSp3Prox86/serialui.dll" DATE="Fri Aug 17 13:36:30 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="2" NAME="drvCommConfigDialogW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="drvCommConfigDialogA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="drvSetDefaultCommConfigW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="drvSetDefaultCommConfigA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="drvGetDefaultCommConfigW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="drvGetDefaultCommConfigA" PURGE="12" COMMENT="" />
+</LIBRARY>
+

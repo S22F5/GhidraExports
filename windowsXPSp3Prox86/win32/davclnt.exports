@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="davclnt.dll" PATH="/DLLArchive/windowsXPSp3Prox86/davclnt.dll" DATE="Sun Apr 13 20:41:52 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="DavFreeUsedDiskSpace" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DavGetDiskSpaceUsage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NPAddConnection3" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NPAddConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NPCancelConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NPCloseEnum" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NPEnumResource" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="NPFormatNetworkName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NPGetCaps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="NPGetConnection" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NPGetResourceInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="NPGetResourceParent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="NPGetUniversalName" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="NPGetUser" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NPOpenEnum" PURGE="20" COMMENT="" />
+</LIBRARY>
+

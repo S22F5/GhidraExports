@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="svgcore.dll" PATH="/DLLArchive/etc/SVGCore.DLL" DATE="Fri Jul 03 13:21:05 PDT 2020" VERSION="5, 0, 0, 38590">
+    <EXPORT ORDINAL="1" NAME="SOMPackageGetEntryPoints" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

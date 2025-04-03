@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xviddll.dll" PATH="/DLLArchive/etc/xviddll.dll" DATE="Fri Jul 03 13:42:36 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_xvid_decore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_xvid_encore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_xvid_global" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_xvid_plugin_2pass1" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_xvid_plugin_2pass2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_xvid_plugin_dump" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_xvid_plugin_lumimasking" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_xvid_plugin_psnr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_xvid_plugin_single" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_xvid_plugin_ssim" PURGE="0" COMMENT="" />
+</LIBRARY>
+

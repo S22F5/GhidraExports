@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vhfum.dll" PATH="/DLLArchive/windows10LTSCX86_64/VhfUm.dll" DATE="Sat Dec 07 01:08:09 PST 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="VhfAsyncOperationComplete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="VhfCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VhfDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VhfReadReportSubmit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VhfStart" PURGE="0" COMMENT="" />
+</LIBRARY>
+

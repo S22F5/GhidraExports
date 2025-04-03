@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ssshim.dll" PATH="/DLLArchive/windows10LTSCX86_64/SSShim.dll" DATE="Sat Dec 07 10:09:10 CET 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SssBindServicingStack" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SssGetServicingStackFilePath" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SssGetServicingStackFilePathLength" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SssPreloadDownlevelDependencies" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SssReleaseServicingStack" PURGE="4" COMMENT="" />
+</LIBRARY>
+

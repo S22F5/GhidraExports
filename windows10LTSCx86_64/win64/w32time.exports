@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="w32time.dll" PATH="/DLLArchive/windows10LTSCX86_64/w32time.dll" DATE="Wed Oct 06 15:51:14 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="fnW32TmI_ScSetServiceBits" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="fnW32TmRegisterServiceCtrlHandlerEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="fnW32TmSetServiceStatus" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SvchostEntry_W32Time" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SvchostPushServiceGlobals" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TimeProvClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="TimeProvCommand" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TimeProvOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="W32TimeBufferFree" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="W32TimeDcPromo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="W32TimeDeleteConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="W32TimeGetNetlogonServiceBits" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="W32TimeLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="W32TimeQueryConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="W32TimeQueryConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="W32TimeQueryHardwareProviderStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="W32TimeQueryNTPProviderStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="W32TimeQueryNtpProviderConfiguration" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="W32TimeQuerySource" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="W32TimeQueryStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="W32TimeSetConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="W32TimeSyncNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="W32TimeVerifyJoinConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="W32TimeVerifyUnjoinConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="W32TmServiceMain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

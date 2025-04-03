@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zoompantool.dll" PATH="/DLLArchive/etc/ZoomPanTool.dll" DATE="Fri Jul 03 12:13:54 PDT 2020" VERSION="12.0.0.458">
+    <EXPORT ORDINAL="1" NAME="CreateCorelComponent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

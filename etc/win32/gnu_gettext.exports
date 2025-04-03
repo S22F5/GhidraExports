@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gnu_gettext.dll" PATH="/DLLArchive/etc/gnu_gettext.dll" DATE="Fri Jul 03 21:36:02 CEST 2020" VERSION="0, 10, 35, 0">
+    <EXPORT ORDINAL="1" NAME="bindtextdomain" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="dcgettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="dgettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="gettext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="gettext_putenv" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="textdomain" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fmifs.dll" PATH="/DLLArchive/windows10LTSCX86_64/fmifs.dll" DATE="Sat Dec 07 01:09:21 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetFirstCorruptionInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Chkdsk" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ChkdskEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ComputeFmMediaType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DiskCopy" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EnableVolumeCompression" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnableVolumeIntegrity" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Extend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="Format" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FormatEx2" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FormatEx" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FreeCorruptionInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetCorruptionInfoClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetDefaultFileSystem" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetNextCorruptionInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="QueryAvailableFileSystemFormat" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="QueryCorruptionState" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="QueryCorruptionStateByHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="QueryDeviceInformation" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="QueryDeviceInformationByHandle" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="QueryFileSystemName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="QueryIsDiskCheckScheduledForNextBoot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="QueryLatestFileSystemVersion" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="QuerySupportedMedia" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SetLabel" PURGE="8" COMMENT="" />
+</LIBRARY>
+

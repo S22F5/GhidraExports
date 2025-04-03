@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rcdll.dll" PATH="/DLLArchive/etc/RCDLL.DLL" DATE="Wed Jun 24 08:46:10 PDT 1998" VERSION="5.00.1641.1">
+    <EXPORT ORDINAL="1" NAME="Handler" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RC" PURGE="24" COMMENT="" />
+</LIBRARY>
+

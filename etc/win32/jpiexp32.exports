@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpiexp32.dll" PATH="/DLLArchive/etc/jpiexp32.dll" DATE="Fri Jul 03 12:44:46 PDT 2020" VERSION="1, 4, 2, 40">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetDispType@CJSObject@@CGPAV_jstring@@PAUJNIEnv_@@PAV_jobject@@JJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetStub@CJSObject@@CGPAV_jobject@@PAUJNIEnv_@@PAV2@J@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?InvokeStub@CJSObject@@CGPAV_jobject@@PAUJNIEnv_@@PAV2@JPAV_jstring@@JPAV_jobjectArray@@JJ@Z" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?Java_sun_plugin_services_WIExplorerBrowserService_installBrowserListener@@YGEPAUJNIEnv_@@PAV_jobject@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?ReleaseStub@CJSObject@@CGXPAUJNIEnv_@@PAV_jobject@@JJ@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_sun_plugin_com_DispatchImpl_getWindowHandle@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_sun_plugin_net_cookie_IExplorerCookieHandler_getCookieInfo@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_sun_plugin_net_cookie_IExplorerCookieHandler_setCookieInfo@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_sun_plugin_net_proxy_WIExplorerProxyConfig_getBrowserProxySettings@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_sun_plugin_services_WIExplorerBrowserAuthenticator_getAuthentication@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_Java_sun_plugin_services_WPlatformService_dispatchNativeEvent@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="_Java_sun_plugin_services_WPlatformService_signalEvent@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="_Java_sun_plugin_services_WPlatformService_waitEvent@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="_Java_sun_plugin_viewer_IExplorerAppletStatusListener_notifyStatusChange@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="_Java_sun_plugin_viewer_context_IExplorerAppletContext_nativeInvokeScript@24" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="_Java_sun_plugin_viewer_frame_IExplorerEmbeddedFrame_enableModeless@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsparse.dll" PATH="/DLLArchive/windows10LTSCX86_64/dsparse.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DsCrackSpn2A" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DsCrackSpn2W" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DsCrackSpn3W" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DsCrackSpn4W" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DsCrackSpnA" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DsCrackSpnW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DsCrackUnquotedMangledRdnA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DsCrackUnquotedMangledRdnW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DsGetRdnW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DsIsMangledDnA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DsIsMangledDnW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DsIsMangledRdnValueA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DsIsMangledRdnValueW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DsMakeSpn2W" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DsMakeSpnA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DsMakeSpnW" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DsQuoteRdnValueA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DsQuoteRdnValueW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="DsUnquoteRdnValueA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="DsUnquoteRdnValueW" PURGE="16" COMMENT="" />
+</LIBRARY>
+

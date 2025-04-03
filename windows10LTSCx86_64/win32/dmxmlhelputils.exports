@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dmxmlhelputils.dll" PATH="/DLLArchive/windows10LTSCX86_64/dmxmlhelputils.dll" DATE="Wed Oct 06 06:52:30 PDT 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="XMLHCreateChildElement" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="XMLHEscapeString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="XMLHGetBooleanAttributeVal" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="XMLHGetBstrVarFromAttr2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="XMLHGetBstrVarFromAttr" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="XMLHGetStringAttributeVal" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="XMLHSkipXMLProlog" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ConvertTextXmlToWBXmlEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ConvertWBXmlToTextXmlEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WBXMLToTextXMLGeneric" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WSPFreeBuffer" PURGE="8" COMMENT="" />
+</LIBRARY>
+

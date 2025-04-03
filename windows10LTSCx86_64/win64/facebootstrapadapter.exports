@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="facebootstrapadapter.dll" PATH="/DLLArchive/windows10LTSCX86_64/FaceBootstrapAdapter.dll" DATE="Wed Oct 06 06:52:41 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="WbioQueryEngineInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="WbioQuerySensorInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="WbioQueryStorageInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="fp4atxt.dll" PATH="/DLLArchive/etc/fp4atxt.dll" DATE="Fri Jul 03 21:34:38 CEST 2020" VERSION="4.0.2.7523">
+    <EXPORT ORDINAL="1" NAME="?VtextVersion@@YIPADXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Vcount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Vcreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="VgetBuiltinInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Vindex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Vsearch" PURGE="0" COMMENT="" />
+</LIBRARY>
+

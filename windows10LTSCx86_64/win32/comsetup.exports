@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comsetup.dll" PATH="/DLLArchive/windows10LTSCX86_64/comsetup.dll" DATE="Sat Dec 07 01:09:22 PST 2019" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="InstallOnReboot" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RunComPlusSetWebApplicationServerRoleW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SetupPrintLog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UpgradeDSSchema" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ComPlusCompleteCbbSetup" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ComPlusGetWebApplicationServerRole" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ComPlusSetWebApplicationServerRole" PURGE="2147483647" COMMENT="" />
+</LIBRARY>
+

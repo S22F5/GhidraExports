@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mplapx.dll" PATH="/DLLArchive/etc/mplapx.dll" DATE="Fri Jul 03 12:53:01 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="mplConnectAudioStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="mplConvertAudioFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="mplCopyAudioFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="mplCreateAudioFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="mplCreateAudioStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="mplDestroyAudioFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="mplDestroyAudioStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="mplDisconnectAudioStream" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="mplGetAbsAudioPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="mplGetActiveAudioLayer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="mplGetAudioLibraryVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="mplGetAudioSP_DynRangeCompression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="mplGetAudioSP_PseudoSurround" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="mplGetAudioSP_SurroundType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="mplGetAudioSP_System" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="mplGetAudioStreamInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="mplGetAudioStreamInfo2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="mplGetNextAudioFrame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="mplGetRateAudioPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="mplGetTimeAudioPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="mplInitAudioFrameConversion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="mplSetAbsAudioPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="mplSetActiveAudioLayer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="mplSetAudioSP_DynRangeCompression" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="mplSetAudioSP_PseudoSurround" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="mplSetAudioSP_SurroundType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="mplSetAudioSP_System" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="mplSetRateAudioPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="mplSetTimeAudioPosition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="mplSetUserAudioCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="mplTestAudioStream" PURGE="0" COMMENT="" />
+</LIBRARY>
+

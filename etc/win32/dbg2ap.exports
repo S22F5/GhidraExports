@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dbg2ap.dll" PATH="/DLLArchive/etc/DBG2AP.dll" DATE="Sat Mar 11 05:54:34 PST 2017" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG2_Pluginclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG2_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG2_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG2_Pluginquery" PURGE="0" COMMENT="" />
+</LIBRARY>
+

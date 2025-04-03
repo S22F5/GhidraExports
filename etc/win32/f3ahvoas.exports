@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="f3ahvoas.dll" PATH="/DLLArchive/etc/f3ahvoas.dll" DATE="Fri Jul 03 21:33:50 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="KbdNlsLayerDescriptor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="FujitsuOyayubiControl" PURGE="8" COMMENT="" />
+</LIBRARY>
+

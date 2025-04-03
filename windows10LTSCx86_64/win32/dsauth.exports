@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dsauth.dll" PATH="/DLLArchive/windows10LTSCX86_64/dsauth.dll" DATE="Sat Dec 07 01:09:57 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DhcpAddServerDS" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DhcpDeleteServerDS" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DhcpDsAddServer" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DhcpDsCleanupDS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DhcpDsDelServer" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DhcpDsEnumServers" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DhcpDsGetAttribs" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DhcpDsGetLists" PURGE="60" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DhcpDsGetRoot" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DhcpDsInitDS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DhcpDsSetLists" PURGE="64" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DhcpDsValidateService" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DhcpEnumServersDS" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="StoreBeginSearch" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="StoreCleanupHandle" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="StoreCollectAttributes" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="StoreCreateObjectVA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="StoreDeleteObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="StoreEndSearch" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="StoreGetHandle" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="StoreInitHandle" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="StoreSearchGetNext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="StoreSetSearchOneLevel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="StoreSetSearchSubTree" PURGE="8" COMMENT="" />
+</LIBRARY>
+

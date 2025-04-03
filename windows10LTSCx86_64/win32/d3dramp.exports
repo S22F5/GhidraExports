@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="d3dramp.dll" PATH="/DLLArchive/windows10LTSCX86_64/d3dramp.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="10.0.10011.16384">
+    <EXPORT ORDINAL="1" NAME="RampOldTri" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="g_RampOld_BeadTbl" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

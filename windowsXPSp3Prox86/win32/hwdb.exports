@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="hwdb.dll" PATH="/DLLArchive/windowsXPSp3Prox86/HWDB.DLL" DATE="Mon Apr 14 05:00:00 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="HwdbAppendDatabase" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="HwdbAppendInfsA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HwdbAppendInfsW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HwdbClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HwdbFlushA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HwdbFlushW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HwdbHasAnyDriverA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HwdbHasAnyDriverW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HwdbHasDriverA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HwdbHasDriverW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HwdbInitializeA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HwdbInitializeW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="HwdbOpenA" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HwdbOpenW" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HwdbTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

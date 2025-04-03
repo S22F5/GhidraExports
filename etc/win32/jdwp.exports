@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jdwp.dll" PATH="/DLLArchive/etc/jdwp.dll" DATE="Fri Jul 03 12:44:06 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_JVM_OnLoad@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

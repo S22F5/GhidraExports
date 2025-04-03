@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpmcsnc.dll" PATH="/DLLArchive/etc/mpmcsnc.dll" DATE="Fri Jul 03 12:53:08 PDT 2020" VERSION="11.00.1322">
+    <EXPORT ORDINAL="1" NAME="MnyextdllCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PmnyextdllGet" PURGE="0" COMMENT="" />
+</LIBRARY>
+

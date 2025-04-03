@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xwtpdui.dll" PATH="/DLLArchive/etc/xwtpdui.dll" DATE="Fri Jul 03 13:42:41 PDT 2020" VERSION="6.1.7600.16385 (win7_rtm.090713-1255)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

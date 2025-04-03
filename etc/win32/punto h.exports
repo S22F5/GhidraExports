@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="punto h.dll" PATH="/DLLArchive/etc/Punto H.dll" DATE="Tue Apr 22 05:21:42 CEST 2008" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="DamePuntoH" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

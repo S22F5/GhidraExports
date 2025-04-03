@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jaas_nt.dll" PATH="/DLLArchive/etc/jaas_nt.dll" DATE="Fri Jul 03 21:43:53 CEST 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_Java_com_sun_security_auth_module_NTSystem_getCurrent@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

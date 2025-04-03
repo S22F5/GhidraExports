@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="esuimgd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/esuimgd.dll" DATE="Fri Aug 17 13:36:16 PDT 2001" VERSION="1.00">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SIQueryInterface" PURGE="0" COMMENT="" />
+</LIBRARY>
+

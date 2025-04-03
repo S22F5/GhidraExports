@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xpstar.dll" PATH="/DLLArchive/etc/XPSTAR.DLL" DATE="Fri Jul 03 13:41:58 PDT 2020" VERSION="1998.11.13">
+    <EXPORT ORDINAL="1" NAME="__GetXpVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="sp_GetMBCSCharLen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="sp_IsMBCSLeadByte" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="sp_MSgetversion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="xp_availablemedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="xp_check_query_results" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="xp_dirtree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="xp_enum_activescriptengines" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="xp_enum_oledb_providers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="xp_enumerrorlogs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="xp_eventlog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="xp_fileexist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="xp_fixeddrives" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="xp_freemodule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="xp_get_mapi_default_profile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="xp_get_mapi_profiles" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="xp_get_tape_devices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="xp_getfiledetails" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="xp_getnetname" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="xp_msx_enlist" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="xp_ntsec_enumdomains" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="xp_ntsec_enumgroups" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="xp_ntsec_enumgroupusers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="xp_ntsec_enumusers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="xp_prop_oledb_provider" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="xp_readerrorlog" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="xp_regaddmultistring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="xp_regdeletekey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="xp_regdeletevalue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="xp_regenumvalues" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="xp_regread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="xp_regremovemultistring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="xp_regwrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="xp_servicecontrol" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="xp_sqlagent_enum_jobs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="xp_sqlagent_is_starting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="xp_sqlagent_monitor" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="xp_sqlagent_notify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="xp_sqlinventory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="xp_sqlmaint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="xp_sqlregister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="xp_subdirs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="xp_terminate_process" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="xp_test_mapi_profile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="xp_updateFTSSQLAccount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="xp_writesqlinfo" PURGE="0" COMMENT="" />
+</LIBRARY>
+

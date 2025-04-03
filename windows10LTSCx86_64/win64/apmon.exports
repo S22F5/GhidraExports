@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="apmon.dll" PATH="/DLLArchive/windows10LTSCX86_64/APMon.dll" DATE="Wed Oct 06 15:52:12 CEST 2021" VERSION="10.0.19041.1023 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="342" NAME="Ordinal_342" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="366" NAME="Ordinal_366" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="343" NAME="Ordinal_343" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="344" NAME="InitializePrintMonitor2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="coremas.dll" PATH="/DLLArchive/windows10LTSCX86_64/CoreMas.dll" DATE="Wed Oct 06 06:52:17 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="CreateCustomUnimicSource" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateUnimicFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateUnimicProcessor" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CreateUnimicSinkToSplitChannelWaveFiles" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateUnimicSinkToWaveFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateUnimicSourceFromSplitChannelWaveFiles" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateUnimicSourceFromWaveFile" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DeleteUnimicFilter" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DeleteUnimicProcessor" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DeleteUnimicSink" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DeleteUnimicSource" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetUnimicFilterInputPortCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetUnimicFilterOutputPort" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetUnimicFilterOutputPortCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="GetUnimicProcessorDelay" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="GetUnimicProcessorInputChannelCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetUnimicProcessorOutputChannelCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="GetUnimicSinkChannelCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetUnimicSourceChannelCount" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetUnimicSourceSampleRate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ReadUnimicSource" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RunUnimicProcessor" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SetUnimicFilterInputPort" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WriteUnimicSink" PURGE="8" COMMENT="" />
+</LIBRARY>
+

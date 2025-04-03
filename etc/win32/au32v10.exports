@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="au32v10.dll" PATH="/DLLArchive/etc/au32v10.dll" DATE="Tue Feb 07 12:33:02 PST 2012" VERSION="">
+    <EXPORT ORDINAL="1" NAME="au" PURGE="0" COMMENT="" />
+</LIBRARY>
+

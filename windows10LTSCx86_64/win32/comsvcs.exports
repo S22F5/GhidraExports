@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comsvcs.dll" PATH="/DLLArchive/windows10LTSCX86_64/comsvcs.dll" DATE="Wed Oct 06 15:52:32 CEST 2021" VERSION="2001.12.10941.16384 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="6" NAME="Ordinal_6" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CosGetCallContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CoCreateActivity" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CoEnterServiceDomain" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CoLeaveServiceDomain" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CoLoadServices" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ComSvcsExceptionFilter" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ComSvcsLogError" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DispManGetContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetMTAThreadPoolMetrics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="GetManagedExtensions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="GetObjectContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetTrkSvrObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="MTSCreateActivity" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="MiniDumpW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RecycleSurrogate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SafeRef" PURGE="0" COMMENT="" />
+</LIBRARY>
+

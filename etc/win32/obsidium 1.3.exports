@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="obsidium 1.3.dll" PATH="/DLLArchive/etc/Obsidium 1.3.dll" DATE="Tue Jul 25 05:38:48 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

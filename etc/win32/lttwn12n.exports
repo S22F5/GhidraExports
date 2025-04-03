@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lttwn12n.dll" PATH="/DLLArchive/etc/Lttwn12n.dll" DATE="Fri Jul 03 12:48:18 PDT 2020" VERSION="12.1.0.011">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_TwainAcquire" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_TwainAcquireExt" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_TwainEnumSources" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_TwainSelect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_TwainSetProps" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="L_TwainGetProps" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_IsTwainAvailable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_TwainCloseSession" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_TwainAcquireFile" PURGE="32" COMMENT="" />
+</LIBRARY>
+

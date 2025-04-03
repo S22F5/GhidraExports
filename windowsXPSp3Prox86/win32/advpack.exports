@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="advpack.dll" PATH="/DLLArchive/windowsXPSp3Prox86/advpack.dll" DATE="Sun Apr 13 20:41:50 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="AddDelBackupEntry" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AdvInstallFile" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseINFEngine" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DelNode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DelNodeRunDLL32" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DoInfInstall" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ExecuteCab" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ExtractFiles" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="FileSaveMarkNotExist" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="FileSaveRestore" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="FileSaveRestoreOnINF" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetVersionFromFile" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="GetVersionFromFileEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IsNTAdmin" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="LaunchINFSection" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="LaunchINFSectionEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="NeedReboot" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="NeedRebootInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="OpenINFEngine" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="RebootCheckOnInstall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RegInstall" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RegRestoreAll" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="RegSaveRestore" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="RegSaveRestoreOnINF" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="RegisterOCX" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="RunSetupCommand" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SetPerUserSecValues" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="TranslateInfString" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="TranslateInfStringEx" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="UserInstStubWrapper" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="UserUnInstStubWrapper" PURGE="16" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dspr3260.dll" PATH="/DLLArchive/etc/dspr3260.dll" DATE="Fri Jul 03 12:32:21 PDT 2020" VERSION="6.0.7.1708">
+    <EXPORT ORDINAL="1" NAME="CloseDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="OpenDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="spDecode" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="spFreeDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="spInitDecoder" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="spSetFlavor" PURGE="8" COMMENT="" />
+</LIBRARY>
+

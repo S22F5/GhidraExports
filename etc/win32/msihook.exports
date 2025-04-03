@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msihook.dll" PATH="/DLLArchive/etc/msihook.dll" DATE="Fri Jul 03 12:56:17 PDT 2020" VERSION="3.03.497">
+    <EXPORT ORDINAL="1" NAME="HookMsiWindow" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="FindMsiWindowHook" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="olethk32.dll" PATH="/DLLArchive/windowsXPSp3Prox86/olethk32.dll" DATE="Fri Aug 17 13:36:28 PDT 2001" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="3" NAME="InvokeOn32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IntOpInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CallbackProcessing_3216" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IUnknownObj32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CSm16ReleaseHandler_Release32" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ThkMgrInitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ThkMgrUninitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="TransformHRESULT_1632" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="TransformHRESULT_3216" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ConvertObjDescriptor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ConvertHr1632Thunk" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ConvertHr3216Thunk" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IntOpUninitialize" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ThkAddAppCompatFlag" PURGE="4" COMMENT="" />
+</LIBRARY>
+

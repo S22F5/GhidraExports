@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="comres.dll" PATH="/DLLArchive/etc/comres.dll" DATE="Fri Jul 03 12:27:30 PDT 2020" VERSION="2001.12.4414.258">
+    <EXPORT ORDINAL="1" NAME="COMResModuleInstance" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="npdrmv2.dll" PATH="/DLLArchive/windowsXPSp3Prox86/npdrmv2.dll" DATE="Sun Apr 13 20:42:58 PDT 2008" VERSION="9.00.00.4503">
+    <EXPORT ORDINAL="1" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Java_npdrmv2_GetDRMSecurityVersion_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="Java_npdrmv2_GetDRMVersion_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="Java_npdrmv2_GetLicenseFromURL_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="Java_npdrmv2_GetSystemInfo_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Java_npdrmv2_StoreLicense_stub" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="native_npdrmv2_GetDRMSecurityVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="native_npdrmv2_GetDRMVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="native_npdrmv2_GetLicenseFromURL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="native_npdrmv2_GetSystemInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="native_npdrmv2_StoreLicense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="register_npdrmv2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="unregister_npdrmv2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="unuse_netscape_plugin_Plugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="unuse_npdrmv2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="use_netscape_plugin_Plugin" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="use_npdrmv2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

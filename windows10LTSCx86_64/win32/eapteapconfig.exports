@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eapteapconfig.dll" PATH="/DLLArchive/windows10LTSCX86_64/EapTeapConfig.dll" DATE="Wed Oct 06 06:52:18 PDT 2021" VERSION="10.0.19041.1081 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EapPeerConfigBlob2Xml" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EapPeerFreeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EapPeerGetMethodProperties" PURGE="52" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EapPeerGetNextPageGuid" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EapPeerConfigXml2Blob" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EapPeerCredentialsXml2Blob" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EapPeerFreeErrorMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EapPeerInvokeConfigUI" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EapPeerInvokeInteractiveUI" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EapPeerQueryInteractiveUIInputFields" PURGE="28" COMMENT="" />
+</LIBRARY>
+

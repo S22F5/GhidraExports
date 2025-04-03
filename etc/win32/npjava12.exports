@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="npjava12.dll" PATH="/DLLArchive/etc/NPJava12.dll" DATE="Fri Jul 03 13:01:53 PDT 2020" VERSION="1, 4, 2, 50">
+    <EXPORT ORDINAL="1" NAME="NP_GetEntryPoints" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NP_Initialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NP_Shutdown" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NSCanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NSGetFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NSRegisterSelf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NSUnregisterSelf" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

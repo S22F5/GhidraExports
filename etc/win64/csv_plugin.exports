@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="csv_plugin.dll" PATH="/DLLArchive/etc/csv_plugin.dll" DATE="Fri May 12 20:08:28 CEST 2023" VERSION="">
+    <EXPORT ORDINAL="1" NAME="__gcc_deregister_frame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__gcc_register_frame" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="g_pev_api" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="plugin_initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="plugin_loaded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="plugin_shutdown" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="plugin_unloaded" PURGE="0" COMMENT="" />
+</LIBRARY>
+

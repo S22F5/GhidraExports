@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pintlcsd.dll" PATH="/DLLArchive/windowsXPSp3Prox86/pintlcsd.dll" DATE="Sun Apr 13 20:40:36 PDT 2008" VERSION="8.1.2327.0">
+    <EXPORT ORDINAL="1" NAME="CreateIImeSkdicInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

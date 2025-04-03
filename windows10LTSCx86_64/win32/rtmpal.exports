@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rtmpal.dll" PATH="/DLLArchive/windows10LTSCX86_64/rtmpal.dll" DATE="Wed Oct 06 06:52:41 PDT 2021" VERSION="2018.6.1.57:releases/CL2018.R06:489934d3427ba175f96a716e69f1346e123a6779:(BuildId:25316559:release)">
+    <EXPORT ORDINAL="1" NAME="??0CheckedMutex@auf@@QAE@PBD_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0Event@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0Flag@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0IPv4@rtnet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0IPv6@rtnet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0LockfreeQueue@auf@@QAE@AAVLockfreeStackPool@1@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??0LockfreeStackPool@auf@@QAE@I@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??0Path@spl@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??0PortSpecification@rtnet@@QAE@ABU?$pair@HH@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??0RefCounter@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??0SocketConnectOptions@rtnet@@QAE@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??0SocketOptions@rtnet@@IAE@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="??0ThreadRef@auf@@QAE@PBDII@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="??0UncheckedMutex@auf@@QAE@PBD_N@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="??0XorshiftRNG@auf@@QAE@I@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="??1CheckedMutex@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="??1Event@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="??1Flag@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="??1IPv4@rtnet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="??1IPv6@rtnet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="??1LockfreeQueue@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="??1LockfreeStackPool@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="??1Path@spl@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="??1PortSpecification@rtnet@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="??1RefCounter@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="??1ThreadRef@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="??1UncheckedMutex@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="??1XorshiftRNG@auf@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="??AIPv4@rtnet@@QAEAAEI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="??AIPv6@rtnet@@QAEAAEI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="RtcPalCreateCallContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="RtcPalGetAllEcsSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="RtcPalGetEcsSetting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="RtcPalPopulateNetworkInterfaceIdForTraceLoggingEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="RtcPalResetAllEcsSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="RtcPalSetEcsSetting" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="RtcPalSetEcsSettingById" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="RtcPalTraceLoggingWrite" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="?address@InterfaceAddress@rtnet@@QBE?AV?$IntrusivePtr@VAddress@rtnet@@@auf@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="?advance@SimpleBuffer@rtnet@@QAEXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="?allocMem@LockfreePacker@auf@@SAPAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="?allocate@LockfreeStackPool@auf@@QAEPAXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="?asIPv4@Address@rtnet@@QBE_NAAVIPv4@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="?asIPv6@Address@rtnet@@QBE_NAAVIPv6@2@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="?atomicAddI@spl@@YAHPCHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="?atomicAddL@spl@@YAJPCJJ@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="?callOperatorDelete@spl@@YAXPAX@Z" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="?callOperatorNew@spl@@YAPAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="?clearDelegate@StreamSocket@rtnet@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="?compareExchangeI@spl@@YA_NPCHHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="?compareExchangeL@spl@@YA_NPCJJJ@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="?compareExchangePI@spl@@YA_NPCHHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="?compareExchangeValI@spl@@YAHPCHHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="54" NAME="?complete@SimpleBuffer@rtnet@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="55" NAME="?connectTCPHostAsync@rtnet@@YA?AV?$IntrusivePtr@VAsyncOperation@auf@@@auf@@PBDHABV?$IntrusivePtr@VThreadPoolTransport@auf@@@3@ABV?$IntrusivePtr@VIStreamSocketDelegate@rtnet@@@3@PAUAsyncTag@3@ABV?$IntrusivePtr@VStreamSocketOptions@rtnet@@@3@ABV?$IntrusivePtr@VStreamSocketConnectOptions@rtnet@@@3@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="56" NAME="?connectedCore@IStreamSocketDelegate@rtnet@@AAEXABV?$IntrusivePtr@VStreamSocket@rtnet@@@auf@@PAUAsyncTag@4@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="57" NAME="?create@PortSpecificationImpl@internal@rtnet@@SAPAV123@ABU?$pair@HH@std@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="58" NAME="?create@PortSpecificationImpl@internal@rtnet@@SAPAV123@ABV123@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="59" NAME="?create@PortSpecificationImpl@internal@rtnet@@SAPAV123@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="60" NAME="?create@PortSpecificationImpl@internal@rtnet@@SAPAV123@HH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="61" NAME="?create@SocketConnectOptionsImpl@internal@rtnet@@SAPAV123@ABV123@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="62" NAME="?create@SocketConnectOptionsImpl@internal@rtnet@@SAPAV123@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="63" NAME="?create@SocketOptionsImpl@internal@rtnet@@SAPAV123@ABV123@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="64" NAME="?create@SocketOptionsImpl@internal@rtnet@@SAPAV123@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="65" NAME="?createStrand@auf@@YA?AV?$IntrusivePtr@VThreadPoolTransport@auf@@@1@W4ThreadPoolPriority@spl@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="66" NAME="?createStrandWithTransport@auf@@YA?AV?$IntrusivePtr@VThreadPoolTransport@auf@@@1@ABV21@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="67" NAME="?createTimerWithTransport@auf@@YA?AV?$IntrusivePtr@VTimer@auf@@@1@ABV?$IntrusivePtr@VThreadPoolTransport@auf@@@1@V?$duration@_JU?$ratio@$00$0PECEA@@std@@@chrono@std@@1PAUCall@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="68" NAME="?createWithSize@SimpleBuffer@rtnet@@SA?AV?$IntrusivePtr@VSimpleBuffer@rtnet@@@auf@@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="69" NAME="?data@SimpleBuffer@rtnet@@QAEPAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="70" NAME="?dataBarrier@spl@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="71" NAME="?dec@RefCounter@auf@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="72" NAME="?decodeToUtf16@spl@@YA?AV?$basic_string@_SU?$char_traits@_S@std@@V?$allocator@_S@2@@std@@PBDI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="73" NAME="?decodeUtf8@spl@@YAIPAXIPBDII@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="74" NAME="?decryptWithTempKey@spl@@YA?AV?$vector@DU?$secure_allocator@D@internal@spl@@@std@@PBDI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="75" NAME="?dequeue@LockfreeQueue@auf@@QAEPAXPA_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="76" NAME="?destroyCert@rtnet@@YAXPAUX509Cert@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="77" NAME="?directoryCreateRecursive@spl@@YA?AW4FileError@1@ABVPath@1@H@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="78" NAME="?disconnect@StreamSocket@rtnet@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="79" NAME="?done@ThreadRef@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="80" NAME="?dtlsAccept@rtnet@@YAHPAUTlsSession@1@PAUTlsBuf@1@1PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="81" NAME="?dtlsConnect@rtnet@@YAHPAUTlsSession@1@PAUTlsBuf@1@1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="82" NAME="?dtlsCreate@rtnet@@YAPAUTlsSession@1@_NPBUX509Cert@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="83" NAME="?dtlsDestroy@rtnet@@YAXPAUTlsSession@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="84" NAME="?dtlsSrtpParametersFreeMkiBuffer@rtnet@@YAXPAUDtlsSrtpParameters@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="85" NAME="?dtorCore@SocketConnectOptions@rtnet@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="86" NAME="?dtorCore@SocketOptions@rtnet@@AAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="87" NAME="?embedIPv4@IPv6@rtnet@@QAE_NABVIPv4@2@I@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="88" NAME="?empty@LockfreeQueue@auf@@QAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="89" NAME="?encode@BASE64@spl@@SAXPADPBXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="90" NAME="?encodeUtf8@spl@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBXII@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="91" NAME="?encodeUtf8@spl@@YAIPADIPBXII@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="92" NAME="?encodedLength@BASE64@spl@@SAII@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="93" NAME="?encryptWithTempKey@spl@@YA?AV?$vector@DU?$secure_allocator@D@internal@spl@@@std@@PBXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="94" NAME="?enqueue@LockfreeQueue@auf@@QAE_NPAX@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="95" NAME="?exchangeI@spl@@YAHPCHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="96" NAME="?exchangeL@spl@@YAJPCJJ@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="97" NAME="?exchangePI@spl@@YAHPCHH@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="98" NAME="?fileClose@spl@@YAXPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="99" NAME="?fileFlush@spl@@YA_NPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="?fileOpen@spl@@YAPAXABVPath@1@W4FileSemantics@1@HAAW4FileError@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="?fileRead@spl@@YAHPAX0I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="?fileSeekNewReturned@spl@@YA_JPAX_JW4SeekType@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="?fileSize@spl@@YA_JPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="?fileTell@spl@@YA_JPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="?fileWrite@spl@@YAHPAXPBXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="?freeMem@LockfreePacker@auf@@SAXPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="?fromBytes@IPv4@rtnet@@QAE_NPBE@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="?g_CPUTopology@spl@@3UCPUTopology@1@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="?g_aufUp@auf@@3HA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="?g_configGlobalLockfreeStackPoolSizeL2@auf@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="?g_configMaxObjectWaitUs@auf@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="?g_configTraceFifoSizeL2@auf@@3IA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="?g_logObjectCountChanges@auf@@3DA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="?g_logObjectIds@auf@@3DA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="?g_logObjectIds@internal@auf@@3DA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="?g_logObjectLeaks@auf@@3DA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="?g_logObjectLeaks@internal@auf@@3DA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="?g_nextCallId@auf@@3IC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="?g_nextObjectId@auf@@3IC" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="?g_objectCheckDisabled@auf@@3DA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="?g_sysInfo@spl@@3USysinfo@1@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="?getCertHash@rtnet@@YA_NPAUX509Cert@1@W4HashAlgorithm@spl@@PAUCertHash@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="?getDtlsSrtpParameters@rtnet@@YA_NPAUTlsSession@1@PAUDtlsSrtpParameters@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="?getImp@ThreadRef@auf@@ABEPAUSplOpaqueUpperLayerThread@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="?getNat64Prefixes@rtnet@@YA_NV?$duration@_JU?$ratio@$00$0PECEA@@std@@@chrono@std@@AAV?$vector@V?$IntrusivePtr@VInterfaceAddress@rtnet@@@auf@@V?$allocator@V?$IntrusivePtr@VInterfaceAddress@rtnet@@@auf@@@std@@@4@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="?getSelfSignedCert@rtnet@@YAPAUX509Cert@1@PBUX509CertName@1@HHW4HashAlgorithm@spl@@PAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="?globalThreadPoolTransport2@auf@@YA?AV?$IntrusivePtr@VThreadPoolTransport@auf@@@1@W4ThreadPoolPriority@spl@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="?highPrecisionTimestamp@spl@@YA_KXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="?inc@RefCounter@auf@@QAEKXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="?initInternal@auf@@YA_NPAUAufInitTag@1@PBDII@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="?instantiateLogComponent@internal@auf@@YAPAVLogComponent@2@PBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="?intrusive_ptr_add_ref@auf@@YAXPBVIReferenceCountable@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="?intrusive_ptr_release@auf@@YAXPBVIReferenceCountable@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="?io@StreamSocket@rtnet@@QAE?AV?$IntrusivePtr@VISocketIO@rtnet@@@auf@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="?isGood@Event@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="136" NAME="?isGood@LockfreeQueue@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="137" NAME="?isGood@LockfreeStackPool@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="138" NAME="?isGood@MutexCore@internal@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="139" NAME="?isGood@ThreadRef@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="140" NAME="?localAddress@StreamSocket@rtnet@@QAE?AV?$IntrusivePtr@VAddress@rtnet@@@auf@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="141" NAME="?localTime@spl@@YAHABUHidingSystemTime@1@PAUtm@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="142" NAME="?localTimestamp@spl@@YA?AUHidingSystemTime@1@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="143" NAME="?lock@MutexCore@internal@auf@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="144" NAME="?lockedByCurrentThread@MutexCore@internal@auf@@QBE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="145" NAME="?lockfreeStackPoolDeallocate@auf@@YAXPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="146" NAME="?log@LogComponent@auf@@QAEXPBXIIABVLogArgs@2@@Z" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="147" NAME="?log@LogComponent@auf@@QAEXPBXIIPBDABVLogArgs@2@@Z" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="148" NAME="?logBackTraceInfo@spl@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="149" NAME="?logFlush@auf@@YAXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="150" NAME="?logvln@auf@@YAX_NPBDPAD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="151" NAME="?make@ProxyInfo@rtnet@@SA?AV?$IntrusivePtr@VProxyInfo@rtnet@@@auf@@W4ProxyProtocol@2@PBDI11@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="152" NAME="?memFree@spl@@YAXPAX@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="153" NAME="?memMalloc@spl@@YAPAXI@Z" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="154" NAME="?memcpy_s@spl@@YAHPAXIPBXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="155" NAME="?memmove_s@spl@@YAHPAXIPBXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="156" NAME="?memset_s@spl@@YAHPCXIHI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="157" NAME="?msFromHp@spl@@YAI_J@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="158" NAME="?options@StreamSocket@rtnet@@QBE?AV?$IntrusivePtr@VStreamSocketOptions@rtnet@@@auf@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="159" NAME="?pathAppendComponent@spl@@YA_NAAVPath@1@PBD1@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="160" NAME="?pathFromFilename@spl@@YA_NAAVPath@1@PBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="161" NAME="?pathInitFromLocation@spl@@YA?AW4FileError@1@AAVPath@1@ABUPathLocation@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="162" NAME="?pathStringValue@spl@@YAPBDABVPath@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="163" NAME="?peerAddress@StreamSocket@rtnet@@QAE?AV?$IntrusivePtr@VAddress@rtnet@@@auf@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="164" NAME="?port@Address@rtnet@@QBEHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="165" NAME="?post@Event@auf@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="166" NAME="?prefixLength@InterfaceAddress@rtnet@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="167" NAME="?raise@Flag@auf@@QAE_NXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="168" NAME="?randomBytes@auf@@YA_NPAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="169" NAME="?randomUInt@XorshiftRNG@auf@@QAEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="170" NAME="?release@Flag@auf@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="171" NAME="?setDone@ThreadRef@auf@@QAEX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="172" NAME="?setLogComponentDescription@internal@auf@@YAPBDPBD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="173" NAME="?setLogComponentSafe@internal@auf@@YA_NPBD_N@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="174" NAME="?setNoDelayEnabled@StreamSocketOptions@rtnet@@QAEX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="175" NAME="?setOptions@StreamSocket@rtnet@@QAE_NABV?$IntrusivePtr@VStreamSocketOptions@rtnet@@@auf@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="176" NAME="?setPortSpecification@SocketConnectOptions@rtnet@@QAEXABV?$shared_ptr@VPortSpecification@rtnet@@@std@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="177" NAME="?setProxy@SocketConnectOptions@rtnet@@QAEXW4ProxyPolicy@2@ABV?$IntrusivePtr@VProxyInfo@rtnet@@@auf@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="178" NAME="?setQualityOfServiceDSCP@SocketOptions@rtnet@@QAEXI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="179" NAME="?setTlsCertificateVerification@SocketOptions@rtnet@@QAEX_N@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="180" NAME="?size@SimpleBuffer@rtnet@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="181" NAME="?sleep@spl@@YAXI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="182" NAME="?snprintf_s@spl@@YAHPADIPBDZZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="183" NAME="?startImp@auf@@YAXPAUSplOpaqueUpperLayerThread@@PAUVarBase@spl@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="184" NAME="?startTlsAsync@StreamSocket@rtnet@@QAEXPBDPAUAsyncTag@auf@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="185" NAME="?stop@ThreadRef@auf@@QAE_NV?$duration@_JU?$ratio@$00$0PECEA@@std@@@chrono@std@@PAH@Z" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="186" NAME="?stopInternal@auf@@YAXPAUAufInitTag@1@PBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="187" NAME="?strandId@ThreadPoolTransport@auf@@QBEIXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="188" NAME="?strcat_s@spl@@YAHPADIPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="189" NAME="?strcpy_s@spl@@YAHPADIPBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="190" NAME="?strlcpy@spl@@YAIPADPBDI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="191" NAME="?strnlen_s@spl@@YAIPBDI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="192" NAME="?symbolFromAddress@priv@spl@@YA_NPBXPADI@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="193" NAME="?sysInfoCPUInfo@spl@@YAXIAAUCPUInfo@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="194" NAME="?thread@pal@msrtc@@YA?AV0std@@$$QAV?$function@$$A6AXXZ@3@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="195" NAME="threadCurrentId" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="196" NAME="threadYield" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="197" NAME="?tlsBufAlloc@rtnet@@YA_NPAUTlsBuf@1@K@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="198" NAME="?tlsBufFree@rtnet@@YAXPAUTlsBuf@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="199" NAME="?tlsBufInit@rtnet@@YAXPAUTlsBuf@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="200" NAME="?tlsGetPeerCert@rtnet@@YAPAUX509Cert@1@PAUTlsSession@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="201" NAME="?unlock@MutexCore@internal@auf@@QAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="202" NAME="?utcHpTimestamp@spl@@YA_KXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="203" NAME="?utcTimestamp@spl@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="204" NAME="?vsnprintf_s@spl@@YAHPADIPBD0@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="205" NAME="?wait@Event@auf@@QAE_NI@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="206" NAME="?wait@Event@auf@@QAE_NV?$duration@_JU?$ratio@$00$0PECEA@@std@@@chrono@std@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="207" NAME="?wait@Flag@auf@@QAE_NV?$duration@_JU?$ratio@$00$0PECEA@@std@@@chrono@std@@@Z" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="208" NAME="?weak_intrusive_ptr_add_ref@auf@@YAXPAVWeakAuxiliary@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="209" NAME="?weak_intrusive_ptr_create@auf@@YAPAVWeakAuxiliary@1@PBVIReferenceCountable@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="210" NAME="?weak_intrusive_ptr_release@auf@@YAXPAVWeakAuxiliary@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="211" NAME="?x509NameDestroy@rtnet@@YAXPAUX509CertName@1@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="212" NAME="?x509NameEncode@rtnet@@YAPAUX509CertName@1@PBD@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="213" NAME="AcquireCredentialsHandleW" PURGE="36" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="AcquireCredentialsHandleW" />
+    <EXPORT ORDINAL="214" NAME="AcquireSRWLockExclusive" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="AcquireSRWLockExclusive" />
+    <EXPORT ORDINAL="215" NAME="CreateFileA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="CreateFileA" />
+    <EXPORT ORDINAL="216" NAME="CreateFileW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="CreateFileW" />
+    <EXPORT ORDINAL="217" NAME="DecodePointer" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="DecodePointer" />
+    <EXPORT ORDINAL="218" NAME="DeleteSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="DeleteSecurityContext" />
+    <EXPORT ORDINAL="219" NAME="DisableThreadLibraryCalls" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="DisableThreadLibraryCalls" />
+    <EXPORT ORDINAL="220" NAME="EnableTrace" PURGE="24" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-LEGACY-L1-1-0.DLL" FOWARDSYMBOL="EnableTrace" />
+    <EXPORT ORDINAL="221" NAME="EncodePointer" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="EncodePointer" />
+    <EXPORT ORDINAL="222" NAME="EnumerateSecurityPackagesW" PURGE="8" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="EnumerateSecurityPackagesW" />
+    <EXPORT ORDINAL="223" NAME="EventRegister" PURGE="16" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-PROVIDER-L1-1-0.DLL" FOWARDSYMBOL="EventRegister" />
+    <EXPORT ORDINAL="224" NAME="EventUnregister" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-PROVIDER-L1-1-0.DLL" FOWARDSYMBOL="EventUnregister" />
+    <EXPORT ORDINAL="225" NAME="EventWrite" PURGE="20" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-PROVIDER-L1-1-0.DLL" FOWARDSYMBOL="EventWrite" />
+    <EXPORT ORDINAL="226" NAME="FreeAddrInfoW" PURGE="4" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="FreeAddrInfoW" />
+    <EXPORT ORDINAL="227" NAME="FreeContextBuffer" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="FreeContextBuffer" />
+    <EXPORT ORDINAL="228" NAME="FreeCredentialsHandle" PURGE="4" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="FreeCredentialsHandle" />
+    <EXPORT ORDINAL="229" NAME="GetAddrInfoW" PURGE="16" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="GetAddrInfoW" />
+    <EXPORT ORDINAL="230" NAME="GetLastError" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="GetLastError" />
+    <EXPORT ORDINAL="231" NAME="GetSystemInfo" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="GetSystemInfo" />
+    <EXPORT ORDINAL="232" NAME="GetTempPathW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="GetTempPathW" />
+    <EXPORT ORDINAL="233" NAME="GetTraceEnableFlags" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL" FOWARDSYMBOL="GetTraceEnableFlags" />
+    <EXPORT ORDINAL="234" NAME="GetTraceEnableLevel" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL" FOWARDSYMBOL="GetTraceEnableLevel" />
+    <EXPORT ORDINAL="235" NAME="GetTraceLoggerHandle" PURGE="4" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL" FOWARDSYMBOL="GetTraceLoggerHandle" />
+    <EXPORT ORDINAL="236" NAME="GetVersionExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="GetVersionExW" />
+    <EXPORT ORDINAL="237" NAME="InitializeSListHead" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="InitializeSListHead" />
+    <EXPORT ORDINAL="238" NAME="InitializeSecurityContextW" PURGE="48" COMMENT="" FOWARDLIBRARY="SSPICLI.DLL" FOWARDSYMBOL="InitializeSecurityContextW" />
+    <EXPORT ORDINAL="239" NAME="InterlockedCompareExchange" PURGE="12" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL" FOWARDSYMBOL="InterlockedCompareExchange" />
+    <EXPORT ORDINAL="240" NAME="InterlockedDecrement" PURGE="4" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL" FOWARDSYMBOL="InterlockedDecrement" />
+    <EXPORT ORDINAL="241" NAME="InterlockedExchange" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL" FOWARDSYMBOL="InterlockedExchange" />
+    <EXPORT ORDINAL="242" NAME="InterlockedExchangeAdd" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL" FOWARDSYMBOL="InterlockedExchangeAdd" />
+    <EXPORT ORDINAL="243" NAME="InterlockedIncrement" PURGE="4" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL" FOWARDSYMBOL="InterlockedIncrement" />
+    <EXPORT ORDINAL="244" NAME="InterlockedPopEntrySList" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="InterlockedPopEntrySList" />
+    <EXPORT ORDINAL="245" NAME="InterlockedPushEntrySList" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="InterlockedPushEntrySList" />
+    <EXPORT ORDINAL="246" NAME="IsDebuggerPresent" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="IsDebuggerPresent" />
+    <EXPORT ORDINAL="247" NAME="MultiByteToWideChar" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="MultiByteToWideChar" />
+    <EXPORT ORDINAL="248" NAME="OutputDebugStringA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="OutputDebugStringA" />
+    <EXPORT ORDINAL="249" NAME="OutputDebugStringW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="OutputDebugStringW" />
+    <EXPORT ORDINAL="250" NAME="QueryPerformanceCounter" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="QueryPerformanceCounter" />
+    <EXPORT ORDINAL="251" NAME="QueryPerformanceFrequency" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="QueryPerformanceFrequency" />
+    <EXPORT ORDINAL="252" NAME="RaiseException" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="RaiseException" />
+    <EXPORT ORDINAL="253" NAME="RegCloseKey" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegCloseKey" />
+    <EXPORT ORDINAL="254" NAME="RegCreateKeyExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegCreateKeyExA" />
+    <EXPORT ORDINAL="255" NAME="RegCreateKeyExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegCreateKeyExW" />
+    <EXPORT ORDINAL="256" NAME="RegDeleteKeyW" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L2-1-0.DLL" FOWARDSYMBOL="RegDeleteKeyW" />
+    <EXPORT ORDINAL="257" NAME="RegEnumKeyExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegEnumKeyExW" />
+    <EXPORT ORDINAL="258" NAME="RegOpenKeyExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegOpenKeyExA" />
+    <EXPORT ORDINAL="259" NAME="RegOpenKeyExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegOpenKeyExW" />
+    <EXPORT ORDINAL="260" NAME="RegQueryValueExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegQueryValueExA" />
+    <EXPORT ORDINAL="261" NAME="RegQueryValueExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegQueryValueExW" />
+    <EXPORT ORDINAL="262" NAME="RegSetValueExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegSetValueExA" />
+    <EXPORT ORDINAL="263" NAME="RegSetValueExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegSetValueExW" />
+    <EXPORT ORDINAL="264" NAME="RegisterTraceGuidsW" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="265" NAME="ReleaseSRWLockExclusive" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="ReleaseSRWLockExclusive" />
+    <EXPORT ORDINAL="266" NAME="RtcPalAccept" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="267" NAME="RtcPalAcquireSlimLock" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="268" NAME="RtcPalAesEncrypt" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="269" NAME="RtcPalAllocAlignedMemoryWithTag" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="270" NAME="RtcPalAllocMemoryWithTag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="271" NAME="RtcPalAllocateWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="272" NAME="RtcPalBaseCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="273" NAME="RtcPalBaseStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="274" NAME="RtcPalBind" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="275" NAME="RtcPalCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="276" NAME="RtcPalClearAssertRecords" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="277" NAME="RtcPalCloseSocket" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="278" NAME="RtcPalCloseSocketIOCP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="279" NAME="RtcPalCloseWaitableHandle" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="280" NAME="RtcPalCoWaitForAnyObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="281" NAME="RtcPalConnect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="282" NAME="RtcPalConnectToHostname" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="283" NAME="RtcPalCreateEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="284" NAME="RtcPalCreateSemaphore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="285" NAME="RtcPalCreateSocket" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="286" NAME="RtcPalCreateSocketIOCP" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="287" NAME="RtcPalCreateThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="288" NAME="RtcPalCryptCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="289" NAME="RtcPalCryptGenRandom" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="290" NAME="RtcPalCryptHMACSHA1Create" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="291" NAME="RtcPalCryptHMACSHA1CreateKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="292" NAME="RtcPalCryptHMACSHA1Destroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="293" NAME="RtcPalCryptHMACSHA1DestroyKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="294" NAME="RtcPalCryptHMACSHA1DupeContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="295" NAME="RtcPalCryptHMACSHA1Final" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="296" NAME="RtcPalCryptHMACSHA1Update" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="297" NAME="RtcPalCryptHMACSHA256Create" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="298" NAME="RtcPalCryptHMACSHA256CreateKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="299" NAME="RtcPalCryptHMACSHA256Destroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="300" NAME="RtcPalCryptHMACSHA256DestroyKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="301" NAME="RtcPalCryptHMACSHA256DupeContext" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="302" NAME="RtcPalCryptHMACSHA256Final" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="303" NAME="RtcPalCryptHMACSHA256Update" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="304" NAME="RtcPalCryptMD5Create" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="305" NAME="RtcPalCryptMD5Destroy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="306" NAME="RtcPalCryptMD5Final" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="307" NAME="RtcPalCryptMD5Update" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="308" NAME="RtcPalCryptStartup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="309" NAME="RtcPalDeinitTracing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="310" NAME="RtcPalDeleteSlimLock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="311" NAME="RtcPalDestroyAesKey" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="312" NAME="RtcPalDeviceAudioGetGlitchInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="313" NAME="RtcPalDeviceAudioGetMetrics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="314" NAME="RtcPalDeviceAudioGetProcessingFeatures" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="315" NAME="RtcPalDeviceAudioGetQueuedBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="316" NAME="RtcPalDeviceAudioGetSupportedProcessingCapacity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="317" NAME="RtcPalDeviceAudioLockBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="318" NAME="RtcPalDeviceAudioReset" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="319" NAME="RtcPalDeviceAudioSetActiveEndpoint" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="320" NAME="RtcPalDeviceAudioSetProcessingFeatures" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="321" NAME="RtcPalDeviceAudioStart" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="322" NAME="RtcPalDeviceAudioStop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="323" NAME="RtcPalDeviceAudioUnlockBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="324" NAME="RtcPalDeviceErrorCodeFromHResult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="325" NAME="RtcPalDeviceIsErrorCodeRecoverable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="326" NAME="RtcPalDevicePlatformClose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="327" NAME="RtcPalDevicePlatformCloseDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="328" NAME="RtcPalDevicePlatformCloseHIDContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="329" NAME="RtcPalDevicePlatformCompareDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="330" NAME="RtcPalDevicePlatformCreateDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="331" NAME="RtcPalDevicePlatformDeviceRegisterNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="332" NAME="RtcPalDevicePlatformDisposeDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="333" NAME="RtcPalDevicePlatformDuplicateDeviceId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="334" NAME="RtcPalDevicePlatformEnableAudio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="335" NAME="RtcPalDevicePlatformEnumDevices" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="336" NAME="RtcPalDevicePlatformGetAudioCertifiedListId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="337" NAME="RtcPalDevicePlatformGetAutoBoostControlEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="338" NAME="RtcPalDevicePlatformGetDeviceList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="339" NAME="RtcPalDevicePlatformGetHIDInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="340" NAME="RtcPalDevicePlatformGetMediaExtension" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="341" NAME="RtcPalDevicePlatformGetVolumeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="342" NAME="RtcPalDevicePlatformGetVolumeInfoByDeviceHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="343" NAME="RtcPalDevicePlatformIsSamePhysicalDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="344" NAME="RtcPalDevicePlatformOpen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="345" NAME="RtcPalDevicePlatformOpenAudioDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="346" NAME="RtcPalDevicePlatformOpenAudioLoopbackDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="347" NAME="RtcPalDevicePlatformOpenHIDContext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="348" NAME="RtcPalDevicePlatformRegisterNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="349" NAME="RtcPalDevicePlatformSetAutoBoostControlEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="350" NAME="RtcPalDevicePlatformSetHIDInformation" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="351" NAME="RtcPalDevicePlatformSetState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="352" NAME="RtcPalDevicePlatformSetVolumeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="353" NAME="RtcPalDevicePlatformUnregisterNotification" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="354" NAME="RtcPalEnableCallContextTracingControl" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="355" NAME="RtcPalEnableEtwTracing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="356" NAME="RtcPalEnableRDTSCTime" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="357" NAME="RtcPalEnableTracing" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="358" NAME="RtcPalFlushTracing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="359" NAME="RtcPalFreeIfAddrs" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="360" NAME="RtcPalFreeMemoryWithTag" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="361" NAME="RtcPalFreeWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="362" NAME="RtcPalGetADSPConfig" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="363" NAME="RtcPalGetADSPLogFolder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="364" NAME="RtcPalGetAssertRecords" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="365" NAME="RtcPalGetBestSourceAddress" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="366" NAME="RtcPalGetComputerNameW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="367" NAME="RtcPalGetDataConvSignature" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="368" NAME="RtcPalGetExitCodeThread" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="369" NAME="RtcPalGetFipsComplianceMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="370" NAME="RtcPalGetHostCName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="371" NAME="RtcPalGetIfAddrs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="372" NAME="RtcPalGetLastError" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="373" NAME="RtcPalGetLocalStateFolderW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="374" NAME="RtcPalGetMachineInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="375" NAME="RtcPalGetOSName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="376" NAME="RtcPalGetPeerName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="377" NAME="RtcPalGetPlatformProfile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="378" NAME="RtcPalGetPrivateMemoryUsageInMB" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="379" NAME="RtcPalGetSockName" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="380" NAME="RtcPalGetSocketIOCPQueuedCompletionStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="381" NAME="RtcPalGetSystemConfigurationInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="382" NAME="RtcPalGetSystemMetricsTemplate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="383" NAME="RtcPalGetTimeDouble" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="384" NAME="RtcPalGetTimeLongIn100ns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="385" NAME="RtcPalGetTimeLongIn100nsFast" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="386" NAME="RtcPalGetTracingPath" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="387" NAME="RtcPalGetUserName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="388" NAME="RtcPalGetWinSATVideoEncodeScore" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="389" NAME="RtcPalInitCollectSystemMetrics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="390" NAME="RtcPalInitThreadAttr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="391" NAME="RtcPalInitTracing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="392" NAME="RtcPalInitializeCriticalSection" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="393" NAME="RtcPalInitializeCriticalSectionAndSpinCount" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="394" NAME="RtcPalInitializeSlimLock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="395" NAME="RtcPalIsAssertTraceEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="396" NAME="RtcPalIsAutomaticProxyTraversalSupported" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="397" NAME="RtcPalIsCallContextTracingControlEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="398" NAME="RtcPalIsEtwTracingEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="399" NAME="RtcPalIsLaptop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="400" NAME="RtcPalIsTracingEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="401" NAME="RtcPalListen" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="402" NAME="RtcPalLoadLibrary" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="403" NAME="RtcPalLoadSystem32Library" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="404" NAME="RtcPalMFHasDXGI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="405" NAME="RtcPalMFHasSourceReader" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="406" NAME="RtcPalNetAddressToStringA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="407" NAME="RtcPalNetAddressToStringW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="408" NAME="RtcPalNetCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="409" NAME="RtcPalNetStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="410" NAME="RtcPalNetStringToIPAddressA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="411" NAME="RtcPalNetStringToIPAddressW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="412" NAME="RtcPalNetStringToIPv4AddressA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="413" NAME="RtcPalNetStringToIPv4AddressW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="414" NAME="RtcPalNetStringToIPv6AddressA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="415" NAME="RtcPalNetStringToIPv6AddressW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="416" NAME="RtcPalPerfCounterToNanoseconds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="417" NAME="RtcPalPerfCounterToSeconds" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="418" NAME="RtcPalPostSocketIOCPQueuedCompletionStatus" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="419" NAME="RtcPalQueryPerformanceCounter" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="420" NAME="RtcPalQueueWorkItem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="421" NAME="RtcPalRecv" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="422" NAME="RtcPalRecvFrom" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="423" NAME="RtcPalRefreshMemoryTrackerCallStack" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="424" NAME="RtcPalRegCloseKey" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegCloseKey" />
+    <EXPORT ORDINAL="425" NAME="RtcPalRegCreateKeyExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegCreateKeyExA" />
+    <EXPORT ORDINAL="426" NAME="RtcPalRegCreateKeyExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegCreateKeyExW" />
+    <EXPORT ORDINAL="427" NAME="RtcPalRegDeleteKeyW" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L2-1-0.DLL" FOWARDSYMBOL="RegDeleteKeyW" />
+    <EXPORT ORDINAL="428" NAME="RtcPalRegOpenKeyExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegOpenKeyExA" />
+    <EXPORT ORDINAL="429" NAME="RtcPalRegOpenKeyExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegOpenKeyExW" />
+    <EXPORT ORDINAL="430" NAME="RtcPalRegQueryValueExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegQueryValueExA" />
+    <EXPORT ORDINAL="431" NAME="RtcPalRegQueryValueExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegQueryValueExW" />
+    <EXPORT ORDINAL="432" NAME="RtcPalRegSetValueExA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegSetValueExA" />
+    <EXPORT ORDINAL="433" NAME="RtcPalRegSetValueExW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL" FOWARDSYMBOL="RegSetValueExW" />
+    <EXPORT ORDINAL="434" NAME="RtcPalRegisterSocket" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="435" NAME="RtcPalRegisterTraceGuids" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="436" NAME="RtcPalReleaseSemaphore" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="437" NAME="RtcPalReleaseSlimLock" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="438" NAME="RtcPalReportAssert" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="439" NAME="RtcPalResetEvent" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="440" NAME="RtcPalSecureZeroMemory" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="441" NAME="RtcPalSend" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="442" NAME="RtcPalSendTo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="443" NAME="RtcPalSetAesKey" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="444" NAME="RtcPalSetEvent" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="445" NAME="RtcPalSetLastError" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="446" NAME="RtcPalSetLogPath" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="447" NAME="RtcPalSetPlatformProfile" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="448" NAME="RtcPalSetSchedulerPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="449" NAME="RtcPalSocketEnableLowLatency" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="450" NAME="RtcPalSocketSetBroadcast" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="451" NAME="RtcPalSocketSetLinger" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="452" NAME="RtcPalSocketSetNonBlockingMode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="453" NAME="RtcPalSocketSetQoSDSCP" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="454" NAME="RtcPalSocketSetRecvBufSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="455" NAME="RtcPalSocketSetSendBufSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="456" NAME="RtcPalSocketSetTcpNoDelay" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="457" NAME="RtcPalStartCollectSystemMetrics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="458" NAME="RtcPalStartup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="459" NAME="RtcPalStopCollectSystemMetrics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="460" NAME="RtcPalTaskQueueCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="461" NAME="RtcPalTaskQueueDequeue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="462" NAME="RtcPalTaskQueueDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="463" NAME="RtcPalTaskQueueEnqueue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="464" NAME="RtcPalTraceCondIfTrue" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="465" NAME="RtcPalTraceRt" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="466" NAME="RtcPalTryAcquireSlimLock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="467" NAME="RtcPalUninitCollectSystemMetrics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="468" NAME="RtcPalWaitAndCancelPendingCallback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="469" NAME="RtcPalWaitForAllThreads" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="470" NAME="RtcPalWaitForAnyObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="471" NAME="RtcPalWaitForSingleObject" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="472" NAME="RtcPalWlanEnterMediaStreamingMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="473" NAME="RtcPalWlanLeaveMediaStreamingMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="474" NAME="SetLastError" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="SetLastError" />
+    <EXPORT ORDINAL="475" NAME="TraceMessage" PURGE="0" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL" FOWARDSYMBOL="TraceMessage" />
+    <EXPORT ORDINAL="476" NAME="UnregisterTraceGuids" PURGE="8" COMMENT="" FOWARDLIBRARY="API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL" FOWARDSYMBOL="UnregisterTraceGuids" />
+    <EXPORT ORDINAL="477" NAME="WideCharToMultiByte" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="WideCharToMultiByte" />
+    <EXPORT ORDINAL="478" NAME="__imp_?PL_TEMP_DIR@spl@@3UPathLocation@1@A" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="479" NAME="aufLogHookInstall" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="480" NAME="aufLogHookRemove" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="481" NAME="auf_internal_log" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="482" NAME="auf_internal_log_obfuscated" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="483" NAME="auf_logcomponent_isenabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="484" NAME="g_aufLogChannel" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="485" NAME="g_aufLogNumHooks" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="486" NAME="lstrcmpW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="lstrcmpW" />
+    <EXPORT ORDINAL="487" NAME="lstrcmpiW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="lstrcmpiW" />
+    <EXPORT ORDINAL="488" NAME="lstrlenA" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="lstrlenA" />
+    <EXPORT ORDINAL="489" NAME="lstrlenW" PURGE="-1" COMMENT="" FOWARDLIBRARY="API-MS-WIN-DOWNLEVEL-KERNEL32-L1-1-0.DLL" FOWARDSYMBOL="lstrlenW" />
+    <EXPORT ORDINAL="490" NAME="rtcpal_freeaddrinfo" PURGE="4" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="freeaddrinfo" />
+    <EXPORT ORDINAL="491" NAME="rtcpal_getaddrinfo" PURGE="16" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="getaddrinfo" />
+    <EXPORT ORDINAL="492" NAME="rtcpal_inet_addr" PURGE="4" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="inet_addr" />
+    <EXPORT ORDINAL="493" NAME="rtcpal_inet_ntoa" PURGE="4" COMMENT="" FOWARDLIBRARY="WS2_32.DLL" FOWARDSYMBOL="inet_ntoa" />
+    <EXPORT ORDINAL="494" NAME="rtcpal_recv" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="495" NAME="rtcpal_recvfrom" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="496" NAME="rtcpal_send" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="497" NAME="rtcpal_sendto" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="498" NAME="spl_pii_OmitS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="499" NAME="spl_pii_OmitW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="500" NAME="spl_pii_UserIdW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

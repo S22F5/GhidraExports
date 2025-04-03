@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="opc645mi.dll" PATH="/DLLArchive/etc/opc645mi.dll" DATE="Fri Jul 03 13:05:17 PDT 2020" VERSION="7.0.0.8777">
+    <EXPORT ORDINAL="20" NAME="component_getFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="component_getImplementationEnvironment" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="component_writeInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetVersionInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="component_getDescriptionFunc" PURGE="0" COMMENT="" />
+</LIBRARY>
+

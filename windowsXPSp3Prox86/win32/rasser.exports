@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasser.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rasser.dll" DATE="Fri Aug 17 13:36:30 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="PortChangeCallback" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PortClearStatistics" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PortClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PortCompressionSetInfo" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PortConnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PortDisconnect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PortEnum" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PortGetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PortGetPortState" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PortGetStatistics" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PortInit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PortOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PortReceive" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PortReceiveComplete" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PortSend" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PortSetFraming" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PortSetINetCfg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PortSetInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PortTestSignalState" PURGE="8" COMMENT="" />
+</LIBRARY>
+

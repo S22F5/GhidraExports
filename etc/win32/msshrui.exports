@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msshrui.dll" PATH="/DLLArchive/etc/MSSHRUI.DLL" DATE="Fri Jul 03 12:59:51 PDT 2020" VERSION="4.90.3000">
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ShareProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IsPathShared" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IsPrinterShared" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PrintShareProperties" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SharingDialog" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetNetResourceFromLocalPath" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetLocalPathFromNetResource" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShareShutdownNotify" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PrintingDialog" PURGE="12" COMMENT="" />
+</LIBRARY>
+

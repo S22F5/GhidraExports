@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="asmjit.dll" PATH="/DLLArchive/etc/asmjit.dll" DATE="Sat Oct 23 17:24:54 CEST 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="XEDParseAssemble" PURGE="0" COMMENT="" />
+</LIBRARY>
+

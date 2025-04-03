@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="gen_jumpex.dll" PATH="/DLLArchive/etc/gen_jumpex.dll" DATE="Fri Jul 03 12:35:46 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="winampGetGeneralPurposePlugin" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

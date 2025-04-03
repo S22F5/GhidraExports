@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dataobj.dll" PATH="/DLLArchive/etc/dataobj.dll" DATE="Fri Jul 03 12:30:24 PDT 2020" VERSION="2.6.2.0">
+    <EXPORT ORDINAL="1" NAME="?GetAPIRequest@@YAJPAPAUIK2ApiRequest@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetAccountsInfo@@YAJPAPAUIK2AccountsInfo@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetAppDB@@YAJPAPAUIK2AppDB@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?GetItemMgr@@YAJPAPAUIK2ItemMgr@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="?GetSiteMgr@@YAJPAPAUIK2SiteMgr@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="?GetUser@@YAJPAPAUIK2User@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="?TestHeaps@@YAJPAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@_STL@@@_STL@@PAPAV12@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="?TraceRefCounts@@YAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="?Unload@@YAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="?UnloadUser@@YAJXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="?UseConfigFile@@YAJV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@_STL@@@_STL@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="?UseDBMgr@@YAJPAUIK2DBAccess@@W4DATAOBJ_DB_TYPE@@@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

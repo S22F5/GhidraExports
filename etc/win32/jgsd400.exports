@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jgsd400.dll" PATH="/DLLArchive/etc/jgsd400.dll" DATE="Fri Jul 03 12:44:36 PDT 2020" VERSION="017">
+    <EXPORT ORDINAL="1" NAME="JgaDBlockQuery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JgaDecodeBlock" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JgaDecodeCreate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JgaDecodeDestroy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JgaDecodeHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JgaDecodeUnhook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JgaDecodeWorkSpaceNeeded" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JgaSpeechHeaderUnpack" PURGE="0" COMMENT="" />
+</LIBRARY>
+

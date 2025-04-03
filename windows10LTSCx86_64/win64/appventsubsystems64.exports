@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="appventsubsystems64.dll" PATH="/DLLArchive/windows10LTSCX86_64/AppVEntSubsystems64.dll" DATE="Wed Oct 06 06:53:08 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="APIExportForDetours" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RequestUnhookedFunctionList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="VirtualizeCurrentThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CurrentThreadIsVirtualized" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="VirtualizeCurrentProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IsProcessHooked" PURGE="0" COMMENT="" />
+</LIBRARY>
+

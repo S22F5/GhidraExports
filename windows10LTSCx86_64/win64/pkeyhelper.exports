@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pkeyhelper.dll" PATH="/DLLArchive/windows10LTSCX86_64/pkeyhelper.dll" DATE="Wed Oct 06 06:51:16 PDT 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="GetBootPolicySetForEdition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetCompositionEditionForVirtualEdition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetDefaultProductKeyForPfn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetEditionIdFromName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetEditionNameFromId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetProductKeyFromContentId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetVirtualEditionsForCompositionEdition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IsDefaultPKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SkuGetProductKeyForEdition" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SkuGetUpgradeProductKey" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SkuGetUpgradeProductKeyEx" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SkuGetUpgradeProductKeyFromDownlevelEdition" PURGE="0" COMMENT="" />
+</LIBRARY>
+

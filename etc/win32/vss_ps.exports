@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vss_ps.dll" PATH="/DLLArchive/etc/vss_ps.dll" DATE="Fri Jul 03 13:28:47 PDT 2020" VERSION="5.1.2600.0 (XPClient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="GetProxyDllInfo" PURGE="8" COMMENT="" />
+</LIBRARY>
+

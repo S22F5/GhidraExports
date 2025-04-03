@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="iuilp.dll" PATH="/DLLArchive/windows10LTSCX86_64/iuilp.dll" DATE="Sat Dec 07 01:09:07 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="2" NAME="GetDefaultAppsList" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetLayoutPolicyCheckerInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetLayoutPolicy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CloseLayoutPolicyCheckerInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetAllDefaultApps" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="peidbundle.dll" PATH="/DLLArchive/etc/PEiDBundle.dll" DATE="Sat Nov 17 08:27:16 PST 2007" VERSION="1.03">
+    <EXPORT ORDINAL="1" NAME="DoMyJob" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadDll" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

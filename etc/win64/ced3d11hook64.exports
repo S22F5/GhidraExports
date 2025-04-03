@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ced3d11hook64.dll" PATH="/DLLArchive/etc/ced3d11hook64.dll" DATE="Sun May 30 08:17:56 PDT 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="D3D11Hook_SwapChain_Present_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="D3D11Hook_DrawIndexed_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="D3D11Hook_Draw_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="D3D11Hook_DrawIndexedInstanced_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="D3D11Hook_DrawInstanced_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="D3D11Hook_DrawAuto_imp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="D3D11Hook_SwapChain_ResizeBuffers_imp" PURGE="0" COMMENT="" />
+</LIBRARY>
+

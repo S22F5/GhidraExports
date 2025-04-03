@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ddcantitheftapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/DdcAntiTheftApi.dll" DATE="Wed Oct 06 06:51:12 PDT 2021" VERSION="10.0.19041.746 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="AntiTheftAckProtectionEnabled" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AntiTheftCheckProtectionStatus" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="AntiTheftProtectDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="AntiTheftUnprotectDevice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="AntiTheftUnprotectDeviceFromOOBE" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scsidll.dll" PATH="/DLLArchive/etc/SCSIDLL.DLL" DATE="Fri Jul 03 13:14:42 PDT 2020" VERSION="6, 1, 0, 7">
+    <EXPORT ORDINAL="1" NAME="DoIoctl" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetInquiryString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SpinUp_Down" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TestUnitReady" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ReadCapacity" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetDeviceInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetAdapterInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetModeSense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SetModeSelect" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ReadABS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WriteABS" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetDefectData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RequestSense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetSleepTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetFixedDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SendDiagnostics" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="GetLockState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SetLockState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="GetInfoNonSense" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ForceMediaChange" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="GetMediaType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="GetDevType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IssueFormat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ReserveDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ReleaseDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IsProtectable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IsFixedDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="GetGeneralDevType" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IsIomegaDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="LockRemoveableMedia" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="isWriteProtected" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="GetDeviceParams" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="IsRemovable" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="IomegaDriverName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="ZipWatchIt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="ClearMACInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SpinDownGenericDrive" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ReadBufferedData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="WriteBufferedData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="OptimizePPA3" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="GetHalfSpeenState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SetJazSpeed" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="GenericIOCTL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="GetExtendedFreeSpace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="ExtendedReadWrite" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="GetDevTypeSpecific" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SetFloppyMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="IsInFloppyMode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="SetHeadParkTimer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="99" NAME="GetDllVersion" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="scyllahideolly2plugin.dll" PATH="/DLLArchive/etc/ScyllaHideOlly2Plugin.dll" DATE="Fri Mar 24 05:58:14 PDT 2023" VERSION="1.4.760-a727ac3">
+    <EXPORT ORDINAL="1" NAME="ODBG2_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ODBG2_Pluginmainloop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ODBG2_Pluginmenu" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ODBG2_Pluginquery" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ODBG2_Pluginreset" PURGE="0" COMMENT="" />
+</LIBRARY>
+

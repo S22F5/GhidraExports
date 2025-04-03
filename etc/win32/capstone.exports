@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="capstone.dll" PATH="/DLLArchive/etc/capstone.dll" DATE="Fri Jul 12 12:57:28 PDT 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="cs_close" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="cs_disasm" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="cs_disasm_ex" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="cs_disasm_iter" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="cs_errno" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="cs_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="cs_group_name" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="cs_insn_group" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="cs_insn_name" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="cs_malloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="cs_op_count" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="cs_op_index" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="cs_open" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="cs_option" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="cs_reg_name" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="cs_reg_read" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="cs_reg_write" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="cs_regs_access" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="cs_strerror" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="cs_support" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="cs_version" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

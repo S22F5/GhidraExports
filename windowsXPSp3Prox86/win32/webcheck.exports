@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="webcheck.dll" PATH="/DLLArchive/windowsXPSp3Prox86/webcheck.dll" DATE="Sun Apr 13 20:42:10 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="7" NAME="Ordinal_7" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="Ordinal_8" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="XMLScheduleElementToTaskTrigger" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="DllInstall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

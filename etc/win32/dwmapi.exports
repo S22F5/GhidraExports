@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dwmapi.dll" PATH="/DLLArchive/etc/dwmapi.dll" DATE="Fri Jul 03 12:32:37 PDT 2020" VERSION="6.0.5384.4 (winmain_beta2.060518-1455)">
+    <EXPORT ORDINAL="100" NAME="Ordinal_100" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="DwmEnableComposition" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="Ordinal_103" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="Ordinal_104" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="Ordinal_105" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="Ordinal_106" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="Ordinal_107" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="Ordinal_108" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="Ordinal_109" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="Ordinal_110" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="Ordinal_111" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="Ordinal_112" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="Ordinal_113" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="DwmDefWindowProc" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="Ordinal_115" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="Ordinal_116" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="Ordinal_117" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="Ordinal_118" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="119" NAME="Ordinal_119" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="120" NAME="Ordinal_120" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="121" NAME="DwmEnableBlurBehindWindow" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="122" NAME="DwmEnableMMCSS" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="123" NAME="DwmExtendFrameIntoClientArea" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="124" NAME="DwmGetColorizationColor" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="125" NAME="DwmGetCompositionTimingInfo" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="126" NAME="DwmGetWindowAttribute" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="127" NAME="DwmIsCompositionEnabled" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="128" NAME="DwmModifyPreviousDxFrameDuration" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="129" NAME="DwmQueryThumbnailSourceSize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="130" NAME="DwmRegisterThumbnail" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="131" NAME="DwmSetDxFrameDuration" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="132" NAME="DwmSetPresentParameters" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="133" NAME="DwmSetWindowAttribute" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="134" NAME="DwmUnregisterThumbnail" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="135" NAME="DwmUpdateThumbnailProperties" PURGE="8" COMMENT="" />
+</LIBRARY>
+

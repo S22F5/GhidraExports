@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winlangdb.dll" PATH="/DLLArchive/windows10LTSCX86_64/Winlangdb.dll" DATE="Wed Oct 06 06:52:28 PDT 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="Bcp47GetEnglishName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="Bcp47GetLocalizedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="Bcp47GetLocalizedScript" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="Bcp47GetNativeName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EnsureLanguageProfileExists" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="GetLanguageNames" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="GetLocaleFromLanguageAndRegion" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetRegionalFormatList" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IsoScriptGetLocalizedName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="LanguagesDatabaseGetChildLanguages" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="LanguagesDatabaseGetLeafLanguages" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="LanguagesDatabaseHasChildren" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="LanguagesDatabaseHasLocalizedContent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SetUserLanguages" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SetUserLanguagesCore" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetUserLanguagesNoSpeller" PURGE="8" COMMENT="" />
+</LIBRARY>
+

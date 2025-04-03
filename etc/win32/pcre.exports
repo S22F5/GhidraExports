@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pcre.dll" PATH="/DLLArchive/etc/pcre.dll" DATE="Thu Mar 24 06:14:20 PDT 2011" VERSION="">
+    <EXPORT ORDINAL="1" NAME="pcre_callout" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="pcre_compile" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="pcre_compile2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="pcre_config" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="pcre_copy_named_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="pcre_copy_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="pcre_dfa_exec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="pcre_exec" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="pcre_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="pcre_free_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="pcre_free_substring_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="pcre_fullinfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="pcre_get_named_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="pcre_get_stringnumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="pcre_get_stringtable_entries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="pcre_get_substring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="pcre_get_substring_list" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="pcre_info" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="pcre_maketables" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="pcre_malloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="pcre_refcount" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="pcre_stack_free" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="pcre_stack_malloc" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="pcre_study" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="pcre_version" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ps5ui.dll" PATH="/DLLArchive/windows10LTSCX86_64/PS5UI.dll" DATE="Wed Oct 06 15:51:03 CEST 2021" VERSION="10.0.19041.906 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="279" NAME="Ordinal_279" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="278" NAME="Ordinal_278" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="280" NAME="Ordinal_280" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="284" NAME="Ordinal_284" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="283" NAME="Ordinal_283" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="272" NAME="Ordinal_272" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="274" NAME="Ordinal_274" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="275" NAME="Ordinal_275" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="276" NAME="Ordinal_276" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="277" NAME="Ordinal_277" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="271" NAME="Ordinal_271" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="270" NAME="Ordinal_270" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="281" NAME="Ordinal_281" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="282" NAME="Ordinal_282" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="273" NAME="Ordinal_273" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="254" NAME="DrvSplDeviceCaps" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="255" NAME="DrvPopulateFilterServices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="256" NAME="DrvResetConfigCache" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="257" NAME="MxdcGetPDEVAdjustment" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="258" NAME="DevQueryPrintEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="259" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="260" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="261" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="262" NAME="DrvConvertDevMode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="263" NAME="DrvDeviceCapabilities" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="264" NAME="DrvDevicePropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="265" NAME="DrvDocumentEvent" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="266" NAME="DrvDocumentPropertySheets" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="267" NAME="DrvDriverEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="268" NAME="DrvPrinterEvent" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="269" NAME="DrvQueryColorProfile" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="285" NAME="DrvQueryJobAttributes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="286" NAME="DrvUpgradePrinter" PURGE="8" COMMENT="" />
+</LIBRARY>
+

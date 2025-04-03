@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="bassmix.dll" PATH="/DLLArchive/etc/bassmix.dll" DATE="Fri Jul 03 12:25:01 PDT 2020" VERSION="2.4.7">
+    <EXPORT ORDINAL="1" NAME="BASS_Mixer_ChannelFlags" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="BASS_Mixer_ChannelGetData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="BASS_Mixer_ChannelGetEnvelopePos" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="BASS_Mixer_ChannelGetLevel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="BASS_Mixer_ChannelGetMatrix" PURGE="59068" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="BASS_Mixer_ChannelGetMixer" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="BASS_Mixer_ChannelGetPosition" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="BASS_Mixer_ChannelGetPositionEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="BASS_Mixer_ChannelRemove" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="BASS_Mixer_ChannelRemoveSync" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="BASS_Mixer_ChannelSetEnvelope" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="BASS_Mixer_ChannelSetEnvelopePos" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="BASS_Mixer_ChannelSetMatrix" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="BASS_Mixer_ChannelSetPosition" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="BASS_Mixer_ChannelSetSync" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="BASS_Mixer_GetVersion" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="BASS_Mixer_StreamAddChannel" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="BASS_Mixer_StreamAddChannelEx" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="BASS_Mixer_StreamCreate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="BASS_Split_StreamCreate" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="BASS_Split_StreamGetAvailable" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="BASS_Split_StreamGetSource" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="BASS_Split_StreamGetSplits" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="BASS_Split_StreamReset" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="BASS_Split_StreamResetEx" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

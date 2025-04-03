@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="winbioext.dll" PATH="/DLLArchive/windows10LTSCX86_64/winbioext.dll" DATE="Sat Dec 07 01:09:57 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WinBioNotifyPasswordChange" PURGE="-1" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioNotifyPasswordChange" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="WinBioAcquireFocus" PURGE="0" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioAcquireFocus" />
+    <EXPORT ORDINAL="5" NAME="WinBioAsyncEnumDatabases" PURGE="-1" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioAsyncEnumDatabases" />
+    <EXPORT ORDINAL="6" NAME="WinBioAsyncMonitorFrameworkChanges" PURGE="-1" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioAsyncMonitorFrameworkChanges" />
+    <EXPORT ORDINAL="7" NAME="WinBioCaptureSample" PURGE="28" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioCaptureSample" />
+    <EXPORT ORDINAL="8" NAME="WinBioCaptureSampleWithCallback" PURGE="20" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioCaptureSampleWithCallback" />
+    <EXPORT ORDINAL="9" NAME="WinBioEnrollCaptureWithCallback" PURGE="12" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioEnrollCaptureWithCallback" />
+    <EXPORT ORDINAL="10" NAME="WinBioEnumDatabases" PURGE="12" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioEnumDatabases" />
+    <EXPORT ORDINAL="11" NAME="WinBioGetDomainLogonSetting" PURGE="8" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioGetDomainLogonSetting" />
+    <EXPORT ORDINAL="12" NAME="WinBioGetEnabledSetting" PURGE="8" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioGetEnabledSetting" />
+    <EXPORT ORDINAL="13" NAME="WinBioGetLogonSetting" PURGE="8" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioGetLogonSetting" />
+    <EXPORT ORDINAL="14" NAME="WinBioIdentifyWithCallback" PURGE="12" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioIdentifyWithCallback" />
+    <EXPORT ORDINAL="15" NAME="WinBioIsLegacy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WinBioLocateSensor" PURGE="8" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioLocateSensor" />
+    <EXPORT ORDINAL="17" NAME="WinBioLocateSensorWithCallback" PURGE="12" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioLocateSensorWithCallback" />
+    <EXPORT ORDINAL="18" NAME="WinBioLogonIdentifiedUser" PURGE="4" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioLogonIdentifiedUser" />
+    <EXPORT ORDINAL="19" NAME="WinBioOpenSession" PURGE="28" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioOpenSession" />
+    <EXPORT ORDINAL="20" NAME="WinBioRegisterEventMonitor" PURGE="16" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioRegisterEventMonitor" />
+    <EXPORT ORDINAL="21" NAME="WinBioRegisterServiceMonitor" PURGE="16" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioRegisterServiceMonitor" />
+    <EXPORT ORDINAL="22" NAME="WinBioReleaseFocus" PURGE="0" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioReleaseFocus" />
+    <EXPORT ORDINAL="23" NAME="WinBioUnregisterEventMonitor" PURGE="4" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioUnregisterEventMonitor" />
+    <EXPORT ORDINAL="24" NAME="WinBioUnregisterServiceMonitor" PURGE="4" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioUnregisterServiceMonitor" />
+    <EXPORT ORDINAL="25" NAME="WinBioVerifyWithCallback" PURGE="20" COMMENT="" FOWARDLIBRARY="WINBIO.DLL" FOWARDSYMBOL="WinBioVerifyWithCallback" />
+</LIBRARY>
+

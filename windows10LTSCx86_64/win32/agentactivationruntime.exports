@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="agentactivationruntime.dll" PATH="/DLLArchive/windows10LTSCX86_64/agentactivationruntime.dll" DATE="Wed Oct 06 06:52:17 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="?CreateAgentActivationRuntime@@YG?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="?GetAgentActivationRuntime@@YG?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?GetLoggerInstance@@YGAAVLogger@VoiceAgentServices@Microsoft@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?ReleaseAgentActivationRuntime@@YGXXZ" PURGE="0" COMMENT="" />
+</LIBRARY>
+

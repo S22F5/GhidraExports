@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pluginex.dll" PATH="/DLLArchive/etc/PluginEx.dll" DATE="Mon Apr 21 20:23:22 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetPluginName" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="StartPlugin" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

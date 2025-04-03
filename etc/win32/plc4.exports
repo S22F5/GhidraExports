@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="plc4.dll" PATH="/DLLArchive/etc/plc4.dll" DATE="Fri Jul 03 13:07:03 PDT 2020" VERSION="4.4.1">
+    <EXPORT ORDINAL="1" NAME="PL_Base64Decode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="PL_Base64Encode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PL_CreateOptState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PL_DestroyOptState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PL_FPrintError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PL_GetNextOpt" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PL_PrintError" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PL_strcasecmp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="PL_strcaserstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="PL_strcasestr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PL_strcat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="PL_strcatn" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="PL_strchr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="PL_strcmp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="PL_strcpy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="PL_strdup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="PL_strfree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="PL_strlen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="PL_strncasecmp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="PL_strncaserstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="PL_strncasestr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="PL_strncat" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="PL_strnchr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="PL_strncmp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="PL_strncpy" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="PL_strncpyz" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="PL_strndup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="PL_strnlen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="PL_strnpbrk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="PL_strnprbrk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="PL_strnrchr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="PL_strnrstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="PL_strnstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="PL_strpbrk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="PL_strprbrk" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="PL_strrchr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="PL_strrstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="PL_strstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="PL_strtok_r" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="libVersionPoint" PURGE="0" COMMENT="" />
+</LIBRARY>
+

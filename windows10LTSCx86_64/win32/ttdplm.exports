@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ttdplm.dll" PATH="/DLLArchive/windows10LTSCX86_64/ttdplm.dll" DATE="Sat Dec 07 01:09:17 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CreateModernAppToDelete" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CreateModernAppToTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="GetMaxPackageNameLength" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetPackageFromPid" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SetPermisionsForFolder" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nshwfp.dll" PATH="/DLLArchive/windows10LTSCX86_64/nshwfp.dll" DATE="Wed Oct 06 06:53:04 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="IdpConfigAddPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IdpConfigAllocateAndGetPolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IdpConfigFreePolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IdpConfigInitDefaultPolicy" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IdpConfigRemovePolicy" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="InitHelperDll" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WfpCaptureExportedW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WfpCaptureStop" PURGE="0" COMMENT="" />
+</LIBRARY>
+

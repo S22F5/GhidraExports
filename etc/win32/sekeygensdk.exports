@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sekeygensdk.dll" PATH="/DLLArchive/etc/SEKeygenSDK.dll" DATE="Fri Jul 01 23:45:28 PDT 2016" VERSION="2.3.9.0">
+    <EXPORT ORDINAL="1" NAME="SEGenerateKeyBufferA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SEGenerateKeyBufferExA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SEGenerateKeyBufferExW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SEGenerateKeyBufferW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SEGenerateKeyBufferWithDatA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SEGenerateKeyBufferWithDatW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SEGenerateKeyFileA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SEGenerateKeyFileExA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SEGenerateKeyFileExW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SEGenerateKeyFileW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SEGenerateKeyFileWithDatA" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SEGenerateKeyFileWithDatW" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SEGetMaxKeyBufferSize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

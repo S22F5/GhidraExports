@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ncaapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/NcaApi.dll" DATE="Sat Dec 07 01:51:51 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NcaEngineClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NcaEngineOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NcaExecuteAndCaptureLogs" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NcaGetConfig" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NcaGetEvidenceCollectorResult" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NcaNetworkClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="NcaNetworkOpen" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="NcaStatusEventSubscribe" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="NcaStatusEventUnsubscribe" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="NcaToggleNamePreferenceState" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="DllMain" PURGE="12" COMMENT="" />
+</LIBRARY>
+

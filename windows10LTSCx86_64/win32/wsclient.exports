@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="wsclient.dll" PATH="/DLLArchive/windows10LTSCX86_64/WSClient.dll" DATE="Sat Dec 07 01:09:15 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="WSpTLRW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AcquireDeveloperLicense" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CheckDeveloperLicense" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="GetApplicationURL" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RefreshBannedAppsList" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RemoveDeveloperLicense" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="WSCallServer" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="WSCheckForConsumable" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="WSEvaluatePackage" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="WSGetEvaluatePackageAttempted" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="WSLicenseCleanUpState" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="WSLicenseClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="WSLicenseFilterValidAppCategoryIds" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="WSLicenseGetAllUserTokens" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="WSLicenseGetAllValidAppCategoryIds" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="WSLicenseGetDevInstalledApps" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WSLicenseGetExtendedUserInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="WSLicenseGetFeatureLicenseResults" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="WSLicenseGetLicensesForProducts" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="WSLicenseGetOAuthServiceTicket" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="WSLicenseGetProductLicenseResults" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="WSLicenseInstallLicense" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="WSLicenseOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="WSLicenseRefreshLicense" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="WSLicenseRetrieveMachineID" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="WSLicenseRevokeLicenses" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="WSLicenseUninstallLicense" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="WSNotifyOOBECompletion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="WSNotifyPackageInstalled" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="WSTriggerOOBEFileValidation" PURGE="0" COMMENT="" />
+</LIBRARY>
+

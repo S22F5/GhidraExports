@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cmnclim.dll" PATH="/DLLArchive/etc/Cmnclim.dll" DATE="Fri Jul 03 12:27:08 PDT 2020" VERSION="1.2.629.1">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+</LIBRARY>
+

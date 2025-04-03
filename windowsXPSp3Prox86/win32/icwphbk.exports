@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icwphbk.dll" PATH="/DLLArchive/windowsXPSp3Prox86/icwphbk.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="6.00.2900.5512 (xpsp.080413-2105)">
+    <EXPORT ORDINAL="1" NAME="GetSupportNumbers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_PhbkGenericDlgProc@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="PhoneBookDisplaySignUpNumbers" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="PhoneBookGetCanonical" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PhoneBookLoad" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PhoneBookMergeChanges" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="PhoneBookSuggestNumbers" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="PhoneBookUnload" PURGE="4" COMMENT="" />
+</LIBRARY>
+

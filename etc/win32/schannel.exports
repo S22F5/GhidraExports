@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="schannel.dll" PATH="/DLLArchive/etc/schannel.dll" DATE="Fri Jul 03 13:14:24 PDT 2020" VERSION="5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)">
+    <EXPORT ORDINAL="1" NAME="AcceptSecurityContext" PURGE="36" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="AcceptSecurityContext" />
+    <EXPORT ORDINAL="2" NAME="AcquireCredentialsHandleA" PURGE="36" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="AcquireCredentialsHandleA" />
+    <EXPORT ORDINAL="3" NAME="AcquireCredentialsHandleW" PURGE="36" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="AcquireCredentialsHandleW" />
+    <EXPORT ORDINAL="4" NAME="ApplyControlToken" PURGE="8" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="ApplyControlToken" />
+    <EXPORT ORDINAL="5" NAME="CloseSslPerformanceData" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CollectSslPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CompleteAuthToken" PURGE="8" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="CompleteAuthToken" />
+    <EXPORT ORDINAL="8" NAME="DeleteSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="DeleteSecurityContext" />
+    <EXPORT ORDINAL="9" NAME="EnumerateSecurityPackagesA" PURGE="8" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="EnumerateSecurityPackagesA" />
+    <EXPORT ORDINAL="10" NAME="EnumerateSecurityPackagesW" PURGE="8" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="EnumerateSecurityPackagesW" />
+    <EXPORT ORDINAL="11" NAME="FreeContextBuffer" PURGE="4" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="FreeContextBuffer" />
+    <EXPORT ORDINAL="12" NAME="FreeCredentialsHandle" PURGE="4" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="FreeCredentialsHandle" />
+    <EXPORT ORDINAL="13" NAME="ImpersonateSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="ImpersonateSecurityContext" />
+    <EXPORT ORDINAL="14" NAME="InitSecurityInterfaceA" PURGE="0" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="InitSecurityInterfaceA" />
+    <EXPORT ORDINAL="15" NAME="InitSecurityInterfaceW" PURGE="0" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="InitSecurityInterfaceW" />
+    <EXPORT ORDINAL="16" NAME="InitializeSecurityContextA" PURGE="48" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="InitializeSecurityContextA" />
+    <EXPORT ORDINAL="17" NAME="InitializeSecurityContextW" PURGE="48" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="InitializeSecurityContextW" />
+    <EXPORT ORDINAL="18" NAME="MakeSignature" PURGE="16" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="MakeSignature" />
+    <EXPORT ORDINAL="19" NAME="OpenSslPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="QueryContextAttributesA" PURGE="12" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="QueryContextAttributesA" />
+    <EXPORT ORDINAL="21" NAME="QueryContextAttributesW" PURGE="12" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="QueryContextAttributesW" />
+    <EXPORT ORDINAL="22" NAME="QuerySecurityPackageInfoA" PURGE="8" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="QuerySecurityPackageInfoA" />
+    <EXPORT ORDINAL="23" NAME="QuerySecurityPackageInfoW" PURGE="8" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="QuerySecurityPackageInfoW" />
+    <EXPORT ORDINAL="24" NAME="RevertSecurityContext" PURGE="4" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="RevertSecurityContext" />
+    <EXPORT ORDINAL="25" NAME="SealMessage" PURGE="16" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="SealMessage" />
+    <EXPORT ORDINAL="26" NAME="SpLsaModeInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SpUserModeInitialize" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SslCrackCertificate" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SslEmptyCacheA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SslEmptyCacheW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SslFreeCertificate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SslGenerateKeyPair" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SslGenerateRandomBits" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SslGetMaximumKeySize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SslLoadCertificate" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="UnsealMessage" PURGE="16" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="UnsealMessage" />
+    <EXPORT ORDINAL="37" NAME="VerifySignature" PURGE="16" COMMENT="" FOWARDLIBRARY="SECUR32.DLL" FOWARDSYMBOL="VerifySignature" />
+</LIBRARY>
+

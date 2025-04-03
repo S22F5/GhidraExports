@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="ltefx13n.dll" PATH="/DLLArchive/etc/LTEFX13N.DLL" DATE="Fri Jul 03 12:48:06 PDT 2020" VERSION="13.0.0.047">
+    <EXPORT ORDINAL="1" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="100" NAME="L_EfxPaintBitmap" PURGE="64" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="L_EfxPaintTransition" PURGE="64" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="L_EfxDrawFrame" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="L_EfxGradientFillRect" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="L_EfxPatternFillRect" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="L_EfxDraw3dText" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="L_EfxDrawRotated3dText" PURGE="48" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="L_EfxDraw3dShape" PURGE="96" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="L_EfxEffectBlt" PURGE="72" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="L_PaintDCEffect" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="L_PaintRgnDCEffect" PURGE="32" COMMENT="" />
+</LIBRARY>
+

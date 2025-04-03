@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kbdnepr.dll" PATH="/DLLArchive/etc/KBDNEPR.dll" DATE="Fri Jul 03 21:45:19 CEST 2020" VERSION="6.0.6000.16386 (vista_rtm.061101-2205)">
+    <EXPORT ORDINAL="1" NAME="KbdLayerDescriptor" PURGE="0" COMMENT="" />
+</LIBRARY>
+

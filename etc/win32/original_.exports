@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="original_.dll" PATH="/DLLArchive/etc/original_.dll" DATE="Mon Apr 21 22:16:12 PDT 2008" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msdmo.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msdmo.dll" DATE="Sun Apr 13 20:42:00 PDT 2008" VERSION="6.05.2600.5512">
+    <EXPORT ORDINAL="1" NAME="DMOEnum" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DMOGetName" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DMOGetTypes" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DMOGuidToStrA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DMOGuidToStrW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DMORegister" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DMOStrToGuidA" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DMOStrToGuidW" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DMOUnregister" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="MoCopyMediaType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="MoCreateMediaType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="MoDeleteMediaType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="MoDuplicateMediaType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="MoFreeMediaType" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="MoInitMediaType" PURGE="8" COMMENT="" />
+</LIBRARY>
+

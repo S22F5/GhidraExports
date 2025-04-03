@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aamd532.dll" PATH="/DLLArchive/etc/aamd532.dll" DATE="Fri Jul 03 12:14:41 PDT 2020" VERSION="1, 0, 0, 2">
+    <EXPORT ORDINAL="1" NAME="MDFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MDString" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MDStringFix" PURGE="12" COMMENT="" />
+</LIBRARY>
+

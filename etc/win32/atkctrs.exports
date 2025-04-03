@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="atkctrs.dll" PATH="/DLLArchive/etc/atkctrs.dll" DATE="Fri Jul 03 21:23:57 CEST 2020" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="OpenAtkPerformanceData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CollectAtkPerformanceData" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseAtkPerformanceData" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mpgaout.dll" PATH="/DLLArchive/etc/mpgaout.dll" DATE="Fri Jul 03 21:52:54 CEST 2020" VERSION="official release build">
+    <EXPORT ORDINAL="1" NAME="mpegOutAudioFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="mpegOutAudioDefaults" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="mpegOutAudioNew" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="mpegOutAudioInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="mpegOutAudioPutBytes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="mpegOutAudioDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="mpegOutAudioCheckSettings" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="mpegOutAudioGetLastErrString" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="mpegOutAudioCheckFirst" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="mpegOutAudioCheckNext" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="mpegOutAudioChkSettings" PURGE="0" COMMENT="" />
+</LIBRARY>
+

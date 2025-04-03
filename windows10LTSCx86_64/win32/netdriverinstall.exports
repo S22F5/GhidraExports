@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="netdriverinstall.dll" PATH="/DLLArchive/windows10LTSCX86_64/NetDriverInstall.dll" DATE="Wed Oct 06 15:52:15 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="NetDriverInstallClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NetDriverInstallCommit" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="NetDriverInstallInitialize" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="NetDriverInstallProcessAdditions" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="NetDriverInstallProcessRemovals" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="NetDriverInstallSync" PURGE="4" COMMENT="" />
+</LIBRARY>
+

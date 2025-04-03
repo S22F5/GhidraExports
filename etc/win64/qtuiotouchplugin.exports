@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qtuiotouchplugin.dll" PATH="/DLLArchive/etc/qtuiotouchplugin.dll" DATE="Wed Nov 15 20:02:56 CET 2023" VERSION="6.5.3.0">
+    <EXPORT ORDINAL="1" NAME="qt_plugin_instance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="qt_plugin_query_metadata_v2" PURGE="0" COMMENT="" />
+</LIBRARY>
+

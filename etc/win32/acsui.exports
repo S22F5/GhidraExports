@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="acsui.dll" PATH="/DLLArchive/etc/ACSUI.dll" DATE="Fri Jul 03 12:16:00 PDT 2020" VERSION="2.0.20.1.US.1        ">
+    <EXPORT ORDINAL="10" NAME="Imp_Uninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="Imp_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="Imp_InitiateFlow" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="Imp_BringFlowToForeground" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="Imp_InterruptFlow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="Imp_DisplayForm" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="Imp_GetPropertyInt" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="Imp_GetPropertyStr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="Imp_SetPropertyInt" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="Imp_SetPropertyStr" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="Imp_Initialize2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="Imp_CreateFlow2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="Imp_DeleteFlow2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="Imp_ExecuteFlow2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="Imp_InterruptFlow2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="Imp_BringFlowToForeground2" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="Imp_GetPropertyInt2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="Imp_GetPropertyStr2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="Imp_GetPropertyBytePtr2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="Imp_SetPropertyInt2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="Imp_SetPropertyStr2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="Imp_SetPropertyBytePtr2" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="Imp_ReEstablishCore" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="Imp_GetPropertyACSStr2" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="Imp_SetPropertyACSStr2" PURGE="12" COMMENT="" />
+</LIBRARY>
+

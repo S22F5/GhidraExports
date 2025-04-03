@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="udwm.dll" PATH="/DLLArchive/windows10LTSCX86_64/uDWM.dll" DATE="Wed Oct 06 06:51:56 PDT 2021" VERSION="10.0.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="Ordinal_102" PURGE="0" COMMENT="" />
+</LIBRARY>
+

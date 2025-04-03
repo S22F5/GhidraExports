@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libavcodec.dll" PATH="/DLLArchive/etc/libavcodec.dll" DATE="Thu Jul 07 02:43:00 PDT 2005" VERSION="">
+    <EXPORT ORDINAL="1" NAME="avcodec_encode_video" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="av_log_set_callback" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="av_register_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="av_set_memory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="av_set_parameters" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="av_write_frame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="av_write_header" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="av_write_trailer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="avcodec_alloc_context" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="avcodec_alloc_frame" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="avcodec_close" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="avcodec_decode_audio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="avcodec_decode_video" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="avcodec_encode_audio" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="av_free_static" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="avcodec_find_decoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="avcodec_find_encoder" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="avcodec_flush_buffers" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="avcodec_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="avcodec_open" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="avcodec_register_all" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="avcodec_thread_free" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="avcodec_thread_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="dsputil_init" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="getVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="guess_format" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="url_fclose" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="url_fopen" PURGE="0" COMMENT="" />
+</LIBRARY>
+

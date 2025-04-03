@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="dgrpsetu.dll" PATH="/DLLArchive/windowsXPSp3Prox86/dgrpsetu.dll" DATE="Fri Aug 17 13:36:14 PDT 2001" VERSION="2.3.7">
+    <EXPORT ORDINAL="1" NAME="DigiMultiPortCoInstaller" PURGE="16" COMMENT="" />
+</LIBRARY>
+

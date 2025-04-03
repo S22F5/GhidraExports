@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zssglock.dll" PATH="/DLLArchive/etc/ZSSGLOCK.dll" DATE="Fri May 07 06:08:52 PDT 2004" VERSION="">
+    <EXPORT ORDINAL="1" NAME="ShareGuardRunNumber" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ShareGuardReasonCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ShareGuardDaysRemaining" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ShareGuardVerifyByDateAndRun" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ShareGuardCheckRuns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ShareGuardCheckDays" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ShareGuardInvalidSystem" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ShareGuardDemoExpired" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ShareGuardDemo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ShareGuardPrice" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ShareGuardTitle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ShareGuardProductName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ShareGuardEmailAddress" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ShareGuardContactName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ShareGuardURLHelp" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ShareGuardURL" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ShareGuardMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ShareGuardMaxRuns" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ShareGuardMaxDays" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ShareGuardLock" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspgimme.dll" PATH="/DLLArchive/etc/MSPGIMME.DLL" DATE="Fri Jul 03 12:59:37 PDT 2020" VERSION="1.03.2349.1">
+    <EXPORT ORDINAL="1" NAME="EPLoadMSO" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SetupGimme" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="vfcf" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

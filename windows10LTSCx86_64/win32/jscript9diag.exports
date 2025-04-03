@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jscript9diag.dll" PATH="/DLLArchive/windows10LTSCX86_64/jscript9diag.dll" DATE="Wed Oct 06 06:53:03 PDT 2021" VERSION="11.00.19041.1266 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FreeDumpStreams" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="GetDumpStreams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+</LIBRARY>
+

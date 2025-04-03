@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="imepadsm.dll" PATH="/DLLArchive/etc/imepadsm.dll" DATE="Fri Jul 03 12:41:27 PDT 2020" VERSION="8.1.3124.0">
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CreateObject2" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CreateObject" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RegClass" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UnregClass" PURGE="4" COMMENT="" />
+</LIBRARY>
+

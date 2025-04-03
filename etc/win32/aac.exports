@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aac.dll" PATH="/DLLArchive/etc/aac.dll" DATE="Fri Jul 03 12:14:30 PDT 2020" VERSION="2, 5, 1, 1">
+    <EXPORT ORDINAL="1" NAME="NERO_PLUGIN_GetPrimaryAudioObject" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="NERO_PLUGIN_ReadyToFinish" PURGE="0" COMMENT="" />
+</LIBRARY>
+

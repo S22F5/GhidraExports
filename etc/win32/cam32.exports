@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cam32.dll" PATH="/DLLArchive/etc/Cam32.dll" DATE="Fri Jul 03 21:25:58 CEST 2020" VERSION="1.0.0.1000">
+    <EXPORT ORDINAL="1" NAME="CM_Disable_DevNode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CM_Enable_DevNode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CM_Get_Child" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CM_Get_DevNode_KeyA" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CM_Get_DevNode_Key_SizeA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CM_Get_DevNode_Registry_PropertyA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CM_Get_DevNode_Status" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CM_Get_Device_IDA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CM_Get_Device_ID_SizeA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CM_Get_Parent" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CM_Get_Sibling" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CM_Locate_DevNodeA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CM_Lock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CM_Open_DevNode_Key" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CM_Query_Remove_SubTree" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="CM_Read_Registry_ValueA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="CM_Reenumerate_DevNode" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="CM_Remove_SubTree" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="CM_Unlock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="CM_Write_Registry_ValueA" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="CamFindModule" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="CamFindTask" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="CamFixBSOD" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="CamRemoveDevices" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="CamRemoveDevicesEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="CamWaitDeviceInstaller" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="DiBuildDriverIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="thk_ThunkData32" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

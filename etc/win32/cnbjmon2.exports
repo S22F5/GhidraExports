@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="cnbjmon2.dll" PATH="/DLLArchive/etc/cnbjmon2.dll" DATE="Fri Jul 03 21:27:11 CEST 2020" VERSION="5.1.2600.2079 built by: xpsp(skatari)">
+    <EXPORT ORDINAL="1" NAME="DllEntryPoint" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="InitializePrintMonitor2" PURGE="8" COMMENT="" />
+</LIBRARY>
+

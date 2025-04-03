@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zprotectsdk.dll" PATH="/DLLArchive/etc/ZProtectSDK.dll" DATE="Wed Dec 17 08:06:22 PST 2008" VERSION="1.4.4.0">
+    <EXPORT ORDINAL="1" NAME="ZP_GetUserName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ZP_GetExecutionTime" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ZP_GetTrialTimes" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ZP_GetTrialTimesLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ZP_GetTrialDate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ZP_GetTrialDateLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ZP_GetTrialDays" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="ZP_GetTrialDaysLeft" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ZP_GetHardwareIDStr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="ZP_GetHomePageStr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ZP_GetWaterMarkStr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="ZP_CRC32" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="ZP_MD5" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ZP_DES128" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ZP_LoadResources" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ZP_FreeResources" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ZP_OpenReadOnlyFileMapping" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ZP_CloseFileMapping" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ZP_GetKeyBuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ZP_GetKeyCustomInt" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="ZP_GetKeyCustomStr" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="ZP_GetExclusiveGUID" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="ZP_ScpExec" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="ZP_ScpGetGlobal" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="ZP_ScpCall" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="ZP_ScpRegFunc" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="ZP_GetRegistrationState" PURGE="4" COMMENT="" />
+</LIBRARY>
+

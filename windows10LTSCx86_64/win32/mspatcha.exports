@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="mspatcha.dll" PATH="/DLLArchive/windows10LTSCX86_64/mspatcha.dll" DATE="Sat Dec 07 01:09:26 PST 2019" VERSION="5.00 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="ApplyPatchToFileA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ApplyPatchToFileByBuffers" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ApplyPatchToFileByHandles" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ApplyPatchToFileByHandlesEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="ApplyPatchToFileExA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="ApplyPatchToFileExW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="ApplyPatchToFileW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="GetFilePatchSignatureA" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetFilePatchSignatureByBuffer" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetFilePatchSignatureByHandle" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetFilePatchSignatureW" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="NormalizeFileForPatchSignature" PURGE="40" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="TestApplyPatchToFileA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="TestApplyPatchToFileByBuffers" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="TestApplyPatchToFileByHandles" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="TestApplyPatchToFileW" PURGE="12" COMMENT="" />
+</LIBRARY>
+

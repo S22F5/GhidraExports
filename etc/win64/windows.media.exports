@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="windows.media.dll" PATH="/DLLArchive/etc/Windows.Media.dll" DATE="Sun Aug 16 07:00:02 PDT 2020" VERSION="10.0.18362.959 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="DllGetActivationFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="0" COMMENT="" />
+</LIBRARY>
+

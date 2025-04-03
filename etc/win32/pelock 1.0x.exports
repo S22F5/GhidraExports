@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pelock 1.0x.dll" PATH="/DLLArchive/etc/PELock 1.0x.dll" DATE="Sun May 28 18:45:32 PDT 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

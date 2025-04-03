@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="api-ms-win-core-errorhandling-l1-1-0.dll" PATH="/DLLArchive/etc/api-ms-win-core-errorhandling-l1-1-0.dll" DATE="Sat Nov 07 14:26:41 CET 2020" VERSION="10.0.10586.15 (th2_release.151119-1817)">
+    <EXPORT ORDINAL="1" NAME="GetErrorMode" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetErrorMode" />
+    <EXPORT ORDINAL="2" NAME="GetLastError" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="GetLastError" />
+    <EXPORT ORDINAL="3" NAME="RaiseException" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="RaiseException" />
+    <EXPORT ORDINAL="4" NAME="SetErrorMode" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetErrorMode" />
+    <EXPORT ORDINAL="5" NAME="SetLastError" PURGE="-1" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetLastError" />
+    <EXPORT ORDINAL="6" NAME="SetUnhandledExceptionFilter" PURGE="0" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="SetUnhandledExceptionFilter" />
+    <EXPORT ORDINAL="7" NAME="UnhandledExceptionFilter" PURGE="0" COMMENT="" FOWARDLIBRARY="KERNEL32.DLL" FOWARDSYMBOL="UnhandledExceptionFilter" />
+</LIBRARY>
+

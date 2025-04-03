@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="xolehlp.dll" PATH="/DLLArchive/windowsXPSp3Prox86/xolehlp.dll" DATE="Sun Apr 13 20:42:12 PDT 2008" VERSION="2001.12.4414.700">
+    <EXPORT ORDINAL="4" NAME="GetDtcLocaleResourceHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DtcGetTransactionManager" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DtcGetTransactionManagerEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="DtcGetTransactionManagerC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="DtcGetTransactionManagerExA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="DtcGetTransactionManagerExW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

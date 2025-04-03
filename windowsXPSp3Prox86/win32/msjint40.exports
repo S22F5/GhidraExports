@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msjint40.dll" PATH="/DLLArchive/windowsXPSp3Prox86/msjint40.dll" DATE="Sun Apr 13 20:42:02 PDT 2008" VERSION="4.00.9502.0">
+    <EXPORT ORDINAL="2" NAME="CchLszOfId2" PURGE="12" COMMENT="" />
+</LIBRARY>
+

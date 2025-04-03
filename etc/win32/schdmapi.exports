@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="schdmapi.dll" PATH="/DLLArchive/etc/SCHDMAPI.DLL" DATE="Fri Jul 03 13:14:25 PDT 2020" VERSION="9.1.2318.0">
+    <EXPORT ORDINAL="1" NAME="GetMacABEid" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="MAPIAllocateBuffer" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="MAPIAllocateMore" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="MAPIFreeBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="MAPIInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MAPILogon" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="MAPILogonEx" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="MAPIUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="ToggleMapping" PURGE="4" COMMENT="" />
+</LIBRARY>
+

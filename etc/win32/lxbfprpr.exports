@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lxbfprpr.dll" PATH="/DLLArchive/etc/LXBFPRPR.DLL" DATE="Fri Jul 03 21:49:02 CEST 2020" VERSION="1.0.12.0">
+    <EXPORT ORDINAL="1" NAME="??0CPropresdll@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??4CPropresdll@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="?fnPropresdll@@YAHXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="?nPropresdll@@3HA" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

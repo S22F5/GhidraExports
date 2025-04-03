@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="url.dll" PATH="/DLLArchive/windows10LTSCX86_64/url.dll" DATE="Sat Dec 07 01:10:00 PST 2019" VERSION="11.00.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="101" NAME="Ordinal_101" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="AddMIMEFileTypesPS" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="AutodialHookCallback" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="FileProtocolHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="FileProtocolHandlerA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="InetIsOffline" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="MIMEAssociationDialogA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="MIMEAssociationDialogW" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="MailToProtocolHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="MailToProtocolHandlerA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="OpenURL" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="OpenURLA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="TelnetProtocolHandler" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="TelnetProtocolHandlerA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="TranslateURLA" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="TranslateURLW" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="URLAssociationDialogA" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="URLAssociationDialogW" PURGE="24" COMMENT="" />
+</LIBRARY>
+

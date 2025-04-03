@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jli.dll" PATH="/DLLArchive/etc/jli.dll" DATE="Sun Jul 30 02:16:46 PDT 2023" VERSION="19.0.2.0">
+    <EXPORT ORDINAL="1" NAME="JLI_AddArgsFromEnvVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="JLI_CmdToArgs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="JLI_GetAppArgIndex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="JLI_GetStdArgc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="JLI_GetStdArgs" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="JLI_InitArgProcessing" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="JLI_Launch" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="JLI_List_add" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="JLI_List_new" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="JLI_ManifestIterate" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="JLI_MemAlloc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="JLI_MemFree" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="JLI_PreprocessArg" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="JLI_ReportErrorMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="JLI_ReportErrorMessageSys" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="JLI_ReportExceptionDescription" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="JLI_ReportMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="JLI_SetTraceLauncher" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="JLI_StringDup" PURGE="0" COMMENT="" />
+</LIBRARY>
+

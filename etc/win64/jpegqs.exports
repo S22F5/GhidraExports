@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpegqs.dll" PATH="/DLLArchive/etc/JpegQS.dll" DATE="Mon Jan 29 14:05:42 PST 2024" VERSION="">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="LoadJPG" PURGE="0" COMMENT="" />
+</LIBRARY>
+

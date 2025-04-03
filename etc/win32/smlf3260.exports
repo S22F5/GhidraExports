@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="smlf3260.dll" PATH="/DLLArchive/etc/smlf3260.dll" DATE="Fri Jul 03 13:16:59 PDT 2020" VERSION="6.0.7.1582">
+    <EXPORT ORDINAL="1" NAME="CanUnload" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RMACreateInstance" PURGE="4" COMMENT="" />
+</LIBRARY>
+

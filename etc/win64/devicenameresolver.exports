@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="devicenameresolver.dll" PATH="/DLLArchive/etc/DeviceNameResolver.dll" DATE="Sat Oct 23 17:24:54 CEST 2021" VERSION="">
+    <EXPORT ORDINAL="1" NAME="DevicePathFromFileHandleA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DevicePathFromFileHandleW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DevicePathToPathA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DevicePathToPathW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="PathFromFileHandleA" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="PathFromFileHandleW" PURGE="0" COMMENT="" />
+</LIBRARY>
+

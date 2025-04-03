@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="icaapi.dll" PATH="/DLLArchive/windowsXPSp3Prox86/icaapi.dll" DATE="Sun Apr 13 20:41:56 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2111)">
+    <EXPORT ORDINAL="1" NAME="IcaCdCreateThread" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IcaCdIoControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="IcaCdWaitForMultipleObjects" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="IcaCdWaitForSingleObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="IcaChannelClose" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="IcaChannelIoControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="IcaChannelOpen" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="IcaChannelTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="IcaClose" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="IcaIoControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="IcaMemoryAllocate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IcaMemoryFree" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="IcaOpen" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="IcaPushConsoleStack" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="IcaStackCallback" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="IcaStackClose" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="IcaStackConnectionAccept" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="IcaStackConnectionClose" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="IcaStackConnectionRequest" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="IcaStackConnectionWait" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="IcaStackCreateShadowEndpoint" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="IcaStackDisconnect" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="IcaStackIoControl" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="IcaStackOpen" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="IcaStackQueryState" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="IcaStackReconnect" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="IcaStackTerminate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="IcaStackTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="IcaStackUnlock" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="IcaSystemTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="IcaTrace" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="_IcaStackIoControl" PURGE="28" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="camihlp.dll" PATH="/DLLArchive/etc/CamIHlp.dll" DATE="Fri Jul 03 12:25:59 PDT 2020" VERSION="1.0.0.1000">
+    <EXPORT ORDINAL="1" NAME="CamIHLPBuildDriverIndex" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CamIHLPEnableDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CamIHLPFindDevice" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CamIHLPFindUSBHostController" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CamIHLPFixBSOD" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="CamIHLPGetDeviceProblem" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="CamIHLPGetNodeInformation" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CamIHLPHasTroubledChildren" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CamIHLPReenumerateDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="CamIHLPRemoveDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="CamIHLPRemoveDevicesReg" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CamIHLPRemoveDevicesRegEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="CamIHLPWaitDevice" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CamIHLPWaitDeviceInstaller" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="CamIHLPWaitMMDevice" PURGE="12" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="+bp-olly.dll" PATH="/DLLArchive/etc/+BP-OLLY.dll" DATE="Sun Jan 22 23:39:04 CET 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_ODBG_Pluginaction" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_ODBG_Plugindata" PURGE="19842" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_ODBG_Plugindestroy" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_ODBG_Plugininit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_ODBG_Pluginmenu" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

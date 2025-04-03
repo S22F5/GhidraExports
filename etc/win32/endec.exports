@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="endec.dll" PATH="/DLLArchive/etc/Endec.dll" DATE="Fri Jul 03 12:33:07 PDT 2020" VERSION="1, 0, 0, 1">
+    <EXPORT ORDINAL="1" NAME="?Endec@@YAXPAD00H@Z" PURGE="0" COMMENT="" />
+</LIBRARY>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="eappprxy.dll" PATH="/DLLArchive/windows10LTSCX86_64/eappprxy.dll" DATE="Wed Oct 06 15:52:18 CEST 2021" VERSION="10.0.19041.546 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="EapHostPeerBeginSession" PURGE="68" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="EapHostPeerClearConnection" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="EapHostPeerEndSession" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="EapHostPeerFreeEapError" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="EapHostPeerFreeRuntimeMemory" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="EapHostPeerGetAuthStatus" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EapHostPeerGetDataToUnplumbCredentials" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EapHostPeerGetEncryptedPassword" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="EapHostPeerGetIdentity" PURGE="68" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="EapHostPeerGetResponseAttributes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="EapHostPeerGetResult" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="EapHostPeerGetSendPacket" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="EapHostPeerGetUIContext" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="EapHostPeerInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="EapHostPeerProcessReceivedPacket" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="EapHostPeerSetResponseAttributes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="EapHostPeerSetUIContext" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="EapHostPeerUninitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

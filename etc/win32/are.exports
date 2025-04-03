@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="are.dll" PATH="/DLLArchive/etc/ARE.dll" DATE="Fri Jul 03 12:19:01 PDT 2020" VERSION="1.1.02">
+    <EXPORT ORDINAL="2" NAME="ARE_GetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ARE_Initialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ARE_Terminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

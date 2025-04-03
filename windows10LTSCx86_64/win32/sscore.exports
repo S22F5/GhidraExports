@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sscore.dll" PATH="/DLLArchive/windows10LTSCX86_64/sscore.dll" DATE="Wed Oct 06 06:52:34 PDT 2021" VERSION="10.0.19041.1151 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="SsCoreAliasAdd" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="SsCoreAliasAddEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SsCoreAliasDel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="SsCoreAliasDelEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="SsCoreCertificatesUpdate" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="SsCoreCloseInstance" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="SsCoreCompleteCsvVolumeDrain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="SsCoreDeregisterNetnameForMultichannel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="SsCoreFileDel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="SsCoreFileDelForInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="SsCoreFileEnum" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="SsCoreFileEnumForInstance" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="SsCoreFileNotifyClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="SsCoreFileNotifyCloseForInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="SsCoreFreeBuffer" PURGE="2147483647" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SsCoreInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="SsCoreInitializeEx" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="SsCoreInvalidationRequest" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="SsCoreLockVolumes" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="SsCoreMarkAsClusterSvc" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="SsCoreNodeResetInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="SsCoreNodeSetInfo" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="SsCoreOpenInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="SsCoreRefreshSrvCredentialHandle" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="SsCoreRegisterNetnameForMultichannel" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="SsCoreServerTransportSetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="SsCoreSessionDel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="SsCoreSessionDelForInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="SsCoreSessionEnlist" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="SsCoreSessionEnum" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="SsCoreSessionEnumForInstance" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="SsCoreSetMaxClusterDialect" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="SsCoreShareAdd" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="SsCoreShareAddEx" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="SsCoreShareAddForInstance" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="SsCoreShareCleanup" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SsCoreShareDel" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="SsCoreShareDelForInstance" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="SsCoreShareGetInfo" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="SsCoreShareGetInfoForInstance" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="SsCoreShareSetInfo" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="SsCoreShareSetInfoForInstance" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="SsCoreShareShutdownForScope" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="SsCoreStartCsvVolumeDrain" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="SsCoreStartInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="SsCoreStopInstance" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="SsCoreUninitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="SsCoreUnlockVolumes" PURGE="8" COMMENT="" />
+</LIBRARY>
+

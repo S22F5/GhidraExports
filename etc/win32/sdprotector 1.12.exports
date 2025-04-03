@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="sdprotector 1.12.dll" PATH="/DLLArchive/etc/SDProtector 1.12.dll" DATE="Fri Aug 11 01:09:08 CEST 2006" VERSION="">
+    <EXPORT ORDINAL="1" NAME="Trace" PURGE="20" COMMENT="" />
+</LIBRARY>
+

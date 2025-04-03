@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="pautoenr.dll" PATH="/DLLArchive/windowsXPSp3Prox86/pautoenr.dll" DATE="Sun Apr 13 20:42:04 PDT 2008" VERSION="5.1.2600.5512 (xpsp.080413-2113)">
+    <EXPORT ORDINAL="1" NAME="CertAutoEnrollment" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CertAutoRemove" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="ProvAutoEnrollment" PURGE="8" COMMENT="" />
+</LIBRARY>
+

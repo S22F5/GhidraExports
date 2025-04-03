@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="libmp4v2.dll" PATH="/DLLArchive/etc/libmp4v2.dll" DATE="Fri Jul 03 12:47:03 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="getMP4Lib" PURGE="0" COMMENT="" />
+</LIBRARY>
+

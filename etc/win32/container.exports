@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="container.dll" PATH="/DLLArchive/etc/Container.dll" DATE="Fri Jul 03 12:27:38 PDT 2020" VERSION="14.0.0.653">
+    <EXPORT ORDINAL="1" NAME="??0Container@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="??0ICmnUI_Broadcaster@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="??0ICmnUI_Delegable@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="??0ICmnUI_Delegable@@QAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="??0ICmnUI_Reflectable@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="??0WReflectableIterator@@QAE@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="??1ICmnUI_Delegable@@UAE@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="??1WReflectableIterator@@QAE@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="??4Container@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="??4ICmnUI_Broadcaster@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="??4ICmnUI_Delegable@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="??4ICmnUI_Reflectable@@QAEAAV0@ABV0@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="?CreateContainer@ContainerActions@@YAPAVWNodeHandle@@PAUIDrawDocComponent@@PAV2@_NPBUtagPOINT@@PBUNODETYPE@@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="?GetApp@ContainerComp@@YAAAUIDrawAppComponent@@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="?GetAppPrefs@ContainerComp@@YAAAVWPrefsApp@@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="?GetComponentManager@ContainerComp@@YAAAUIDrawComponentManager@@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="?GetContainerObjectName@ContainerActions@@YA_NPAVWNodeHandle@@AAV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="?GetCoreComponentManager@ContainerComp@@YAAAUIDrawCoreComponentManager@@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="?GetCoreGUID@ContainerActions@@YA?AU_GUID@@XZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="?GetModifierKeyManager@ContainerComp@@YAAAVICmnUI_ModifierKeyMgr@@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="?GetNotifyDelegate@ICmnUI_Reflectable@@QAEAAVWNotifyDelegate@@ABV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="?GetPluginProperty@Container@@QAE_NPAVWNodeHandle@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="?GetStatusManager@ContainerComp@@YAAAUIVGStatusManager@@XZ" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="?InitializeContainer@ContainerActions@@YAXPAUIDrawDocComponent@@PAVWNodeHandle@@PBUtagPOINT@@PBUNODETYPE@@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="?InitializeContainer@ContainerActions@@YAXPAUIDrawDocComponent@@PAVWNodeHandle@@UtagRECT@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="?PostConstruct@ICmnUI_Reflectable@@MAEXXZ" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="?SetContainerObjectName@ContainerActions@@YA_NPAVWNodeHandle@@ABV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="?SetContainerPath@ContainerActions@@YAXPAUIDrawDocComponent@@PAVWNodeHandle@@PBUtagPOINT@@PBUNODETYPE@@I@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="?SetContainerRect@ContainerActions@@YAXPAUIDrawDocComponent@@PAVWNodeHandle@@UtagRECT@@@Z" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="?SetPluginProperty@Container@@QBE_NPAVWNodeHandle@@@Z" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="CreateDrawCoreComponent" PURGE="0" COMMENT="" />
+</LIBRARY>
+

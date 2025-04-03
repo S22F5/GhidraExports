@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="u2fpdf.dll" PATH="/DLLArchive/etc/u2fpdf.dll" DATE="Fri Jul 03 13:23:58 PDT 2020" VERSION="8, 0, 100, 13">
+    <EXPORT ORDINAL="1" NAME="InitPerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="IsThreadSafe" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="UXFGetContentType" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UXFProcessMemPage" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="UninitPerThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="UXFDecodeFormatOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="UXFEncodeFormatOptions" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="UXFEndJob" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="UXFFreeFormatOptions" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="UXFGetErrorText" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="UXFGetExportFormats" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="UXFGetNPageRanges" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="UXFGetNthPageRange" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="UXFGetPageN" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="UXFGetVersion" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="UXFInitExportFormat" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="UXFInitialize" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="UXFPageNeeded" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UXFProcessPage" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="UXFProcessRecord" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="UXFStartJob" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="UXFTermExportFormat" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="UXFTerminate" PURGE="0" COMMENT="" />
+</LIBRARY>
+

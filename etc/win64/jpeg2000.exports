@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="jpeg2000.dll" PATH="/DLLArchive/etc/JPEG2000.dll" DATE="Thu Nov 30 10:18:56 PST 2023" VERSION="4.63.0.0">
+    <EXPORT ORDINAL="1" NAME="GetPlugInInfo" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="ReadJPG2000_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="SaveJPG2000_W" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ShowPlugInSaveOptions_W" PURGE="0" COMMENT="" />
+</LIBRARY>
+

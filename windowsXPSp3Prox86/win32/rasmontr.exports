@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="rasmontr.dll" PATH="/DLLArchive/windowsXPSp3Prox86/rasmontr.dll" DATE="Fri Aug 17 13:36:30 PDT 2001" VERSION="5.1.2600.0 (xpclient.010817-1148)">
+    <EXPORT ORDINAL="1" NAME="InitHelperDll" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="RutlAlloc" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="RutlAssignmentFromTokenAndDword" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="RutlAssignmentFromTokens" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="RutlCloseDumpFile" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RutlCreateDumpFile" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="RutlDwordDup" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="RutlFree" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="RutlGetOsVersion" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="RutlGetTagToken" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="RutlIsHelpToken" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="RutlParse" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="RutlStrDup" PURGE="4" COMMENT="" />
+</LIBRARY>
+

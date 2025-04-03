@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="secureusbvideo.dll" PATH="/DLLArchive/windows10LTSCX86_64/SecureUSBVideo.dll" DATE="Wed Oct 06 15:51:02 CEST 2021" VERSION="10.0.19041.1202 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="FxDriverEntryUm" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="__ImagePolicyMetadata" PURGE="-1" COMMENT="" />
+</LIBRARY>
+

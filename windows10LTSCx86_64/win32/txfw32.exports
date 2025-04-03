@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="txfw32.dll" PATH="/DLLArchive/windows10LTSCX86_64/txfw32.dll" DATE="Sat Dec 07 01:09:22 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="TxfGetThreadMiniVersionForCreate" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="TxfLogCreateFileReadContext" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="TxfLogCreateRangeReadContext" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="TxfLogDestroyReadContext" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="TxfLogReadRecords" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="TxfLogRecordGetFileName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="TxfLogRecordGetGenericType" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="TxfReadMetadataInfo" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="TxfSetThreadMiniVersionForCreate" PURGE="4" COMMENT="" />
+</LIBRARY>
+

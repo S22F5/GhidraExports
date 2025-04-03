@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vgx.dll" PATH="/DLLArchive/etc/vgx.dll" DATE="Fri Jul 03 13:27:43 PDT 2020" VERSION="6.00.2900.2180">
+    <EXPORT ORDINAL="1" NAME="$DllMain$_gdiplus" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="MsoAssertSzProcVar" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_MsoFFeature@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_MsoFInitOffice@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_MsoFSetFeature@12" PURGE="12" COMMENT="" />
+</LIBRARY>
+

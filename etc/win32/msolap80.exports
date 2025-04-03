@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="msolap80.dll" PATH="/DLLArchive/etc/MSOLAP80.DLL" DATE="Fri Jul 03 12:59:21 PDT 2020" VERSION="8.00.760">
+    <EXPORT ORDINAL="12" NAME="DllMain" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="PrivateConnectionDialogOpen" PURGE="72" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="PrivateConnectionDialogClose" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="PrivateConnectionDialogGetDBArray" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="PrivateConnectionDialogSetDB" PURGE="24" COMMENT="" />
+</LIBRARY>
+

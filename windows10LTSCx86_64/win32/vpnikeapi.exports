@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="vpnikeapi.dll" PATH="/DLLArchive/windows10LTSCX86_64/vpnikeapi.dll" DATE="Sat Dec 07 01:09:32 PST 2019" VERSION="10.0.19041.1 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CancelProcessEapAuthPacket" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CloseTunnel" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CreateTunnel" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="FreeConfigurationPayloadBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="FreeEapAuthAttributes" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="FreeEapAuthPacket" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FreeIDPayloadBuffer" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="FreeTrafficSelectors" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetConfigurationPayloadRequest" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="GetIDPayload" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="GetOptionalIDrPayload" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="GetServerEapAuthRequestPacket" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="GetTrafficSelectorsRequest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="NewRasIncomingCall" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ProcessAdditionalAddressNotification" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="ProcessConfigurationPayloadReply" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="ProcessConfigurationPayloadRequest" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="ProcessEapAuthPacket" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="ProcessTrafficSelectorsReply" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="ProcessTrafficSelectorsRequest" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="QueryEapAuthAttributes" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RemoveTrafficSelectors" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="TunnelAuthDone" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="UpdateTunnel" PURGE="12" COMMENT="" />
+</LIBRARY>
+

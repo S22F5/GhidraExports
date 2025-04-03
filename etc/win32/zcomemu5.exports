@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zcomemu5.dll" PATH="/DLLArchive/etc/zcomemu5.dll" DATE="Fri Jul 03 12:12:30 PDT 2020" VERSION="5.0.3200.2">
+    <EXPORT ORDINAL="100" NAME="tcInit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="101" NAME="tcDone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="102" NAME="tcAttachThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="103" NAME="tcDetachThread" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="104" NAME="tcAsyncCall" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="105" NAME="tcSyncCall" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="106" NAME="tcCallAvaiable" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="107" NAME="tcProcessCalls" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="108" NAME="tcBreakPC" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="109" NAME="tcWaitForObjectAndProcessCalls" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="110" NAME="tcWaitForObjectAndProcessCallsTimeOut" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="111" NAME="ZceCreateInstance" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="112" NAME="ZceDllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="113" NAME="ZceFreeUnusedLibraries" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="114" NAME="ZceGetClassFactory" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="115" NAME="ZceGetInterface" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="116" NAME="ZceInitialize" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="117" NAME="ZceLockThisServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="118" NAME="ZceUninitialize" PURGE="0" COMMENT="" />
+</LIBRARY>
+

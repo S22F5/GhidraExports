@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="axbridge.dll" PATH="/DLLArchive/etc/axbridge.dll" DATE="Fri Jul 03 12:24:51 PDT 2020" VERSION="1, 4, 2, 40">
+    <EXPORT ORDINAL="1" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_Java_sun_plugin_com_DispatchImpl_getWindowHandle@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_Java_sun_plugin_com_event_COMEventHandler_nativeNotifyEvent@20" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_Java_sun_plugin_com_event_COMEventHandler_nativeNotifyProperty@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_Java_sun_plugin_com_event_COMEventHandler_nativeNotifyVetoable@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="_Java_sun_plugin_net_cookie_IExplorerCookieHandler_getCookieInfo@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="_Java_sun_plugin_net_cookie_IExplorerCookieHandler_setCookieInfo@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="_Java_sun_plugin_services_WPlatformService_dispatchNativeEvent@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="_Java_sun_plugin_services_WPlatformService_signalEvent@12" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="_Java_sun_plugin_services_WPlatformService_waitEvent@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="_Java_sun_plugin_viewer_AxBridgeObject_notifyStatusChange@16" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="_Java_sun_plugin_viewer_frame_IExplorerEmbeddedFrame_enableModeless@16" PURGE="16" COMMENT="" />
+</LIBRARY>
+

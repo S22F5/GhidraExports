@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="lualib.dll" PATH="/DLLArchive/etc/LuaLib.dll" DATE="Fri Jul 03 21:48:24 CEST 2020" VERSION="4.0.01 (update)">
+    <EXPORT ORDINAL="1" NAME="lua_dblibopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="lua_iolibopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="lua_mathlibopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="lua_strlibopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="lua_baselibopen" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="luaL_addlstring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="luaL_addstring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="luaL_addvalue" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="luaL_argerror" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="luaL_buffinit" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="luaL_check_lstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="luaL_check_number" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="luaL_checkany" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="luaL_checkstack" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="luaL_checktype" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="luaL_findstring" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="luaL_openlib" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="luaL_opt_lstr" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="luaL_opt_number" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="luaL_prepbuffer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="luaL_pushresult" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="luaL_verror" PURGE="0" COMMENT="" />
+</LIBRARY>
+

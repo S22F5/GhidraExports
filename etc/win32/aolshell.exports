@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="aolshell.dll" PATH="/DLLArchive/etc/AOLShell.dll" DATE="Fri Jul 03 12:18:37 PDT 2020" VERSION="3.0.11.26">
+    <EXPORT ORDINAL="1" NAME="DllGetClassObject" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="DllCanUnloadNow" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HlinkCreateFromMoniker" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="HlinkCreateFromString" PURGE="32" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="HlinkCreateFromData" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="HlinkCreateBrowseContext" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="HlinkClone" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="HlinkNavigateToStringReference" PURGE="36" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="HlinkOnNavigate" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HlinkNavigate" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="HlinkUpdateStackItem" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="HlinkOnRenameDocument" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="DllRegisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="HlinkResolveMonikerForData" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="HlinkResolveStringForData" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="OleSaveToStreamEx" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="DllUnregisterServer" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="HlinkParseDisplayName" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="HlinkQueryCreateFromData" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="HlinkSetSpecialReference" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="HlinkGetSpecialReference" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="HlinkCreateShortcut" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="HlinkResolveShortcut" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="25" NAME="HlinkIsShortcut" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="26" NAME="HlinkResolveShortcutToString" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="HlinkCreateShortcutFromString" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="HlinkGetValueFromParams" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="HlinkCreateShortcutFromMoniker" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="HlinkResolveShortcutToMoniker" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="HlinkTranslateURL" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="HlinkCreateExtensionServices" PURGE="28" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="HlinkPreprocessMoniker" PURGE="12" COMMENT="" />
+</LIBRARY>
+

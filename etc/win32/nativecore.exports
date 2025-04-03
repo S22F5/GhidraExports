@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="nativecore.dll" PATH="/DLLArchive/etc/NativeCore.dll" DATE="Mon Apr 15 13:15:17 PDT 2019" VERSION="">
+    <EXPORT ORDINAL="1" NAME="AttachDebuggerToProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="AwaitDebugEvent" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CloseRemoteProcess" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="ControlRemoteProcess" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="DetachDebuggerFromProcess" PURGE="-1" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="DisassembleCode" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="EnumerateProcesses" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="EnumerateRemoteSectionsAndModules" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="GetPressedKeys" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="HandleDebugEvent" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="InitializeInput" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="IsProcessValid" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="OpenRemoteProcess" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="ReadRemoteMemory" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="ReleaseInput" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="16" NAME="SetHardwareBreakpoint" PURGE="24" COMMENT="" />
+    <EXPORT ORDINAL="17" NAME="WriteRemoteMemory" PURGE="20" COMMENT="" />
+</LIBRARY>
+

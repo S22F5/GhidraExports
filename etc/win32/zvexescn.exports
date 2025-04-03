@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="zvexescn.dll" PATH="/DLLArchive/etc/zvexescn.dll" DATE="Fri Jul 03 12:14:12 PDT 2020" VERSION="9.6">
+    <EXPORT ORDINAL="2" NAME="HookCode" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="HookAPI" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="UnhookCode" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CreateProcessExA" PURGE="44" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="AllocMemEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="FreeMemEx" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="CopyFunction" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="CreateRemoteThreadEx" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InjectLibraryA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="ProcessHandleToId" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="12" NAME="CollectHooks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="13" NAME="FlushHooks" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="14" NAME="CreateProcessExW" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="15" NAME="InjectLibraryW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="18" NAME="UninjectLibraryA" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="19" NAME="UninjectLibraryW" PURGE="12" COMMENT="" />
+    <EXPORT ORDINAL="20" NAME="AmUsingInputDesktop" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="21" NAME="AmSystemProcess" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="22" NAME="RemoteExecute" PURGE="20" COMMENT="" />
+    <EXPORT ORDINAL="23" NAME="RenewHook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="24" NAME="GetCallingModule" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="27" NAME="CreateGlobalMutex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="28" NAME="OpenGlobalMutex" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="29" NAME="CreateGlobalFileMapping" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="30" NAME="OpenGlobalFileMapping" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="31" NAME="AnsiToWide" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="32" NAME="WideToAnsi" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="33" NAME="UnhookAPI" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="34" NAME="CreateGlobalEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="35" NAME="OpenGlobalEvent" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="36" NAME="CreateIpcQueue" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="37" NAME="SendIpcMessage" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="38" NAME="DestroyIpcQueue" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="39" NAME="ProcessIdToFileName" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="40" NAME="GetCurrentSessionId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="41" NAME="GetInputSessionId" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="42" NAME="InjectLibrarySessionA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="43" NAME="InjectLibrarySessionW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="44" NAME="UninjectLibrarySessionA" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="45" NAME="UninjectLibrarySessionW" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="46" NAME="AddAccessForEveryone" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="47" NAME="CreateIpcQueueEx" PURGE="16" COMMENT="" />
+    <EXPORT ORDINAL="48" NAME="IsHookInUse" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="49" NAME="AutoUnhook" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="50" NAME="InstallMadCHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="51" NAME="UninstallMadCHook" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="52" NAME="StaticLibHelper_Init" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="53" NAME="StaticLibHelper_Final" PURGE="4" COMMENT="" />
+</LIBRARY>
+

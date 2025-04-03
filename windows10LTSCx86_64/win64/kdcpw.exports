@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="kdcpw.dll" PATH="/DLLArchive/windows10LTSCX86_64/kdcpw.dll" DATE="Wed Oct 06 06:51:12 PDT 2021" VERSION="10.0.19041.1288 (WinBuild.160101.0800)">
+    <EXPORT ORDINAL="1" NAME="CredentialUpdateFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="CredentialUpdateNotify2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="CredentialUpdateNotify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="CredentialUpdateRegister2" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="CredentialUpdateRegister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="RegisterMappedEntrypoints" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="StrongNtowfFree" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="StrongNtowfNotify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="9" NAME="StrongNtowfRegister" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="10" NAME="InitializeChangeNotify" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="11" NAME="PasswordChangeNotify" PURGE="0" COMMENT="" />
+</LIBRARY>
+

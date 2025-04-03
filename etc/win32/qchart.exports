@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY NAME="qchart.dll" PATH="/DLLArchive/etc/qchart.dll" DATE="Fri Jul 03 13:08:56 PDT 2020" VERSION="">
+    <EXPORT ORDINAL="1" NAME="_closeGraphDLL@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="2" NAME="_deleteGRAPHREC@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="3" NAME="_getCurrentGRAPHREC@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="4" NAME="_getQCHARTVersion@0" PURGE="0" COMMENT="" />
+    <EXPORT ORDINAL="5" NAME="_newGRAPHREC@8" PURGE="8" COMMENT="" />
+    <EXPORT ORDINAL="6" NAME="_openGraphDLL@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="7" NAME="_qcInstallChartDrawLayer@4" PURGE="4" COMMENT="" />
+    <EXPORT ORDINAL="8" NAME="_qcSetGraphDefaultFont@4" PURGE="4" COMMENT="" />
+</LIBRARY>
+
